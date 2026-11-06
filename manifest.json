@@ -1,0 +1,10 @@
+{
+  "name": "Commute Companion 3.0",
+  "short_name": "Commute 3.0",
+  "description": "Personalizovani audio kopilot za vožnju, algoritamski agregat vesti i ulični radar",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "orientation": "portrait-primary"
+}
