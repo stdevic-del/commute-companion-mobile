@@ -1,0 +1,42 @@
+name: Osvezi servisne izvore (EDS, BVK, GSP)
+
+on:
+  schedule:
+    # Pre jutarnjeg spica (05:15 UTC = 06:15/07:15 BG), u podne, pred popodnevni spic i uvece
+    - cron: '15 5,11,15,21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  osvezi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Preuzmi repozitorijum
+        uses: actions/checkout@v4
+
+      - name: Postavi Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Osvezi EDS, BVK i GSP podatke
+        run: |
+          if [ -d "public" ]; then
+            python3 scrapers/osvezi_servise.py public/data/servisi.json
+          else
+            python3 scrapers/osvezi_servise.py data/servisi.json
+          fi
+
+      - name: Sacuvaj izmenu ako ima novih podataka
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nema promena u servisnim izvorima."
+          else
+            git commit -m "chore(servisi): automatsko osvezavanje EDS, BVK i GSP izvora"
+            git push
+          fi
