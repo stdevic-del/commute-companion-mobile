@@ -377,7 +377,44 @@ def citaj_bvk_planirane():
     return out
 
 
-# ==================================================== 7. GSP IZMENE
+# ==================================================== 7. GSP IZMENE I RADOVI NA KOLOVOZU
+
+BVK_RSS = "https://www.bvk.rs/feed/"
+
+# Poznata opstina za glavne saobracajnice (kada izvor ne navede opstinu u tabeli)
+ULICA_OPSTINA = {
+    "karadjordjeva": "Savski Venac",
+    "savska": "Savski Venac",
+    "zemunski put": "Novi Beograd",
+    "jurija gagarina": "Novi Beograd",
+    "djordja stanojevica": "Novi Beograd",
+    "vojvodjanska": "Novi Beograd",
+    "surcinska": "Novi Beograd",
+    "teodora hercla": "Zemun",
+    "geteova": "Zemun",
+    "banatska": "Zemun",
+    "slanacki put": "Palilula",
+    "milana rakica": "Zvezdara",
+    "pozeska": "Cukarica",
+    "marsala birjuzova": "Stari Grad",
+    "stjepana filipovica": "Savski Venac",
+    "kneza milosa": "Savski Venac",
+    "bulevar kralja aleksandra": "Zvezdara",
+    "bulevar mihajla pupina": "Novi Beograd",
+    "bulevar zorana djindjica": "Novi Beograd",
+    "ustanicka": "Vozdovac",
+    "mirijevski bulevar": "Palilula",
+    "zrenjaninski put": "Palilula",
+}
+
+
+def opstina_za_ulicu(ulica):
+    k = kljuc(ulica)
+    for ku, op in ULICA_OPSTINA.items():
+        if ku == k or ku in k:
+            return op
+    return "Beograd"
+
 
 RX_RED = re.compile(r'<tr class="(?:aktuelne|vanredne)_izmene"(.*?)</tr>', re.S)
 RX_LINIJA = re.compile(r'red-voznje/smer-a/\d+"[^>]*>\s*([^<]+?)\s*</a>')
@@ -385,10 +422,13 @@ RX_TD = re.compile(r"<td[^>]*>(.*?)</td>", re.S)
 RX_PERIOD = re.compile(r"(\d{2})/(\d{2})/(\d{4})\s*-\s*(?:(\d{2})/(\d{2})/(\d{4}))?")
 RX_ULICA_GSP = re.compile(
     r"(?:улиц[иае]|улицама|зони улице|Улици|Улица)\s+([А-ЯЂЈЉЊЋЏ0-9][^,.;()]*?)(?=\s+(?:и|од|у|на|код|због|током)\s|[,.;()]|$)")
+RX_RADOVI = re.compile(r"(радов[аие]|реконструкц|затвара|санациј|асфалтирањ|обустав)", re.I)
 
 
 def citaj_gsp():
     out = []
+    radovi = []
+    vidjene_ulice_radova = set()
     for vrsta, url in GSP_STRANICE:
         try:
             html = skini(url)
@@ -414,12 +454,15 @@ def citaj_gsp():
             ulica = ulice[0] if ulice else ""
             if not linije:
                 continue
+            opstina = opstina_za_ulicu(ulica) if ulica else "Beograd"
             prozor = (f"{od[8:10]}.{od[5:7]}. – {do[8:10]}.{do[5:7]}." if od and do
                       else f"od {od[8:10]}.{od[5:7]}., do daljnjeg" if od else "aktuelno")
+            stavka_id = mlink.group(1).rsplit('/', 1)[1] if mlink else str(broj)
+            stavka_url = mlink.group(1) if mlink else url
             out.append({
-                "id": f"gsp-{vrsta}-{mlink.group(1).rsplit('/', 1)[1] if mlink else broj}",
+                "id": f"gsp-{vrsta}-{stavka_id}",
                 "category": "prevoz",
-                "opstina": "Beograd",
+                "opstina": opstina,
                 "ulica": ulica or "više lokacija",
                 "brojevi": "",
                 "timeWindow": prozor,
@@ -429,11 +472,70 @@ def citaj_gsp():
                 "urgencyLevel": 1 if vrsta == "vanredne" else 2,
                 "sourceName": f"Sekretarijat za javni prevoz ({vrsta} izmene)",
                 "rawSummary": u_latinicu(naslov) + f" Linije: {', '.join(linije)}.",
-                "url": mlink.group(1) if mlink else url,
+                "url": stavka_url,
             })
+            # Ako izmena nosi radove na kolovozu u konkretnoj ulici, izdvoji i stavku "radovi" za vozace automobila
+            if ulica and RX_RADOVI.search(naslov):
+                ku = kljuc(ulica)
+                if ku not in vidjene_ulice_radova:
+                    vidjene_ulice_radova.add(ku)
+                    radovi.append({
+                        "id": f"radovi-kolovoz-{stavka_id}",
+                        "category": "radovi",
+                        "opstina": opstina,
+                        "ulica": ulica,
+                        "brojevi": "",
+                        "timeWindow": prozor,
+                        "vaziOd": od,
+                        "vaziDo": do,
+                        "urgencyLevel": 1 if vrsta == "vanredne" else 2,
+                        "sourceName": "Sekretarijat za saobraćaj / Beoinfo (Radovi)",
+                        "rawSummary": f"{u_latinicu(naslov)} (izmena režima saobraćaja na kolovozu, {prozor}).",
+                        "url": stavka_url,
+                    })
             broj += 1
         print(f"  GSP {vrsta}: {broj} izmena")
         time.sleep(PAUZA)
+    return out, radovi
+
+
+def citaj_bvk_saobracaj():
+    """Izvlaci hitne saobracajne obustave zbog radova na mrezi iz zvanicnog BVK RSS fida."""
+    xml = skini(BVK_RSS)
+    out = []
+    for item in re.findall(r"<item>(.*?)</item>", xml, re.S):
+        naslov_m = re.search(r"<title>(.*?)</title>", item, re.S)
+        link_m = re.search(r"<link>(.*?)</link>", item, re.S)
+        sadrzaj_m = (
+            re.search(r"<content:encoded><!\[CDATA\[(.*?)\]\]></content:encoded>", item, re.S)
+            or re.search(r"<description><!\[CDATA\[(.*?)\]\]></description>", item, re.S)
+        )
+        naslov = htmlmod.unescape(naslov_m.group(1)).strip() if naslov_m else ""
+        sadrzaj = u_tekst(sadrzaj_m.group(1)) if sadrzaj_m else ""
+        ceo = f"{naslov}\n{sadrzaj}"
+        if not re.search(r"за саобраћај се|затвара се саобраћај|обустава саобраћаја|санациј[ае] дефекта", ceo, re.I):
+            continue
+        mu = re.search(r"у\s+((?:[А-ЯЂЈЉЊЋЏ][\w-]*\s+){1,3})улици", ceo) or RX_ULICA_GSP.search(ceo)
+        ulica = lepo(nominativ(u_latinicu(re.split(r"\s+(?:–|-|до|према|од)\s+", mu.group(1))[0]))) if mu else ""
+        if not ulica:
+            continue
+        opstina = opstina_za_ulicu(ulica)
+        md = re.search(r"(\d{1,2}\.\d{1,2}\.\d{4})", ceo)
+        datum = iso_iz_tackastog(md.group(1)) if md else ""
+        out.append({
+            "id": f"radovi-bvk-{datum or 'aktuelno'}-{kljuc(ulica).replace(' ', '-')}",
+            "category": "radovi",
+            "opstina": opstina,
+            "ulica": ulica,
+            "brojevi": "",
+            "timeWindow": f"od {md.group(1)}." if md else "hitni radovi u toku",
+            "datum": datum,
+            "urgencyLevel": 1,
+            "sourceName": "BVK / Sekretarijat za saobraćaj (Obustava)",
+            "rawSummary": f"{u_latinicu(naslov)} — zatvaranje kolovoza za saobraćaj u zoni radova ({ulica}).",
+            "url": link_m.group(1).strip() if link_m else BVK_KVAROVI,
+        })
+    print(f"  BVK saobracajne obustave: {len(out)} stavki")
     return out
 
 
@@ -472,7 +574,14 @@ def main():
     time.sleep(PAUZA)
     planirani, s_pl = bezbedno("BVK planirani", citaj_bvk_planirane)
     time.sleep(PAUZA)
-    gsp, s_gsp = bezbedno("GSP", citaj_gsp)
+    gsp_res, s_gsp = bezbedno("GSP", citaj_gsp)
+    if isinstance(gsp_res, tuple):
+        gsp, gsp_radovi = gsp_res
+    else:
+        gsp, gsp_radovi = gsp_res, []
+    time.sleep(PAUZA)
+    bvk_radovi, s_rad = bezbedno("BVK saobracaj", citaj_bvk_saobracaj)
+    radovi = bvk_radovi + gsp_radovi
 
     # Ako je izvor pao, zadrzi poslednje dobre podatke tog izvora iz prethodnog fajla.
     stari = {}
@@ -491,8 +600,10 @@ def main():
         planirani = [r for r in stari_dir if r.get("sourceName", "").startswith("BVK - Planirani")]
     if not s_gsp["ok"]:
         gsp = [r for r in stari_dir if r.get("category") == "prevoz"]
+    if not s_rad["ok"] and not gsp_radovi:
+        radovi = [r for r in stari_dir if r.get("category") == "radovi"]
 
-    direktni = kvarovi + planirani + gsp
+    direktni = kvarovi + planirani + gsp + radovi
 
     recnik = poznate_ulice()
     nepoznate = []
@@ -508,6 +619,7 @@ def main():
             "bvk_kvarovi": dict(s_kv, broj=len(kvarovi)),
             "bvk_planirani": dict(s_pl, broj=len(planirani)),
             "gsp": dict(s_gsp, broj=len(gsp)),
+            "radovi": dict(s_rad, broj=len(radovi)),
         },
         "eds": sorted(eds, key=lambda r: (r["datum"], r["opstina"], r["od"], r["ulica"])),
         "direktni": direktni,
@@ -526,7 +638,7 @@ def main():
     with open(izlaz, "w", encoding="utf-8") as f:
         json.dump(podaci, f, ensure_ascii=False, indent=1)
 
-    print(f"\n  EDS: {len(eds)}  BVK kvarovi: {len(kvarovi)}  BVK planirani: {len(planirani)}  GSP: {len(gsp)}")
+    print(f"\n  EDS: {len(eds)}  BVK kvarovi: {len(kvarovi)}  BVK planirani: {len(planirani)}  GSP: {len(gsp)}  Radovi: {len(radovi)}")
     print(f"  Ulica van recnika: {len(nepoznate)}")
     print(f"  Zapisano: {izlaz}\n")
 
