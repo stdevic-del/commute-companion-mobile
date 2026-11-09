@@ -1,10 +1,19 @@
 {
   "name": "Commute Companion 3.0",
   "short_name": "Commute 3.0",
-  "description": "Personalizovani audio kopilot za vožnju, algoritamski agregat vesti i ulični radar",
+  "description": "Personalizovani audio kopilot za vožnju i javni prevoz, Servisni radar u 3 tačke (EDS, BVK, GSP) i adaptivni brifing",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#090d16",
   "theme_color": "#090d16",
-  "orientation": "portrait-primary"
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
