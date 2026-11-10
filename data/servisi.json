@@ -1,10 +1,10 @@
 {
  "verzija": 1,
- "generisano": "2026-11-10T05:57:24+00:00",
+ "generisano": "2026-11-10T11:53:56+00:00",
  "izvori": {
   "eds": {
    "ok": true,
-   "broj": 94
+   "broj": 68
   },
   "bvk_kvarovi": {
    "ok": true,
@@ -25,292 +25,6 @@
  },
  "eds": [
   {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Dubrave",
-   "brojevi": "3G",
-   "ulicaCir": "ДУБРАВЕ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Gornji Kraj",
-   "brojevi": "48,86A-90,96-108,112-120,136,140,73,77,81A-83,87-91,95,101-101A,105,109-115,119-121",
-   "ulicaCir": "ГОРЊИ КРАЈ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Ljubinić",
-   "ulica": "Ivovića Kraj",
-   "brojevi": "2B",
-   "ulicaCir": "ИВОВИЋА КРАЈ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Kod T.s.",
-   "brojevi": "194,173",
-   "ulicaCir": "КОД Т.С.",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Kod Škole",
-   "brojevi": "0,35",
-   "ulicaCir": "КОД ШКОЛЕ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Ljubinić",
-   "ulica": "Lipovica",
-   "brojevi": "2A",
-   "ulicaCir": "ЛИПОВИЦА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Miljkovića Put",
-   "brojevi": "0,98A",
-   "ulicaCir": "МИЉКОВИЋА ПУТ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Orašac",
-   "brojevi": "0,1,1111BB",
-   "ulicaCir": "ОРАШАЦ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Orašac Donji Kraj",
-   "brojevi": "0-0BB,34,74,114-114A,148,160-160A,166,170,174-180,184,188-200,206-210,214-228,258,312,165-177,181-185,189,193-203,207-209,213-215,223-227C,233,279",
-   "ulicaCir": "ОРАШАЦ ДОЊИ КРАЈ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Orašac Muzička Kolonija",
-   "brojevi": "0,126-130,144,135-139,145B",
-   "ulicaCir": "ОРАШАЦ МУЗИЧКА КОЛОНИЈА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Put za Banjane",
-   "brojevi": "0,7A,157D",
-   "ulicaCir": "ПУТ ЗА БАЊАНЕ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Put za Dom",
-   "brojevi": "124A,123-125,143",
-   "ulicaCir": "ПУТ ЗА ДОМ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Put za Ljubinić",
-   "brojevi": "3-5",
-   "ulicaCir": "ПУТ ЗА ЉУБИНИЋ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Put za Vukićevicu",
-   "brojevi": "1B",
-   "ulicaCir": "ПУТ ЗА ВУКИЋЕВИЦУ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "13:00",
-   "naselje": "Orašac",
-   "ulica": "Ševar",
-   "brojevi": "0-2D,6-10A,14-16,20-22,26-34A,38-40,46,78-80,122A,140-142,148B-150,340,1-3,7A-29A,33-33,41,45-47,79,127,145-149",
-   "ulicaCir": "ШЕВАР",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Palilula",
-   "od": "09:00",
-   "do": "15:00",
-   "naselje": "Borča",
-   "ulica": "Beoćanska",
-   "brojevi": "20A",
-   "ulicaCir": "БЕОЋАНСКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Palilula",
-   "od": "09:00",
-   "do": "15:00",
-   "naselje": "Borča",
-   "ulica": "Mihaila Petrovića",
-   "brojevi": "6-12R,7-13,25-27",
-   "ulicaCir": "МИХАИЛА ПЕТРОВИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Palilula",
-   "od": "09:00",
-   "do": "15:00",
-   "naselje": "Borča",
-   "ulica": "Petkovačka",
-   "brojevi": "2D-4A,8-12,16-18,5-7,13A-15,19,25",
-   "ulicaCir": "ПЕТКОВАЧКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Palilula",
-   "od": "09:00",
-   "do": "15:00",
-   "naselje": "Borča",
-   "ulica": "Vase Pomorišca",
-   "brojevi": "4J,8A,12,18-18A,28,9A,21-23A,43-51,71-71B,85",
-   "ulicaCir": "ВАСЕ ПОМОРИШЦА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Palilula",
-   "od": "09:00",
-   "do": "15:00",
-   "naselje": "Borča - Guvno",
-   "ulica": "Vase Pomorišca",
-   "brojevi": "42-44,48-54,64-66,70-84B,29-37A,55,59,63,77",
-   "ulicaCir": "ВАСЕ ПОМОРИШЦА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Palilula",
-   "od": "09:00",
-   "do": "15:00",
-   "naselje": "Borča",
-   "ulica": "Zrenjaninski Put",
-   "brojevi": "150-150T",
-   "ulicaCir": "ЗРЕЊАНИНСКИ ПУТ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Voždovac",
-   "od": "09:00",
-   "do": "12:00",
-   "naselje": "",
-   "ulica": "Ustanička",
-   "brojevi": "86",
-   "ulicaCir": "УСТАНИЧКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Zemun",
-   "od": "08:30",
-   "do": "10:30",
-   "naselje": "",
-   "ulica": "Autoput za Zagreb",
-   "brojevi": "20G-22E",
-   "ulicaCir": "АУТОПУТ ЗА ЗАГРЕБ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Zemun",
-   "od": "08:30",
-   "do": "10:30",
-   "naselje": "",
-   "ulica": "Cvijićeva",
-   "brojevi": "55-61,69-71,77-79A,91-93,111,115-117",
-   "ulicaCir": "ЦВИЈИЋЕВА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Zemun",
-   "od": "08:30",
-   "do": "10:30",
-   "naselje": "Plavi Horizonti",
-   "ulica": "Milana Rešetara",
-   "brojevi": "1B",
-   "ulicaCir": "МИЛАНА РЕШЕТАРА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-09",
-   "opstina": "Zvezdara",
-   "od": "08:00",
-   "do": "13:00",
-   "naselje": "",
-   "ulica": "Đorđa Pavlovića",
-   "brojevi": "11",
-   "ulicaCir": "ЂОРЂА ПАВЛОВИЋА",
-   "izvor": "Dan_0"
-  },
-  {
    "datum": "2026-11-10",
    "opstina": "Vračar",
    "od": "09:00",
@@ -319,7 +33,7 @@
    "ulica": "Maksima Gorkog",
    "brojevi": "87",
    "ulicaCir": "МАКСИМА ГОРКОГ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-10",
@@ -330,7 +44,7 @@
    "ulica": "Batajnički Drum",
    "brojevi": "BB,211b,261-265,269,283A-287,291-293",
    "ulicaCir": "БАТАЈНИЧКИ ДРУМ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-10",
@@ -341,7 +55,7 @@
    "ulica": "Batajnički Drum 13 Deo",
    "brojevi": "301",
    "ulicaCir": "БАТАЈНИЧКИ ДРУМ 13 ДЕО",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-10",
@@ -352,7 +66,7 @@
    "ulica": "Majora Zorana Radosavljevića",
    "brojevi": "372-374,382",
    "ulicaCir": "МАЈОРА ЗОРАНА РАДОСАВЉЕВИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-10",
@@ -363,7 +77,7 @@
    "ulica": "Poljoprivredno Dobro 13 Maj",
    "brojevi": "BB,BB,BB,BB,2-12,16-18,24,3-19,25-25A",
    "ulicaCir": "ПОЉОПРИВРЕДНО ДОБРО 13 МАЈ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-10",
@@ -374,7 +88,7 @@
    "ulica": "Magistratski Trg",
    "brojevi": "1-3",
    "ulicaCir": "МАГИСТРАТСКИ ТРГ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-10",
@@ -385,7 +99,7 @@
    "ulica": "Steve Vargaša",
    "brojevi": "9",
    "ulicaCir": "СТЕВЕ ВАРГАША",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-12",
@@ -396,7 +110,7 @@
    "ulica": "Autoput Bg-šid",
    "brojevi": "69A,73-73a",
    "ulicaCir": "АУТОПУТ БГ-ШИД",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -407,7 +121,7 @@
    "ulica": "Izletnički Put",
    "brojevi": "2,12-14,18,5",
    "ulicaCir": "ИЗЛЕТНИЧКИ ПУТ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -418,7 +132,7 @@
    "ulica": "Zelengorska",
    "brojevi": "4-8,1",
    "ulicaCir": "ЗЕЛЕНГОРСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -429,7 +143,7 @@
    "ulica": "Aleksandra Fleminga",
    "brojevi": "40-56,60-68,31-47",
    "ulicaCir": "АЛЕКСАНДРА ФЛЕМИНГА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -440,7 +154,7 @@
    "ulica": "Dr A Radosavljevića",
    "brojevi": "BB",
    "ulicaCir": "ДР А РАДОСАВЉЕВИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -451,7 +165,7 @@
    "ulica": "Dr Riharda Burijana",
    "brojevi": "2",
    "ulicaCir": "ДР РИХАРДА БУРИЈАНА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -462,7 +176,7 @@
    "ulica": "Dr Đ.jovanovića",
    "brojevi": "1-9",
    "ulicaCir": "ДР Ђ.ЈОВАНОВИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -473,7 +187,7 @@
    "ulica": "Garsije Lorke",
    "brojevi": "34-78,43-79",
    "ulicaCir": "ГАРСИЈЕ ЛОРКЕ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -484,7 +198,7 @@
    "ulica": "Husinskih Rudara",
    "brojevi": "30-36,41-51",
    "ulicaCir": "ХУСИНСКИХ РУДАРА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -495,7 +209,7 @@
    "ulica": "Jahorinska",
    "brojevi": "2-12,16-20,7",
    "ulicaCir": "ЈАХОРИНСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -506,7 +220,7 @@
    "ulica": "Jelenka Mihajlovića",
    "brojevi": "18-24,21-39",
    "ulicaCir": "ЈЕЛЕНКА МИХАЈЛОВИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -517,7 +231,7 @@
    "ulica": "Laze Stefanovića",
    "brojevi": "16-26,9-11",
    "ulicaCir": "ЛАЗЕ СТЕФАНОВИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -528,7 +242,7 @@
    "ulica": "Lesnovska",
    "brojevi": "2-6,12-16A",
    "ulicaCir": "ЛЕСНОВСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -539,7 +253,7 @@
    "ulica": "Levskoga",
    "brojevi": "2-14,1-11",
    "ulicaCir": "ЛЕВСКОГА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -550,7 +264,7 @@
    "ulica": "Mirijevski Bulevar",
    "brojevi": "60-64",
    "ulicaCir": "МИРИЈЕВСКИ БУЛЕВАР",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -561,7 +275,7 @@
    "ulica": "P.ćetkovića Prolaz",
    "brojevi": "2-16",
    "ulicaCir": "П.ЋЕТКОВИЋА ПРОЛАЗ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -572,7 +286,7 @@
    "ulica": "Pera Ćetkovića",
    "brojevi": "40-46,33-37",
    "ulicaCir": "ПЕРА ЋЕТКОВИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -583,7 +297,7 @@
    "ulica": "Pribojska",
    "brojevi": "23",
    "ulicaCir": "ПРИБОЈСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -594,7 +308,7 @@
    "ulica": "Prominska",
    "brojevi": "14-30,29-51",
    "ulicaCir": "ПРОМИНСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -605,7 +319,7 @@
    "ulica": "Tina Ujevića",
    "brojevi": "2-8,1-5,9-17",
    "ulicaCir": "ТИНА УЈЕВИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -616,7 +330,7 @@
    "ulica": "Vlade Ilića",
    "brojevi": "3-5",
    "ulicaCir": "ВЛАДЕ ИЛИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -627,7 +341,7 @@
    "ulica": "Vojvode M Krstića",
    "brojevi": "2A,1A",
    "ulicaCir": "ВОЈВОДЕ М КРСТИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -638,7 +352,7 @@
    "ulica": "Bilogorska",
    "brojevi": "16-34,15-21,25,29",
    "ulicaCir": "БИЛОГОРСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -649,7 +363,7 @@
    "ulica": "Borisa Kidriča",
    "brojevi": "82A-82B,88A-96,100-106,110B-114,122A-128V,73-81A,85-103,173A",
    "ulicaCir": "БОРИСА КИДРИЧА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -660,7 +374,7 @@
    "ulica": "Borčanskih Žrtava 1914",
    "brojevi": "52-52A,56-64,68-76,82-106,112A,122-136,47-55,61-101B,133M",
    "ulicaCir": "БОРЧАНСКИХ ЖРТАВА 1914",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -671,7 +385,7 @@
    "ulica": "Koceljevačka",
    "brojevi": "2-4,10-12,20,24,44A,37B",
    "ulicaCir": "КОЦЕЉЕВАЧКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -682,7 +396,7 @@
    "ulica": "Mionička",
    "brojevi": "2,8-18,22-24,15-23,27-37,41",
    "ulicaCir": "МИОНИЧКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -693,7 +407,7 @@
    "ulica": "Psunjska",
    "brojevi": "22-28,32-34,31-49",
    "ulicaCir": "ПСУЊСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -704,7 +418,7 @@
    "ulica": "Ustavska",
    "brojevi": "8",
    "ulicaCir": "УСТАВСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -715,7 +429,7 @@
    "ulica": "Birčaninova",
    "brojevi": "2-2A",
    "ulicaCir": "БИРЧАНИНОВА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -726,7 +440,7 @@
    "ulica": "Hajduk-veljkov Venac",
    "brojevi": "BB,BB,7",
    "ulicaCir": "ХАЈДУК-ВЕЉКОВ ВЕНАЦ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -737,7 +451,7 @@
    "ulica": "Risanska",
    "brojevi": "3",
    "ulicaCir": "РИСАНСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -748,7 +462,7 @@
    "ulica": "Sarajevska",
    "brojevi": "2-6,1-9",
    "ulicaCir": "САРАЈЕВСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -759,7 +473,7 @@
    "ulica": "Federika Felinija",
    "brojevi": "4,8A-8E,19-21",
    "ulicaCir": "ФЕДЕРИКА ФЕЛИНИЈА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -770,7 +484,7 @@
    "ulica": "Koste Abrašević",
    "brojevi": "10,14,1,5,11-15",
    "ulicaCir": "КОСТЕ АБРАШЕВИЋ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -781,7 +495,7 @@
    "ulica": "Kralja Petra Prvog",
    "brojevi": "6-16,1-7",
    "ulicaCir": "КРАЉА ПЕТРА ПРВОГ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -792,7 +506,7 @@
    "ulica": "Milana Konjovića",
    "brojevi": "12-16A,20-28g,32-34A,48,52g-52v,56-58B,66,72,7,21,29A-29G,35-43v,49-57,61-67",
    "ulicaCir": "МИЛАНА КОЊОВИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -803,7 +517,7 @@
    "ulica": "Milovana Glišića",
    "brojevi": "6-12,1,7-15",
    "ulicaCir": "МИЛОВАНА ГЛИШИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -814,7 +528,7 @@
    "ulica": "Miloša Crnjanskog",
    "brojevi": "2-4,8,14-16,11-13",
    "ulicaCir": "МИЛОША ЦРЊАНСКОГ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -825,7 +539,7 @@
    "ulica": "Nemanjina",
    "brojevi": "4-6,10,16-20,5B-17A,23-25",
    "ulicaCir": "НЕМАЊИНА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -836,7 +550,7 @@
    "ulica": "Patrijarha Pavla",
    "brojevi": "2-8a,12-22,3-7",
    "ulicaCir": "ПАТРИЈАРХА ПАВЛА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -847,7 +561,7 @@
    "ulica": "Perunova",
    "brojevi": "4-8,12-16,1-3,9-17",
    "ulicaCir": "ПЕРУНОВА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -858,7 +572,7 @@
    "ulica": "Svetog Jovana",
    "brojevi": "10-12,3-5,15",
    "ulicaCir": "СВЕТОГ ЈОВАНА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -869,7 +583,7 @@
    "ulica": "Svetog Save",
    "brojevi": "2,20,24,76,84-94,1A-11,19,27,43-47,53-57,61-65,69,73,77,81-81C,85-87,91-97,101-103,107,111A-115,119-129,137-141,145a,153",
    "ulicaCir": "СВЕТОГ САВЕ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -880,7 +594,7 @@
    "ulica": "Užička",
    "brojevi": "14-16,20,3-7,11",
    "ulicaCir": "УЖИЧКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -891,7 +605,7 @@
    "ulica": "Valjevska",
    "brojevi": "13",
    "ulicaCir": "ВАЉЕВСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -902,7 +616,7 @@
    "ulica": "Vasilija Ostroškog",
    "brojevi": "2,6-6A,10-12,16-18,26-28,32,50,58,62,66-76,5,9-13,43,49-61B,69,77-81C",
    "ulicaCir": "ВАСИЛИЈА ОСТРОШКОГ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -913,7 +627,7 @@
    "ulica": "Viktora Starčića",
    "brojevi": "1",
    "ulicaCir": "ВИКТОРА СТАРЧИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -924,7 +638,7 @@
    "ulica": "Vojislava Ilića",
    "brojevi": "6-14A",
    "ulicaCir": "ВОЈИСЛАВА ИЛИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -935,7 +649,7 @@
    "ulica": "Ane Karenjine",
    "brojevi": "1",
    "ulicaCir": "АНЕ КАРЕЊИНЕ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -946,7 +660,7 @@
    "ulica": "Branka Miljkovića",
    "brojevi": "5,9-11",
    "ulicaCir": "БРАНКА МИЉКОВИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -957,7 +671,7 @@
    "ulica": "Kajmakčalanska",
    "brojevi": "27-29",
    "ulicaCir": "КАЈМАКЧАЛАНСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -968,7 +682,7 @@
    "ulica": "Pariska",
    "brojevi": "5A",
    "ulicaCir": "ПАРИСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -979,7 +693,7 @@
    "ulica": "Sterijina",
    "brojevi": "55-57",
    "ulicaCir": "СТЕРИЈИНА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -990,7 +704,7 @@
    "ulica": "Vojvođanska",
    "brojevi": "402V-412g,418-420V,379A,385-385F",
    "ulicaCir": "ВОЈВОЂАНСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -1001,7 +715,7 @@
    "ulica": "Cerska",
    "brojevi": "10",
    "ulicaCir": "ЦЕРСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -1012,7 +726,7 @@
    "ulica": "Autoput za Zagreb",
    "brojevi": "26g-26H,32,300G",
    "ulicaCir": "АУТОПУТ ЗА ЗАГРЕБ",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -1023,7 +737,7 @@
    "ulica": "Majevička",
    "brojevi": "36,1,7",
    "ulicaCir": "МАЈЕВИЧКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -1034,7 +748,7 @@
    "ulica": "Zelengorska",
    "brojevi": "2-8b,14-14a,1-1A,83",
    "ulicaCir": "ЗЕЛЕНГОРСКА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -1045,7 +759,7 @@
    "ulica": "Mirijevski Bulevar",
    "brojevi": "92-98",
    "ulicaCir": "МИРИЈЕВСКИ БУЛЕВАР",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   },
   {
    "datum": "2026-11-12",
@@ -1056,7 +770,7 @@
    "ulica": "Veljka Petrovića",
    "brojevi": "58-64,73-79",
    "ulicaCir": "ВЕЉКА ПЕТРОВИЋА",
-   "izvor": "Dan_3"
+   "izvor": "Dan_2"
   }
  ],
  "direktni": [
@@ -2042,59 +1756,40 @@
   "Ane Karenjine",
   "Autoput Bg-šid",
   "Batajnički Drum 13 Deo",
-  "Beoćanska",
   "Bilogorska",
   "Borisa Kidriča",
   "Borčanskih Žrtava 1914",
   "Branka Miljkovića",
-  "Cvijićeva",
   "Dr A Radosavljevića",
   "Dr Riharda Burijana",
   "Dr Đ.jovanovića",
-  "Dubrave",
   "Federika Felinija",
-  "Gornji Kraj",
-  "Ivovića Kraj",
   "Izletnički Put",
   "Jahorinska",
   "Jelenka Mihajlovića",
   "Kajmakčalanska",
   "Koceljevačka",
-  "Kod T.s.",
-  "Kod Škole",
   "Koste Abrašević",
   "Kralja Petra Prvog",
   "Laze Stefanovića",
   "Lesnovska",
   "Levskoga",
-  "Lipovica",
   "Lipovički Put",
   "Majevička",
   "Majora Zorana Radosavljevića",
-  "Mihaila Petrovića",
   "Milana Konjovića",
-  "Milana Rešetara",
-  "Miljkovića Put",
   "Milovana Glišića",
   "Miloša Crnjanskog",
   "Mionička",
   "Mitkovom Kladencu",
-  "Orašac",
-  "Orašac Donji Kraj",
-  "Orašac Muzička Kolonija",
   "P.ćetkovića Prolaz",
   "Pariska",
   "Patrijarha Pavla",
   "Perunova",
-  "Petkovačka",
   "Poljoprivredno Dobro 13 Maj",
   "Pribojska",
   "Prominska",
   "Psunjska",
-  "Put za Banjane",
-  "Put za Dom",
-  "Put za Ljubinić",
-  "Put za Vukićevicu",
   "Sretena Babića",
   "Sterijina",
   "Steve Vargaša",
@@ -2105,14 +1800,12 @@
   "Ustavska",
   "Užička",
   "Valjevska",
-  "Vase Pomorišca",
   "Vasilija Ostroškog",
   "Viktora Starčića",
   "Vlade Ilića",
   "Vojislava Ilića",
   "Vojvode M Krstića",
   "Zelengorska",
-  "više lokacija",
-  "Ševar"
+  "više lokacija"
  ]
 }
