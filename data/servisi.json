@@ -1,6 +1,6 @@
 {
  "verzija": 1,
- "generisano": "2026-11-09T22:14:31+00:00",
+ "generisano": "2026-11-10T05:57:24+00:00",
  "izvori": {
   "eds": {
    "ok": true,
@@ -1842,6 +1842,19 @@
    "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/649"
   },
   {
+   "id": "radovi-bvk-2026-10-03-pozeska",
+   "category": "radovi",
+   "opstina": "Cukarica",
+   "ulica": "Požeška",
+   "brojevi": "",
+   "timeWindow": "od 03.10.2026.",
+   "datum": "2026-10-03",
+   "urgencyLevel": 1,
+   "sourceName": "BVK / Sekretarijat za saobraćaj (Obustava)",
+   "rawSummary": "Hitna sanacija kvara na kanalizacionoj mreži u Požeškoj ulici — zatvaranje kolovoza za saobraćaj u zoni radova (Požeška).",
+   "url": "https://www.bvk.rs/hitna-sanacija-kvara-na-kanalizacionoj-mrezi-u-pozeskoj-ulici/"
+  },
+  {
    "id": "radovi-kolovoz-1134",
    "category": "radovi",
    "opstina": "Zemun",
@@ -2022,19 +2035,6 @@
    "sourceName": "Sekretarijat za saobraćaj / Beoinfo (Radovi)",
    "rawSummary": "Informacija o ukidanju stajališta „Savski trg (Savska)“ tokom izvođenja radova na rekonstrukciji zgrade Pošte u ulici Savska (izmena režima saobraćaja na kolovozu, 20.12. – 31.05.).",
    "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/649"
-  },
-  {
-   "id": "radovi-bvk-2026-10-03-pozeska",
-   "category": "radovi",
-   "opstina": "Cukarica",
-   "ulica": "Požeška",
-   "brojevi": "",
-   "timeWindow": "od 03.10.2026.",
-   "datum": "2026-10-03",
-   "urgencyLevel": 1,
-   "sourceName": "BVK / Sekretarijat za saobraćaj (Obustava)",
-   "rawSummary": "Hitna sanacija kvara na kanalizacionoj mreži u Požeškoj ulici — zatvaranje kolovoza za saobraćaj u zoni radova (Požeška).",
-   "url": "https://www.bvk.rs/hitna-sanacija-kvara-na-kanalizacionoj-mrezi-u-pozeskoj-ulici/"
   }
  ],
  "nepoznate_ulice": [
