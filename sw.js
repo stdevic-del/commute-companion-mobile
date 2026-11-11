@@ -1,4 +1,4 @@
-const CACHE_NAME = 'commute-companion-v3.6';
+const CACHE_NAME = 'commute-companion-v3.7';
 const CORE_ASSETS = [
   './manifest.json',
   './icon.svg',
@@ -27,15 +27,24 @@ self.addEventListener('activate', (event) => {
       )
       .then(() => self.clients.claim())
       .then(() =>
-        self.clients.matchAll({ type: 'window' }).then((windowClients) => {
-          windowClients.forEach((client) => {
-            try {
-              client.postMessage({ type: 'SW_ACTIVATED', version: CACHE_NAME });
-            } catch {
-              // ignore
-            }
-          });
-        })
+        self.clients.matchAll({ type: 'window' }).then((windowClients) =>
+          Promise.all(
+            windowClients.map(async (client) => {
+              try {
+                client.postMessage({ type: 'SW_ACTIVATED', version: CACHE_NAME });
+              } catch {
+                // ignore
+              }
+              try {
+                if ('navigate' in client && client.url) {
+                  await client.navigate(client.url);
+                }
+              } catch {
+                // ignore
+              }
+            })
+          )
+        )
       )
   );
 });
