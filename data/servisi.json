@@ -1,6 +1,6 @@
 {
  "verzija": 1,
- "generisano": "2026-11-10T15:56:18+00:00",
+ "generisano": "2026-11-11T06:02:31+00:00",
  "izvori": {
   "eds": {
    "ok": true,
@@ -16,7 +16,7 @@
   },
   "gsp": {
    "ok": true,
-   "broj": 21
+   "broj": 22
   },
   "radovi": {
    "ok": true,
@@ -1527,6 +1527,24 @@
    "sourceName": "Sekretarijat za javni prevoz (aktuelne izmene)",
    "rawSummary": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Teodora Hercla Linije: 15, 18, 78, 15N.",
    "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1119"
+  },
+  {
+   "id": "gsp-aktuelne-1149",
+   "category": "prevoz",
+   "opstina": "Beograd",
+   "ulica": "više lokacija",
+   "brojevi": "",
+   "timeWindow": "12.11. – 30.11.",
+   "transitLines": [
+    "76",
+    "77"
+   ],
+   "vaziOd": "2026-11-12",
+   "vaziDo": "2026-11-30",
+   "urgencyLevel": 2,
+   "sourceName": "Sekretarijat za javni prevoz (aktuelne izmene)",
+   "rawSummary": "Informacija o privremenom izmeštanju stajališta KBC \"Bežanijska kosa\" Linije: 76, 77.",
+   "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1149"
   },
   {
    "id": "gsp-aktuelne-1133",
