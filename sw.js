@@ -1,7 +1,5 @@
-const CACHE_NAME = 'commute-companion-v3.2';
+const CACHE_NAME = 'commute-companion-v3.6';
 const CORE_ASSETS = [
-  './',
-  './index.html',
   './manifest.json',
   './icon.svg',
   './data/servisi.json',
@@ -28,6 +26,17 @@ self.addEventListener('activate', (event) => {
         )
       )
       .then(() => self.clients.claim())
+      .then(() =>
+        self.clients.matchAll({ type: 'window' }).then((windowClients) => {
+          windowClients.forEach((client) => {
+            try {
+              client.postMessage({ type: 'SW_ACTIVATED', version: CACHE_NAME });
+            } catch {
+              // ignore
+            }
+          });
+        })
+      )
   );
 });
 
@@ -37,13 +46,22 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(req.url);
 
-  // 1) Network-first with cache fallback for live service radar JSON and OSRM routing
+  // Never intercept cross-origin audio TTS streams
+  if (url.hostname.includes('translate.google.com')) {
+    return;
+  }
+
+  // 1) Strictly Network-First (no-store) for HTML navigation, app bundles, live service JSON, and OSRM routing
   if (
+    req.mode === 'navigate' ||
+    url.pathname.endsWith('/') ||
+    url.pathname.endsWith('/index.html') ||
+    url.pathname.includes('/assets/') ||
     url.pathname.endsWith('/data/servisi.json') ||
     url.hostname.includes('project-osrm.org')
   ) {
     event.respondWith(
-      fetch(req)
+      fetch(req, { cache: 'no-store' })
         .then((res) => {
           if (res && res.ok) {
             const copy = res.clone();
@@ -56,7 +74,7 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 2) Cache-first with background refresh for static assets, fonts, and OSM map tiles
+  // 2) Cache-first with background refresh for icons, fonts, and OSM map tiles
   if (
     url.origin === self.location.origin ||
     url.hostname.includes('tile.openstreetmap.org') ||
