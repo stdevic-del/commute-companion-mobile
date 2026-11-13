@@ -1,6 +1,6 @@
 {
  "verzija": 1,
- "generisano": "2026-11-12T16:04:57+00:00",
+ "generisano": "2026-11-13T06:02:50+00:00",
  "izvori": {
   "eds": {
    "ok": true,
@@ -16,7 +16,7 @@
   },
   "gsp": {
    "ok": true,
-   "broj": 22
+   "broj": 23
   },
   "radovi": {
    "ok": true,
@@ -997,6 +997,23 @@
    "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/962"
   },
   {
+   "id": "gsp-aktuelne-1153",
+   "category": "prevoz",
+   "opstina": "Novi Beograd",
+   "ulica": "Zemunski Put",
+   "brojevi": "",
+   "timeWindow": "14.11. – 02.09.",
+   "transitLines": [
+    "60"
+   ],
+   "vaziOd": "2026-11-14",
+   "vaziDo": "2027-09-02",
+   "urgencyLevel": 2,
+   "sourceName": "Sekretarijat za javni prevoz (aktuelne izmene)",
+   "rawSummary": "Informacija o promeni režima rada linija javnog prevoza tokom nove faze radova u zoni raskrsnice ulica Zemunski put, Sajmište i Zarije Vujošević Linije: 60.",
+   "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1153"
+  },
+  {
    "id": "gsp-aktuelne-1151",
    "category": "prevoz",
    "opstina": "Beograd",
@@ -1461,6 +1478,20 @@
    "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/962"
   },
   {
+   "id": "radovi-kolovoz-1153",
+   "category": "radovi",
+   "opstina": "Novi Beograd",
+   "ulica": "Zemunski Put",
+   "brojevi": "",
+   "timeWindow": "14.11. – 02.09.",
+   "vaziOd": "2026-11-14",
+   "vaziDo": "2027-09-02",
+   "urgencyLevel": 2,
+   "sourceName": "Sekretarijat za saobraćaj / Beoinfo (Radovi)",
+   "rawSummary": "Informacija o promeni režima rada linija javnog prevoza tokom nove faze radova u zoni raskrsnice ulica Zemunski put, Sajmište i Zarije Vujošević (izmena režima saobraćaja na kolovozu, 14.11. – 02.09.).",
+   "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1153"
+  },
+  {
    "id": "radovi-kolovoz-1137",
    "category": "radovi",
    "opstina": "Palilula",
@@ -1585,20 +1616,6 @@
    "sourceName": "Sekretarijat za saobraćaj / Beoinfo (Radovi)",
    "rawSummary": "Informacija o promeni režima rada linija tokom izvođenja radova u ulici Karađorđeva (izmena režima saobraćaja na kolovozu, 21.06. – 29.11.).",
    "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1012"
-  },
-  {
-   "id": "radovi-kolovoz-996",
-   "category": "radovi",
-   "opstina": "Novi Beograd",
-   "ulica": "Zemunski Put",
-   "brojevi": "",
-   "timeWindow": "09.06. – 02.09.",
-   "vaziOd": "2026-06-09",
-   "vaziDo": "2027-09-02",
-   "urgencyLevel": 2,
-   "sourceName": "Sekretarijat za saobraćaj / Beoinfo (Radovi)",
-   "rawSummary": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja nove faze radova u zoni ulice Zemunski put (izmena režima saobraćaja na kolovozu, 09.06. – 02.09.).",
-   "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/996"
   },
   {
    "id": "radovi-kolovoz-649",
