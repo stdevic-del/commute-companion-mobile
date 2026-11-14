@@ -1,4 +1,4 @@
-const CACHE_NAME = 'commute-companion-v4.2';
+const CACHE_NAME = 'commute-companion-v4.3';
 const CORE_ASSETS = [
   './manifest.json',
   './icon.svg',
@@ -56,8 +56,12 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(req.url);
 
-  // Never intercept cross-origin audio TTS streams
-  if (url.hostname.includes('translate.google.com')) {
+  // Never intercept cross-origin audio TTS streams or OpenStreetMap tile servers
+  if (
+    url.hostname.includes('translate.google.com') ||
+    url.hostname.includes('openstreetmap.org') ||
+    url.hostname.includes('openstreetmap.fr')
+  ) {
     return;
   }
 
@@ -84,10 +88,9 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 2) Cache-first with background refresh for icons, fonts, and CartoDB/OSM map tiles
+  // 2) Cache-first with background refresh for icons and fonts
   if (
     url.origin === self.location.origin ||
-    url.hostname.includes('basemaps.cartocdn.com') ||
     url.hostname.includes('unpkg.com') ||
     url.hostname.includes('fonts.googleapis.com') ||
     url.hostname.includes('fonts.gstatic.com')
