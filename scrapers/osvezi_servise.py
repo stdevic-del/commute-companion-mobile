@@ -914,17 +914,19 @@ def citaj_parking():
         else:
             ulica, opstina, lat, lng = ime, "Beograd", None, None
 
+        cista_ulica = re.sub(r"\s*\([^)]*\)\s*$", "", ulica).strip() or ulica
+        popunjen_rec = "popunjena" if tip == "Garaža" else "popunjeno"
         if slobodna == 0:
             hitnost = 1
-            opis = f"{tip} „{ime}“ ({ulica}) je trenutno popunjena — nema slobodnih mesta."
+            opis = f"{tip} „{ime}“ ({cista_ulica}) je trenutno {popunjen_rec} — nema slobodnih mesta."
             prozor = "Popunjeno (0 mesta)"
         elif slobodna <= 15:
             hitnost = 1
-            opis = f"{tip} „{ime}“ ({ulica}) je skoro popunjena — preostalo je još {slobodna} slobodnih mesta."
+            opis = f"{tip} „{ime}“ ({cista_ulica}) je skoro {popunjen_rec} — preostalo je još {slobodna} slobodnih mesta."
             prozor = f"Uživo: {slobodna} slobodnih mesta"
         else:
             hitnost = 2 if slobodna <= 50 else 3
-            opis = f"{tip} „{ime}“ ({ulica}) trenutno ima {slobodna} slobodnih mesta."
+            opis = f"{tip} „{ime}“ ({cista_ulica}) trenutno ima {slobodna} slobodnih mesta."
             prozor = f"Uživo: {slobodna} slobodnih mesta"
 
         stavka = {

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'commute-companion-v4.1';
+const CACHE_NAME = 'commute-companion-v4.2';
 const CORE_ASSETS = [
   './manifest.json',
   './icon.svg',
@@ -84,10 +84,10 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 2) Cache-first with background refresh for icons, fonts, and OSM map tiles
+  // 2) Cache-first with background refresh for icons, fonts, and CartoDB/OSM map tiles
   if (
     url.origin === self.location.origin ||
-    url.hostname.includes('tile.openstreetmap.org') ||
+    url.hostname.includes('basemaps.cartocdn.com') ||
     url.hostname.includes('unpkg.com') ||
     url.hostname.includes('fonts.googleapis.com') ||
     url.hostname.includes('fonts.gstatic.com')
