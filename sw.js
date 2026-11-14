@@ -1,8 +1,9 @@
-const CACHE_NAME = 'commute-companion-v3.9';
+const CACHE_NAME = 'commute-companion-v4.0';
 const CORE_ASSETS = [
   './manifest.json',
   './icon.svg',
   './data/servisi.json',
+  './data/ulice_beograd.json',
 ];
 
 self.addEventListener('install', (event) => {
