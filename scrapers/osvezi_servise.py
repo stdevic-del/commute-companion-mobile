@@ -74,7 +74,13 @@ def kljuc(s):
     s = u_latinicu(s).lower().replace("đ", "dj")
     s = unicodedata.normalize("NFD", s)
     s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    s = re.sub(r"\([^)]*\)", " ", s)
+    s = re.sub(r"\b(?:prvi|drugi|treci|cetvrti|\d+)\.?\s*deo\b.*$", " ", s)
     s = re.sub(r"\bbul\b\.?\s*", "bulevar ", s)
+    s = re.sub(r"\bvoj\b\.?\s*", "vojvode ", s)
+    s = re.sub(r"\bkralj\b\.?\s*", "kralja ", s)
+    s = re.sub(r"\bknj\b\.?\s*", "kneginje ", s)
+    s = re.sub(r"[^a-z0-9\s]", " ", s)
     return re.sub(r"\s+", " ", s).strip()
 
 
@@ -107,6 +113,15 @@ def nominativ(ulica):
 
 # ==================================================== 3. MREZA
 
+def dekodiraj_bajtove(sirovo: bytes) -> str:
+    for kod in ("utf-8-sig", "cp1251", "latin-1"):
+        try:
+            return sirovo.decode(kod)
+        except UnicodeDecodeError:
+            continue
+    return sirovo.decode("utf-8", errors="replace")
+
+
 def skini(url):
     ua = APLIKACIJA
     kontakt = os.environ.get("KONTAKT", "").strip()
@@ -115,12 +130,40 @@ def skini(url):
     zahtev = urllib.request.Request(url, headers={"User-Agent": ua})
     with urllib.request.urlopen(zahtev, timeout=40) as o:
         sirovo = o.read()
-    for kod in ("utf-8-sig", "cp1251", "latin-1"):
+    return dekodiraj_bajtove(sirovo)
+
+
+def skini_browser(url):
+    """Preuzima stranicu uz standardno zaglavlje pretrazivaca, SSL fallback i proxy fallback za sajtove iza GeoIP/WAF-a."""
+    import ssl
+    import urllib.parse
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "sr-RS,sr;q=0.9,en-US;q=0.8,en;q=0.7",
+    }
+    kandidati = [
+        (url, True),
+        (url, False),
+        (f"https://r.jina.ai/{url}", True),
+        (f"https://api.allorigins.win/raw?url={urllib.parse.quote(url, safe='')}", True),
+        (f"https://corsproxy.io/?{urllib.parse.quote(url, safe='')}", True),
+    ]
+    poslednja_greska = None
+    for cilj_url, proveri_ssl in kandidati:
         try:
-            return sirovo.decode(kod)
-        except UnicodeDecodeError:
+            ctx = None if proveri_ssl else ssl._create_unverified_context()
+            zahtev = urllib.request.Request(cilj_url, headers=headers)
+            with urllib.request.urlopen(zahtev, timeout=30, context=ctx) as o:
+                sirovo = o.read()
+            tekst = dekodiraj_bajtove(sirovo)
+            if tekst and len(tekst) > 200:
+                return tekst
+        except Exception as exc:  # noqa: BLE001
+            poslednja_greska = exc
             continue
-    return sirovo.decode("utf-8", errors="replace")
+    raise RuntimeError(f"Neuspesno preuzimanje {url}: {poslednja_greska}")
 
 
 def u_tekst(html):
@@ -408,11 +451,40 @@ ULICA_OPSTINA = {
 }
 
 
+_OSM_ULICA_OPSTINA_CACHE = None
+
+
+def ucitaj_osm_opstine():
+    global _OSM_ULICA_OPSTINA_CACHE
+    if _OSM_ULICA_OPSTINA_CACHE is not None:
+        return _OSM_ULICA_OPSTINA_CACHE
+    _OSM_ULICA_OPSTINA_CACHE = {}
+    koren = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    for rel in ("public/data/ulice_beograd.json", "data/ulice_beograd.json"):
+        p = os.path.join(koren, rel)
+        if os.path.exists(p):
+            try:
+                with open(p, encoding="utf-8") as f:
+                    stavke = json.load(f)
+                for st in stavke:
+                    if isinstance(st, list) and len(st) >= 2:
+                        ku = kljuc(st[0])
+                        if ku and ku not in _OSM_ULICA_OPSTINA_CACHE:
+                            _OSM_ULICA_OPSTINA_CACHE[ku] = st[1]
+                break
+            except Exception:
+                pass
+    return _OSM_ULICA_OPSTINA_CACHE
+
+
 def opstina_za_ulicu(ulica):
     k = kljuc(ulica)
     for ku, op in ULICA_OPSTINA.items():
         if ku == k or ku in k:
             return op
+    osm_op = ucitaj_osm_opstine()
+    if k in osm_op:
+        return osm_op[k]
     return "Beograd"
 
 
@@ -539,20 +611,373 @@ def citaj_bvk_saobracaj():
     return out
 
 
+# ==================================================== 7B. SEKRETARIJAT ZA SAOBRACAJ I PUTEVI SRBIJE (RADOVI)
+
+BGSAOBRACAJ_STRANICE = [
+    "https://bgsaobracaj.rs/vesti",
+    "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a",
+]
+
+PUTEVI_SRBIJE_URL = "https://www.putevi-srbije.rs/index.php/sr/stanje-na-drzavnim-putevima"
+
+# Koridori drzavnih puteva na teritoriji Beograda sa tacnim koordinatama (u latinici radi poredjenja posle u_latinicu)
+BEOGRAD_DRZAVNI_PUTEVI = [
+    (re.compile(r"Mostarska petlja\s*[-–]\s*Konjarnik|Mostar.*Konjarnik|Autokomand", re.I),
+     "Moto-put M11 (Mostar – Konjarnik)", "Savski venac", 44.7895, 20.4642),
+    (re.compile(r"petlja Beograd\s*[-–]\s*petlja Zmaj|Beograd.*Zmaj", re.I),
+     "Moto-put M11 (Dobanovci – Zmaj)", "Zemun", 44.8350, 20.3620),
+    (re.compile(r"petlja Batajnica\s*[-–]\s*petlja Beograd|petlja Batajnica", re.I),
+     "Auto-put A1 (petlja Batajnica)", "Zemun", 44.8920, 20.3110),
+    (re.compile(r"Ostru[zž]ni[cč]ki most|Sur[cč]in.*Ostru[zž]nica|Obilaznica oko Beograda", re.I),
+     "Obilaznica oko Beograda (Ostružnički most)", "Čukarica", 44.7490, 20.3140),
+    (re.compile(r"Aerodrom.*Nikola Tesla|petlja Aerodrom", re.I),
+     "Moto-put M12 (prilaz Aerodromu Nikola Tesla)", "Surčin", 44.8155, 20.3065),
+    (re.compile(r"Umka\s*[-–]\s*Bari[cč]", re.I),
+     "Obrenovački put (Umka – Barič)", "Čukarica", 44.6680, 20.2850),
+    (re.compile(r"Ritopek\s*[-–]\s*Grocka|Smederevski put", re.I),
+     "Smederevski put (Ritopek – Grocka)", "Grocka", 44.6850, 20.6620),
+    (re.compile(r"Pan[cč]eva[cč]ki most", re.I),
+     "Pančevački most", "Palilula", 44.8282, 20.4856),
+]
+
+
+def sredi_ulicu_bgsaobracaj(sirovo: str) -> str:
+    """Pretvara naslov ili izraz iz Sekretarijata za saobracaj u cist naziv prve ulice u nominativu."""
+    s = u_latinicu(sirovo or "").strip()
+    s = re.sub(
+        r"^(?:u\s+|na\s+)?(?:zoni\s+)?(?:raskrsnic[ie]\s+|uglu\s+|petlji\s+)?(?:ulica\s+|ul\.?\s+|ulici\s+)?",
+        "",
+        s,
+        flags=re.I,
+    ).strip()
+    s = re.split(r"\s+(?:na delu|u zoni|u Beogradu|kod|zbog|od\s|do\s|\()", s, maxsplit=1, flags=re.I)[0].strip()
+    # Ako je navedeno vise ulica ili raskrsnica ("Zemunski put, Sajmiste i ...", "Velimira Bate Zivojinovica, Vracar"), uzmi prvu ulicu
+    s = re.split(r"\s*(?:,|\s+i\s+|\s+-\s+|\s+–\s+)\s*", s, maxsplit=1, flags=re.I)[0].strip()
+    s = re.sub(r"^(?:u\s+ul\.?\s+|u\s+ulici\s+|ul\.?\s+|ulici\s+|u\s+)", "", s, flags=re.I).strip()
+    s = s.strip("„“\"'.,:; ")
+    if re.match(r"^bulevaru\b", s, flags=re.I):
+        s = "Bulevar" + s[8:]
+    elif re.match(r"^trgu\b", s, flags=re.I):
+        s = "Trg" + s[4:]
+    else:
+        s = nominativ(s)
+    return lepo(s)
+
+
+def citaj_bgsaobracaj_radove():
+    """Cita zvanicne obustave i izmene rezima saobracaja sa bgsaobracaj.rs."""
+    sada_dt = datetime.now(BEOGRAD)
+    danas_iso = sada_dt.strftime("%Y-%m-%d")
+    out = []
+    vidjeno = set()
+
+    for url in BGSAOBRACAJ_STRANICE:
+        try:
+            tekst = u_tekst(skini_browser(url))
+        except Exception as e:  # noqa: BLE001
+            print(f"  bgsaobracaj ({url.rsplit('/', 1)[-1]}): greska - {e}")
+            continue
+
+        linije = [l.strip() for l in tekst.split("\n") if l.strip()]
+        for i, l in enumerate(linije):
+            # Trazi liniju datuma objave oblika DD/MM/YYYY
+            m_pub = re.match(r"^(\d{2})/(\d{2})/(\d{4})$", l)
+            if not m_pub:
+                continue
+            pd, pm, pg = int(m_pub.group(1)), int(m_pub.group(2)), int(m_pub.group(3))
+            try:
+                pub_dt = datetime(pg, pm, pd, tzinfo=BEOGRAD)
+            except ValueError:
+                continue
+            starost_dana = (sada_dt - pub_dt).days
+
+            naslov = linije[i - 1] if i > 0 else ""
+            opis = " ".join(linije[i + 1:min(len(linije), i + 5)])
+            opis = re.sub(r"^Одељење за привремени режим саобраћаја\s*", "", opis, flags=re.I).strip()
+            if not re.search(r"саобраћај|радов|обустав|затвара", naslov + " " + opis, re.I):
+                continue
+
+            # Izvuci ulicu iz naslova ("Обустава саобраћаја у ул. X") ili iz opisa
+            m_naslov = re.search(
+                r"(?:Обустава саобраћаја|Измена режима(?:\s+и\s+обустава)?\s+саобраћаја|Радови|Затварање саобраћаја)\s+(?:у|на)\s+(.+)$",
+                naslov,
+                re.I,
+            )
+            ulica = ""
+            if m_naslov:
+                ulica = sredi_ulicu_bgsaobracaj(m_naslov.group(1))
+            if not ulica or len(ulica) < 3:
+                m_opis = re.search(
+                    r"(?:ул\.|улици|Улици|Булевару|булевару)\s+([А-ЯЂЈЉЊЋЏ][^,.;()]{2,45})",
+                    opis,
+                )
+                if m_opis:
+                    ulica = sredi_ulicu_bgsaobracaj(m_opis.group(1))
+            if not ulica or len(ulica) < 3:
+                continue
+
+            # Izvuci period vazenja: "од DD.MM.(YYYY.)? до DD.MM.YYYY." ili "дана DD.MM.YYYY."
+            m_per = re.search(
+                r"(?:од|у временском периоду)\s+(\d{1,2})\.\s*(\d{1,2})\.(?:\s*(\d{4})\.?)?\s*(?:до|-|–)\s*(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})",
+                opis,
+                re.I,
+            )
+            od_iso, do_iso, prozor = "", "", ""
+            if m_per:
+                d1, m1, g1, d2, m2, g2 = m_per.groups()
+                if not g1:
+                    g1 = str(int(g2) - 1) if int(m1) > int(m2) else g2
+                od_iso = f"{int(g1):04d}-{int(m1):02d}-{int(d1):02d}"
+                do_iso = f"{int(g2):04d}-{int(m2):02d}-{int(d2):02d}"
+                prozor = f"{int(d1):02d}.{int(m1):02d}. – {int(d2):02d}.{int(m2):02d}."
+            else:
+                m_dan = re.search(r"дана\s*:?\s*(\d{1,2})\.\s*(\d{1,2})\.(?:\s*(\d{4}))?", opis, re.I)
+                if m_dan:
+                    d1, m1, g1 = m_dan.groups()
+                    g1 = g1 or str(pg)
+                    od_iso = do_iso = f"{int(g1):04d}-{int(m1):02d}-{int(d1):02d}"
+                    prozor = f"{int(d1):02d}.{int(m1):02d}."
+
+            # Preskoci radove koji su vec zavrseni pre danasnjeg dana
+            if do_iso and do_iso < danas_iso:
+                continue
+
+            # Ako krajnji datum nije naveden u kratkom izvodu, zadrzi samo sveze objave iz poslednjih 12 dana
+            if not do_iso:
+                if starost_dana > 12:
+                    continue
+                prozor = f"od {pd:02d}.{pm:02d}."
+
+            ku = kljuc(ulica)
+            if not ku or ku in vidjeno:
+                continue
+            vidjeno.add(ku)
+
+            # Proveri da li je opstina navedena u zagradama ili iza zareza u naslovu
+            m_op = re.search(r"\(([А-ЯЂЈЉЊЋЏа-яђјљњћџ\s]{4,20})\)", naslov + " " + opis)
+            opstina = ""
+            if m_op and u_opsegu(m_op.group(1)):
+                opstina = lepo(m_op.group(1))
+            if not opstina and "," in naslov:
+                kandidat_op = naslov.rsplit(",", 1)[-1].strip()
+                if u_opsegu(kandidat_op):
+                    opstina = lepo(kandidat_op)
+            if not opstina:
+                opstina = opstina_za_ulicu(ulica)
+
+            kratak_opis = u_latinicu(opis)
+            if len(kratak_opis) > 220:
+                kratak_opis = kratak_opis[:217].rsplit(" ", 1)[0] + "..."
+
+            out.append({
+                "id": f"radovi-bgsaobracaj-{ku.replace(' ', '-')}",
+                "category": "radovi",
+                "opstina": opstina,
+                "ulica": ulica,
+                "brojevi": "",
+                "timeWindow": prozor,
+                "vaziOd": od_iso,
+                "vaziDo": do_iso,
+                "urgencyLevel": 1 if "обустав" in naslov.lower() or "затворе" in opis.lower() else 2,
+                "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
+                "rawSummary": f"{u_latinicu(naslov)} ({prozor}): {kratak_opis}",
+                "url": url,
+            })
+
+    print(f"  Sekretarijat za saobracaj (bgsaobracaj.rs): {len(out)} aktivnih radova")
+    return out
+
+
+def citaj_puteve_srbije_beograd():
+    """Cita aktuelne radove na drzavnim putevima i obilaznici u zoni Beograda sa putevi-srbije.rs."""
+    tekst = u_latinicu(u_tekst(skini_browser(PUTEVI_SRBIJE_URL)))
+    out = []
+    vidjeno = set()
+
+    for linija in tekst.split("\n"):
+        pasus_cist = re.sub(r"\s+", " ", linija).strip()
+        if len(pasus_cist) < 25 or len(pasus_cist) > 1600:
+            continue
+        for rx, naziv_koridora, opstina, lat, lng in BEOGRAD_DRZAVNI_PUTEVI:
+            if rx.search(pasus_cist):
+                k = kljuc(naziv_koridora)
+                if k in vidjeno:
+                    break
+                vidjeno.add(k)
+                md = re.search(r"do\s+(\d{1,2}\.\s*\d{1,2}\.\s*\d{4})", pasus_cist, re.I)
+                prozor = f"do {md.group(1).replace(' ', '')[:6]}" if md else "aktuelni radovi"
+                kratak = pasus_cist.lstrip("-–•* ").strip()
+                if len(kratak) > 220:
+                    kratak = kratak[:217].rsplit(" ", 1)[0] + "..."
+                out.append({
+                    "id": f"radovi-putevi-srbije-{k.replace(' ', '-')}",
+                    "category": "radovi",
+                    "opstina": opstina,
+                    "ulica": naziv_koridora,
+                    "brojevi": "",
+                    "timeWindow": prozor,
+                    "urgencyLevel": 2,
+                    "lat": lat,
+                    "lng": lng,
+                    "sourceName": "JP Putevi Srbije (Stanje na putevima)",
+                    "rawSummary": kratak,
+                    "url": PUTEVI_SRBIJE_URL,
+                })
+                break
+
+    print(f"  JP Putevi Srbije (Beograd): {len(out)} deonica pod radovima")
+    return out
+
+
+# ==================================================== 7C. JKP PARKING SERVIS - SLOBODNA MESTA UZIVO
+
+PARKING_URL_LAT = "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista"
+PARKING_URL_CIR = "https://www.parking-servis.co.rs/garaze-i-parkiralista"
+
+# Tacna mapa svih 27 javnih garaza i parkiralista u Beogradu (ključ -> (ulica, opstina, lat, lng))
+PARKING_LOKACIJE = {
+    "baba visnjina": ("Baba Višnjina", "Vračar", 44.7995, 20.4742),
+    "botanicka basta": ("Vojvode Dobrnjca", "Palilula", 44.8152, 20.4754),
+    "dr aleksandra kostica": ("Dr Aleksandra Kostića", "Savski venac", 44.8058, 20.4593),
+    "masarikova": ("Masarikova", "Vračar", 44.8053, 20.4631),
+    "obilicev venac": ("Obilićev venac", "Stari grad", 44.8162, 20.4563),
+    "pinki": ("Gradski park (Hala Pinki)", "Zemun", 44.8415, 20.4087),
+    "pionirski park": ("Bulevar kralja Aleksandra (Pionirski park)", "Stari grad", 44.8114, 20.4636),
+    "vukov spomenik": ("Kraljice Marije (Vukov spomenik)", "Zvezdara", 44.8051, 20.4776),
+    "zeleni venac": ("Kraljice Natalije (Zeleni venac)", "Stari grad", 44.8140, 20.4578),
+    "ada": ("Radnička (Ada Ciganlija)", "Čukarica", 44.7890, 20.4150),
+    "ada ciganlija": ("Radnička (Ada Ciganlija)", "Čukarica", 44.7890, 20.4150),
+    "belvil": ("Jurija Gagarina (Belvil)", "Novi Beograd", 44.8058, 20.4052),
+    "bezanijska kosa": ("Partizanske avijacije", "Novi Beograd", 44.8235, 20.3765),
+    "blok 43": ("Antifašističke borbe (Blok 43)", "Novi Beograd", 44.8075, 20.4165),
+    "cukarica": ("Šumadijski trg", "Čukarica", 44.7825, 20.4182),
+    "cvetkova pijaca": ("Živka Davidovića (Cvetkova pijaca)", "Zvezdara", 44.7924, 20.5048),
+    "donji grad": ("Bulevar vojvode Bojovića (Donji grad)", "Stari grad", 44.8266, 20.4525),
+    "kalemegdan": ("Mali Kalemegdan", "Stari grad", 44.8236, 20.4547),
+    "kamenicka": ("Kamenička", "Savski venac", 44.8116, 20.4557),
+    "ljermontova": ("Ljermontova", "Voždovac", 44.7834, 20.4892),
+    "medjunarodni carinski terminal": ("Auto-put za Zagreb (Carinski terminal)", "Novi Beograd", 44.8260, 20.3690),
+    "milan gale muskatirovic": ("Tadeuša Košćuška (25. maj)", "Stari grad", 44.8295, 20.4585),
+    "opstina nbgd": ("Bulevar Mihajla Pupina (Opština NBG)", "Novi Beograd", 44.8208, 20.4146),
+    "opstina novi beograd": ("Bulevar Mihajla Pupina (Opština NBG)", "Novi Beograd", 44.8208, 20.4146),
+    "politika": ("Makedonska (Politika)", "Stari grad", 44.8155, 20.4638),
+    "slavija": ("Prote Mateje (Slavija)", "Vračar", 44.8031, 20.4673),
+    "vidin kapija": ("Bulevar vojvode Bojovića (Vidin kapija)", "Stari grad", 44.8262, 20.4558),
+    "viska": ("Viška (Kalenić pijaca)", "Vračar", 44.7998, 20.4785),
+    "vma": ("Crnotravska (VMA)", "Savski venac", 44.7645, 20.4552),
+}
+
+
+def citaj_parking():
+    """Cita trenutan broj slobodnih mesta u javnim garazama i parkiralistima JKP Parking servis."""
+    html = ""
+    poslednja_greska = None
+    for url in (PARKING_URL_LAT, PARKING_URL_CIR):
+        try:
+            html = skini_browser(url)
+            if html and ("Gara" in html or "Гара" in html or "Obili" in html or "Обили" in html):
+                break
+        except Exception as exc:  # noqa: BLE001
+            poslednja_greska = exc
+            continue
+    if not html:
+        raise RuntimeError(f"Parking servis sajt nije dostupan ({poslednja_greska})")
+
+    tekst = u_latinicu(u_tekst(html))
+    # Trazi parove: Garaža „Obilićev venac” [razmak ili novi red] 103
+    rx_par = re.compile(
+        r"(Gara[zž]a|Parkirali[sš]te)\s*[„\"“'«»]?\s*([^”\"”'\n<>]{2,45}?)\s*[”\"”'«»]?[\s#*_\-:]*?(\d{1,4})\b",
+        re.I,
+    )
+    out = []
+    vidjeno = set()
+    for m in rx_par.finditer(tekst):
+        tip_raw, ime_raw, slobodna_str = m.groups()
+        ime = ime_raw.strip(" „“\"'.,:-")
+        k_ime = kljuc(ime)
+        if not k_ime or k_ime in vidjeno:
+            continue
+        vidjeno.add(k_ime)
+
+        slobodna = int(slobodna_str)
+        tip = "Garaža" if tip_raw.lower().startswith("gara") else "Parkiralište"
+        info = PARKING_LOKACIJE.get(k_ime)
+        if not info:
+            # Pokusaj delimicno poklapanje
+            for k_lok, v_lok in PARKING_LOKACIJE.items():
+                if k_lok in k_ime or k_ime in k_lok:
+                    info = v_lok
+                    break
+
+        if info:
+            ulica, opstina, lat, lng = info
+        else:
+            ulica, opstina, lat, lng = ime, "Beograd", None, None
+
+        if slobodna == 0:
+            hitnost = 1
+            opis = f"{tip} „{ime}“ ({ulica}) je trenutno popunjena — nema slobodnih mesta."
+            prozor = "Popunjeno (0 mesta)"
+        elif slobodna <= 15:
+            hitnost = 1
+            opis = f"{tip} „{ime}“ ({ulica}) je skoro popunjena — preostalo je još {slobodna} slobodnih mesta."
+            prozor = f"Uživo: {slobodna} slobodnih mesta"
+        else:
+            hitnost = 2 if slobodna <= 50 else 3
+            opis = f"{tip} „{ime}“ ({ulica}) trenutno ima {slobodna} slobodnih mesta."
+            prozor = f"Uživo: {slobodna} slobodnih mesta"
+
+        stavka = {
+            "id": f"parking-{k_ime.replace(' ', '-')}",
+            "category": "garaza",
+            "opstina": opstina,
+            "ulica": ulica,
+            "brojevi": str(slobodna),
+            "timeWindow": prozor,
+            "urgencyLevel": hitnost,
+            "sourceName": "JKP Parking servis Beograd (uživo)",
+            "rawSummary": opis,
+            "url": PARKING_URL_LAT,
+        }
+        if lat is not None and lng is not None:
+            stavka["lat"] = lat
+            stavka["lng"] = lng
+        out.append(stavka)
+
+    print(f"  JKP Parking servis: {len(out)} garaza i parkiralista sa slobodnim mestima uzivo")
+    return out
+
+
 # ==================================================== 8. RECNIK (samo citanje, za izvestaj)
 
 def poznate_ulice():
-    """Cita nazive iz recnik.csv ako je dostupan (samo citanje)."""
+    """Cita nazive iz recnik_nazivi.json, ulice_beograd.json ili recnik.csv ako su dostupni (samo citanje)."""
     tu = os.path.dirname(os.path.abspath(__file__))
-    for p in (os.path.join(tu, "recnik_nazivi.json"), "recnik.csv"):
+    koren = os.path.dirname(tu)
+    skup = set()
+    for p in (
+        os.path.join(tu, "recnik_nazivi.json"),
+        os.path.join(koren, "public", "data", "ulice_beograd.json"),
+        os.path.join(koren, "data", "ulice_beograd.json"),
+        "recnik.csv",
+    ):
         if os.path.exists(p):
-            if p.endswith(".json"):
-                with open(p, encoding="utf-8") as f:
-                    return {kljuc(x) for x in json.load(f)}
-            import csv
-            with open(p, encoding="utf-8-sig", newline="") as f:
-                return {kljuc(r["naziv"]) for r in csv.DictReader(f)}
-    return None
+            try:
+                if p.endswith("ulice_beograd.json"):
+                    with open(p, encoding="utf-8") as f:
+                        for st in json.load(f):
+                            if isinstance(st, list) and st:
+                                skup.add(kljuc(st[0]))
+                elif p.endswith(".json"):
+                    with open(p, encoding="utf-8") as f:
+                        skup.update(kljuc(x) for x in json.load(f))
+                else:
+                    import csv
+                    with open(p, encoding="utf-8-sig", newline="") as f:
+                        skup.update(kljuc(r["naziv"]) for r in csv.DictReader(f))
+            except Exception:
+                pass
+    return skup if skup else None
 
 
 # ==================================================== 9. GLAVNI TOK
@@ -580,8 +1005,26 @@ def main():
     else:
         gsp, gsp_radovi = gsp_res, []
     time.sleep(PAUZA)
-    bvk_radovi, s_rad = bezbedno("BVK saobracaj", citaj_bvk_saobracaj)
-    radovi = bvk_radovi + gsp_radovi
+    bvk_radovi, s_rad_bvk = bezbedno("BVK saobracaj", citaj_bvk_saobracaj)
+    time.sleep(PAUZA)
+    bgs_radovi, s_rad_bgs = bezbedno("Sekretarijat za saobracaj", citaj_bgsaobracaj_radove)
+    time.sleep(PAUZA)
+    ps_radovi, s_rad_ps = bezbedno("JP Putevi Srbije", citaj_puteve_srbije_beograd)
+    time.sleep(PAUZA)
+    parking, s_park = bezbedno("JKP Parking servis", citaj_parking)
+
+    # Spoji radove na putu bez dupliranja iste ulice
+    radovi = []
+    vidjene_ulice_radova = set()
+    for st in bgs_radovi + ps_radovi + bvk_radovi + gsp_radovi:
+        ku = kljuc(st.get("ulica", ""))
+        if ku and ku in vidjene_ulice_radova:
+            continue
+        if ku:
+            vidjene_ulice_radova.add(ku)
+        radovi.append(st)
+
+    s_rad = {"ok": bool(s_rad_bgs["ok"] or s_rad_ps["ok"] or s_rad_bvk["ok"] or gsp_radovi)}
 
     # Ako je izvor pao, zadrzi poslednje dobre podatke tog izvora iz prethodnog fajla.
     stari = {}
@@ -600,16 +1043,18 @@ def main():
         planirani = [r for r in stari_dir if r.get("sourceName", "").startswith("BVK - Planirani")]
     if not s_gsp["ok"]:
         gsp = [r for r in stari_dir if r.get("category") == "prevoz"]
-    if not s_rad["ok"] and not gsp_radovi:
+    if not s_rad["ok"] and not radovi:
         radovi = [r for r in stari_dir if r.get("category") == "radovi"]
+    if not s_park["ok"]:
+        parking = [r for r in stari_dir if r.get("category") == "garaza"]
 
-    direktni = kvarovi + planirani + gsp + radovi
+    direktni = kvarovi + planirani + gsp + radovi + parking
 
     recnik = poznate_ulice()
     nepoznate = []
     if recnik is not None:
         nepoznate = sorted({r["ulica"] for r in eds + direktni
-                            if r.get("ulica") and kljuc(r["ulica"]) not in recnik})
+                            if r.get("ulica") and r.get("category") != "garaza" and kljuc(r["ulica"]) not in recnik})
 
     podaci = {
         "verzija": 1,
@@ -620,6 +1065,7 @@ def main():
             "bvk_planirani": dict(s_pl, broj=len(planirani)),
             "gsp": dict(s_gsp, broj=len(gsp)),
             "radovi": dict(s_rad, broj=len(radovi)),
+            "parking": dict(s_park, broj=len(parking)),
         },
         "eds": sorted(eds, key=lambda r: (r["datum"], r["opstina"], r["od"], r["ulica"])),
         "direktni": direktni,
@@ -638,10 +1084,14 @@ def main():
     with open(izlaz, "w", encoding="utf-8") as f:
         json.dump(podaci, f, ensure_ascii=False, indent=1)
 
-    print(f"\n  EDS: {len(eds)}  BVK kvarovi: {len(kvarovi)}  BVK planirani: {len(planirani)}  GSP: {len(gsp)}  Radovi: {len(radovi)}")
+    print(
+        f"\n  EDS: {len(eds)}  BVK kvarovi: {len(kvarovi)}  BVK planirani: {len(planirani)}"
+        f"  GSP: {len(gsp)}  Radovi: {len(radovi)}  Parking: {len(parking)}"
+    )
     print(f"  Ulica van recnika: {len(nepoznate)}")
     print(f"  Zapisano: {izlaz}\n")
 
 
 if __name__ == "__main__":
     main()
+

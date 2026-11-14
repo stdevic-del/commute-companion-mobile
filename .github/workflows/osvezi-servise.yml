@@ -1,4 +1,4 @@
-name: Osvezi servisne izvore (EDS, BVK, GSP)
+name: Osvezi servisne izvore (EDS, BVK, GSP, Radovi, Parking, OSM Ulice)
 
 on:
   schedule:
@@ -21,7 +21,13 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Osvezi EDS, BVK i GSP podatke
+      - name: Jednokratni uvoz svih beogradskih ulica iz OSM Overpass API-ja (ako fajl jos ne postoji)
+        run: |
+          if [ ! -f "public/data/ulice_beograd.json" ] && [ ! -f "data/ulice_beograd.json" ]; then
+            python3 scrapers/uvezi_osm_ulice.py
+          fi
+
+      - name: Osvezi EDS, BVK, GSP, Radove i Parking podatke
         run: |
           if [ -d "public" ]; then
             python3 scrapers/osvezi_servise.py public/data/servisi.json
@@ -37,6 +43,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nema promena u servisnim izvorima."
           else
-            git commit -m "chore(servisi): automatsko osvezavanje EDS, BVK i GSP izvora"
+            git commit -m "chore(servisi): automatsko osvezavanje servisa i OSM baze ulica"
             git push
           fi
+
