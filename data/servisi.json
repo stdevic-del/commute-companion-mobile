@@ -1,6 +1,6 @@
 {
  "verzija": 1,
- "generisano": "2026-11-14T15:44:30+00:00",
+ "generisano": "2026-11-14T21:42:03+00:00",
  "izvori": {
   "eds": {
    "ok": true,
@@ -6813,10 +6813,10 @@
    "timeWindow": "14.11. – 28.11.",
    "vaziOd": "2026-11-14",
    "vaziDo": "2026-11-28",
-   "urgencyLevel": 1,
+   "urgencyLevel": 2,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
-   "rawSummary": "Obustava saobraćaja u Vojvode Sime Popovića (14.11. – 28.11.): Tokom radova na izgradnji sekundarne vodovodne mreže i izgradnji sekundarne kanalizacije, koje izvodi Grad Beograd, za potrebe Direkcije za građevinsko zemljište i izgradnju Beograda J.P. biće obustavljen saobraćaj ,...",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "rawSummary": "Izmena režima saobraćaja tokom radova na izgradnji dela tunelske veze od ul. Karađorđeva do Dunavske padine - Faza 1. (14.11. – 28.11.): Tokom izvođenja pripremnih radova na izgradnji linijskog infrastrukturnog objekta – dela tunelske veze od Karađorđeve ulice do Dunavske padine, kao i radova na zaštiti i izmeštanju instalacija, u periodu od 21....",
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-zemunski-put",
@@ -6830,7 +6830,7 @@
    "urgencyLevel": 1,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Obustava saobraćaja u raskrsnici ulica Zemunski put, Sajmište i Zarija Vujoševića (14.11. – 02.09.): Tokom radova na izgradnji pristupnih saobraćajnica mostu preko reke Save, koje izvodi Direkcija za građevinsko zemljište i izgradnju Beograda J.P. biće zatvorena za saobraćajna raskrsnica ulica Zemunski put, Sajmište...",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-vojvode-skopljanca",
@@ -6844,7 +6844,7 @@
    "urgencyLevel": 1,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Obustava saobraćaja u ul. Vojvode Skopljanca (16.11. – 26.11.): Tokom radova na rekonstrukciji vodovodne mreže, koje izvodi JKP „Beogradski vodovod i kanalizacija“, doći će do obustave saobraćaja u ul. Vojvode Skopljanca od ulaska na parking JKP „Infostan tehnologije“ do ul....",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-ivankovacka",
@@ -6858,7 +6858,7 @@
    "urgencyLevel": 1,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Obustava saobraćaja u Ivankovačkoj (13.11. – 18.06.): Tokom radova na izgradnji dvostrano uzidanog stambeno-poslovnog objekta, doći će do obustave saobraćaja, zauzeća kolovoza i ukidanja tri parking mesta u ul. Ivankovačkoj, svakog utorka i petka, u periodu od...",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-vlajkoviceva",
@@ -6872,7 +6872,7 @@
    "urgencyLevel": 2,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Izmena režima saobraćaja u Vlajkovićevoj (02.11. – 31.12.): Tokom radova na redovnom održavanju ulica i opštinskih puteva na teritoriji grada Beograda, koje izvodi JKP \"Beograd put\", biće izmenjen režim saobraćaja u ul. Vlajkovićevoj, od ul. Kosovske do Trga Nikole Pašića, u...",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-milorada-gavrilovica",
@@ -6880,13 +6880,13 @@
    "opstina": "Stari Grad",
    "ulica": "Milorada Gavrilovića",
    "brojevi": "",
-   "timeWindow": "od 10.11.",
-   "vaziOd": "",
-   "vaziDo": "",
+   "timeWindow": "10.11. – 29.12.",
+   "vaziOd": "2026-11-10",
+   "vaziDo": "2026-12-29",
    "urgencyLevel": 2,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
-   "rawSummary": "Izmena režima saobraćaj u ul. Milorada Gavrilovića, Stari grad (od 10.11.): Tokom radova na izgradnji dvostrano uzidanog stambeno-poslovnog objekta, koje izvodi „MG10“ d.o.o. biće zauzet kolovoz i pet parking mesta u ul. Milorada Gavrilovića u zoni kućnog br. 10, u periodu od 11.11.2026....",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "rawSummary": "Izmena režima saobraćaj u ul. Milorada Gavrilovića, Stari grad (10.11. – 29.12.): Tokom radova na izgradnji dvostrano uzidanog stambeno-poslovnog objekta, koje izvodi „MG10“ d.o.o. biće zauzet kolovoz i pet parking mesta u ul. Milorada Gavrilovića u zoni kućnog br. 10, u periodu od 11.11.2026....",
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-velimira-bate-zivojinovica",
@@ -6900,7 +6900,7 @@
    "urgencyLevel": 2,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Izmena režima saobraćaja u ul. Velimira Bate Živojinovića, Vračar (10.11. – 29.12.): Tokom betoniranja i snabdevanja gradilišta, radi izvođenja radova na izgradnji dvostrano uzidanog stambeno-poslovnog objekta, koje izvodi „Eumax“ d.o.o. i Milan Ćirić, biće zauzet deo kolovoza i trotoara u ul....",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-dr-velizara-kosanovica",
@@ -6914,7 +6914,7 @@
    "urgencyLevel": 1,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Obustava saobraćaja u Dr Velizara Kosanovića (10.11. – 11.12.): Tokom radova na redovnom održavanju ulica i opštinskih puteva na teritoriji grada Beograda, koje izvodi JKP „Beograd-put“, biće obustavljen saobraćaj , zauzeti kolovoz i trotoari u ul. Dr Velizara Kosanovića, od ul....",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-djevdjelijska",
@@ -6928,7 +6928,7 @@
    "urgencyLevel": 1,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Izmena režima i obustava saobraćaja u Đevđelijskoj, Jedrenskoj i u Bulevaru kralja Aleksandra (10.11. – 24.12.): Tokom izvođenja radova na rekonstrukciji u zaštitnom pojasu vodovodne mreže, koje izvodi Grad Beograd - Direkcija za građevinsko zemljište i izgradnju Beograda J.P. doći će do izmene režima i obustave saobraćaja u...",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-pionirska",
@@ -6942,7 +6942,7 @@
    "urgencyLevel": 1,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Obustava saobraćaja u Pionirskoj (16.11.): Tokom organizacije snimanja promotivnog spota biće obustavljen saobraćaj u ul. Pionirska, od skretanja za restoran „Golf“ do skretanje za restoran „Ski Staza“ i od ugla sa Topčiderskim grobljem do restorana Košuta, u...",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-jovana-rajica",
@@ -6956,7 +6956,7 @@
    "urgencyLevel": 2,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Radovi u ul. Jovana Rajića (od 06.11.): Tokom izvođenja radova na redovnom održavanju ulica i opštinskih puteva na teritoriji grada Beograda, koje izvodi JKP „Beograd-put“, doći će do obustave saobraćaja, zauzeća kolovoza u ul. Jovana Rajića , na delu od...",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-bulevar-heroja-sa-kosara",
@@ -6964,13 +6964,13 @@
    "opstina": "Novi Beograd",
    "ulica": "Bulevar Heroja sa Košara",
    "brojevi": "",
-   "timeWindow": "od 06.11.",
-   "vaziOd": "",
-   "vaziDo": "",
+   "timeWindow": "09.11. – 18.12.",
+   "vaziOd": "2026-11-09",
+   "vaziDo": "2026-12-18",
    "urgencyLevel": 2,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
-   "rawSummary": "Izmena režima saobraćaja u Bulevaru heroja sa Košara (od 06.11.): Tokom radova na izgradnji poslovno – stambenog slobodnostojećeg objekta sa tri ulaza, koje izvodi „HSK DEVELOPMENT DOO“, biće povremeno izmenjen režim saobraćaja, zauzet deo kolovoza, dve saobraćajne trake i zelena...",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "rawSummary": "Izmena režima saobraćaja u Bulevaru heroja sa Košara (09.11. – 18.12.): Tokom radova na izgradnji poslovno – stambenog slobodnostojećeg objekta sa tri ulaza, koje izvodi „HSK DEVELOPMENT DOO“, biće povremeno izmenjen režim saobraćaja, zauzet deo kolovoza, dve saobraćajne trake i zelena...",
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-ugrinovacki-put",
@@ -6984,7 +6984,7 @@
    "urgencyLevel": 2,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Izmena režima saobraćaja u ul. Ugrinovački put 33. deo (09.11. – 18.12.): Tokom izvođenja radova radova na izgradnji sekundarne vodovodne mreže, koje izvodi Direkcija za građevinsko zemljište i izgradnju Beograda J.P., doći će do izmene režima saobraćaja u ul. Ugrinovački put 33. deo , po...",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-bolnica-bezanijska-kosa",
@@ -6998,7 +6998,7 @@
    "urgencyLevel": 2,
    "sourceName": "Sekretarijat za saobraćaj Grada Beograda",
    "rawSummary": "Izmena režima saobraćaja u ul. Bolnica Bežanijska kosa (05.11. – 30.11.): Tokom izvođenja radova na redovnom održavanju ulica i opštinskih puteva na teritoriji grada Beograda, koje izvodi JKP „Beograd put“, biće izmenjen režim saobraćaja, zauzeti deo kolovoza u ul. Bolnica Bežanijska kosa...",
-   "url": "https://bgsaobracaj.rs/vesti"
+   "url": "https://bgsaobracaj.rs/sekretarijat/sektor-za-puteve/16/odeljenje-za-privremeni-rezim-saobraca%D1%98a"
   },
   {
    "id": "radovi-bgsaobracaj-cara-dusana",
@@ -7602,11 +7602,11 @@
    "category": "garaza",
    "opstina": "Vračar",
    "ulica": "Baba Višnjina",
-   "brojevi": "197",
-   "timeWindow": "Uživo: 197 slobodnih mesta",
+   "brojevi": "201",
+   "timeWindow": "Uživo: 201 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Baba Višnjina“ (Baba Višnjina) trenutno ima 197 slobodnih mesta.",
+   "rawSummary": "Garaža „Baba Višnjina“ (Baba Višnjina) trenutno ima 201 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7995,
    "lng": 20.4742
@@ -7630,11 +7630,11 @@
    "category": "garaza",
    "opstina": "Savski venac",
    "ulica": "Dr Aleksandra Kostića",
-   "brojevi": "36",
-   "timeWindow": "Uživo: 36 slobodnih mesta",
+   "brojevi": "35",
+   "timeWindow": "Uživo: 35 slobodnih mesta",
    "urgencyLevel": 2,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Dr Aleksandra Kostića“ (Dr Aleksandra Kostića) trenutno ima 36 slobodnih mesta.",
+   "rawSummary": "Garaža „Dr Aleksandra Kostića“ (Dr Aleksandra Kostića) trenutno ima 35 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8058,
    "lng": 20.4593
@@ -7644,11 +7644,11 @@
    "category": "garaza",
    "opstina": "Vračar",
    "ulica": "Masarikova",
-   "brojevi": "256",
-   "timeWindow": "Uživo: 256 slobodnih mesta",
+   "brojevi": "296",
+   "timeWindow": "Uživo: 296 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Masarikova“ (Masarikova) trenutno ima 256 slobodnih mesta.",
+   "rawSummary": "Garaža „Masarikova“ (Masarikova) trenutno ima 296 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8053,
    "lng": 20.4631
@@ -7658,11 +7658,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Obilićev venac",
-   "brojevi": "0",
-   "timeWindow": "Popunjeno (0 mesta)",
-   "urgencyLevel": 1,
+   "brojevi": "43",
+   "timeWindow": "Uživo: 43 slobodnih mesta",
+   "urgencyLevel": 2,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Obilićev venac“ (Obilićev venac) je trenutno popunjena — nema slobodnih mesta.",
+   "rawSummary": "Garaža „Obilićev venac“ (Obilićev venac) trenutno ima 43 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8162,
    "lng": 20.4563
@@ -7672,11 +7672,11 @@
    "category": "garaza",
    "opstina": "Zemun",
    "ulica": "Gradski park (Hala Pinki)",
-   "brojevi": "80",
-   "timeWindow": "Uživo: 80 slobodnih mesta",
+   "brojevi": "96",
+   "timeWindow": "Uživo: 96 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Pinki“ (Gradski park) trenutno ima 80 slobodnih mesta.",
+   "rawSummary": "Garaža „Pinki“ (Gradski park) trenutno ima 96 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8415,
    "lng": 20.4087
@@ -7686,11 +7686,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Bulevar kralja Aleksandra (Pionirski park)",
-   "brojevi": "87",
-   "timeWindow": "Uživo: 87 slobodnih mesta",
+   "brojevi": "116",
+   "timeWindow": "Uživo: 116 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Pionirski park“ (Bulevar kralja Aleksandra) trenutno ima 87 slobodnih mesta.",
+   "rawSummary": "Garaža „Pionirski park“ (Bulevar kralja Aleksandra) trenutno ima 116 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8114,
    "lng": 20.4636
@@ -7714,11 +7714,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Kraljice Natalije (Zeleni venac)",
-   "brojevi": "5",
-   "timeWindow": "Uživo: 5 slobodnih mesta",
-   "urgencyLevel": 1,
+   "brojevi": "53",
+   "timeWindow": "Uživo: 53 slobodnih mesta",
+   "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Zeleni venac“ (Kraljice Natalije) je skoro popunjena — preostalo je još 5 slobodnih mesta.",
+   "rawSummary": "Garaža „Zeleni venac“ (Kraljice Natalije) trenutno ima 53 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.814,
    "lng": 20.4578
@@ -7728,11 +7728,11 @@
    "category": "garaza",
    "opstina": "Čukarica",
    "ulica": "Radnička (Ada Ciganlija)",
-   "brojevi": "874",
-   "timeWindow": "Uživo: 874 slobodnih mesta",
+   "brojevi": "959",
+   "timeWindow": "Uživo: 959 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Ada“ (Radnička) trenutno ima 874 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Ada“ (Radnička) trenutno ima 959 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.789,
    "lng": 20.415
@@ -7742,11 +7742,11 @@
    "category": "garaza",
    "opstina": "Novi Beograd",
    "ulica": "Jurija Gagarina (Belvil)",
-   "brojevi": "400",
-   "timeWindow": "Uživo: 400 slobodnih mesta",
+   "brojevi": "402",
+   "timeWindow": "Uživo: 402 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Belvil“ (Jurija Gagarina) trenutno ima 400 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Belvil“ (Jurija Gagarina) trenutno ima 402 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8058,
    "lng": 20.4052
@@ -7756,11 +7756,11 @@
    "category": "garaza",
    "opstina": "Novi Beograd",
    "ulica": "Partizanske avijacije",
-   "brojevi": "65",
-   "timeWindow": "Uživo: 65 slobodnih mesta",
+   "brojevi": "57",
+   "timeWindow": "Uživo: 57 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Bežanijska kosa“ (Partizanske avijacije) trenutno ima 65 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Bežanijska kosa“ (Partizanske avijacije) trenutno ima 57 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8235,
    "lng": 20.3765
@@ -7784,11 +7784,11 @@
    "category": "garaza",
    "opstina": "Čukarica",
    "ulica": "Šumadijski trg",
-   "brojevi": "61",
-   "timeWindow": "Uživo: 61 slobodnih mesta",
+   "brojevi": "66",
+   "timeWindow": "Uživo: 66 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Čukarica“ (Šumadijski trg) trenutno ima 61 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Čukarica“ (Šumadijski trg) trenutno ima 66 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7825,
    "lng": 20.4182
@@ -7798,11 +7798,11 @@
    "category": "garaza",
    "opstina": "Zvezdara",
    "ulica": "Živka Davidovića (Cvetkova pijaca)",
-   "brojevi": "30",
-   "timeWindow": "Uživo: 30 slobodnih mesta",
+   "brojevi": "34",
+   "timeWindow": "Uživo: 34 slobodnih mesta",
    "urgencyLevel": 2,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Cvetkova pijaca“ (Živka Davidovića) trenutno ima 30 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Cvetkova pijaca“ (Živka Davidovića) trenutno ima 34 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7924,
    "lng": 20.5048
@@ -7812,11 +7812,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Bulevar vojvode Bojovića (Donji grad)",
-   "brojevi": "60",
-   "timeWindow": "Uživo: 60 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "0",
+   "timeWindow": "Popunjeno (0 mesta)",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Donji grad“ (Bulevar vojvode Bojovića) trenutno ima 60 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Donji grad“ (Bulevar vojvode Bojovića) je trenutno popunjeno — nema slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8266,
    "lng": 20.4525
@@ -7826,11 +7826,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Mali Kalemegdan",
-   "brojevi": "29",
-   "timeWindow": "Uživo: 29 slobodnih mesta",
-   "urgencyLevel": 2,
+   "brojevi": "79",
+   "timeWindow": "Uživo: 79 slobodnih mesta",
+   "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Kalemegdan“ (Mali Kalemegdan) trenutno ima 29 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Kalemegdan“ (Mali Kalemegdan) trenutno ima 79 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8236,
    "lng": 20.4547
@@ -7840,11 +7840,11 @@
    "category": "garaza",
    "opstina": "Savski venac",
    "ulica": "Kamenička",
-   "brojevi": "15",
-   "timeWindow": "Uživo: 15 slobodnih mesta",
+   "brojevi": "14",
+   "timeWindow": "Uživo: 14 slobodnih mesta",
    "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Kamenička“ (Kamenička) je skoro popunjeno — preostalo je još 15 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Kamenička“ (Kamenička) je skoro popunjeno — preostalo je još 14 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8116,
    "lng": 20.4557
@@ -7854,11 +7854,11 @@
    "category": "garaza",
    "opstina": "Voždovac",
    "ulica": "Ljermontova",
-   "brojevi": "67",
-   "timeWindow": "Uživo: 67 slobodnih mesta",
+   "brojevi": "68",
+   "timeWindow": "Uživo: 68 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Ljermontova“ (Ljermontova) trenutno ima 67 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Ljermontova“ (Ljermontova) trenutno ima 68 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7834,
    "lng": 20.4892
@@ -7868,11 +7868,11 @@
    "category": "garaza",
    "opstina": "Novi Beograd",
    "ulica": "Auto-put za Zagreb (Carinski terminal)",
-   "brojevi": "220",
-   "timeWindow": "Uživo: 220 slobodnih mesta",
+   "brojevi": "223",
+   "timeWindow": "Uživo: 223 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Međunarodni carinski terminal“ (Auto-put za Zagreb) trenutno ima 220 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Međunarodni carinski terminal“ (Auto-put za Zagreb) trenutno ima 223 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.826,
    "lng": 20.369
@@ -7882,11 +7882,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Tadeuša Košćuška (25. maj)",
-   "brojevi": "238",
-   "timeWindow": "Uživo: 238 slobodnih mesta",
+   "brojevi": "235",
+   "timeWindow": "Uživo: 235 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Milan Gale Muškatirović“ (Tadeuša Košćuška) trenutno ima 238 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Milan Gale Muškatirović“ (Tadeuša Košćuška) trenutno ima 235 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8295,
    "lng": 20.4585
@@ -7896,11 +7896,11 @@
    "category": "garaza",
    "opstina": "Novi Beograd",
    "ulica": "Bulevar Mihajla Pupina (Opština NBG)",
-   "brojevi": "114",
-   "timeWindow": "Uživo: 114 slobodnih mesta",
+   "brojevi": "120",
+   "timeWindow": "Uživo: 120 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Opština NBGD“ (Bulevar Mihajla Pupina) trenutno ima 114 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Opština NBGD“ (Bulevar Mihajla Pupina) trenutno ima 120 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8208,
    "lng": 20.4146
@@ -7938,11 +7938,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Bulevar vojvode Bojovića (Vidin kapija)",
-   "brojevi": "3",
-   "timeWindow": "Uživo: 3 slobodnih mesta",
-   "urgencyLevel": 1,
+   "brojevi": "55",
+   "timeWindow": "Uživo: 55 slobodnih mesta",
+   "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Vidin kapija“ (Bulevar vojvode Bojovića) je skoro popunjeno — preostalo je još 3 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Vidin kapija“ (Bulevar vojvode Bojovića) trenutno ima 55 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8262,
    "lng": 20.4558
@@ -7952,11 +7952,11 @@
    "category": "garaza",
    "opstina": "Vračar",
    "ulica": "Viška (Kalenić pijaca)",
-   "brojevi": "6",
-   "timeWindow": "Uživo: 6 slobodnih mesta",
+   "brojevi": "11",
+   "timeWindow": "Uživo: 11 slobodnih mesta",
    "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Viška“ (Viška) je skoro popunjeno — preostalo je još 6 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Viška“ (Viška) je skoro popunjeno — preostalo je još 11 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7998,
    "lng": 20.4785
@@ -7966,11 +7966,11 @@
    "category": "garaza",
    "opstina": "Savski venac",
    "ulica": "Crnotravska (VMA)",
-   "brojevi": "366",
-   "timeWindow": "Uživo: 366 slobodnih mesta",
+   "brojevi": "559",
+   "timeWindow": "Uživo: 559 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „VMA“ (Crnotravska) trenutno ima 366 slobodnih mesta.",
+   "rawSummary": "Parkiralište „VMA“ (Crnotravska) trenutno ima 559 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7645,
    "lng": 20.4552
