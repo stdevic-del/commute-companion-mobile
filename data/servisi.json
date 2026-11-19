@@ -1,10 +1,10 @@
 {
  "verzija": 1,
- "generisano": "2026-11-19T06:08:50+00:00",
+ "generisano": "2026-11-19T12:02:54+00:00",
  "izvori": {
   "eds": {
    "ok": true,
-   "broj": 144
+   "broj": 91
   },
   "bvk_kvarovi": {
    "ok": true,
@@ -29,589 +29,6 @@
  },
  "eds": [
   {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Donji Kraj",
-   "brojevi": "8A,24-28A,38,252A,310,332,27,31,35,215,225,271,347",
-   "ulicaCir": "ДОЊИ КРАЈ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Dumača",
-   "brojevi": "408A",
-   "ulicaCir": "ДУМАЧА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Gornji Kraj",
-   "brojevi": "38A,58C,252B,15A,61",
-   "ulicaCir": "ГОРЊИ КРАЈ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Karašica",
-   "brojevi": "412,289A,345",
-   "ulicaCir": "КАРАШИЦА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Kod Doma",
-   "brojevi": "214A,252,312,15-17B,23-23A",
-   "ulicaCir": "КОД ДОМА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Kod Groblja",
-   "brojevi": "0,34A,274-276,382-384,396,402",
-   "ulicaCir": "КОД ГРОБЉА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Kod Škole",
-   "brojevi": "0,16,28,116A,190,13A,325",
-   "ulicaCir": "КОД ШКОЛЕ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Konatice",
-   "brojevi": "0,58D,170A-170B,200A,210A,214,1,39A-39B,167",
-   "ulicaCir": "КОНАТИЦЕ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Nema Naziva Ulice",
-   "brojevi": "8,38,46-48,54,58-58A,86,378,382,392,396,408,13,21,27A-29,33-35A,41-49,201,215-217,225,263,267-269,273",
-   "ulicaCir": "НЕМА НАЗИВА УЛИЦЕ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Put za Stepojevac",
-   "brojevi": "58B,218,49A",
-   "ulicaCir": "ПУТ ЗА СТЕПОЈЕВАЦ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Selo",
-   "brojevi": "50",
-   "ulicaCir": "СЕЛО",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Srednji Kraj",
-   "brojevi": "38B,408B,201",
-   "ulicaCir": "СРЕДЊИ КРАЈ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "09:00",
-   "do": "10:30",
-   "naselje": "Konatice",
-   "ulica": "Ulica Konatice",
-   "brojevi": "237",
-   "ulicaCir": "УЛИЦА КОНАТИЦЕ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "10:30",
-   "do": "12:00",
-   "naselje": "Poljane",
-   "ulica": "Brgule",
-   "brojevi": "77",
-   "ulicaCir": "БРГУЛЕ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "10:30",
-   "do": "12:00",
-   "naselje": "Poljane",
-   "ulica": "Centar",
-   "brojevi": "72B,98A-100A,71B,163",
-   "ulicaCir": "ЦЕНТАР",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "10:30",
-   "do": "12:00",
-   "naselje": "Poljane",
-   "ulica": "Poljane",
-   "brojevi": "4,10-12,68-70,74,80-86,94,100,108,1-3,7-11,15,85",
-   "ulicaCir": "ПОЉАНЕ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "10:30",
-   "do": "12:00",
-   "naselje": "Poljane",
-   "ulica": "Poljane Donji Kraj",
-   "brojevi": "82,5-7A,31",
-   "ulicaCir": "ПОЉАНЕ ДОЊИ КРАЈ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "10:30",
-   "do": "12:00",
-   "naselje": "Poljane",
-   "ulica": "Poljane Gornji Kraj",
-   "brojevi": "6A,28,100,108A,112",
-   "ulicaCir": "ПОЉАНЕ ГОРЊИ КРАЈ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "10:30",
-   "do": "12:00",
-   "naselje": "Poljane",
-   "ulica": "Selo",
-   "brojevi": "16,20,104A",
-   "ulicaCir": "СЕЛО",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Obrenovac",
-   "od": "10:30",
-   "do": "12:00",
-   "naselje": "Poljane",
-   "ulica": "Škola",
-   "brojevi": "32,68A,102A,162-162A,13A",
-   "ulicaCir": "ШКОЛА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:00",
-   "do": "14:00",
-   "naselje": "Bg-krnjača",
-   "ulica": "Dunavskih Alasa",
-   "brojevi": "5-77,83-93,97-103",
-   "ulicaCir": "ДУНАВСКИХ АЛАСА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:00",
-   "do": "14:00",
-   "naselje": "Bg-krnjača",
-   "ulica": "Gradašnička",
-   "brojevi": "BB,40-78,82-98,102-122",
-   "ulicaCir": "ГРАДАШНИЧКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:00",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Pančevački Put",
-   "brojevi": "200",
-   "ulicaCir": "ПАНЧЕВАЧКИ ПУТ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:00",
-   "do": "14:00",
-   "naselje": "Krnjača",
-   "ulica": "Pančevački Put",
-   "brojevi": "152A-176,180F-182N,200-200B",
-   "ulicaCir": "ПАНЧЕВАЧКИ ПУТ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Jahorinska",
-   "brojevi": "2-12,16-20,7",
-   "ulicaCir": "ЈАХОРИНСКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Lesnovska",
-   "brojevi": "2-6,12-16A",
-   "ulicaCir": "ЛЕСНОВСКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Levskoga",
-   "brojevi": "2-14,1-11",
-   "ulicaCir": "ЛЕВСКОГА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Pribojska",
-   "brojevi": "23",
-   "ulicaCir": "ПРИБОЈСКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Tina Ujevića",
-   "brojevi": "2-8,1-5,9-17",
-   "ulicaCir": "ТИНА УЈЕВИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Vlade Ilića",
-   "brojevi": "3-5",
-   "ulicaCir": "ВЛАДЕ ИЛИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Palilula",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Vojvode M Krstića",
-   "brojevi": "2A,1A",
-   "ulicaCir": "ВОЈВОДЕ М КРСТИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Surčin",
-   "od": "09:00",
-   "do": "15:00",
-   "naselje": "Dobanovci",
-   "ulica": "Dušanova",
-   "brojevi": "24-26,32,36-50,56-96,100-102,110-118,122-134,33-59,63-91,95-111,115-123,127-139",
-   "ulicaCir": "ДУШАНОВА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Surčin",
-   "od": "09:00",
-   "do": "15:00",
-   "naselje": "Dobanovci",
-   "ulica": "Janka Čmelika",
-   "brojevi": "BB,30-74,31-63,69-77,81-83,87",
-   "ulicaCir": "ЈАНКА ЧМЕЛИКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Surčin",
-   "od": "09:00",
-   "do": "15:00",
-   "naselje": "Dobanovci",
-   "ulica": "Sokolska",
-   "brojevi": "7-31,47-47G",
-   "ulicaCir": "СОКОЛСКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Voždovac",
-   "od": "09:00",
-   "do": "11:00",
-   "naselje": "",
-   "ulica": "Bilećka",
-   "brojevi": "28A",
-   "ulicaCir": "БИЛЕЋКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Voždovac",
-   "od": "09:00",
-   "do": "11:00",
-   "naselje": "",
-   "ulica": "Kapetana Zavišića",
-   "brojevi": "4",
-   "ulicaCir": "КАПЕТАНА ЗАВИШИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zemun",
-   "od": "08:30",
-   "do": "14:30",
-   "naselje": "Zemun",
-   "ulica": "Batajnički Drum 1 Deo",
-   "brojevi": "BB",
-   "ulicaCir": "БАТАЈНИЧКИ ДРУМ 1 ДЕО",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zemun",
-   "od": "08:30",
-   "do": "14:30",
-   "naselje": "",
-   "ulica": "Ilije Rogulića",
-   "brojevi": "2-8,14-34,38-44",
-   "ulicaCir": "ИЛИЈЕ РОГУЛИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zemun",
-   "od": "08:30",
-   "do": "14:30",
-   "naselje": "",
-   "ulica": "Jovana Stojsavljevića",
-   "brojevi": "1-13A,19-53",
-   "ulicaCir": "ЈОВАНА СТОЈСАВЉЕВИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zemun",
-   "od": "08:30",
-   "do": "14:30",
-   "naselje": "",
-   "ulica": "Lazara Mamuzića",
-   "brojevi": "16-16C,1-9",
-   "ulicaCir": "ЛАЗАРА МАМУЗИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zemun",
-   "od": "08:30",
-   "do": "14:30",
-   "naselje": "",
-   "ulica": "Milice Šuvaković",
-   "brojevi": "17-61",
-   "ulicaCir": "МИЛИЦЕ ШУВАКОВИЋ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zemun",
-   "od": "08:30",
-   "do": "14:30",
-   "naselje": "",
-   "ulica": "Vere Dimitrijević",
-   "brojevi": "1-13",
-   "ulicaCir": "ВЕРЕ ДИМИТРИЈЕВИЋ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zvezdara",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "Mirijevo",
-   "ulica": "Dolačka",
-   "brojevi": "8,9A-9V",
-   "ulicaCir": "ДОЛАЧКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zvezdara",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Heroja Gorana Ostojića",
-   "brojevi": "6-14,18,23,35-37",
-   "ulicaCir": "ХЕРОЈА ГОРАНА ОСТОЈИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zvezdara",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Matice Srpske",
-   "brojevi": "60-68,72D,57B-57V,69Đ-73C,85G-91V",
-   "ulicaCir": "МАТИЦЕ СРПСКЕ",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zvezdara",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "Beograd",
-   "ulica": "Matičanska",
-   "brojevi": "2A-8A,1-5,33",
-   "ulicaCir": "МАТИЧАНСКА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Zvezdara",
-   "od": "08:30",
-   "do": "14:00",
-   "naselje": "",
-   "ulica": "Šesnaestog Oktobra",
-   "brojevi": "28-38A,21-23",
-   "ulicaCir": "ШЕСНАЕСТОГ ОКТОБРА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Čukarica",
-   "od": "08:00",
-   "do": "12:00",
-   "naselje": "Žarkovo",
-   "ulica": "Dimitrija Avramovića",
-   "brojevi": "bb,22-32,17",
-   "ulicaCir": "ДИМИТРИЈА АВРАМОВИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Čukarica",
-   "od": "08:00",
-   "do": "12:00",
-   "naselje": "Žarkovo",
-   "ulica": "Jovana Mikića",
-   "brojevi": "1-7",
-   "ulicaCir": "ЈОВАНА МИКИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Čukarica",
-   "od": "08:00",
-   "do": "12:00",
-   "naselje": "Žarkovo",
-   "ulica": "Rada Drainca",
-   "brojevi": "10-22,5-17",
-   "ulicaCir": "РАДА ДРАИНЦА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Čukarica",
-   "od": "08:00",
-   "do": "12:00",
-   "naselje": "Žarkovo",
-   "ulica": "Veljka Petrovića",
-   "brojevi": "84,90-94,102-110,120,130-136,103-105,123-139,155-159,167-171",
-   "ulicaCir": "ВЕЉКА ПЕТРОВИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Čukarica",
-   "od": "08:00",
-   "do": "12:00",
-   "naselje": "Žarkovo",
-   "ulica": "Vladimira Rolovića",
-   "brojevi": "94-98,102-172,176-176A,89-97A,101-157,161",
-   "ulicaCir": "ВЛАДИМИРА РОЛОВИЋА",
-   "izvor": "Dan_0"
-  },
-  {
-   "datum": "2026-11-18",
-   "opstina": "Čukarica",
-   "od": "08:30",
-   "do": "16:00",
-   "naselje": "Rušanj",
-   "ulica": "Drage Vukićevića 2 Deo",
-   "brojevi": "4-16,20,24-28,1-9",
-   "ulicaCir": "ДРАГЕ ВУКИЋЕВИЋА 2 ДЕО",
-   "izvor": "Dan_0"
-  },
-  {
    "datum": "2026-11-19",
    "opstina": "Obrenovac",
    "od": "09:00",
@@ -620,7 +37,7 @@
    "ulica": "Bugarski Kraj",
    "brojevi": "6",
    "ulicaCir": "БУГАРСКИ КРАЈ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -631,7 +48,7 @@
    "ulica": "Centar",
    "brojevi": "0BB,5",
    "ulicaCir": "ЦЕНТАР",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -642,7 +59,7 @@
    "ulica": "Dorćula",
    "brojevi": "14-18,22,34-36,40,52A,56-56,62-64,70-72,13,19,29,33-35,43,47,55,61,67",
    "ulicaCir": "ДОРЋУЛА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -653,7 +70,7 @@
    "ulica": "Grobljanska",
    "brojevi": "2-4,8-12,16-20,3-11A,19-21B",
    "ulicaCir": "ГРОБЉАНСКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -664,7 +81,7 @@
    "ulica": "Kod Škole",
    "brojevi": "0",
    "ulicaCir": "КОД ШКОЛЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -675,7 +92,7 @@
    "ulica": "Krtinska",
    "brojevi": "0-32,38,42-50,54,58-60,64,68,1-21,25-27,31-33,37-45,49-53,57-61,109",
    "ulicaCir": "КРТИНСКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -686,7 +103,7 @@
    "ulica": "Mlinarska",
    "brojevi": "2-4,8,1,7,11",
    "ulicaCir": "МЛИНАРСКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -697,7 +114,7 @@
    "ulica": "Nema Naziv Ulice",
    "brojevi": "14,36,42,48,7,37",
    "ulicaCir": "НЕМА НАЗИВ УЛИЦЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -708,7 +125,7 @@
    "ulica": "Obrenovac Krtinska",
    "brojevi": "16",
    "ulicaCir": "ОБРЕНОВАЦ КРТИНСКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -719,7 +136,7 @@
    "ulica": "Put za Duboku Baru",
    "brojevi": "4A,8,14,3,9",
    "ulicaCir": "ПУТ ЗА ДУБОКУ БАРУ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -730,7 +147,7 @@
    "ulica": "Put za Provo",
    "brojevi": "8,16A,32,36-38A,42-46A,50,11,15-21,27,31-31B,37-39,43",
    "ulicaCir": "ПУТ ЗА ПРОВО",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -741,7 +158,7 @@
    "ulica": "Selo",
    "brojevi": "40,46,60A,128,9-13,21,51,79",
    "ulicaCir": "СЕЛО",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -752,7 +169,7 @@
    "ulica": "Trnjaci",
    "brojevi": "1",
    "ulicaCir": "ТРЊАЦИ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -763,7 +180,7 @@
    "ulica": "Višnjica",
    "brojevi": "8B,14-14,20-24,28-36A,1-3A,9A-17,65",
    "ulicaCir": "ВИШЊИЦА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -774,7 +191,7 @@
    "ulica": "Bogoljuba Uroševića-crnog",
    "brojevi": "0,29A",
    "ulicaCir": "БОГОЉУБА УРОШЕВИЋА-ЦРНОГ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -785,7 +202,7 @@
    "ulica": "Gaj",
    "brojevi": "11,23",
    "ulicaCir": "ГАЈ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -796,7 +213,7 @@
    "ulica": "Nemanjina",
    "brojevi": "111,119-135,139-161B,167-173,177-181,185",
    "ulicaCir": "НЕМАЊИНА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -807,7 +224,7 @@
    "ulica": "Nikole Tesle",
    "brojevi": "28,36",
    "ulicaCir": "НИКОЛЕ ТЕСЛЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -818,7 +235,7 @@
    "ulica": "Rvaćanska",
    "brojevi": "60-64,76-102,51-61,127A",
    "ulicaCir": "РВАЋАНСКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -829,7 +246,7 @@
    "ulica": "Aleksandrića Kraj",
    "brojevi": "197",
    "ulicaCir": "АЛЕКСАНДРИЋА КРАЈ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -840,7 +257,7 @@
    "ulica": "Centar",
    "brojevi": "46,140A,139,1111",
    "ulicaCir": "ЦЕНТАР",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -851,7 +268,7 @@
    "ulica": "Gajića Kraj",
    "brojevi": "35A",
    "ulicaCir": "ГАЈИЋА КРАЈ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -862,7 +279,7 @@
    "ulica": "Kod Doma",
    "brojevi": "158-158A,168A,129,161,165",
    "ulicaCir": "КОД ДОМА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -873,7 +290,7 @@
    "ulica": "Kod Igrališta",
    "brojevi": "82A",
    "ulicaCir": "КОД ИГРАЛИШТА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -884,7 +301,7 @@
    "ulica": "Kod Zadruge",
    "brojevi": "147",
    "ulicaCir": "КОД ЗАДРУГЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -895,7 +312,7 @@
    "ulica": "Kod Škole",
    "brojevi": "52",
    "ulicaCir": "КОД ШКОЛЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -906,7 +323,7 @@
    "ulica": "Lukića Kraj",
    "brojevi": "17A",
    "ulicaCir": "ЛУКИЋА КРАЈ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -917,7 +334,7 @@
    "ulica": "Movtica",
    "brojevi": "28-30,38,42,46A,68,72-74,13-15,31,35-41A,45,49,55-79,83-85",
    "ulicaCir": "МОВТИЦА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -928,7 +345,7 @@
    "ulica": "Popovića Kraj",
    "brojevi": "30,86",
    "ulicaCir": "ПОПОВИЋА КРАЈ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -939,7 +356,7 @@
    "ulica": "Selo",
    "brojevi": "90A,102,110,196,200,95,109",
    "ulicaCir": "СЕЛО",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -950,7 +367,7 @@
    "ulica": "Stevanovića Kraj",
    "brojevi": "11B",
    "ulicaCir": "СТЕВАНОВИЋА КРАЈ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -961,7 +378,7 @@
    "ulica": "Urovačka",
    "brojevi": "60,78,84,106,132,140,152,170,186,196-198,202,5-5G,11A-13,23,107,111,135,161,183,201-203",
    "ulicaCir": "УРОВАЧКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -972,7 +389,7 @@
    "ulica": "Školska",
    "brojevi": "4,10,7B,11-13,17-19,23-27,33,39,49A",
    "ulicaCir": "ШКОЛСКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -983,7 +400,7 @@
    "ulica": "Braće Joksića",
    "brojevi": "215B",
    "ulicaCir": "БРАЋЕ ЈОКСИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -994,7 +411,7 @@
    "ulica": "Braće Lazića",
    "brojevi": "6,232,238-242,215B,261A,267A,285,299-301,311A,317-319G,331,335,343-343A,351",
    "ulicaCir": "БРАЋЕ ЛАЗИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1005,7 +422,7 @@
    "ulica": "Kod Radio Stanice",
    "brojevi": "230,1-1BB,245,345,1111",
    "ulicaCir": "КОД РАДИО СТАНИЦЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1016,7 +433,7 @@
    "ulica": "Radoja Voštića",
    "brojevi": "8,3-7",
    "ulicaCir": "РАДОЈА ВОШТИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1027,7 +444,7 @@
    "ulica": "Rasinska",
    "brojevi": "3,7,11",
    "ulicaCir": "РАСИНСКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1038,7 +455,7 @@
    "ulica": "Ulica 36",
    "brojevi": "2-6,264",
    "ulicaCir": "УЛИЦА 36",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1049,7 +466,7 @@
    "ulica": "Urovačka",
    "brojevi": "214",
    "ulicaCir": "УРОВАЧКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1060,7 +477,7 @@
    "ulica": "Valjevski Put - Radio Stanica",
    "brojevi": "0,218,317,489",
    "ulicaCir": "ВАЉЕВСКИ ПУТ - РАДИО СТАНИЦА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1071,7 +488,7 @@
    "ulica": "Zvečka Kod Mlina",
    "brojevi": "216",
    "ulicaCir": "ЗВЕЧКА КОД МЛИНА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1082,7 +499,7 @@
    "ulica": "Šabački Put",
    "brojevi": "6,14,20,70,198,202,206,210-212,216A-218,222-224,228-230,248-250,254,270,332A-334,802,9B,25,47,53B-53D,203B-209,213-231,235,243A,247,253-259B,273,331-337,343-345D,349A",
    "ulicaCir": "ШАБАЧКИ ПУТ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1093,7 +510,7 @@
    "ulica": "Carice Milice",
    "brojevi": "2",
    "ulicaCir": "ЦАРИЦЕ МИЛИЦЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1104,7 +521,7 @@
    "ulica": "Cara Nikolaja Drugog",
    "brojevi": "7-9,11-13,1,17-19,23",
    "ulicaCir": "ЦАРА НИКОЛАЈА ДРУГОГ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1115,7 +532,7 @@
    "ulica": "Maksima Gorkog",
    "brojevi": "29",
    "ulicaCir": "МАКСИМА ГОРКОГ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1126,7 +543,7 @@
    "ulica": "Novopazarska",
    "brojevi": "22,28,32,36,7-9",
    "ulicaCir": "НОВОПАЗАРСКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1137,7 +554,7 @@
    "ulica": "Dobanovački Put",
    "brojevi": "18-40,53b",
    "ulicaCir": "ДОБАНОВАЧКИ ПУТ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1148,7 +565,7 @@
    "ulica": "Hemingvejeva",
    "brojevi": "9A",
    "ulicaCir": "ХЕМИНГВЕЈЕВА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1159,7 +576,7 @@
    "ulica": "Ugrinovačka",
    "brojevi": "212A",
    "ulicaCir": "УГРИНОВАЧКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1170,7 +587,7 @@
    "ulica": "Ugrinovački Put",
    "brojevi": "8-8F,28A,35-35A",
    "ulicaCir": "УГРИНОВАЧКИ ПУТ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1181,7 +598,7 @@
    "ulica": "Vojni Put 1",
    "brojevi": "196-196A,200-208,212,230-246,254-266,272-280,284-298,304-324,342-350,378-380,422-426A,448-458,480-492,508,524-524D,540-544,570,201-211,231-245,255-269,273-279,283-323,341-349,379-379,383A,423-425,447-457,481-491,509-509C,523-525,539-545A,569-571F",
    "ulicaCir": "ВОЈНИ ПУТ 1",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1192,7 +609,7 @@
    "ulica": "Vojni Put 2",
    "brojevi": "92-96,104-114,118-126,91-91A,95,99A,103-127",
    "ulicaCir": "ВОЈНИ ПУТ 2",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1203,7 +620,7 @@
    "ulica": "D.đorđevića-goše",
    "brojevi": "2-8,12A-22,1-5,9-15,19-25",
    "ulicaCir": "Д.ЂОРЂЕВИЋА-ГОШЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1214,7 +631,7 @@
    "ulica": "Ljube Tadića",
    "brojevi": "28-36,19-21",
    "ulicaCir": "ЉУБЕ ТАДИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1225,7 +642,7 @@
    "ulica": "Marka Todorovića",
    "brojevi": "2-6,1-7",
    "ulicaCir": "МАРКА ТОДОРОВИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1236,7 +653,7 @@
    "ulica": "Ruže Jovanović",
    "brojevi": "24,32",
    "ulicaCir": "РУЖЕ ЈОВАНОВИЋ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1247,7 +664,7 @@
    "ulica": "Vitezova K.zvezde",
    "brojevi": "65,71,83A,93",
    "ulicaCir": "ВИТЕЗОВА К.ЗВЕЗДЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1258,7 +675,7 @@
    "ulica": "Voje Veljkovića",
    "brojevi": "33-45",
    "ulicaCir": "ВОЈЕ ВЕЉКОВИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1269,7 +686,7 @@
    "ulica": "Zagrađe",
    "brojevi": "20B,38-38A,7-13A,17",
    "ulicaCir": "ЗАГРАЂЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1280,7 +697,7 @@
    "ulica": "Šejkina",
    "brojevi": "BB,BB,2-36,40-44A,7-17A,21-23,29",
    "ulicaCir": "ШЕЈКИНА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1291,7 +708,7 @@
    "ulica": "Žabljačka",
    "brojevi": "11",
    "ulicaCir": "ЖАБЉАЧКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1302,7 +719,7 @@
    "ulica": "Bitoljska",
    "brojevi": "22-68,41-53",
    "ulicaCir": "БИТОЉСКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1313,7 +730,7 @@
    "ulica": "Braće Vučković",
    "brojevi": "34-34A,29",
    "ulicaCir": "БРАЋЕ ВУЧКОВИЋ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1324,7 +741,7 @@
    "ulica": "Janka Mišića",
    "brojevi": "2-28,1,5-19",
    "ulicaCir": "ЈАНКА МИШИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1335,7 +752,7 @@
    "ulica": "Kopaonička",
    "brojevi": "56A",
    "ulicaCir": "КОПАОНИЧКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1346,7 +763,7 @@
    "ulica": "Krste Sretenovića",
    "brojevi": "2-10,20-22G,3-13",
    "ulicaCir": "КРСТЕ СРЕТЕНОВИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1357,7 +774,7 @@
    "ulica": "Leposave Vujošević",
    "brojevi": "10-22,11-21",
    "ulicaCir": "ЛЕПОСАВЕ ВУЈОШЕВИЋ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1368,7 +785,7 @@
    "ulica": "Momčila Čedića",
    "brojevi": "1D-1Ž",
    "ulicaCir": "МОМЧИЛА ЧЕДИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1379,7 +796,7 @@
    "ulica": "Partizanske Vode",
    "brojevi": "1-25",
    "ulicaCir": "ПАРТИЗАНСКЕ ВОДЕ",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1390,7 +807,7 @@
    "ulica": "Petefijeva",
    "brojevi": "2-6B,1-13",
    "ulicaCir": "ПЕТЕФИЈЕВА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1401,7 +818,7 @@
    "ulica": "Primućura Žarka",
    "brojevi": "2-8,12-18,24,1-29",
    "ulicaCir": "ПРИМУЋУРА ЖАРКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1412,7 +829,7 @@
    "ulica": "Trgovačka",
    "brojevi": "91",
    "ulicaCir": "ТРГОВАЧКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1423,7 +840,7 @@
    "ulica": "Vuka Karadžića",
    "brojevi": "54-58,68-68A,51-67,83",
    "ulicaCir": "ВУКА КАРАЏИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1434,7 +851,7 @@
    "ulica": "Zdravka Jovanovića",
    "brojevi": "34-56,39-45",
    "ulicaCir": "ЗДРАВКА ЈОВАНОВИЋА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-19",
@@ -1445,7 +862,7 @@
    "ulica": "Žitomislićka",
    "brojevi": "2",
    "ulicaCir": "ЖИТОМИСЛИЋКА",
-   "izvor": "Dan_1"
+   "izvor": "Dan_0"
   },
   {
    "datum": "2026-11-20",
@@ -1456,7 +873,7 @@
    "ulica": "Kralja Milana",
    "brojevi": "16J",
    "ulicaCir": "КРАЉА МИЛАНА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1467,7 +884,7 @@
    "ulica": "Niška",
    "brojevi": "1-9",
    "ulicaCir": "НИШКА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1478,7 +895,7 @@
    "ulica": "Sinđelićeva",
    "brojevi": "10-12,1-5F/8",
    "ulicaCir": "СИНЂЕЛИЋЕВА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1489,7 +906,7 @@
    "ulica": "Atanasija Pulje",
    "brojevi": "59",
    "ulicaCir": "АТАНАСИЈА ПУЉЕ",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1500,7 +917,7 @@
    "ulica": "Cvijićeva",
    "brojevi": "12,16",
    "ulicaCir": "ЦВИЈИЋЕВА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1511,7 +928,7 @@
    "ulica": "Geteova",
    "brojevi": "44A-52a,49-79",
    "ulicaCir": "ГЕТЕОВА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1522,7 +939,7 @@
    "ulica": "Jakšićeva",
    "brojevi": "2-10,1-21",
    "ulicaCir": "ЈАКШИЋЕВА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1533,7 +950,7 @@
    "ulica": "Krajiška",
    "brojevi": "30,34-40,46-46,49-53A,57-59C",
    "ulicaCir": "КРАЈИШКА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1544,7 +961,7 @@
    "ulica": "Makedonska",
    "brojevi": "2-6,1-11",
    "ulicaCir": "МАКЕДОНСКА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1555,7 +972,7 @@
    "ulica": "Metohijska",
    "brojevi": "2-4",
    "ulicaCir": "МЕТОХИЈСКА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1566,7 +983,7 @@
    "ulica": "Milana Rešetara",
    "brojevi": "5-11",
    "ulicaCir": "МИЛАНА РЕШЕТАРА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1577,7 +994,7 @@
    "ulica": "Partizanska",
    "brojevi": "4-10,1-7",
    "ulicaCir": "ПАРТИЗАНСКА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1588,7 +1005,7 @@
    "ulica": "Slovenska",
    "brojevi": "2-46,5-7,13,17-27,31-33",
    "ulicaCir": "СЛОВЕНСКА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1599,7 +1016,7 @@
    "ulica": "Solunska",
    "brojevi": "2-4,8A,1-5",
    "ulicaCir": "СОЛУНСКА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   },
   {
    "datum": "2026-11-20",
@@ -1610,7 +1027,7 @@
    "ulica": "Železnička Kolonija",
    "brojevi": "2-28,1-27",
    "ulicaCir": "ЖЕЛЕЗНИЧКА КОЛОНИЈА",
-   "izvor": "Dan_2"
+   "izvor": "Dan_1"
   }
  ],
  "direktni": [
@@ -3210,11 +2627,11 @@
    "category": "garaza",
    "opstina": "Vračar",
    "ulica": "Baba Višnjina",
-   "brojevi": "211",
-   "timeWindow": "Uživo: 211 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "34",
+   "timeWindow": "Uživo: 34 slobodnih mesta",
+   "urgencyLevel": 2,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Baba Višnjina“ (Baba Višnjina) trenutno ima 211 slobodnih mesta.",
+   "rawSummary": "Garaža „Baba Višnjina“ (Baba Višnjina) trenutno ima 34 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7995,
    "lng": 20.4742
@@ -3224,11 +2641,11 @@
    "category": "garaza",
    "opstina": "Palilula",
    "ulica": "Vojvode Dobrnjca",
-   "brojevi": "67",
-   "timeWindow": "Uživo: 67 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "3",
+   "timeWindow": "Uživo: 3 slobodnih mesta",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Botanička bašta“ (Vojvode Dobrnjca) trenutno ima 67 slobodnih mesta.",
+   "rawSummary": "Garaža „Botanička bašta“ (Vojvode Dobrnjca) je skoro popunjena — preostalo je još 3 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8152,
    "lng": 20.4754
@@ -3238,11 +2655,11 @@
    "category": "garaza",
    "opstina": "Savski venac",
    "ulica": "Dr Aleksandra Kostića",
-   "brojevi": "23",
-   "timeWindow": "Uživo: 23 slobodnih mesta",
-   "urgencyLevel": 2,
+   "brojevi": "6",
+   "timeWindow": "Uživo: 6 slobodnih mesta",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Dr Aleksandra Kostića“ (Dr Aleksandra Kostića) trenutno ima 23 slobodnih mesta.",
+   "rawSummary": "Garaža „Dr Aleksandra Kostića“ (Dr Aleksandra Kostića) je skoro popunjena — preostalo je još 6 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8058,
    "lng": 20.4593
@@ -3252,11 +2669,11 @@
    "category": "garaza",
    "opstina": "Vračar",
    "ulica": "Masarikova",
-   "brojevi": "368",
-   "timeWindow": "Uživo: 368 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "24",
+   "timeWindow": "Uživo: 24 slobodnih mesta",
+   "urgencyLevel": 2,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Masarikova“ (Masarikova) trenutno ima 368 slobodnih mesta.",
+   "rawSummary": "Garaža „Masarikova“ (Masarikova) trenutno ima 24 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8053,
    "lng": 20.4631
@@ -3266,11 +2683,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Obilićev venac",
-   "brojevi": "418",
-   "timeWindow": "Uživo: 418 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "0",
+   "timeWindow": "Popunjeno (0 mesta)",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Obilićev venac“ (Obilićev venac) trenutno ima 418 slobodnih mesta.",
+   "rawSummary": "Garaža „Obilićev venac“ (Obilićev venac) je trenutno popunjena — nema slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8162,
    "lng": 20.4563
@@ -3280,11 +2697,11 @@
    "category": "garaza",
    "opstina": "Zemun",
    "ulica": "Gradski park (Hala Pinki)",
-   "brojevi": "107",
-   "timeWindow": "Uživo: 107 slobodnih mesta",
+   "brojevi": "99",
+   "timeWindow": "Uživo: 99 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Pinki“ (Gradski park) trenutno ima 107 slobodnih mesta.",
+   "rawSummary": "Garaža „Pinki“ (Gradski park) trenutno ima 99 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8415,
    "lng": 20.4087
@@ -3294,11 +2711,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Bulevar kralja Aleksandra (Pionirski park)",
-   "brojevi": "343",
-   "timeWindow": "Uživo: 343 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "2",
+   "timeWindow": "Uživo: 2 slobodnih mesta",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Pionirski park“ (Bulevar kralja Aleksandra) trenutno ima 343 slobodnih mesta.",
+   "rawSummary": "Garaža „Pionirski park“ (Bulevar kralja Aleksandra) je skoro popunjena — preostalo je još 2 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8114,
    "lng": 20.4636
@@ -3308,11 +2725,11 @@
    "category": "garaza",
    "opstina": "Zvezdara",
    "ulica": "Kraljice Marije (Vukov spomenik)",
-   "brojevi": "77",
-   "timeWindow": "Uživo: 77 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "2",
+   "timeWindow": "Uživo: 2 slobodnih mesta",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Vukov spomenik“ (Kraljice Marije) trenutno ima 77 slobodnih mesta.",
+   "rawSummary": "Garaža „Vukov spomenik“ (Kraljice Marije) je skoro popunjena — preostalo je još 2 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8051,
    "lng": 20.4776
@@ -3322,11 +2739,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Kraljice Natalije (Zeleni venac)",
-   "brojevi": "162",
-   "timeWindow": "Uživo: 162 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "1",
+   "timeWindow": "Uživo: 1 slobodnih mesta",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Garaža „Zeleni venac“ (Kraljice Natalije) trenutno ima 162 slobodnih mesta.",
+   "rawSummary": "Garaža „Zeleni venac“ (Kraljice Natalije) je skoro popunjena — preostalo je još 1 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.814,
    "lng": 20.4578
@@ -3336,11 +2753,11 @@
    "category": "garaza",
    "opstina": "Čukarica",
    "ulica": "Radnička (Ada Ciganlija)",
-   "brojevi": "969",
-   "timeWindow": "Uživo: 969 slobodnih mesta",
+   "brojevi": "924",
+   "timeWindow": "Uživo: 924 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Ada“ (Radnička) trenutno ima 969 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Ada“ (Radnička) trenutno ima 924 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.789,
    "lng": 20.415
@@ -3350,11 +2767,11 @@
    "category": "garaza",
    "opstina": "Novi Beograd",
    "ulica": "Jurija Gagarina (Belvil)",
-   "brojevi": "395",
-   "timeWindow": "Uživo: 395 slobodnih mesta",
+   "brojevi": "177",
+   "timeWindow": "Uživo: 177 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Belvil“ (Jurija Gagarina) trenutno ima 395 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Belvil“ (Jurija Gagarina) trenutno ima 177 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8058,
    "lng": 20.4052
@@ -3364,11 +2781,11 @@
    "category": "garaza",
    "opstina": "Novi Beograd",
    "ulica": "Partizanske avijacije",
-   "brojevi": "56",
-   "timeWindow": "Uživo: 56 slobodnih mesta",
+   "brojevi": "62",
+   "timeWindow": "Uživo: 62 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Bežanijska kosa“ (Partizanske avijacije) trenutno ima 56 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Bežanijska kosa“ (Partizanske avijacije) trenutno ima 62 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8235,
    "lng": 20.3765
@@ -3392,11 +2809,11 @@
    "category": "garaza",
    "opstina": "Čukarica",
    "ulica": "Šumadijski trg",
-   "brojevi": "67",
-   "timeWindow": "Uživo: 67 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "8",
+   "timeWindow": "Uživo: 8 slobodnih mesta",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Čukarica“ (Šumadijski trg) trenutno ima 67 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Čukarica“ (Šumadijski trg) je skoro popunjeno — preostalo je još 8 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7825,
    "lng": 20.4182
@@ -3406,11 +2823,11 @@
    "category": "garaza",
    "opstina": "Zvezdara",
    "ulica": "Živka Davidovića (Cvetkova pijaca)",
-   "brojevi": "7",
-   "timeWindow": "Uživo: 7 slobodnih mesta",
-   "urgencyLevel": 1,
+   "brojevi": "31",
+   "timeWindow": "Uživo: 31 slobodnih mesta",
+   "urgencyLevel": 2,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Cvetkova pijaca“ (Živka Davidovića) je skoro popunjeno — preostalo je još 7 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Cvetkova pijaca“ (Živka Davidovića) trenutno ima 31 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7924,
    "lng": 20.5048
@@ -3420,11 +2837,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Bulevar vojvode Bojovića (Donji grad)",
-   "brojevi": "219",
-   "timeWindow": "Uživo: 219 slobodnih mesta",
+   "brojevi": "100",
+   "timeWindow": "Uživo: 100 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Donji grad“ (Bulevar vojvode Bojovića) trenutno ima 219 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Donji grad“ (Bulevar vojvode Bojovića) trenutno ima 100 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8266,
    "lng": 20.4525
@@ -3434,11 +2851,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Mali Kalemegdan",
-   "brojevi": "100",
-   "timeWindow": "Uživo: 100 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "38",
+   "timeWindow": "Uživo: 38 slobodnih mesta",
+   "urgencyLevel": 2,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Kalemegdan“ (Mali Kalemegdan) trenutno ima 100 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Kalemegdan“ (Mali Kalemegdan) trenutno ima 38 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8236,
    "lng": 20.4547
@@ -3448,11 +2865,11 @@
    "category": "garaza",
    "opstina": "Savski venac",
    "ulica": "Kamenička",
-   "brojevi": "34",
-   "timeWindow": "Uživo: 34 slobodnih mesta",
-   "urgencyLevel": 2,
+   "brojevi": "0",
+   "timeWindow": "Popunjeno (0 mesta)",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Kamenička“ (Kamenička) trenutno ima 34 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Kamenička“ (Kamenička) je trenutno popunjeno — nema slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8116,
    "lng": 20.4557
@@ -3462,11 +2879,11 @@
    "category": "garaza",
    "opstina": "Voždovac",
    "ulica": "Ljermontova",
-   "brojevi": "61",
-   "timeWindow": "Uživo: 61 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "43",
+   "timeWindow": "Uživo: 43 slobodnih mesta",
+   "urgencyLevel": 2,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Ljermontova“ (Ljermontova) trenutno ima 61 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Ljermontova“ (Ljermontova) trenutno ima 43 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7834,
    "lng": 20.4892
@@ -3476,11 +2893,11 @@
    "category": "garaza",
    "opstina": "Novi Beograd",
    "ulica": "Auto-put za Zagreb (Carinski terminal)",
-   "brojevi": "157",
-   "timeWindow": "Uživo: 157 slobodnih mesta",
+   "brojevi": "87",
+   "timeWindow": "Uživo: 87 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Međunarodni carinski terminal“ (Auto-put za Zagreb) trenutno ima 157 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Međunarodni carinski terminal“ (Auto-put za Zagreb) trenutno ima 87 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.826,
    "lng": 20.369
@@ -3490,11 +2907,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Tadeuša Košćuška (25. maj)",
-   "brojevi": "254",
-   "timeWindow": "Uživo: 254 slobodnih mesta",
+   "brojevi": "147",
+   "timeWindow": "Uživo: 147 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Milan Gale Muškatirović“ (Tadeuša Košćuška) trenutno ima 254 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Milan Gale Muškatirović“ (Tadeuša Košćuška) trenutno ima 147 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8295,
    "lng": 20.4585
@@ -3504,11 +2921,11 @@
    "category": "garaza",
    "opstina": "Novi Beograd",
    "ulica": "Bulevar Mihajla Pupina (Opština NBG)",
-   "brojevi": "117",
-   "timeWindow": "Uživo: 117 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "12",
+   "timeWindow": "Uživo: 12 slobodnih mesta",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Opština NBGD“ (Bulevar Mihajla Pupina) trenutno ima 117 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Opština NBGD“ (Bulevar Mihajla Pupina) je skoro popunjeno — preostalo je još 12 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8208,
    "lng": 20.4146
@@ -3518,11 +2935,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Makedonska (Politika)",
-   "brojevi": "27",
-   "timeWindow": "Uživo: 27 slobodnih mesta",
-   "urgencyLevel": 2,
+   "brojevi": "0",
+   "timeWindow": "Popunjeno (0 mesta)",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Politika“ (Makedonska) trenutno ima 27 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Politika“ (Makedonska) je trenutno popunjeno — nema slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8155,
    "lng": 20.4638
@@ -3532,11 +2949,11 @@
    "category": "garaza",
    "opstina": "Vračar",
    "ulica": "Prote Mateje (Slavija)",
-   "brojevi": "87",
-   "timeWindow": "Uživo: 87 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "0",
+   "timeWindow": "Popunjeno (0 mesta)",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Slavija“ (Prote Mateje) trenutno ima 87 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Slavija“ (Prote Mateje) je trenutno popunjeno — nema slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8031,
    "lng": 20.4673
@@ -3546,11 +2963,11 @@
    "category": "garaza",
    "opstina": "Stari grad",
    "ulica": "Bulevar vojvode Bojovića (Vidin kapija)",
-   "brojevi": "64",
-   "timeWindow": "Uživo: 64 slobodnih mesta",
-   "urgencyLevel": 3,
+   "brojevi": "8",
+   "timeWindow": "Uživo: 8 slobodnih mesta",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Vidin kapija“ (Bulevar vojvode Bojovića) trenutno ima 64 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Vidin kapija“ (Bulevar vojvode Bojovića) je skoro popunjeno — preostalo je još 8 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.8262,
    "lng": 20.4558
@@ -3560,11 +2977,11 @@
    "category": "garaza",
    "opstina": "Vračar",
    "ulica": "Viška (Kalenić pijaca)",
-   "brojevi": "19",
-   "timeWindow": "Uživo: 19 slobodnih mesta",
-   "urgencyLevel": 2,
+   "brojevi": "0",
+   "timeWindow": "Popunjeno (0 mesta)",
+   "urgencyLevel": 1,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „Viška“ (Viška) trenutno ima 19 slobodnih mesta.",
+   "rawSummary": "Parkiralište „Viška“ (Viška) je trenutno popunjeno — nema slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7998,
    "lng": 20.4785
@@ -3574,11 +2991,11 @@
    "category": "garaza",
    "opstina": "Savski venac",
    "ulica": "Crnotravska (VMA)",
-   "brojevi": "500",
-   "timeWindow": "Uživo: 500 slobodnih mesta",
+   "brojevi": "327",
+   "timeWindow": "Uživo: 327 slobodnih mesta",
    "urgencyLevel": 3,
    "sourceName": "JKP Parking servis Beograd (uživo)",
-   "rawSummary": "Parkiralište „VMA“ (Crnotravska) trenutno ima 500 slobodnih mesta.",
+   "rawSummary": "Parkiralište „VMA“ (Crnotravska) trenutno ima 327 slobodnih mesta.",
    "url": "https://www.parking-servis.co.rs/lat/garaze-i-parkiralista",
    "lat": 44.7645,
    "lng": 20.4552
@@ -3588,42 +3005,31 @@
   "Aleksandrića Kraj",
   "Auto-put A1 (petlja Batajnica)",
   "Bolnica Bežanijska Kosa",
-  "Brgule",
   "Bugarski Kraj",
   "Cara Nikolaja Drugog",
   "D.đorđevića-goše",
-  "Karašica",
   "Kod Doma",
-  "Kod Groblja",
   "Kod Igrališta",
   "Kod Radio Stanice",
   "Kod Zadruge",
   "Kod Škole",
-  "Konatice",
   "Krtinska",
   "Lukića Kraj",
   "Mitkovom Kladencu",
   "Moto-put M12 (prilaz Aerodromu Nikola Tesla)",
   "Muzička Kolonija",
   "Nema Naziv Ulice",
-  "Nema Naziva Ulice",
   "Nikolaja Hartviga 18/11/2026 Tokom Izvođenja Ra",
   "Nova 4 sa Pripadajućom Javnom Rasvetom",
   "Obrenovac Krtinska",
-  "Poljane Donji Kraj",
-  "Poljane Gornji Kraj",
-  "Put za Stepojevac",
   "Rekonstrukciji Mosta na Železnička Stanici Novi Beograd",
   "Selo",
   "Stevanovića Kraj",
   "Ulica 36",
-  "Ulica Konatice",
   "Valjevski Put - Radio Stanica",
   "Vitezova K.zvezde",
-  "Vojvode M Krstića",
   "Zvečka Kod Mlina",
   "više lokacija",
-  "Škola",
   "Železnička Kolonija"
  ]
 }
