@@ -1,4 +1,4 @@
-const CACHE_NAME = 'commute-companion-v4.41';
+const CACHE_NAME = 'commute-companion-v4.42';
 const CORE_ASSETS = [
   './manifest.json',
   './icon.svg',
