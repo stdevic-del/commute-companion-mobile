@@ -191,8 +191,8 @@
       "maxIntervalMin": 60,
       "paywall": "none",
       "maxItems": 20,
-      "enabled": true,
-      "notes": "Proveren RSS (200 OK)."
+      "enabled": false,
+      "notes": "Isključeno jer politika.rs/robots.txt zabranjuje /rss (poštujemo Sloj 5)."
     },
     {
       "id": "blic",
