@@ -34,10 +34,23 @@ function asString(value: unknown): string | null {
   return null;
 }
 
+function isUsableImageUrl(url: string | null): url is string {
+  if (!url) return false;
+  try {
+    const parsed = new URL(url);
+    // WordPress/Yoast JSON-LD koristi "@id": ".../#primaryimage" što nije URL slike
+    if (parsed.hash && parsed.hash.length > 0) return false;
+    return true;
+  } catch {
+    return false;
+  }
+}
+
 function extractImageFromSchema(imageField: unknown, baseUrl: string): string | null {
   if (!imageField) return null;
   if (typeof imageField === 'string') {
-    return resolveSafeHttpUrl(imageField, baseUrl);
+    const resolved = resolveSafeHttpUrl(imageField, baseUrl);
+    return isUsableImageUrl(resolved) ? resolved : null;
   }
   if (Array.isArray(imageField)) {
     for (const item of imageField) {
@@ -48,11 +61,14 @@ function extractImageFromSchema(imageField: unknown, baseUrl: string): string | 
   }
   if (typeof imageField === 'object') {
     const obj = imageField as Record<string, unknown>;
-    return (
-      resolveSafeHttpUrl(asString(obj.url), baseUrl) ??
-      resolveSafeHttpUrl(asString(obj.contentUrl), baseUrl) ??
-      resolveSafeHttpUrl(asString(obj['@id']), baseUrl)
-    );
+    const candidates = [
+      resolveSafeHttpUrl(asString(obj.url), baseUrl),
+      resolveSafeHttpUrl(asString(obj.contentUrl), baseUrl),
+      resolveSafeHttpUrl(asString(obj['@id']), baseUrl),
+    ];
+    for (const c of candidates) {
+      if (isUsableImageUrl(c)) return c;
+    }
   }
   return null;
 }

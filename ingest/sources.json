@@ -127,8 +127,8 @@
       "maxIntervalMin": 60,
       "paywall": "none",
       "maxItems": 30,
-      "enabled": true,
-      "notes": "Isključivo pomoćni signal popularnosti — nikad se ne prikazuje kao izvor."
+      "enabled": false,
+      "notes": "Isključeno jer news.google.com/robots.txt zabranjuje /rss (poštujemo Sloj 5)."
     },
     {
       "id": "gn-business",
@@ -143,8 +143,8 @@
       "maxIntervalMin": 90,
       "paywall": "none",
       "maxItems": 15,
-      "enabled": true,
-      "notes": "Isključivo pomoćni signal popularnosti za biznis."
+      "enabled": false,
+      "notes": "Isključeno jer news.google.com/robots.txt zabranjuje /rss (poštujemo Sloj 5)."
     },
     {
       "id": "gn-tech",
@@ -159,8 +159,8 @@
       "maxIntervalMin": 120,
       "paywall": "none",
       "maxItems": 15,
-      "enabled": true,
-      "notes": "Isključivo pomoćni signal popularnosti za tehnologiju."
+      "enabled": false,
+      "notes": "Isključeno jer news.google.com/robots.txt zabranjuje /rss (poštujemo Sloj 5)."
     },
     {
       "id": "gn-saobracaj",
@@ -175,8 +175,8 @@
       "maxIntervalMin": 90,
       "paywall": "none",
       "maxItems": 10,
-      "enabled": true,
-      "notes": "Isključivo pomoćni signal popularnosti za saobraćaj."
+      "enabled": false,
+      "notes": "Isključeno jer news.google.com/robots.txt zabranjuje /rss (poštujemo Sloj 5)."
     },
     {
       "id": "politika",
@@ -191,8 +191,8 @@
       "maxIntervalMin": 60,
       "paywall": "none",
       "maxItems": 20,
-      "enabled": false,
-      "notes": "Proveren RSS (200 OK). Isključen na početku — uključi po potrebi."
+      "enabled": true,
+      "notes": "Proveren RSS (200 OK)."
     },
     {
       "id": "blic",
@@ -207,8 +207,8 @@
       "maxIntervalMin": 45,
       "paywall": "none",
       "maxItems": 30,
-      "enabled": false,
-      "notes": "Proveren RSS (200 OK). Isključen na početku — uključi po potrebi."
+      "enabled": true,
+      "notes": "Proveren RSS (200 OK)."
     },
     {
       "id": "kurir",
@@ -239,8 +239,8 @@
       "maxIntervalMin": 180,
       "paywall": "none",
       "maxItems": 15,
-      "enabled": false,
-      "notes": "Proveren RSS (200 OK). Isključen na početku — uključi po potrebi."
+      "enabled": true,
+      "notes": "Proveren RSS (200 OK)."
     },
     {
       "id": "bbc-srpski",
@@ -255,8 +255,8 @@
       "maxIntervalMin": 90,
       "paywall": "none",
       "maxItems": 20,
-      "enabled": false,
-      "notes": "Proveren RSS (200 OK). Isključen na početku — uključi po potrebi."
+      "enabled": true,
+      "notes": "Proveren RSS (200 OK)."
     },
     {
       "id": "klix",
@@ -271,8 +271,8 @@
       "maxIntervalMin": 60,
       "paywall": "none",
       "maxItems": 20,
-      "enabled": false,
-      "notes": "Proveren regionalni RSS (200 OK). Isključen na početku — uključi po potrebi."
+      "enabled": true,
+      "notes": "Proveren regionalni RSS (200 OK)."
     }
   ]
 }
