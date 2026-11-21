@@ -1,4 +1,4 @@
-const CACHE_NAME = 'commute-companion-v4.53';
+const CACHE_NAME = 'commute-companion-v4.54';
 const CORE_ASSETS = [
   './manifest.json',
   './icon.svg',
@@ -66,7 +66,31 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 1) Strictly Network-First (no-store) for HTML navigation, app bundles, live service JSON, and OSRM routing
+  // 1) Stale-While-Revalidate for precomputed static news-feed JSON (< 200ms + offline support)
+  if (
+    url.hostname === 'raw.githubusercontent.com' &&
+    url.pathname.includes('/news-feed/') &&
+    url.pathname.endsWith('.json')
+  ) {
+    event.respondWith(
+      caches.open(CACHE_NAME).then(async (cache) => {
+        const cached = await cache.match(req, { ignoreSearch: true });
+        const networkPromise = fetch(req)
+          .then((res) => {
+            if (res && res.ok) {
+              cache.put(req, res.clone());
+            }
+            return res;
+          })
+          .catch(() => cached);
+
+        return cached || networkPromise;
+      })
+    );
+    return;
+  }
+
+  // 2) Strictly Network-First (no-store) for HTML navigation, app bundles, live service JSON, and OSRM routing
   if (
     req.mode === 'navigate' ||
     url.pathname.endsWith('/') ||
@@ -89,9 +113,10 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 2) Cache-first with background refresh for icons and fonts
+  // 3) Cache-first with background refresh for icons, fonts, and wsrv.nl optimized WebP thumbnails
   if (
     url.origin === self.location.origin ||
+    url.hostname === 'wsrv.nl' ||
     url.hostname.includes('unpkg.com') ||
     url.hostname.includes('fonts.googleapis.com') ||
     url.hostname.includes('fonts.gstatic.com')

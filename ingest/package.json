@@ -1,0 +1,20 @@
+{
+  "name": "commute-companion-ingest",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "ingest": "tsx src/index.ts",
+    "ingest:dry": "tsx src/index.ts --dry",
+    "test": "node --test test/*.test.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^3.0.0",
+    "@mozilla/readability": "^0.6.0",
+    "fast-xml-parser": "^5.12.1",
+    "linkedom": "^0.18.12",
+    "node-html-parser": "^7.0.1",
+    "robots-parser": "^3.0.1",
+    "tsx": "^4.23.15"
+  }
+}

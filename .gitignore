@@ -1,0 +1,9 @@
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+ingest/node_modules/
+ingest/data/
+ingest/out/
+node_modules/
+__pycache__/

@@ -1,0 +1,97 @@
+name: Osvezi vesti (5-slojni agregator -> news-feed)
+
+on:
+  schedule:
+    # Automatsko osvezavanje na svakih 10 minuta (worker sam bira izvore kojima je istekao next_check_at)
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Prinudno proveri sve aktivne izvore (ignoriše next_check_at)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+      max_briefings:
+        description: 'Maksimalan broj novih AI brifinga u ovom pokretanju (0–10)'
+        required: false
+        default: '5'
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: osvezi-vesti
+  cancel-in-progress: false
+
+jobs:
+  osvezi-vesti:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Preuzmi repozitorijum
+        uses: actions/checkout@v4
+
+      - name: Postavi Node.js 24 (ugrađeni node:sqlite)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Instaliraj zavisnosti ingest workera
+        run: |
+          if [ -f "package-lock.json" ]; then
+            npm ci --no-audit --no-fund
+          elif [ -f "ingest/package.json" ]; then
+            npm --prefix ingest install --no-audit --no-fund
+          else
+            npm install --no-audit --no-fund
+          fi
+
+      - name: Vrati SQLite keš iz prethodnog pokretanja (rotirajući ključ)
+        uses: actions/cache@v4
+        with:
+          path: ingest/data/news.sqlite
+          key: news-db-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            news-db-
+
+      - name: Pokreni 5-slojni ingest pipeline (fetch, parse, norm, dedup, cluster, rank, AI briefing, JSON export)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_BRIEFING_MODEL: ${{ vars.GEMINI_BRIEFING_MODEL || 'gemini-2.5-flash' }}
+        run: |
+          ARGS="--out ingest/out"
+          if [ "${{ inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          if [ -n "${{ inputs.max_briefings }}" ]; then
+            ARGS="$ARGS --max-briefings ${{ inputs.max_briefings }}"
+          fi
+          if [ -f "package.json" ] && grep -q '"ingest"' package.json; then
+            npm run ingest -- $ARGS
+          else
+            ./ingest/node_modules/.bin/tsx ingest/src/index.ts $ARGS
+          fi
+
+      - name: Objavi statičke JSON fajlove na granu news-feed (1 commit, force push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ ! -f "ingest/out/feed.json" ] || [ ! -f "ingest/out/meta.json" ]; then
+            echo "Greška: ingest/out/feed.json ili meta.json nije generisan."
+            exit 1
+          fi
+
+          WORK_DIR=$(mktemp -d)
+          cp -r ingest/out/. "$WORK_DIR/"
+          cd "$WORK_DIR"
+          git init -b news-feed
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(news-feed): osvezavanje vesti $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push --force origin news-feed
