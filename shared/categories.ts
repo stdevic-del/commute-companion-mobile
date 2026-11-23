@@ -1,3 +1,5 @@
+import { cyrillicToLatin } from './transliterate.ts';
+
 export const CANONICAL_CATEGORIES = [
   'Politika',
   'Društvo',
@@ -38,20 +40,8 @@ export interface ClassifyHints {
 
 const CANONICAL_SET = new Set<string>(CANONICAL_CATEGORIES);
 
-const CYR_TO_LAT: Record<string, string> = {
-  а: 'a', б: 'b', в: 'v', г: 'g', д: 'd', ђ: 'đ', е: 'e', ж: 'ž', з: 'z', и: 'i',
-  ј: 'j', к: 'k', л: 'l', љ: 'lj', м: 'm', н: 'n', њ: 'nj', о: 'o', п: 'p', р: 'r',
-  с: 's', т: 't', ћ: 'ć', у: 'u', ф: 'f', х: 'h', ц: 'c', ч: 'č', џ: 'dž', ш: 'š',
-};
-
 function toLowerLatin(input: string): string {
-  const low = input.toLowerCase();
-  let out = '';
-  for (let i = 0; i < low.length; i += 1) {
-    const ch = low[i];
-    out += CYR_TO_LAT[ch] ?? ch;
-  }
-  return out;
+  return cyrillicToLatin(input || '').toLowerCase();
 }
 
 function toAsciiFolded(input: string): string {

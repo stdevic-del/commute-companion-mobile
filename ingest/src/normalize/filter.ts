@@ -1,17 +1,8 @@
-const CYR_TO_LAT: Record<string, string> = {
-  а: 'a', б: 'b', в: 'v', г: 'g', д: 'd', ђ: 'dj', е: 'e', ж: 'z', з: 'z', и: 'i',
-  ј: 'j', к: 'k', л: 'l', љ: 'lj', м: 'm', н: 'n', њ: 'nj', о: 'o', п: 'p', р: 'r',
-  с: 's', т: 't', ћ: 'c', у: 'u', ф: 'f', х: 'h', ц: 'c', ч: 'c', џ: 'dz', ш: 's',
-};
+import { cyrillicToLatin } from '../../../shared/transliterate.ts';
 
 function normalizeForComparison(input: string): string {
-  const low = (input || '').toLowerCase();
-  let latin = '';
-  for (let i = 0; i < low.length; i += 1) {
-    const ch = low[i];
-    latin += CYR_TO_LAT[ch] ?? ch;
-  }
-  return latin
+  return cyrillicToLatin(input || '')
+    .toLowerCase()
     .replace(/đ/g, 'dj')
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '')

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'commute-companion-v4.66';
+const CACHE_NAME = 'commute-companion-v4.67';
 const OFFLINE_BRIEFING_URL = '/__offline_briefing_package.json';
 const CORE_ASSETS = [
   './manifest.json',
@@ -111,13 +111,17 @@ self.addEventListener('fetch', (event) => {
         const networkPromise = fetch(req)
           .then((res) => {
             if (res && res.ok) {
-              cache.put(req, res.clone());
+              cache.put(req, res.clone()).catch(() => {});
             }
             return res;
           })
-          .catch(() => cached);
+          .catch(() => cached || Response.error());
 
-        return cached || networkPromise;
+        if (cached) {
+          event.waitUntil(networkPromise);
+          return cached;
+        }
+        return networkPromise;
       })
     );
     return;
@@ -140,11 +144,19 @@ self.addEventListener('fetch', (event) => {
         .then((res) => {
           if (res && res.ok) {
             const copy = res.clone();
-            caches.open(CACHE_NAME).then((c) => c.put(req, copy));
+            event.waitUntil(
+              caches
+                .open(CACHE_NAME)
+                .then((c) => c.put(req, copy))
+                .catch(() => {})
+            );
           }
           return res;
         })
-        .catch(() => caches.match(req, { ignoreSearch: true }))
+        .catch(async () => {
+          const fallback = await caches.match(req, { ignoreSearch: true });
+          return fallback || Response.error();
+        })
     );
     return;
   }
@@ -163,13 +175,20 @@ self.addEventListener('fetch', (event) => {
           .then((res) => {
             if (res && res.ok) {
               const copy = res.clone();
-              caches.open(CACHE_NAME).then((c) => c.put(req, copy));
+              caches
+                .open(CACHE_NAME)
+                .then((c) => c.put(req, copy))
+                .catch(() => {});
             }
             return res;
           })
-          .catch(() => cached);
+          .catch(() => cached || Response.error());
 
-        return cached || networkFetch;
+        if (cached) {
+          event.waitUntil(networkFetch);
+          return cached;
+        }
+        return networkFetch;
       })
     );
   }
