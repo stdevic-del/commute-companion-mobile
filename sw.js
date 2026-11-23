@@ -1,4 +1,5 @@
-const CACHE_NAME = 'commute-companion-v4.59';
+const CACHE_NAME = 'commute-companion-v4.60';
+const OFFLINE_BRIEFING_URL = '/__offline_briefing_package.json';
 const CORE_ASSETS = [
   './manifest.json',
   './icon.svg',
@@ -36,17 +37,33 @@ self.addEventListener('activate', (event) => {
               } catch {
                 // ignore
               }
-              try {
-                if ('navigate' in client && client.url) {
-                  await client.navigate(client.url);
-                }
-              } catch {
-                // ignore
-              }
             })
           )
         )
       )
+  );
+});
+
+// Prima kompletan tekstualni paket aktivnog brifinga (vesti, struja/voda servisi, vreme) i čuva ga u Cache API
+self.addEventListener('message', (event) => {
+  const data = event.data;
+  if (!data || data.type !== 'CACHE_BRIEFING_PACKAGE' || !data.payload) return;
+
+  event.waitUntil(
+    caches
+      .open(CACHE_NAME)
+      .then((cache) => {
+        const body = JSON.stringify(data.payload);
+        const response = new Response(body, {
+          status: 200,
+          headers: {
+            'Content-Type': 'application/json; charset=utf-8',
+            'X-Offline-Cached': '1',
+          },
+        });
+        return cache.put(new Request(OFFLINE_BRIEFING_URL), response);
+      })
+      .catch(() => {})
   );
 });
 
@@ -55,6 +72,23 @@ self.addEventListener('fetch', (event) => {
   if (req.method !== 'GET') return;
 
   const url = new URL(req.url);
+
+  // 0) Direktno čitanje keširanog tekstualnog paketa aktivnog brifinga iz Cache API
+  if (url.pathname.endsWith(OFFLINE_BRIEFING_URL)) {
+    event.respondWith(
+      caches.open(CACHE_NAME).then(async (cache) => {
+        const cached = await cache.match(new Request(OFFLINE_BRIEFING_URL));
+        return (
+          cached ||
+          new Response(JSON.stringify({ cached: false }), {
+            status: 404,
+            headers: { 'Content-Type': 'application/json' },
+          })
+        );
+      })
+    );
+    return;
+  }
 
   // Never intercept cross-origin audio TTS streams or map tile servers
   if (
@@ -91,13 +125,16 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 2) Strictly Network-First (no-store) for HTML navigation, app bundles, live service JSON, and OSRM routing
+  // 2) Network-First with Cache fallback for HTML navigation, app bundles, live service JSON, weather, and OSRM routing
   if (
     req.mode === 'navigate' ||
     url.pathname.endsWith('/') ||
     url.pathname.endsWith('/index.html') ||
     url.pathname.includes('/assets/') ||
     url.pathname.endsWith('/data/servisi.json') ||
+    url.pathname.endsWith('/servisi.json') ||
+    url.pathname.endsWith('/feed.json') ||
+    url.hostname.includes('api.open-meteo.com') ||
     url.hostname.includes('project-osrm.org')
   ) {
     event.respondWith(
