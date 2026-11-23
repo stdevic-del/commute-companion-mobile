@@ -1,0 +1,6 @@
+{
+  "summary": "Arhitektonski plan za Fazu 3 (News Scraper & Briefing Engine + Radio-Miks & Spotify + Deep-Dive čitanje članaka): direktno skrejpovanje domaćih/stranih portala i saobraćajnih servisa (RTS, N1, Danas, B92, Netokracija, TechCrunch, HN, AMSS, RHMZ), dodavanje sopstvenih URL/RSS izvora, interaktivna kustoska selekcija vesti, Deep-Dive skrejpovanje celih članaka za audio slušanje i Radio-Miks sa muzičkom podlogom i Spotify plejlistama.",
+  "updatedAt": "2026-11-06T11:54:14.758659270Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

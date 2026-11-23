@@ -230,9 +230,75 @@ export function enforceMaxConsecutiveSource(
   return out;
 }
 
+export interface SortClustersByImportanceOptions {
+  listenedIds?: ReadonlySet<string> | Record<string, number>;
+  multiSourceWindowHours?: number;
+}
+
+function isIdInListened(
+  id: string | undefined,
+  listenedIds?: ReadonlySet<string> | Record<string, number>
+): boolean {
+  if (!id || !listenedIds) return false;
+  if (listenedIds instanceof Set || typeof (listenedIds as ReadonlySet<string>).has === 'function') {
+    return (listenedIds as ReadonlySet<string>).has(id);
+  }
+  const rec = listenedIds as Record<string, number>;
+  return typeof rec[id] === 'number' && rec[id] > 0;
+}
+
+/**
+ * Sortira klastere za prikaz i brifing ("Najvažnije"):
+ * 1) Nepreslušane vesti uvek imaju prednost nad već preslušanim/pročitanim vestima.
+ * 2) Među vestima sa istim statusom preslušanosti u poslednjih 24h (`multiSourceWindowHours`):
+ *    - Višeizvorne priče (`media_count >= 2 && ageHours <= 24`) uvek imaju prednost nad
+ *      pojedinačnim (single-source) vestima objavljenim tokom noći, sortirane po `media_count` silazno,
+ *      pa zatim po skoru svežine (`score`) i vremenu (`updated_at`).
+ *    - Pojedinačne (single-source) priče sortiraju se po skoru svežine (`score`) i vremenu.
+ */
+export function sortClustersByImportance(
+  clusters: RankedCluster[],
+  options: SortClustersByImportanceOptions = {}
+): RankedCluster[] {
+  const multiSourceWindowHours = options.multiSourceWindowHours ?? 24;
+  const listenedIds = options.listenedIds;
+
+  const isClusterListened = (item: RankedCluster): boolean =>
+    isIdInListened(item.cluster.id, listenedIds) || isIdInListened(item.lead.id, listenedIds);
+
+  return [...clusters].sort((a, b) => {
+    const aListened = isClusterListened(a);
+    const bListened = isClusterListened(b);
+    if (aListened !== bListened) {
+      return aListened ? 1 : -1;
+    }
+
+    const aMulti24h = a.cluster.media_count >= 2 && a.ageHours <= multiSourceWindowHours;
+    const bMulti24h = b.cluster.media_count >= 2 && b.ageHours <= multiSourceWindowHours;
+
+    if (aMulti24h !== bMulti24h) {
+      return aMulti24h ? -1 : 1;
+    }
+
+    if (aMulti24h && bMulti24h && b.cluster.media_count !== a.cluster.media_count) {
+      return b.cluster.media_count - a.cluster.media_count;
+    }
+
+    if (b.score !== a.score) return b.score - a.score;
+    if (b.cluster.media_count !== a.cluster.media_count) {
+      return b.cluster.media_count - a.cluster.media_count;
+    }
+    if (b.cluster.updated_at !== a.cluster.updated_at) {
+      return b.cluster.updated_at.localeCompare(a.cluster.updated_at);
+    }
+    return a.cluster.id.localeCompare(b.cluster.id);
+  });
+}
+
 export interface RankActiveOptions {
   windowHours?: number;
   similarityProvider?: SimilarityProvider;
+  listenedIds?: ReadonlySet<string> | Record<string, number>;
 }
 
 /**
@@ -294,19 +360,11 @@ export function rankActiveClusters(
 
   db.updateClusterScores(dbScoreUpdates);
 
-  // Determinističko osnovno sortiranje: skor silazno, pa media_count, pa vreme
-  const baseSort = (a: RankedCluster, b: RankedCluster): number => {
-    if (b.score !== a.score) return b.score - a.score;
-    if (b.cluster.media_count !== a.cluster.media_count) {
-      return b.cluster.media_count - a.cluster.media_count;
-    }
-    if (b.cluster.updated_at !== a.cluster.updated_at) {
-      return b.cluster.updated_at.localeCompare(a.cluster.updated_at);
-    }
-    return a.cluster.id.localeCompare(b.cluster.id);
-  };
-
-  scored.sort(baseSort);
+  const orderedScored = sortClustersByImportance(scored, {
+    listenedIds: options.listenedIds,
+    multiSourceWindowHours: 24,
+  });
+  scored.splice(0, scored.length, ...orderedScored);
 
   // Globalni feed: izvor <= 2, kategorija <= 2, uska tema <= 2 u prvih 5
   const globalRanked = applyDiversityRule(scored, {

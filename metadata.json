@@ -1,0 +1,11 @@
+{
+  "name": "Commute Companion",
+  "description": "Inteligentni kustos vesti i lokalnih informacija koji generiše personalizovane audio-izveštaje za vaš put do posla, koristeći real-time podatke i Google Search uzemljenje.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
