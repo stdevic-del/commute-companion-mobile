@@ -990,6 +990,98 @@ export class NewsDatabase {
     }
   }
 
+  /**
+   * Uklanja eventualni tabloid/lajfstajl šum koji je već ranije ušao u keširanu SQLite bazu.
+   */
+  public purgeNoiseArticles(
+    isNoise: (row: { url: string; canonicalUrl: string; title: string; snippet: string }) => boolean
+  ): number {
+    const rows = this.db
+      .prepare('SELECT id, url, canonical_url, title, snippet FROM articles')
+      .all() as Array<Record<string, unknown>>;
+
+    const toDelete: string[] = [];
+    for (const r of rows) {
+      if (
+        isNoise({
+          url: String(r.url),
+          canonicalUrl: String(r.canonical_url),
+          title: String(r.title),
+          snippet: String(r.snippet ?? ''),
+        })
+      ) {
+        toDelete.push(String(r.id));
+      }
+    }
+
+    if (toDelete.length === 0) return 0;
+
+    const delStmt = this.db.prepare('DELETE FROM articles WHERE id = ?');
+    this.db.exec('BEGIN;');
+    try {
+      for (const id of toDelete) {
+        delStmt.run(id);
+      }
+      this.db.exec(
+        'DELETE FROM clusters WHERE id NOT IN (SELECT DISTINCT cluster_id FROM articles WHERE cluster_id IS NOT NULL)'
+      );
+      this.db.exec('COMMIT;');
+      return toDelete.length;
+    } catch (err) {
+      this.db.exec('ROLLBACK;');
+      throw err;
+    }
+  }
+
+  /**
+   * Ponovo klasifikuje postojeće članke u keširanoj bazi (npr. posle unapređenja pravila klasifikacije).
+   */
+  public reclassifyStoredArticles(
+    classifier: (row: {
+      title: string;
+      snippet: string;
+      url: string;
+      defaultCategory: CategoryName;
+    }) => CategoryName
+  ): number {
+    const rows = this.db
+      .prepare(`
+        SELECT a.id, a.title, a.snippet, a.canonical_url, a.category, s.category_hint
+        FROM articles a
+        JOIN sources s ON s.id = a.source_id
+      `)
+      .all() as Array<Record<string, unknown>>;
+
+    const updates: Array<{ id: string; category: CategoryName }> = [];
+    for (const r of rows) {
+      const currentCat = String(r.category) as CategoryName;
+      const nextCat = classifier({
+        title: String(r.title),
+        snippet: String(r.snippet ?? ''),
+        url: String(r.canonical_url),
+        defaultCategory: String(r.category_hint) as CategoryName,
+      });
+      if (nextCat !== currentCat) {
+        updates.push({ id: String(r.id), category: nextCat });
+      }
+    }
+
+    if (updates.length === 0) return 0;
+
+    const updStmt = this.db.prepare('UPDATE articles SET category = ? WHERE id = ?');
+    this.db.exec('BEGIN;');
+    try {
+      for (const u of updates) {
+        updStmt.run(u.category, u.id);
+      }
+      this.db.exec('COMMIT;');
+      return updates.length;
+    } catch (err) {
+      this.db.exec('ROLLBACK;');
+      throw err;
+    }
+  }
+
   public getStats(): {
     sourcesEnabled: number;
     sourcesTotal: number;

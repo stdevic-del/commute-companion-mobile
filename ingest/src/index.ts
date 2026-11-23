@@ -1,4 +1,5 @@
 import { resolve } from 'node:path';
+import { classifyNewsCategory } from '../../shared/categories.ts';
 import {
   BriefingGenerator,
   createGeminiClientFromEnv,
@@ -15,7 +16,7 @@ import { NewsDatabase } from './db.ts';
 import { ArticleDeduplicator } from './dedup/deduplicator.ts';
 import { exportFeeds } from './export/exporter.ts';
 import { fetchSourcesBatch, PoliteFetcher } from './fetcher.ts';
-import { normalizeFeedItem, normalizeSignalItem } from './normalize/index.ts';
+import { detectNoiseReason, normalizeFeedItem, normalizeSignalItem } from './normalize/index.ts';
 import { enrichMissingMetadata } from './parsers/enrich.ts';
 import { parseFeed } from './parsers/feedParser.ts';
 import { rankActiveClusters } from './rank/ranker.ts';
@@ -311,6 +312,16 @@ async function main(): Promise<void> {
           );
         }
       }
+    }
+
+    const purgedNoise = db.purgeNoiseArticles((row) => detectNoiseReason(row) !== null);
+    const reclassified = db.reclassifyStoredArticles((row) =>
+      classifyNewsCategory(row.title, row.snippet, { url: row.url }, row.defaultCategory)
+    );
+    if (purgedNoise > 0 || reclassified > 0) {
+      console.log(
+        `Čišćenje baze: odbačeno ${purgedNoise} šum/lajfstajl članaka, reklasifikovano ${reclassified} članaka`
+      );
     }
 
     const clusterer = new StoryClusterer(db);

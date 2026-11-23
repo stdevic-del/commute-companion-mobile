@@ -2,6 +2,7 @@ import { classifyNewsCategory } from '../../../shared/categories.ts';
 import type { ParsedFeedItem } from '../parsers/types.ts';
 import type { ArticleRow, SignalRow, SourceConfig } from '../types.ts';
 import { normalizePublishedAt } from './date.ts';
+import { detectNoiseReason } from './filter.ts';
 import {
   buildSnippet,
   cleanTitle,
@@ -14,6 +15,7 @@ export type NormalizedArticle = Omit<ArticleRow, 'cluster_id'>;
 
 /**
  * Pretvara sirovu parsiranu stavku izdavača u normalizovani zapis spreman za dedup i bazu.
+ * Vraća `null` ako stavka nema validan naslov ILI je odbačena strogim filterom tabloid/lajfstajl šuma.
  */
 export function normalizeFeedItem(
   item: ParsedFeedItem,
@@ -25,12 +27,31 @@ export function normalizeFeedItem(
   if (!title || titleNorm.length < 4) return null;
 
   const canonicalUrl = canonicalizeUrl(item.url, item.canonicalUrlHint);
+  const snippet = buildSnippet(item.descriptionRaw, title, 280);
+
+  // Strogi filter za tabloidni, rijaliti i lajfstajl/magazin šum (odbacuje se pre upisa u bazu)
+  if (
+    detectNoiseReason({
+      url: item.url,
+      canonicalUrl,
+      title,
+      snippet,
+      rssCategories: item.categories,
+    }) !== null
+  ) {
+    return null;
+  }
+
   const id = sha1Hex(canonicalUrl);
   const titleHash = sha1Hex(titleNorm);
-  const snippet = buildSnippet(item.descriptionRaw, title, 280);
   const publishedAt = normalizePublishedAt(item.publishedAtRaw, now);
   const firstSeenAt = now.toISOString();
-  const category = classifyNewsCategory(title, snippet, undefined, source.categoryHint);
+  const category = classifyNewsCategory(
+    title,
+    snippet,
+    { url: canonicalUrl, rssCategories: item.categories },
+    source.categoryHint
+  );
 
   return {
     id,
@@ -76,3 +97,4 @@ export function normalizeSignalItem(
 export { buildSnippet, cleanTitle, cyrillicToLatin, normalizeForComparison, sha1Hex } from './text.ts';
 export { canonicalizeUrl } from './url.ts';
 export { normalizePublishedAt } from './date.ts';
+export { detectNoiseReason } from './filter.ts';
