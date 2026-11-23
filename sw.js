@@ -1,4 +1,4 @@
-const CACHE_NAME = 'commute-companion-v4.55';
+const CACHE_NAME = 'commute-companion-v4.56';
 const CORE_ASSETS = [
   './manifest.json',
   './icon.svg',
@@ -56,9 +56,10 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(req.url);
 
-  // Never intercept cross-origin audio TTS streams or OpenStreetMap tile servers
+  // Never intercept cross-origin audio TTS streams or map tile servers
   if (
     url.hostname.includes('translate.google.com') ||
+    url.hostname.includes('cartocdn.com') ||
     url.hostname.includes('openstreetmap.de') ||
     url.hostname.includes('openstreetmap.org') ||
     url.hostname.includes('openstreetmap.fr')
