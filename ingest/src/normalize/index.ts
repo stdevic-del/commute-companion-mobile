@@ -97,4 +97,8 @@ export function normalizeSignalItem(
 export { buildSnippet, cleanTitle, cyrillicToLatin, normalizeForComparison, sha1Hex } from './text.ts';
 export { canonicalizeUrl } from './url.ts';
 export { normalizePublishedAt } from './date.ts';
-export { detectNoiseReason } from './filter.ts';
+export {
+  CLICKBAIT_BLOCKLIST,
+  detectNoiseReason,
+  isSerbianOrRegionalLanguage,
+} from './filter.ts';
