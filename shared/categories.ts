@@ -223,7 +223,7 @@ export function classifyNewsCategory(
 
   if (
     hasStem(
-      /(?:^|[^a-zčćžšđ0-9])(kultur|pozorišt|pozorist|izložb|izlozb|koncert|muzej|knjig|književn|knjizevn|filmsk|festival|glumac|glumic|oper[aeiu]|bioskop|filharmonij|slikar|umetnik|umetnost|premijer[aeiu] predstave)/i
+      /(?:^|[^a-zčćžšđ0-9])(kultur|pozorišt|pozorist|izložb|izlozb|koncert|muzej|knjig|književn|knjizevn|film(?:[^a-zčćžšđ]|$|a\b|u\b|om\b|ov[a-z]*|sk[a-z]*)|serij[aeiu](?!\s*a\b)|tv\s+serij|mini-?serij|adaptacij[a-z]*|ekranizacij[a-z]*|pisac|pisca|piscu|pisci|piscima|spisatelj|roman(?:[^a-zčćžšđ]|$|a\b|u\b|i\b|om\b|ima\b)|pesnik|pjesnik|poezij|reditelj|režiser|reziser|scenarist|festival|glumac|glumic|oper[aeiu]|bioskop|kinotek|filharmonij|slikar|umetnik|umetnost|predstav[aeiu]|strip[a-z]*|književnik|knjizevnik)/i
     )
   ) {
     return 'Kultura';
@@ -231,10 +231,18 @@ export function classifyNewsCategory(
 
   if (
     hasStem(
-      /(?:^|[^a-zčćžšđ0-9])(ekonomij|biznis|finansij|nbs|narodn[ae] bank|devizn|inflacij|kredit|kamatn|bank[aeiu](?:[^a-zčćžšđ]|$)|berz[aeiu]|volstrit|wall street|kurs dinara|cena goriva|cene goriva|goriv[oa]|bdp|investic|porez|poresk|privred|prosečn[aeiu] plat|prosecn[aeiu] plat|minimaln[aeiu] plat|minimaln[aeiu] zarad|prosečn[aeiu] zarad|prosecn[aeiu] zarad|penzij|budžet|budzet|kompanij|tržišt|trzist|izvoz|uvoz|akcij[aeu]\s+(?:kompanij|bank|na berz)|cen[aeu]\s+akcij|trgovanj[a-z]*\s+akcij)/i
+      /(?:^|[^a-zčćžšđ0-9])(ekonomij|biznis|finansij|nbs|narodn[ae] bank|devizn|inflacij|kredit[a-z]*|kamatn[a-z]*|bank[aeiu](?:[^a-zčćžšđ]|$)|banci(?:[^a-zčćžšđ]|$)|banaka(?:[^a-zčćžšđ]|$)|bankama|bankar[a-z]*|klijent[a-z]*|poslovanj[a-z]*|poslovn[a-z]*|kompanij[a-z]*|korporacij[a-z]*|preduzeć[a-z]*|preduzec[a-z]*|preduzetni[a-z]*|profit[a-z]*|prihod[a-z]*|dividend[a-z]*|štednj[a-z]*|stednj[a-z]*|berz[aeiu]|volstrit|wall street|kurs dinara|cena goriva|cene goriva|goriv[oa]|bdp|investic[a-z]*|investitor[a-z]*|porez|poresk|privred[a-z]*|prosečn[aeiu] plat|prosecn[aeiu] plat|minimaln[aeiu] plat|minimaln[aeiu] zarad|prosečn[aeiu] zarad|prosecn[aeiu] zarad|penzij|budžet|budzet|tržišt|trzist|izvoz|uvoz|akvizicij[a-z]*|dokapitalizacij[a-z]*|akcij[aeu]\s+(?:kompanij|bank|na berz)|cen[aeu]\s+akcij|trgovanj[a-z]*\s+akcij)/i
     )
   ) {
     return 'Biznis i Finansije';
+  }
+
+  if (
+    hasStem(
+      /(?:^|[^a-zčćžšđ0-9])(sns(?:[^a-zčćžšđ]|$)|sps(?:[^a-zčćžšđ]|$)|ssp(?:[^a-zčćžšđ]|$)|ndss(?:[^a-zčćžšđ]|$)|srpsk[aeiu]\s+napredn[aeiu]\s+strank|skupštin[a-z]*|skupstin[a-z]*|parlament[a-z]*|poslanic[a-z]*|poslaničk[a-z]*|poslanick[a-z]*|odbornik[a-z]*|odbornic[a-z]*|odborničk[a-z]*|odbornick[a-z]*|vlad[aeiu]\s+srbije|izbor[aeiu]|izborima|izborn[a-z]*|rik(?:[^a-zčćžšđ]|$)|strank[aeiu]|stranaka|stranačk[a-z]*|stranack[a-z]*|opozicij[a-z]*|opozicion[a-z]*|koalicij[a-z]*|koalicion[a-z]*|sednic[aeiu]|sjednic[aeiu]|amandman[a-z]*|referendum[a-z]*|birač[a-z]*|birac[a-z]*|biračk[a-z]*|birack[a-z]*)/i
+    )
+  ) {
+    return 'Politika';
   }
 
   if (
@@ -272,7 +280,7 @@ export function classifyNewsCategory(
 
   if (
     hasStem(
-      /(?:^|[^a-zčćžšđ0-9])(politik|političk|politick|skupštin|skupstin|poslanic|poslaničk|poslanick|vlad[aeiu] srbije|predsednik|predsednič|predsednic|izbor[aeiu]|izborn|rik(?:[^a-zčćžšđ]|$)|ministar|ministr|strank[aeiu]|opozicij|koalicij|ustav|ambasador|glasanje|mandat|premijer(?!\w*\s+lig)|diplomatij|sankcij)/i
+      /(?:^|[^a-zčćžšđ0-9])(politik|političk|politick|predsednik|predsednič|predsednic|ministar|ministr|ustav|ambasador|glasanje|mandat|premijer(?!\w*\s+lig)|diplomatij|sankcij)/i
     )
   ) {
     return 'Politika';

@@ -183,7 +183,51 @@ export function applyDiversityRule(
     top.push(next);
   }
 
-  return [...top, ...deferred, ...rest];
+  return enforceMaxConsecutiveSource([...top, ...deferred, ...rest], maxPerSource);
+}
+
+/**
+ * Obezbeđuje da nijedan medij nema više od `maxConsecutive` (podrazumevano 2) članaka zaredom
+ * u rangiranoj listi, spuštanjem trećeg uzastopnog članka istog izvora iza prvog dostupnog članka drugog medija.
+ */
+export function enforceMaxConsecutiveSource(
+  items: RankedCluster[],
+  maxConsecutive: number = DEFAULT_MAX_PER_SOURCE_IN_TOP
+): RankedCluster[] {
+  const cap = Math.max(1, maxConsecutive);
+  if (items.length <= cap) return [...items];
+
+  const pool = [...items];
+  const out: RankedCluster[] = [];
+
+  while (pool.length > 0) {
+    let lastSourceId: string | null = null;
+    let consecutiveCount = 0;
+
+    if (out.length >= cap) {
+      lastSourceId = out[out.length - 1].lead.source_id;
+      for (let i = out.length - 1; i >= 0; i -= 1) {
+        if (out[i].lead.source_id === lastSourceId) {
+          consecutiveCount += 1;
+        } else {
+          break;
+        }
+      }
+    }
+
+    if (consecutiveCount >= cap && lastSourceId !== null) {
+      const altIdx = pool.findIndex((candidate) => candidate.lead.source_id !== lastSourceId);
+      if (altIdx !== -1) {
+        const [picked] = pool.splice(altIdx, 1);
+        out.push(picked);
+        continue;
+      }
+    }
+
+    out.push(pool.shift()!);
+  }
+
+  return out;
 }
 
 export interface RankActiveOptions {
