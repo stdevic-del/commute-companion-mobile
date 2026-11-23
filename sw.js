@@ -1,4 +1,4 @@
-const CACHE_NAME = 'commute-companion-v4.60';
+const CACHE_NAME = 'commute-companion-v4.61';
 const OFFLINE_BRIEFING_URL = '/__offline_briefing_package.json';
 const CORE_ASSETS = [
   './manifest.json',
@@ -90,13 +90,11 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // Never intercept cross-origin audio TTS streams or map tile servers
+  // Never intercept cross-origin audio TTS streams or OpenStreetMap tile servers
   if (
     url.hostname.includes('translate.google.com') ||
-    url.hostname.includes('cartocdn.com') ||
-    url.hostname.includes('openstreetmap.de') ||
-    url.hostname.includes('openstreetmap.org') ||
-    url.hostname.includes('openstreetmap.fr')
+    url.hostname.includes('tile.openstreetmap.org') ||
+    url.hostname.includes('openstreetmap.org')
   ) {
     return;
   }
