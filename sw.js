@@ -1,4 +1,4 @@
-const CACHE_NAME = 'commute-companion-v4.64';
+const CACHE_NAME = 'commute-companion-v4.65';
 const OFFLINE_BRIEFING_URL = '/__offline_briefing_package.json';
 const CORE_ASSETS = [
   './manifest.json',

@@ -1,5 +1,8 @@
 import { createHash } from 'node:crypto';
 import { parse as parseHtml } from 'node-html-parser';
+import { cyrillicToLatin } from '../../../shared/transliterate.ts';
+
+export { cyrillicToLatin };
 
 const NAMED_ENTITIES: Record<string, string> = {
   amp: '&',
@@ -27,39 +30,6 @@ const NAMED_ENTITIES: Record<string, string> = {
   middot: '·',
   deg: '°',
   sect: '§',
-};
-
-const CYRILLIC_TO_LATIN_MAP: Record<string, string> = {
-  А: 'A', а: 'a',
-  Б: 'B', б: 'b',
-  В: 'V', в: 'v',
-  Г: 'G', г: 'g',
-  Д: 'D', д: 'd',
-  Ђ: 'Đ', ђ: 'đ',
-  Е: 'E', е: 'e',
-  Ж: 'Ž', ж: 'ž',
-  З: 'Z', з: 'z',
-  И: 'I', и: 'i',
-  Ј: 'J', ј: 'j',
-  К: 'K', к: 'k',
-  Л: 'L', л: 'l',
-  Љ: 'Lj', љ: 'lj',
-  М: 'M', м: 'm',
-  Н: 'N', н: 'n',
-  Њ: 'Nj', њ: 'nj',
-  О: 'O', о: 'o',
-  П: 'P', п: 'p',
-  Р: 'R', р: 'r',
-  С: 'S', с: 's',
-  Т: 'T', т: 't',
-  Ћ: 'Ć', ћ: 'ć',
-  У: 'U', у: 'u',
-  Ф: 'F', ф: 'f',
-  Х: 'H', х: 'h',
-  Ц: 'C', ц: 'c',
-  Ч: 'Č', ч: 'č',
-  Џ: 'Dž', џ: 'dž',
-  Ш: 'Š', ш: 'š',
 };
 
 const KNOWN_PORTAL_SUFFIXES = [
@@ -165,14 +135,14 @@ function escapeRegExp(s: string): string {
 }
 
 /**
- * Čisti originalni naslov za prikaz (čuva originalno pismo — ćirilicu ili latinicu),
+ * Čisti naslov za prikaz i ujednačava pismo na srpsku latinicu,
  * uklanja HTML, entitete, višak razmaka i sufikse portala tipa " - RTS" / " | Danas".
  */
 export function cleanTitle(rawTitle: string, sourceName?: string | null): string {
-  let title = stripHtmlTags(rawTitle);
+  let title = cyrillicToLatin(stripHtmlTags(rawTitle));
   if (!title) return '';
 
-  // 1. Ako znamo ime izvora, skini sufiks sa tim imenom (na latinici ili ćirilici)
+  // 1. Ako znamo ime izvora, skini sufiks sa tim imenom (na latinici)
   if (sourceName && sourceName.trim().length >= 2) {
     const cleanSource = sourceName.replace(/\s*\(signal\)\s*/i, '').trim();
     const variants = Array.from(new Set([cleanSource, cyrillicToLatin(cleanSource)])).filter(Boolean);
@@ -185,31 +155,13 @@ export function cleanTitle(rawTitle: string, sourceName?: string | null): string
     }
   }
 
-  // 2. Skini poznate sufikse portala (proveravamo i na preslovljenoj verziji zbog npr. " - РТС")
-  const checkLatin = cyrillicToLatin(title);
-  const suffixMatch = checkLatin.match(KNOWN_SUFFIX_RE);
+  // 2. Skini poznate sufikse portala (npr. " - RTS" / " | Danas")
+  const suffixMatch = title.match(KNOWN_SUFFIX_RE);
   if (suffixMatch && suffixMatch.index !== undefined && suffixMatch.index >= 10) {
-    // Nađi isti separator na kraju originalnog naslova
-    const sepMatch = title.match(/\s*(?:\||::|—|–|\s-\s)\s*[^|–—-]+$/);
-    if (sepMatch && sepMatch.index !== undefined && sepMatch.index >= 10) {
-      title = title.slice(0, sepMatch.index).trim();
-    }
+    title = title.slice(0, suffixMatch.index).trim();
   }
 
   return collapseWhitespace(title);
-}
-
-/**
- * Preslovljava srpsku ćirilicu u punu latinicu (uključujući digrafe lj, nj, dž i đ).
- */
-export function cyrillicToLatin(input: string): string {
-  if (!input) return '';
-  let out = '';
-  for (let i = 0; i < input.length; i += 1) {
-    const ch = input[i];
-    out += CYRILLIC_TO_LATIN_MAP[ch] ?? ch;
-  }
-  return out;
 }
 
 /**
@@ -292,7 +244,7 @@ function truncateAtWord(text: string, maxChars: number): string {
 }
 
 /**
- * Gradi čist uvod (snippet) od 1–2 rečenice (<= maxChars znakova).
+ * Gradi čist uvod (snippet) od 1–2 rečenice (<= maxChars znakova) na srpskoj latinici.
  * Uklanja HTML, WordPress šablone i ponavljanje naslova na početku uvoda.
  */
 export function buildSnippet(
@@ -300,7 +252,7 @@ export function buildSnippet(
   cleanTitleText: string,
   maxChars: number = 280
 ): string {
-  let clean = stripFeedBoilerplate(stripHtmlTags(rawDescription));
+  let clean = stripFeedBoilerplate(cyrillicToLatin(stripHtmlTags(rawDescription)));
   if (!clean) return '';
 
   // Ako uvod ponavlja isti naslov na početku, skini taj duplikat
