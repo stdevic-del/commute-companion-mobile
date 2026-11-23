@@ -114,5 +114,21 @@ export interface ArticleWithWeight {
   sourceWeight: number;
 }
 
+export interface TtsAudioCacheRow {
+  item_id: string;
+  file_name: string;
+  voice: string;
+  chars_count: number;
+  bytes_size: number;
+  created_at: string;
+}
+
+export interface TtsDailyUsageRow {
+  day_utc: string;
+  chars_used: number;
+  clips_generated: number;
+  updated_at: string;
+}
+
 export const USER_AGENT = 'Mozilla/5.0 (compatible; NewsAggregatorTest/1.0)';
 export const DEFAULT_RETENTION_HOURS = 72;

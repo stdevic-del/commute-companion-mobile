@@ -1,6 +1,6 @@
 {
-  "name": "Commute Companion 3.0",
-  "short_name": "Commute 3.0",
+  "name": "Putni Vodič",
+  "short_name": "Putni Vodič",
   "description": "Personalizovani audio kopilot za vožnju i javni prevoz, Servisni radar u 3 tačke (EDS, BVK, GSP) i adaptivni brifing",
   "start_url": "./",
   "scope": "./",

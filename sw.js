@@ -1,4 +1,5 @@
-const CACHE_NAME = 'commute-companion-v4.67';
+const APP_VERSION = '4.68.0';
+const CACHE_NAME = `commute-companion-v${APP_VERSION}`;
 const OFFLINE_BRIEFING_URL = '/__offline_briefing_package.json';
 const CORE_ASSETS = [
   './manifest.json',
@@ -6,6 +7,40 @@ const CORE_ASSETS = [
   './data/servisi.json',
   './data/ulice_beograd.json',
 ];
+
+async function buildRangeResponse(fullResponse, rangeHeader) {
+  const buf = await fullResponse.arrayBuffer();
+  const total = buf.byteLength;
+  const match = /^bytes=(\d*)-(\d*)$/i.exec((rangeHeader || '').trim());
+  if (!match || total === 0) {
+    return new Response(buf, {
+      status: 200,
+      headers: {
+        'Content-Type': fullResponse.headers.get('Content-Type') || 'audio/mpeg',
+        'Content-Length': String(total),
+        'Accept-Ranges': 'bytes',
+      },
+    });
+  }
+  const start = match[1] ? Number(match[1]) : 0;
+  const end = match[2] ? Math.min(Number(match[2]), total - 1) : total - 1;
+  if (!Number.isFinite(start) || !Number.isFinite(end) || start < 0 || start > end || start >= total) {
+    return new Response(null, {
+      status: 416,
+      headers: { 'Content-Range': `bytes */${total}` },
+    });
+  }
+  const sliced = buf.slice(start, end + 1);
+  return new Response(sliced, {
+    status: 206,
+    headers: {
+      'Content-Type': fullResponse.headers.get('Content-Type') || 'audio/mpeg',
+      'Content-Range': `bytes ${start}-${end}/${total}`,
+      'Content-Length': String(sliced.byteLength),
+      'Accept-Ranges': 'bytes',
+    },
+  });
+}
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
@@ -90,12 +125,41 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // Never intercept cross-origin audio TTS streams or OpenStreetMap tile servers
+  // Never intercept OpenStreetMap tile servers
   if (
-    url.hostname.includes('translate.google.com') ||
     url.hostname.includes('tile.openstreetmap.org') ||
     url.hostname.includes('openstreetmap.org')
   ) {
+    return;
+  }
+
+  // 0.5) Cache-First sa HTTP Range podrškom za Azure Neural TTS MP3 klipove (imutable po ID-ju vesti)
+  const isFeedAudioMp3 =
+    url.pathname.endsWith('.mp3') &&
+    ((url.hostname === 'raw.githubusercontent.com' && url.pathname.includes('/news-feed/audio/')) ||
+      (url.origin === self.location.origin && url.pathname.includes('/audio/')));
+
+  if (isFeedAudioMp3) {
+    const cacheKey = new Request(url.href, { method: 'GET' });
+    const rangeHeader = req.headers.get('range');
+    event.respondWith(
+      caches.open(CACHE_NAME).then(async (cache) => {
+        const cached = await cache.match(cacheKey, { ignoreSearch: true });
+        if (cached) {
+          return rangeHeader ? buildRangeResponse(cached, rangeHeader) : cached;
+        }
+        try {
+          const fullRes = await fetch(url.href, { mode: 'cors' });
+          if (fullRes && fullRes.ok) {
+            cache.put(cacheKey, fullRes.clone()).catch(() => {});
+            return rangeHeader ? buildRangeResponse(fullRes, rangeHeader) : fullRes;
+          }
+          return fullRes;
+        } catch {
+          return Response.error();
+        }
+      })
+    );
     return;
   }
 

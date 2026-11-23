@@ -17,6 +17,8 @@ import {
   type SourceConfig,
   type SourceRole,
   type SourceWithState,
+  type TtsAudioCacheRow,
+  type TtsDailyUsageRow,
 } from './types.ts';
 
 interface Migration {
@@ -137,6 +139,30 @@ const MIGRATIONS: Migration[] = [
 
       CREATE INDEX IF NOT EXISTS idx_article_duplicates_article_id
         ON article_duplicates(article_id);
+    `,
+  },
+  {
+    version: 3,
+    name: 'tts_audio_and_quota',
+    sql: `
+      CREATE TABLE IF NOT EXISTS tts_daily_usage (
+        day_utc TEXT PRIMARY KEY,
+        chars_used INTEGER NOT NULL DEFAULT 0,
+        clips_generated INTEGER NOT NULL DEFAULT 0,
+        updated_at TEXT NOT NULL
+      );
+
+      CREATE TABLE IF NOT EXISTS tts_audio_cache (
+        item_id TEXT PRIMARY KEY,
+        file_name TEXT NOT NULL,
+        voice TEXT NOT NULL,
+        chars_count INTEGER NOT NULL,
+        bytes_size INTEGER NOT NULL,
+        created_at TEXT NOT NULL
+      );
+
+      CREATE INDEX IF NOT EXISTS idx_tts_audio_cache_created_at
+        ON tts_audio_cache(created_at);
     `,
   },
 ];
@@ -1080,6 +1106,104 @@ export class NewsDatabase {
       this.db.exec('ROLLBACK;');
       throw err;
     }
+  }
+
+  public getTtsDailyUsage(dayUtc: string): TtsDailyUsageRow {
+    const row = this.db
+      .prepare(
+        'SELECT day_utc, chars_used, clips_generated, updated_at FROM tts_daily_usage WHERE day_utc = ?'
+      )
+      .get(dayUtc) as Record<string, unknown> | undefined;
+
+    if (!row) {
+      return {
+        day_utc: dayUtc,
+        chars_used: 0,
+        clips_generated: 0,
+        updated_at: '',
+      };
+    }
+
+    return {
+      day_utc: String(row.day_utc),
+      chars_used: Number(row.chars_used),
+      clips_generated: Number(row.clips_generated),
+      updated_at: String(row.updated_at),
+    };
+  }
+
+  public addTtsDailyUsage(
+    dayUtc: string,
+    charsDelta: number,
+    clipsDelta: number,
+    nowIso: string = new Date().toISOString()
+  ): TtsDailyUsageRow {
+    this.db
+      .prepare(`
+        INSERT INTO tts_daily_usage (day_utc, chars_used, clips_generated, updated_at)
+        VALUES (?, ?, ?, ?)
+        ON CONFLICT(day_utc) DO UPDATE SET
+          chars_used = chars_used + excluded.chars_used,
+          clips_generated = clips_generated + excluded.clips_generated,
+          updated_at = excluded.updated_at
+      `)
+      .run(dayUtc, Math.max(0, Math.round(charsDelta)), Math.max(0, Math.round(clipsDelta)), nowIso);
+
+    return this.getTtsDailyUsage(dayUtc);
+  }
+
+  public recordTtsAudio(record: TtsAudioCacheRow): void {
+    this.db
+      .prepare(`
+        INSERT INTO tts_audio_cache (item_id, file_name, voice, chars_count, bytes_size, created_at)
+        VALUES (?, ?, ?, ?, ?, ?)
+        ON CONFLICT(item_id) DO UPDATE SET
+          file_name = excluded.file_name,
+          voice = excluded.voice,
+          chars_count = excluded.chars_count,
+          bytes_size = excluded.bytes_size,
+          created_at = excluded.created_at
+      `)
+      .run(
+        record.item_id,
+        record.file_name,
+        record.voice,
+        record.chars_count,
+        record.bytes_size,
+        record.created_at
+      );
+  }
+
+  public listTtsAudioCache(): TtsAudioCacheRow[] {
+    const rows = this.db
+      .prepare(
+        'SELECT item_id, file_name, voice, chars_count, bytes_size, created_at FROM tts_audio_cache'
+      )
+      .all() as Array<Record<string, unknown>>;
+
+    return rows.map((r) => ({
+      item_id: String(r.item_id),
+      file_name: String(r.file_name),
+      voice: String(r.voice),
+      chars_count: Number(r.chars_count),
+      bytes_size: Number(r.bytes_size),
+      created_at: String(r.created_at),
+    }));
+  }
+
+  public deleteTtsAudioByFileName(fileName: string): number {
+    const res = this.db
+      .prepare('DELETE FROM tts_audio_cache WHERE file_name = ?')
+      .run(fileName);
+    return Number(res.changes);
+  }
+
+  public pruneTtsAudioCache(retentionHours: number, now: Date = new Date()): number {
+    const cutoffIso = new Date(now.getTime() - retentionHours * 3600 * 1000).toISOString();
+    const res = this.db
+      .prepare('DELETE FROM tts_audio_cache WHERE created_at < ?')
+      .run(cutoffIso);
+    return Number(res.changes);
   }
 
   public getStats(): {

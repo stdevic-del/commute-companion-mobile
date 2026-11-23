@@ -58,11 +58,23 @@ jobs:
           restore-keys: |
             news-db-
 
-      - name: Pokreni 5-slojni ingest pipeline (fetch, parse, norm, dedup, cluster, rank, AI briefing, JSON export)
+      - name: Vrati keširane Azure TTS MP3 fajlove (čuvanje kvote po ID-ju članka)
+        uses: actions/cache@v4
+        with:
+          path: ingest/out/audio
+          key: news-audio-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            news-audio-
+
+      - name: Pokreni 5-slojni ingest pipeline (fetch, parse, norm, dedup, cluster, rank, AI briefing, Azure TTS, JSON export)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_BRIEFING_MODEL: ${{ vars.GEMINI_BRIEFING_MODEL || 'gemini-2.5-flash' }}
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+          AZURE_SPEECH_VOICE: ${{ vars.AZURE_SPEECH_VOICE || 'sr-RS-SophieNeural' }}
         run: |
+          mkdir -p ingest/out/audio
           ARGS="--out ingest/out"
           if [ "${{ inputs.force }}" = "true" ]; then
             ARGS="$ARGS --force"
@@ -76,7 +88,7 @@ jobs:
             ./ingest/node_modules/.bin/tsx ingest/src/index.ts $ARGS
           fi
 
-      - name: Objavi statičke JSON fajlove na granu news-feed (1 commit, force push)
+      - name: Objavi statičke JSON i MP3 fajlove na granu news-feed (1 commit, force push)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |

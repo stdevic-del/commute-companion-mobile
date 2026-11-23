@@ -35,6 +35,7 @@ export interface ExportedClusterItem {
   score: number;
   aiBriefing: string | null;
   aiBriefingSources: string[];
+  audioUrl?: string;
 }
 
 export interface ExportedFeedFile {
@@ -73,6 +74,7 @@ export interface ExportedMetaFile {
     articlesInDb: number;
     clustersInDb: number;
     briefedClusters: number;
+    audioClips?: number;
     activeSources: number;
   };
   categories: Array<{
@@ -89,11 +91,13 @@ export interface ExportSummary {
   filesWritten: string[];
   globalItems: number;
   briefedItems: number;
+  audioItems: number;
 }
 
 export interface ExportOptions {
   maxGlobalItems?: number;
   maxCategoryItems?: number;
+  audioUrls?: Map<string, string> | Record<string, string>;
 }
 
 /**
@@ -138,7 +142,19 @@ function parseBriefingSources(raw: string | null): string[] {
   return [];
 }
 
-function serializeCluster(item: RankedCluster): ExportedClusterItem {
+function lookupAudioUrl(
+  clusterId: string,
+  audioUrls?: Map<string, string> | Record<string, string>
+): string | undefined {
+  if (!audioUrls) return undefined;
+  const val = audioUrls instanceof Map ? audioUrls.get(clusterId) : audioUrls[clusterId];
+  return typeof val === 'string' && val.trim().length > 0 ? val.trim() : undefined;
+}
+
+function serializeCluster(
+  item: RankedCluster,
+  audioUrls?: Map<string, string> | Record<string, string>
+): ExportedClusterItem {
   const category = item.cluster.category;
   const sources: ExportedSource[] = item.sources.map((s) => ({
     id: s.sourceId,
@@ -156,7 +172,9 @@ function serializeCluster(item: RankedCluster): ExportedClusterItem {
     });
   }
 
-  return {
+  const audioUrl = lookupAudioUrl(item.cluster.id, audioUrls);
+
+  const exported: ExportedClusterItem = {
     id: item.cluster.id,
     title: item.lead.title,
     snippet: item.lead.snippet,
@@ -175,6 +193,12 @@ function serializeCluster(item: RankedCluster): ExportedClusterItem {
     aiBriefing: item.cluster.ai_briefing_text ?? null,
     aiBriefingSources: parseBriefingSources(item.cluster.ai_briefing_sources),
   };
+
+  if (audioUrl) {
+    exported.audioUrl = audioUrl;
+  }
+
+  return exported;
 }
 
 function writeJsonFile(filePath: string, data: unknown): void {
@@ -197,12 +221,15 @@ export function exportFeeds(
   const generatedAt = now.toISOString();
   const maxGlobal = options.maxGlobalItems ?? DEFAULT_MAX_GLOBAL_ITEMS;
   const maxCat = options.maxCategoryItems ?? DEFAULT_MAX_CATEGORY_ITEMS;
+  const audioUrls = options.audioUrls;
 
   mkdirSync(outDir, { recursive: true });
   const filesWritten: string[] = [];
 
   // 1. Globalni feed.json
-  const globalItems = ranking.globalRanked.slice(0, maxGlobal).map(serializeCluster);
+  const globalItems = ranking.globalRanked
+    .slice(0, maxGlobal)
+    .map((item) => serializeCluster(item, audioUrls));
   const globalPayload: ExportedFeedFile = {
     schemaVersion: FEED_SCHEMA_VERSION,
     generatedAt,
@@ -222,7 +249,9 @@ export function exportFeeds(
   for (const cat of CANONICAL_CATEGORIES) {
     const slug = categoryToSlug(cat);
     const fileName = `${slug}.json`;
-    const items = (ranking.byCategory[cat] ?? []).slice(0, maxCat).map(serializeCluster);
+    const items = (ranking.byCategory[cat] ?? [])
+      .slice(0, maxCat)
+      .map((item) => serializeCluster(item, audioUrls));
     byCategoryCounts[cat] = items.length;
 
     const catPayload: ExportedFeedFile = {
@@ -249,6 +278,7 @@ export function exportFeeds(
   const dbStats = db.getStats();
   const allSources = db.getAllSourcesWithState();
   const briefedItems = globalItems.filter((i) => Boolean(i.aiBriefing)).length;
+  const audioItems = globalItems.filter((i) => Boolean(i.audioUrl)).length;
 
   const metaPayload: ExportedMetaFile = {
     schemaVersion: FEED_SCHEMA_VERSION,
@@ -259,6 +289,7 @@ export function exportFeeds(
       articlesInDb: dbStats.articles,
       clustersInDb: dbStats.clusters,
       briefedClusters: briefedItems,
+      audioClips: audioItems,
       activeSources: dbStats.sourcesEnabled,
     },
     categories: categoryIndex,
@@ -288,5 +319,6 @@ export function exportFeeds(
     filesWritten,
     globalItems: globalItems.length,
     briefedItems,
+    audioItems,
   };
 }

@@ -21,6 +21,10 @@ import { enrichMissingMetadata } from './parsers/enrich.ts';
 import { parseFeed } from './parsers/feedParser.ts';
 import { rankActiveClusters } from './rank/ranker.ts';
 import { computeNextFetchState } from './scheduler.ts';
+import {
+  AzureTtsGenerator,
+  createAzureTtsClientFromEnv,
+} from './tts/azureTts.ts';
 import { USER_AGENT } from './types.ts';
 
 interface CliOptions {
@@ -29,7 +33,9 @@ interface CliOptions {
   only: string[] | null;
   enrichLimit: number;
   skipBriefing: boolean;
+  skipTts: boolean;
   maxBriefings: number;
+  maxTtsChars?: number;
   noExport: boolean;
   outDir: string;
   dbPath: string;
@@ -42,7 +48,9 @@ function parseArgs(argv: string[]): CliOptions {
   let only: string[] | null = null;
   let enrichLimit = 2;
   let skipBriefing = false;
+  let skipTts = false;
   let maxBriefings = DEFAULT_MAX_NEW_BRIEFINGS_PER_RUN;
+  let maxTtsChars: number | undefined;
   let noExport = false;
   let outDir = DEFAULT_OUT_DIR;
   let dbPath = DEFAULT_DB_PATH;
@@ -56,11 +64,17 @@ function parseArgs(argv: string[]): CliOptions {
       force = true;
     } else if (arg === '--skip-briefing') {
       skipBriefing = true;
+    } else if (arg === '--skip-tts') {
+      skipTts = true;
     } else if (arg === '--no-export') {
       noExport = true;
     } else if (arg === '--max-briefings' && argv[i + 1]) {
       const n = Number(argv[i + 1]);
       if (Number.isInteger(n) && n >= 0) maxBriefings = n;
+      i += 1;
+    } else if (arg === '--max-tts-chars' && argv[i + 1]) {
+      const n = Number(argv[i + 1]);
+      if (Number.isInteger(n) && n > 0) maxTtsChars = n;
       i += 1;
     } else if (arg === '--only' && argv[i + 1]) {
       only = argv[i + 1]
@@ -90,7 +104,9 @@ function parseArgs(argv: string[]): CliOptions {
     only,
     enrichLimit,
     skipBriefing,
+    skipTts,
     maxBriefings,
+    maxTtsChars,
     noExport,
     outDir,
     dbPath,
@@ -342,10 +358,40 @@ async function main(): Promise<void> {
       }
     }
 
+    let audioUrls: Map<string, string> | undefined;
+    if (!opts.skipTts && !opts.noExport && ranking.globalRanked.length > 0) {
+      const ttsClient = createAzureTtsClientFromEnv();
+      const ttsGen = new AzureTtsGenerator(db, ttsClient, {
+        dailyCharLimit: opts.maxTtsChars,
+      });
+      const ttsStats = await ttsGen.generateForRankedClusters(
+        ranking.globalRanked,
+        opts.outDir,
+        nowDate
+      );
+      audioUrls = ttsStats.audioUrls;
+      if (ttsStats.skippedNoApiKey) {
+        console.log(
+          `Azure TTS:     preskočeno (AZURE_SPEECH_KEY/REGION nisu podešeni) | ${ttsStats.alreadyCached} keširanih MP3 | obrisano >48h: ${ttsStats.deletedExpiredFiles}`
+        );
+      } else {
+        const flags = [
+          ttsStats.hitDailyLimit ? 'dnevni limit' : '',
+          ttsStats.hitRateLimit ? '429 pauza' : '',
+          ttsStats.hitAuthError ? 'auth greška' : '',
+        ]
+          .filter(Boolean)
+          .join(', ');
+        console.log(
+          `Azure TTS:     +${ttsStats.generated} novih (${ttsStats.voice}) | ${ttsStats.alreadyCached} iz keša | ${ttsStats.charsUsedToday}/${ttsStats.dailyCharLimit} kar. danas | obrisano >48h: ${ttsStats.deletedExpiredFiles}${ttsStats.failed > 0 ? ` | ${ttsStats.failed} grešaka` : ''}${flags ? ` [${flags}]` : ''}`
+        );
+      }
+    }
+
     if (!opts.noExport) {
-      const exported = exportFeeds(db, ranking, opts.outDir, nowDate);
+      const exported = exportFeeds(db, ranking, opts.outDir, nowDate, { audioUrls });
       console.log(
-        `JSON izvoz:    ${exported.filesWritten.length} fajlova u ${exported.outDir} (${exported.globalItems} vesti, ${exported.briefedItems} sa AI brifingom)`
+        `JSON izvoz:    ${exported.filesWritten.length} fajlova u ${exported.outDir} (${exported.globalItems} vesti, ${exported.briefedItems} sa AI brifingom, ${exported.audioItems} sa MP3)`
       );
     }
 
