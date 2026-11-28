@@ -1,0 +1,1230 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T17:37:03.564Z",
+  "feedType": "category",
+  "category": "Hronika",
+  "categorySlug": "hronika",
+  "totalItems": 40,
+  "items": [
+    {
+      "id": "clu_4b48e6b30ce7215e",
+      "title": "Održan skup podrške Draganu J. Vučićeviću ispred centralnog zatvora",
+      "snippet": "Ispred Okružnog zatvora u Beogradu održan je skup podrške vlasniku i glavnom i odgovornom uredniku TV Informer Draganu J. Vučićeviću, kome je određen pritvor do 30 dana.",
+      "url": "https://www.rts.rs/vesti/drustvo/6093786/dragan-j-vucicevic-podrska-skup-cz.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F4SEk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iMjBkOTdkNjE4MjliZmQwY2YwNjNjODkwMDJiNmYzNS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T11:23:13.000Z",
+      "updatedAt": "2026-11-27T17:40:00.000Z",
+      "mediaCount": 6,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/informer-uhapsen-dragan-vucicevic-skup-podrske-palata-pravda/",
+          "publishedAt": "2026-11-26T08:57:59.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/policijo-prebij-izlomi-rebra-zbog-cega-je-tacno-uhapsen-dragan-j-vucicevic/",
+          "publishedAt": "2026-11-26T11:19:38.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/advokati-dragana-j-vucicevica-izneo-je-odbranu-protiv-njega-podneto-vise-krivicnih/7fwphgd",
+          "publishedAt": "2026-11-26T12:32:00.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6093467/dragan-j-vucicevic-pritvor-30-dana-informer.html",
+          "publishedAt": "2026-11-26T20:40:37.000Z"
+        },
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/cm3wg49p99q6o/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T09:02:52.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/podrska-za-vucicevica-ispred-zatvora-u-beogradu-okupljeni-zaposleni-informera-i-funkcioneri-sns-a-najavljena-zalba/261127118",
+          "publishedAt": "2026-11-27T17:40:00.000Z"
+        }
+      ],
+      "score": 0.1135,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_71f8d620f5794041",
+      "title": "Uhapšen osumnjičeni za bacanje bombe u Čeneju",
+      "snippet": "Više javno tužilaštvo u Novom Sadu saopštilo je danas da je uhapšen V.",
+      "url": "https://www.danas.rs/vesti/drustvo/bomba-cenej/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2023%2F05%2Fshutterstock_1338116366-e1778004914862-300x161.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:39:50.000Z",
+      "updatedAt": "2026-11-28T12:32:51.000Z",
+      "mediaCount": 5,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/bacali-bombe-na-kucu-i-restoran-na-novom-beogradu-i-zvezdari-uhapsena-dvojica-mladica-kod-jednog-pronadjena-marihuana-i-kokain/",
+          "publishedAt": "2026-11-25T21:07:09.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/bacali-bombe-na-porodicnu-kucu-i-restoran-uhapsena-dvojica-mladica-u-beogradu/15yh90v",
+          "publishedAt": "2026-11-25T21:24:22.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/uhapseni-osumnjiceni-da-su-u-beogradu-bacili-rucnu-bombu-na-kucu-i-u-bastu-restorana/",
+          "publishedAt": "2026-11-25T21:43:54.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/crna-hronika/uhapsen-zenicanin-osumnjicen-za-ubistvo-nestalog-muskarca/261127164",
+          "publishedAt": "2026-11-27T13:50:00.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6094806/ubijen-muskarac-u-krusevcu-uhapsen-osumnjiceni.html",
+          "publishedAt": "2026-11-28T12:32:51.000Z"
+        }
+      ],
+      "score": 0.6915,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4a18cb460823e336",
+      "title": "Otac Vladimira Mandića tvrdi da njegov sin nije u bekstvu: U Beogradu je, samo je isključio telefon",
+      "snippet": "Momčilo Mandić, otac bivšeg rukometaša i člana SNS-a Vladimira Mandića za kojim je raspisana poternica, tvrdi da njegov sin nije u bekstvu, već da se",
+      "url": "https://nova.rs/vesti/hronika/otac-vladimira-mandica-tvrdi-da-njegov-sin-nije-u-bekstvu-u-beogradu-je-samo-je-iskljucio-telefon/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1763990467_1686220642-GROBARI-ZA-VAS_79.width-1200.JPG&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:52:38.000Z",
+      "updatedAt": "2026-11-28T16:52:38.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/otac-otkrio-gde-se-nalazi-vladimir-mandic/9mvtngb",
+          "publishedAt": "2026-11-28T15:03:59.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/otac-vladimira-mandica-tvrdi-da-njegov-sin-nije-u-bekstvu-u-beogradu-je-samo-je-iskljucio-telefon/",
+          "publishedAt": "2026-11-28T16:52:38.000Z"
+        }
+      ],
+      "score": 2.2043,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_a039c67e9f7de878",
+      "title": "Albanija slavi Dan nezavisnosti uz sukobe demonstranata i policije",
+      "snippet": "Suzavac, molotovljevi kokteli i vodeni topovi - tako su izgledale ulice Tirane, glavnog grada Albanije na Dan nezavisnosti 28. novembra.",
+      "url": "https://www.bbc.com/serbian/articles/ckq6e5mg5gjzo/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F1175%2Flive%2F89a93620-eb38-11f1-9c9c-710a05f9c274.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:09:19.000Z",
+      "updatedAt": "2026-11-28T15:09:19.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/ckq6e5mg5gjzo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-28T15:09:19.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/bbc-news-serbian/albanija-slavi-dan-nezavisnosti-uz-sukobe-demonstranata-i-policije",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        }
+      ],
+      "score": 1.1669,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c997e6bfbf935c95",
+      "title": "Pješak teško povrijeđen u saobraćajnoj nesreći u Tomislavgradu",
+      "snippet": "Pješak je zadobio teške tjelesne povrede u saobraćajnoj nesreći koja se u petak oko 18:05 sati dogodila u Ulici Mijata Tomića u Tomislavgradu.",
+      "url": "https://www.klix.ba/vijesti/crna-hronika/pjesak-tesko-povrijeden-u-saobracajnoj-nesreci-u-tomislavgradu/261128087",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128087.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:29:00.000Z",
+      "updatedAt": "2026-11-28T13:29:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/nesreca-na-starom-novosadskom-putu-jedan-automobil-unisten-saobracaj-blokiran/y2ervn9",
+          "publishedAt": "2026-11-27T12:47:36.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/crna-hronika/pjesak-tesko-povrijeden-u-saobracajnoj-nesreci-u-tomislavgradu/261128087",
+          "publishedAt": "2026-11-28T13:29:00.000Z"
+        }
+      ],
+      "score": 0.5924,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_847af02a37610699",
+      "title": "Horor u Kruševcu: Muškarac uhapšen zbog sumnje da je metalnom šipkom ubio cimera",
+      "snippet": "Policija u Kruševcu uhapsila je R. M. (70) iz ovog grada zbog sumnje da je počinio teško ubistvo, saopštilo je Ministarstvo unutrašnjih poslova.",
+      "url": "https://nova.rs/vesti/hronika/horor-u-krusevcu-muskarac-uhapsen-zbog-sumnje-da-je-metalnom-sipkom-ubio-cimera/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F1%2F1769617693_1708168541-1708168235315-scaled.width-1200.jpeg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:49:54.000Z",
+      "updatedAt": "2026-11-28T12:49:54.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/horor-kod-leskovca-nakon-svadje-izbo-muskarca/4l2p2qh",
+          "publishedAt": "2026-11-27T14:34:00.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/horor-u-krusevcu-muskarac-uhapsen-zbog-sumnje-da-je-metalnom-sipkom-ubio-cimera/",
+          "publishedAt": "2026-11-28T12:49:54.000Z"
+        }
+      ],
+      "score": 0.5657,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bcfebdc43f881310",
+      "title": "Poslao pismo poslanicima i napustio Srbiju sa decom: Privrednik iz Novog Sada u strahu posle bombaškog napada na njegov dom i imovinu",
+      "snippet": "Privrednik Milan Tatarski, otac četvoro maloletne dece, uputio je otvoreno pismo predsedniku Narodne skupštine Republike Srbije i predsednicima skupšt",
+      "url": "https://nova.rs/vesti/hronika/poslao-pismo-poslanicima-i-napustio-srbiju-sa-decom-privrednik-iz-novog-sada-u-strahu-posle-bombaskog-napada-na-njegov-dom-i-imovinu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F1%2F1769617725_1715263035-1690279790-1690279510538-1024x683.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T11:15:37.000Z",
+      "updatedAt": "2026-11-28T09:15:26.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/privrednik-iz-novog-sada-poslao-pismo-poslanicima-i-napustio-srbiju-posle-napada/2bn29xq",
+          "publishedAt": "2026-11-27T10:59:21.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/poslao-pismo-poslanicima-i-napustio-srbiju-sa-decom-privrednik-iz-novog-sada-u-strahu-posle-bombaskog-napada-na-njegov-dom-i-imovinu/",
+          "publishedAt": "2026-11-27T11:15:37.000Z"
+        }
+      ],
+      "score": 0.2999,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fbf60d59f125d3dc",
+      "title": "Dolovac traži od tužioca Nenadića da postupa po prijavi protiv tužioca Stefanovića",
+      "snippet": "Zagorka Dolovac, vrhovna javna tužiteljka, uputila je obavezno uputstvo tužiocu za organizovani kriminal Mladenu Nenadiću koje ga obavezuje da počne da radi po krivičnoj prijavi protiv Nenada Stefanovića, glavnog javnog tužioca Višeg javnog tužilaštva u Beogradu, potvrđeno je…",
+      "url": "https://www.rts.rs/vesti/hronika/6094680/dolovac-stefanovic-nenadic-prijava-krivicna-postupak-vjt-tuzilastvo.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2024%2F11%2F30%2F16%2F59%2F588%2F3579261%2Fthumbs%2F14555567%2FDolovac.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T22:14:07.000Z",
+      "updatedAt": "2026-11-27T22:14:07.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6094680/dolovac-stefanovic-nenadic-prijava-krivicna-postupak-vjt-tuzilastvo.html",
+          "publishedAt": "2026-11-27T22:14:07.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/danas-saznaje-dolovac-trazi-od-tuzioca-nenadica-da-postupa-po-prijavi-protiv-tuzioca-stefanovica",
+          "publishedAt": "2026-11-27T22:34:15.969Z"
+        }
+      ],
+      "score": 0.1113,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_27eaabc2db52213d",
+      "title": "Trudnica i troje pešaka povređeni u tri udesa u Nišu",
+      "snippet": "Trudnica i troje pešaka povređeni su u tri udesa koja su se u protekla 24 časa dogodila na području grada Niša, kazali su u niškoj Hitnoj pomoći.",
+      "url": "https://nova.rs/vesti/hronika/trudnica-i-troje-pesaka-povredjeni-u-tri-udesa-u-nisu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F10%2F24%2F1792855869_90587.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:10:40.000Z",
+      "updatedAt": "2026-11-28T09:10:40.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/trudnica-i-troje-pesaka-povredjeni-u-tri-udesa-u-nisu/",
+          "publishedAt": "2026-11-28T09:10:40.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/trudnica-povrede-nis",
+          "publishedAt": "2026-11-28T12:14:50.264Z"
+        }
+      ],
+      "score": 0.2965,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_639f444d48551208",
+      "title": "Majka traži pravdu za mrtvog sina: Ako Miodrag Perić nije usmrtio mog Željka, moram da znam ko jeste",
+      "snippet": "Doljevčanka Vesna Ristić, majka devetnaestogodišnjeg Željka Ristića, koji je pre šest godina stradao u saobraćajnoj nesreći u doljevačkom selu Šainova",
+      "url": "https://nova.rs/vesti/hronika/majka-trazi-pravdu-za-mrtvog-sina-ako-miodrag-peric-nije-usmrtio-mog-zeljka-moram-da-znam-ko-jeste/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F28%2F1795855561_zeljko_ristic.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:27:51.000Z",
+      "updatedAt": "2026-11-28T17:27:51.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/majka-trazi-pravdu-za-mrtvog-sina-ako-miodrag-peric-nije-usmrtio-mog-zeljka-moram-da-znam-ko-jeste/",
+          "publishedAt": "2026-11-28T17:27:51.000Z"
+        }
+      ],
+      "score": 2.8479,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_45a44c17bb4a0d37",
+      "title": "\"HVALA MU ŠTO ME JE PREVARIO\" Ovako je Ivana Šašić pričala o odnosu sa pokojnim Bojanom Simićem: \"To je bilo zvanje svaki dan, po ceo dan\"",
+      "snippet": "Brak pevačice Ivane Šašić i Bojana Simića, koji je sinoć tragično nastradao u saobraćajnoj nesreći, okončan je nakon što ju je on prevario sa 14 godina starijom ženom.",
+      "url": "https://www.blic.rs/sudbine/ivana-sasic-je-ovako-pricala-o-bojanu-simicu-hvala-mu-sto-me-je-prevario/k1shyjk",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FtIik9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jMDMzZGMwOGVjNGZmMzQyM2YzYjI1NDJlNTcxNTg0MS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:58:26.000Z",
+      "updatedAt": "2026-11-28T16:58:26.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/sudbine/ivana-sasic-je-ovako-pricala-o-bojanu-simicu-hvala-mu-sto-me-je-prevario/k1shyjk",
+          "publishedAt": "2026-11-28T16:58:26.000Z"
+        }
+      ],
+      "score": 1.6284,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9880788c69c9dc96",
+      "title": "U Beogradu uhapšena osoba za kojom je bila raspisana potraga, nudila mito policajcima",
+      "snippet": "Ministarstvo unutrašnjih poslova saopštilo je danas da je uhapšena osoba osumnjičena da je nudila novac policajcima kako je ne bi sproveli u službene",
+      "url": "https://nova.rs/vesti/hronika/uhapsena-osoba-za-kojom-je-bila-raspisana-potraga/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1764261211_DRM_5797.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:59:50.000Z",
+      "updatedAt": "2026-11-28T13:59:50.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/uhapsena-osoba-za-kojom-je-bila-raspisana-potraga/",
+          "publishedAt": "2026-11-28T13:59:50.000Z"
+        }
+      ],
+      "score": 0.6754,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_a9fa110ad9626344",
+      "title": "(Foto) Sofija (22) preminula posle četiri dana borbe za život! Drugarice iz srednje škole zajedno otišle u smrt: Kolima sletele sa puta kod Inđije i poginule!",
+      "snippet": "Sofija G. (22) je druga žrtva teške saobraćajne nesreće koja se dogodila u nedelju, 22. novembra, kod Inđije, kada je automobil u kojem je bila sa drugaricom Anjom A. (23) sleteo s puta.",
+      "url": "https://www.blic.rs/vesti/hronika/drugarice-iz-srednje-skole-zajedno-otisle-u-smrt-kolima-sletele-sa-puta-kod-indjije-i/qrssmtw",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fa72k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xODkyYmJjODgzYzljYmM1NzgxMGFiZDNhZTA5ZDExYy5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:04:36.000Z",
+      "updatedAt": "2026-11-28T14:04:36.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/drugarice-iz-srednje-skole-zajedno-otisle-u-smrt-kolima-sletele-sa-puta-kod-indjije-i/qrssmtw",
+          "publishedAt": "2026-11-28T14:04:36.000Z"
+        }
+      ],
+      "score": 0.5367,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_7827cd15aa7630a0",
+      "title": "Miroslav Filipović Fiki i još dve osobe uhapšene u Loznici: Sumnjiče se za paljenje vozila u Lozničkom Polju",
+      "snippet": "Miroslav Filipović Fiki i još dve osobe uhapšene su u Loznici, nezvanično saznaje portal Nova.rs.",
+      "url": "https://nova.rs/vesti/hronika/miroslav-filipovic-fiki-i-jos-dve-osobe-uhapsene-u-loznici-sumnjice-se-za-paljenje-vozila-u-loznickom-polju/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F1%2F1769617619_1689519427-1689518457632.width-1200.jpeg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:50:42.000Z",
+      "updatedAt": "2026-11-28T11:50:42.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/miroslav-filipovic-fiki-i-jos-dve-osobe-uhapsene-u-loznici-sumnjice-se-za-paljenje-vozila-u-loznickom-polju/",
+          "publishedAt": "2026-11-28T11:50:42.000Z"
+        }
+      ],
+      "score": 0.4153,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_76611235ad409ca2",
+      "title": "Učenik pretio vršnjacima da će proći gore nego deca u \"Ribnikaru\"?! Drama u školi u Čačku: Oglasio se direktor, maloletnik sa ocem dao izjavu u policiji",
+      "snippet": "U Mašinsko - saobraćajnoj školi u Čačku došlo je do incidneta kada je jedan učenik drugog razreda objavio da ima spisak vršnjaka i prema nezvaničnim informacijama im rekao \"da će proći gore nego deca u Rubnikaru\".",
+      "url": "https://www.blic.rs/vesti/hronika/drama-u-skoli-u-cacku-ucenik-pretio-vrsnjacima-da-ce-proci-gore-nego-deca-u-ribnikaru/vwn1s6b",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FBUMk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81MWU2YjdhZDNlYzdkMWQ5ZWMxNzVlOWU0MTM5OWY2NC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:54:38.000Z",
+      "updatedAt": "2026-11-28T12:54:38.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/drama-u-skoli-u-cacku-ucenik-pretio-vrsnjacima-da-ce-proci-gore-nego-deca-u-ribnikaru/vwn1s6b",
+          "publishedAt": "2026-11-28T12:54:38.000Z"
+        }
+      ],
+      "score": 0.403,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_dd77369ffe68dba1",
+      "title": "Ispovest privrednika iz Tutina Naila-Rike Zornića: \"Pretučen sam u policijskoj stanici, a od oštećenog sam postao okrivljeni\"",
+      "snippet": "Privrednik iz Tutina Nail-Rika Zornić podneo je predstavku vrhovnoj javnoj tužiteljki Republike Srbije Zagorki Dolovac, tražeći da se ispita zakonitos",
+      "url": "https://nova.rs/vesti/hronika/ispovest-privrednika-iz-tutina-naila-rike-zornica-pretucenog-u-policiji/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F2%2F1770205660_1757108175-profimedia-1034486409.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:28:21.000Z",
+      "updatedAt": "2026-11-28T11:28:21.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/ispovest-privrednika-iz-tutina-naila-rike-zornica-pretucenog-u-policiji/",
+          "publishedAt": "2026-11-28T11:28:21.000Z"
+        }
+      ],
+      "score": 0.3872,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_5acae22ff09c57f0",
+      "title": "Državljanin BiH osuđen u Njemačkoj jer je bio \"rezerva\" u planiranoj tučnjavi, na kraju mu prijatelj ubijen",
+      "snippet": "Državljanin BiH (29) osuđen je u Njemačkoj na dvije godine i tri mjeseca zatvora jer je pomagao prijatelju u napadu na muškarca, koji se branio nožem i usmrtio napadača.",
+      "url": "https://www.klix.ba/vijesti/dijaspora/drzavljanin-bih-osuden-u-njemackoj-jer-je-bio-rezerva-u-planiranoj-tucnjavi-na-kraju-mu-prijatelj-ubijen/261128014",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128014.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:38:00.000Z",
+      "updatedAt": "2026-11-28T11:38:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/dijaspora/drzavljanin-bih-osuden-u-njemackoj-jer-je-bio-rezerva-u-planiranoj-tucnjavi-na-kraju-mu-prijatelj-ubijen/261128014",
+          "publishedAt": "2026-11-28T11:38:00.000Z"
+        }
+      ],
+      "score": 0.3546,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_50cf77ea60637999",
+      "title": "\"Srce puca od bola što nisi dočekao našu bebu da uzmeš u naručje\" Reči partnerke Andrije Filića kidaju dušu: \"Čuvaj nas, dušo naša\"",
+      "snippet": "Partnerka Andrije Filića (23) iz Velike Plane, koji je u sredu stradao od strujnog udara, šest godina nakon ubistva brata Stefana (18), oglasila se posle teške tragedije i podelila bol kroz koju prolazi.",
+      "url": "https://www.blic.rs/vesti/hronika/reci-partnerke-andrije-filica-kidaju-dusu-cuvaj-nas-duso-nasa/ze2pszw",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FKOtk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iZGY5MDBlYzE0YzY4NDNhZWI3MjMyNGJlM2Y3YWUxMi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:19:08.000Z",
+      "updatedAt": "2026-11-28T11:19:08.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/reci-partnerke-andrije-filica-kidaju-dusu-cuvaj-nas-duso-nasa/ze2pszw",
+          "publishedAt": "2026-11-28T11:19:08.000Z"
+        }
+      ],
+      "score": 0.2928,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_857377f561fe3e1d",
+      "title": "Poslanik SNS-a Saša Borojević vozio automobil sa tuđom tablicom, krivično gonjenje izbegao uplatom 200.000 dinara: Zaustavio ga Marko Kričak",
+      "snippet": "Saša Borojević, poznati teoretičar zavera i narodni poslanik SNS-a, osumnjičen je 2023. godine za falsifikovanje isprave jer je vozio automobil sa reg",
+      "url": "https://nova.rs/vesti/hronika/poslanik-sns-a-sasa-borojevic-vozio-automobil-sa-tudjom-tablicom/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F3%2F1772534788_sns_gik_07042024_0136.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:04:32.000Z",
+      "updatedAt": "2026-11-28T09:04:32.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/poslanik-sns-a-sasa-borojevic-vozio-automobil-sa-tudjom-tablicom/",
+          "publishedAt": "2026-11-28T09:04:32.000Z"
+        }
+      ],
+      "score": 0.2629,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_910fe418715b198d",
+      "title": "Drama u Beogradu! Mladić pokušao da pomogne devojci koju je uznemiravala grupica momaka, a onda je pretučen! Hitno je prevezen u bolnicu!",
+      "snippet": "Drama u Karađorđevoj ulici u Beogradu dogodila se sinoć, kada je muškarac B.R. (33) zadobio teške telesne povrede u tuči.",
+      "url": "https://www.blic.rs/vesti/hronika/mladic-pokusao-da-pomogne-devojci-koju-je-uznemiravala-grupica-momaka-a-onda-je/k4h51s2",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FVrxk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zYmZlNTE3ZTAxYTczYWZhODQ1MzI4ZWRlYTk5N2UwMy5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:16:31.000Z",
+      "updatedAt": "2026-11-28T10:16:31.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/mladic-pokusao-da-pomogne-devojci-koju-je-uznemiravala-grupica-momaka-a-onda-je/k4h51s2",
+          "publishedAt": "2026-11-28T10:16:31.000Z"
+        }
+      ],
+      "score": 0.2451,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_5457e02a2103caba",
+      "title": "Šta je Druga uprava za koju bivši inspektor BIA sumnja da je dostavljala informacije Milanu Radoičiću?",
+      "snippet": "Nekadašnji samostalni inspektor BIA Milan Zvezdanović izneo je ozbiljne sumnje da je rukovodstvo Druge uprave ove agencije Milanu Radoičiću dostavljal",
+      "url": "https://nova.rs/vesti/hronika/sta-je-druga-uprava-za-koju-bivsi-inspektor-bia-sumnja-da-je-dostavljala-informacije-milanu-radoicicu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1763974235_1701894023-profimedia-0238474893a.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:08:35.000Z",
+      "updatedAt": "2026-11-28T08:08:35.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/bia-dostavljala-milanu-radoicicu-informacije/",
+          "publishedAt": "2026-11-26T21:57:07.000Z"
+        }
+      ],
+      "score": 0.2315,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_89432e7d92aa06f8",
+      "title": "Taksi udario u ogradu Novog groblja na Zvezdari, taksista stradao",
+      "snippet": "Vozač taksi vozila poginuo je nakon što je udario u zid na raskrsnici ulica Pante Srećkovića i Severni bulevar na Zvezdari.",
+      "url": "https://www.rts.rs/vesti/hronika/6094702/taksi-udario-u-ogradu-novog-groblja-na-zvezdari-taksista-stradao.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F7%2F4%2F646%2F6102635%2Fthumbs%2F14555927%2FHitna_pomoc_Tanjug_Tanja_Valic_blurovano.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T06:21:02.000Z",
+      "updatedAt": "2026-11-28T06:21:02.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6094702/taksi-udario-u-ogradu-novog-groblja-na-zvezdari-taksista-stradao.html",
+          "publishedAt": "2026-11-28T06:21:02.000Z"
+        }
+      ],
+      "score": 0.2069,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_88626cfc836db9ff",
+      "title": "Pravosnažno oslobođen za smrt mladića (19) kod Doljevca: Apelacioni sud u Nišu doneo konačnu odluku, evo šta je presudilo na suđenju (Foto)",
+      "snippet": "Apelacioni sud u Nišu potvrdio je presudu Višeg suda u Nišu kojom je Miodrag Perić (42) iz Šainovca oslobođen optužbi da je vozeći \"golf\" u pijanom stanju, 28. decembra 2021. godine oko 22.30 časova, usmrtio pešaka Željka Ristića (19) iz tog doljevačkog sela, saznaje \"Blic\".",
+      "url": "https://www.blic.rs/vesti/hronika/preokret-u-slucaju-pijane-voznje-oslobodjen-optuzbi-za-nesrecu-u-kojoj-je-poginuo/27jvftx",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FZDbk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kYzljNzJkMjIyNTlmODA4ZTBiNzEyMjc5Mzg0ZTM0Yy5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:49:00.000Z",
+      "updatedAt": "2026-11-28T08:49:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/preokret-u-slucaju-pijane-voznje-oslobodjen-optuzbi-za-nesrecu-u-kojoj-je-poginuo/27jvftx",
+          "publishedAt": "2026-11-28T08:49:00.000Z"
+        }
+      ],
+      "score": 0.1972,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_89ebf978d272dc73",
+      "title": "Neprimerene poruke, poljubac u obraz, praćenje! Doneta odluka u slučaju osumnjičenog za polno uznemiravanje devojčice (14) u Sokobanji: Sumnja se da je sve trajalo mesecima!",
+      "snippet": "Nakon saslušanja u tužilaštvu i sudu u Aleksincu, određen je pritvor B.B. (53) sa teritorije opštine Sokobanja, koji je uhapšen 24. novembra zbog sumnje da je više od dva meseca u tom mestu polno uznemiravao jednu devojčicu staru 14 godina.",
+      "url": "https://www.blic.rs/vesti/hronika/doneta-odluka-u-slucaju-osumnjicenog-za-polno-uznemiravanje-devojcice-14-u-sokobanji/pt791m0",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FKNDk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81NmQwMTU2MzMyNGY5MmFmMTRmOTIxMzgzYTE4NzQ1MC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T05:35:00.000Z",
+      "updatedAt": "2026-11-28T05:35:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/doneta-odluka-u-slucaju-osumnjicenog-za-polno-uznemiravanje-devojcice-14-u-sokobanji/pt791m0",
+          "publishedAt": "2026-11-28T05:35:00.000Z"
+        }
+      ],
+      "score": 0.1331,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e78ae588dc4cac2a",
+      "title": "\"Spremi 700.000 evra, znamo sve o tebi\": Prvo stigne preteća poruka, a onda sledi paljenje objekta - ovo je šema po kojoj reketiraju privrednike",
+      "snippet": "\"Seti se da si svom drugu Hofmanu dao lokaciju. Spremi 700.000 evra, znamo sve o tebi i porodici\", stoji u poruci do koje je došao portal Nova.rs, a k",
+      "url": "https://nova.rs/vesti/hronika/prvo-stigne-poruka-pa-zapale-objekat-kako-izgleda-reketiranje-u-srbiji/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F26%2F1795680733_poar_tehnomanija_agostina_neta_261126_foto_nova_rs_2.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T20:11:38.000Z",
+      "updatedAt": "2026-11-27T20:11:38.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/prvo-stigne-poruka-pa-zapale-objekat-kako-izgleda-reketiranje-u-srbiji/",
+          "publishedAt": "2026-11-27T20:11:38.000Z"
+        }
+      ],
+      "score": 0.0794,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_aa0a0f3dc6e853e8",
+      "title": "„Ovako izgleda primer kad sudski predmet završi u fioci“: Miranu Pogačaru odjednom uvažene četiri žalbe, posle više od godinu i po dana - odmah nakon izbora 25. oktobra",
+      "snippet": "Više od godinu i po dana novosadski aktivista Miran Pogačar bio je pod merom zabrane prisustvovanja javnim okupljanjima koju mu je izrekao Osnovni sud",
+      "url": "https://nova.rs/vesti/hronika/ovako-izgleda-primer-kad-sudski-predmet-zavrsi-u-fioci-miranu-pogacaru-odjednom-uvazene-cetiri-zalbe-posle-vise-od-godinu-i-po-dana-odmah-nakon-izbora-25-oktobra/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F1764254868_Frilenseri-predaju-zaheteve-ministarstvu-finansija-2-s.width-1200.jpeg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T20:02:21.000Z",
+      "updatedAt": "2026-11-27T20:02:21.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/ovako-izgleda-primer-kad-sudski-predmet-zavrsi-u-fioci-miranu-pogacaru-odjednom-uvazene-cetiri-zalbe-posle-vise-od-godinu-i-po-dana-odmah-nakon-izbora-25-oktobra/",
+          "publishedAt": "2026-11-27T20:02:21.000Z"
+        }
+      ],
+      "score": 0.0786,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e778d105fea17ab2",
+      "title": "Voz udario u automobil na pružnom prelazu u Krnjevu, poginuo vozač",
+      "snippet": "Vozač putničkog automobila poginuo je u teškoj saobraćajnoj nesreći koja se dogodila sinoć u Krnjevu kod Velike Plane kada je u njegovo vozilo udario voz na pružnom prelazu, rečeno je Tanjugu u PU Smederevo.",
+      "url": "https://www.rts.rs/vesti/hronika/6093647/voz-udario-u-automobil-na-pruznom-prelazu-u-krnjevu-poginuo-vozac.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2024%2F9%2F11%2F20%2F56%2F209%2F3268001%2Fthumbs%2F14543615%2FHitna-pomoc-RTS.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T09:22:46.000Z",
+      "updatedAt": "2026-11-27T13:44:08.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/vozio-preko-200-na-sat-pa-se-prevrnuo-teska-saobracajna-nesreca-kod-tutina-video/9v7qwg6",
+          "publishedAt": "2026-11-25T22:07:16.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6093647/voz-udario-u-automobil-na-pruznom-prelazu-u-krnjevu-poginuo-vozac.html",
+          "publishedAt": "2026-11-27T09:22:46.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/pesak-poginuo-u-zemunu-udario-ga-automobil-kada-je-pokusao-da-predje-novi-novosadski-put/",
+          "publishedAt": "2026-11-27T13:44:08.000Z"
+        }
+      ],
+      "score": 0.0735,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fbd0913f8fe34c04",
+      "title": "Kodna imena, tajni nadzor i prisluškivanje: Kako je pokušano razbijanje studentskog pokreta",
+      "snippet": "Prema saznanjima Južnih vesti, između 150 i 200 ljudi sa juga Srbije bilo je praćeno i prisluškivano od pada nadstrešnice u Novom Sadu, a među njima s",
+      "url": "https://nova.rs/vesti/hronika/kako-je-pokusano-razbijanje-studentskog-pokreta/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1763736306_1717433370-IMG_8434.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T19:13:19.000Z",
+      "updatedAt": "2026-11-27T19:13:19.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/kako-je-pokusano-razbijanje-studentskog-pokreta/",
+          "publishedAt": "2026-11-27T19:13:19.000Z"
+        }
+      ],
+      "score": 0.0747,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fa22785d794e2a47",
+      "title": "Vladimir Janković, potpukovnik MUP koji je rekao 'Ne' i dao otkaz u policiji: \"Sadašnja hapšenja su osveta kukavica koje su do 25. oktobra ćutale\"",
+      "snippet": "Vladimir Janković, potpukovnik Ministarstva unutrašnjih poslova (MUP) Srbije, nije \"tihovao\" u službi i čekao da dođe neko bolje vreme, nije progovori",
+      "url": "https://nova.rs/vesti/hronika/vladimir-jankovic-potpukovnik-mup-koji-je-rekao-ne-i-dao-otkaz-u-policiji-sadasnja-hapsenja-su-osveta-kukavica-koje-su-do-25-oktobra-cutale/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F4%2F15%2F1776250910_FIL_5676.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T18:59:09.000Z",
+      "updatedAt": "2026-11-27T18:59:09.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/vladimir-jankovic-potpukovnik-mup-koji-je-rekao-ne-i-dao-otkaz-u-policiji-sadasnja-hapsenja-su-osveta-kukavica-koje-su-do-25-oktobra-cutale/",
+          "publishedAt": "2026-11-27T18:59:09.000Z"
+        }
+      ],
+      "score": 0.0736,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_eedad5b15066859c",
+      "title": "Uhapšene dve osobe osumnjičene za izazivanje požara u \"Tehnomaniji\" na Novom Beogradu",
+      "snippet": "Policija je uhapsila dve osobe zbog sumnje da su izazvale požar u kojem su juče na Novom Beogradu goreli objekat \"Tehnomanije\" i salon nameštaja, saopštio je MUP. Osumnjičenima je određeno zadržavanje do 48 sati.",
+      "url": "https://www.rts.rs/vesti/hronika/6093700/uhapsene-dve-osobe-osumnjicene-za-izazivanje-pozara-u-tehnomaniji-na-novom-beogradu.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F11%2F19%2F193%2F6098909%2Fthumbs%2F14544893%2FMup_t.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T10:16:00.000Z",
+      "updatedAt": "2026-11-27T10:16:00.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6092651/gori-tehnomanija-na-novom-beogradu-nema-povredjenih-.html",
+          "publishedAt": "2026-11-26T05:36:06.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/pozar-tehnomanija-vatrogasci/",
+          "publishedAt": "2026-11-26T06:15:08.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/gori-tehnomanija-na-novom-beogradu-vatra-zahvatila-veliku-povrsinu-prodavnice-vetar-otezava-gasenje/",
+          "publishedAt": "2026-11-26T06:21:41.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/pozar-na-novom-beogradu-ponovo-izbio-oglasio-se-mup/eg1y7rp",
+          "publishedAt": "2026-11-26T19:23:54.000Z"
+        }
+      ],
+      "score": 0.0675,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9a4549b407605f06",
+      "title": "Vrhovno javno tužilaštvo izdalo dva obavezna uputstva JTOK za postupanje u dva predmeta",
+      "snippet": "Javnom tužilaštvu za organizovani kriminal stigla su dva obavezna uputstva iz Vrhovnog javnog tužilaštva (VrJT) po kojima glavni tužilac JTOK Mladen N",
+      "url": "https://nova.rs/vesti/hronika/vrhovno-javno-tuzilastvo-izdalo-dva-obavezna-uputsta-jtok-za-postupanje-u-dva-predmeta/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F27%2F1795780627_collage_fghhjkk.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T15:11:08.000Z",
+      "updatedAt": "2026-11-27T15:11:08.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/tuzilastvo-istrazujemo-slucajeve-paljenja-automobila-napade-na-restorane-i-iznude-u-beogradu/",
+          "publishedAt": "2026-11-25T19:51:02.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/trece-osnovno-javno-tuzilastvo-u-beogradu-vodi-pet-postupaka-za-iznude-i-izazivanje/qnp23zg",
+          "publishedAt": "2026-11-25T20:05:20.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/trece-tuzilastvo-izazivanje-opste-opasnosti-iznuda/",
+          "publishedAt": "2026-11-26T13:06:22.000Z"
+        }
+      ],
+      "score": 0.0726,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_01bc8590f282006e",
+      "title": "Kako protiče Smotra dramskih amatera \"Živka Matić\" u Požarevcu?",
+      "snippet": "Vodimo vas iza kulisa požarevačke Smotre dramskih amatera \"Živka Matić\", gde se, u nedostatku budžeta, glumci dovijaju na najrazličitije načine - a na kraju osvajaju srca publike i nagrade.",
+      "url": "https://www.rts.rs/vesti/srbija-danas/6094186/kako-protice-smotra-dramskih-amatera-zivka-matic-u-pozarevcu.html",
+      "imageUrl": null,
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T15:01:10.000Z",
+      "updatedAt": "2026-11-27T15:01:10.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/srbija-danas/6094186/kako-protice-smotra-dramskih-amatera-zivka-matic-u-pozarevcu.html",
+          "publishedAt": "2026-11-27T15:01:10.000Z"
+        }
+      ],
+      "score": 0.0654,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fa86192d45ca4a74",
+      "title": "Saslušan navijač Stevan Sojić: Tužilaštvo traži pritvor",
+      "snippet": "U Trećem osnovnom javnom tužilaštvu u Beogradu saslušan je osumnjičeni S. S. (1983) zbog postojanja osnova sumnje da je izvršio krivično delo ometanje",
+      "url": "https://nova.rs/vesti/hronika/saslusan-navijac-stevan-sojic-tuzilastvo-trazi-pritvor/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F27%2F1795782202_stevan_sojic_PARTIZAN-ZVEZDA-4_41.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T14:03:11.000Z",
+      "updatedAt": "2026-11-27T14:03:11.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/tuzilastvo-trazi-pritvor-za-vucicevica-odluka-na-sudu/",
+          "publishedAt": "2026-11-26T14:49:23.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/saslusan-navijac-stevan-sojic-tuzilastvo-trazi-pritvor/",
+          "publishedAt": "2026-11-27T14:03:11.000Z"
+        }
+      ],
+      "score": 0.0622,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_402869161abe2432",
+      "title": "Određen pritvor Pavlu Bihaliju, osumnjičenom da je prisvojio novac namenjen za izbornu kampanju",
+      "snippet": "Viši sud u Beogradu odredio je pritvor do 30 dana P.B.G., osumnjičenom da je od maja do jula 2022.",
+      "url": "https://www.rts.rs/vesti/hronika/6092554/pavle-bihali-pritvor-pronevera-izborna-kampanja.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F25%2F20%2F28%2F37%2F6092561%2Fthumbs%2F14527649%2Fvisi_sud_car_dusan.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-25T19:47:29.000Z",
+      "updatedAt": "2026-11-27T08:14:16.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/visi-sud-u-beogradu-odredio-pritvor-do-30-dana-pavlu-bihaliju/",
+          "publishedAt": "2026-11-25T19:12:52.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/odredjen-pritvor-pavlu-bihaliju-osumnjicen-da-je-prisvojio-vise-od-225-miliona-dinara/x9gz3sh",
+          "publishedAt": "2026-11-25T19:34:32.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6092554/pavle-bihali-pritvor-pronevera-izborna-kampanja.html",
+          "publishedAt": "2026-11-25T19:47:29.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/pavle-bihalij-pritvor-30-dana",
+          "publishedAt": "2026-11-25T23:10:49.612Z"
+        }
+      ],
+      "score": 0.0618,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e86f49bc8822eb65",
+      "title": "ZAVRŠENA OBDUKCIJA SRPKINJE KOJA JE NAĐENA MRTVA U NEMAČKOJ! Nestala početkom novembra, telo pronađeno u šumi",
+      "snippet": "Telo pronađeno u sredu u šumskom području kod Murharta, u okrugu Rems-Mur, pripada nestaloj ženi Tamari Škorić iz tog mesta, saopštila je policija u petak popodne.",
+      "url": "https://www.blic.rs/vesti/hronika/zavrsena-obdukcija-srpkinje-tamare-skoric-koja-je-nadjena-mrtva-u-nemackoj/h2e27k8",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fofnk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84OThjYWZiMGRkMWJkNjExODRkOWM5ZjRjZWFlYjBlOC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T20:11:38.000Z",
+      "updatedAt": "2026-11-27T20:11:38.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/zavrsena-obdukcija-srpkinje-tamare-skoric-koja-je-nadjena-mrtva-u-nemackoj/h2e27k8",
+          "publishedAt": "2026-11-27T20:11:38.000Z"
+        }
+      ],
+      "score": 0.0617,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_839c2a2a089b064d",
+      "title": "Potvrđena optužnica protiv Fahreta Horozovića zbog nesreće u kojoj je troje djece ostalo bez noge",
+      "snippet": "Općinski sud u Cazinu potvrdio je optužnicu protiv Fahreta Horozovića, vozača koji je 3. septembra u naselju Donja Koprivna automobilom udario troje djece. Sva djeca su zbog povreda ostala bez desne noge.",
+      "url": "https://www.klix.ba/vijesti/crna-hronika/potvrdena-optuznica-protiv-fahreta-horozovica-zbog-nesrece-u-kojoj-je-troje-djece-ostalo-bez-noge/261127204",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127204.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T17:43:00.000Z",
+      "updatedAt": "2026-11-27T17:43:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/crna-hronika/potvrdena-optuznica-protiv-fahreta-horozovica-zbog-nesrece-u-kojoj-je-troje-djece-ostalo-bez-noge/261127204",
+          "publishedAt": "2026-11-27T17:43:00.000Z"
+        }
+      ],
+      "score": 0.0607,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_a678e208170ac877",
+      "title": "Pronađeno telo žene iz Priboja koja se utopila u reci Lim",
+      "snippet": "Telo Pribojčanke Ljiljane Džaković pronađeno je jutros u koritu reke Lim. Njen nestanak prijavljen je 22. novembra.",
+      "url": "https://www.rts.rs/vesti/hronika/6093803/priboj-pronadjena-zena-lim.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F12%2F13%2F540%2F6099194%2Fthumbs%2F14545718%2FPriboj-t.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T11:24:52.000Z",
+      "updatedAt": "2026-11-27T11:24:52.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/pet-dana-potrage-za-nestalom-ljiljanom-iz-priboja-pretraga-terena-presla-i-na-reku/zrm16hl",
+          "publishedAt": "2026-11-26T10:45:00.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6093803/priboj-pronadjena-zena-lim.html",
+          "publishedAt": "2026-11-27T11:24:52.000Z"
+        }
+      ],
+      "score": 0.0602,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_348d95af397043a1",
+      "title": "Čekali zeleno svetlo na semaforu, a onda je došlo vozilo pod rotacijama! Hapšenje usred Čačka: Lisice na ruke stavljene dvojici mladića (Foto)",
+      "snippet": "Tokom večernjih sati u centru Čačka, kod crkve došlo je do hapšenja dvojice mladića.",
+      "url": "https://www.blic.rs/vesti/hronika/cekali-zeleno-svetlo-u-cacku-a-onda-ih-je-policija-presrela-i-uhapsila/g22zwsk",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FYFvk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jYTM4ZDk4NDAwZTlhYmI2NjU4M2UwMzE5MTNjMjVmOC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T19:35:00.000Z",
+      "updatedAt": "2026-11-27T19:35:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/cekali-zeleno-svetlo-u-cacku-a-onda-ih-je-policija-presrela-i-uhapsila/g22zwsk",
+          "publishedAt": "2026-11-27T19:35:00.000Z"
+        }
+      ],
+      "score": 0.0594,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e6422612c088d5aa",
+      "title": "Advokatska komora Srbije traži hitnu fizičku zaštitu za advokata Danka Cvejića i njegovu porodicu",
+      "snippet": "Advokatska komora Srbije (AKS) uputila je zahtev Ministarstvu unutrašnjih poslova i Trećem osnovnom javnom tužilaštvu u Beogradu da se advokatu Danku",
+      "url": "https://nova.rs/vesti/hronika/advokatska-komora-srbije-trazi-hitnu-fizicku-zastitu-za-advokata-cvejica/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F7%2F6%2F1783344020_Danko_Cvejic_foto_Medija_centar_Beograd.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T15:09:37.000Z",
+      "updatedAt": "2026-11-27T15:09:37.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/advokatska-komora-srbije-trazi-hitnu-fizicku-zastitu-za-advokata-cvejica/",
+          "publishedAt": "2026-11-27T15:09:37.000Z"
+        }
+      ],
+      "score": 0.0593,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0b252cda635f7455",
+      "title": "Eksplodirao automobil supruge pomoćnika direktora crnogorske Uprave za izvršenje krivičnih sankcija",
+      "snippet": "Automobil supruge Nebojše Jankovića, pomoćnika direktora crnogorske Uprave za izvršenje krivičnih sankcija (UIKS), uništen je jutros u eksploziji u dvorištu njihove kuće u podgoričkom naselju Zlatica.",
+      "url": "https://www.danas.rs/svet/eksplozija-pomocnik-direktora-crnogorske-uprave-za-izvrsenje-krivicnih-sankcija/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2023%2F11%2F10934717-e1700307850565-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T10:53:09.000Z",
+      "updatedAt": "2026-11-27T10:53:09.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/eksplozija-u-podgorici-unisten-auto-pomocnika-direktora-uiks-a/wwx4xg3",
+          "publishedAt": "2026-11-27T08:00:44.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/eksplozija-u-podgorici-bacena-bomba-u-dvoriste-kuce-pomocnika-direktora-uprave-za-izvrsenje-krivicnih-sankcija/",
+          "publishedAt": "2026-11-27T10:02:43.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/eksplozija-pomocnik-direktora-crnogorske-uprave-za-izvrsenje-krivicnih-sankcija/",
+          "publishedAt": "2026-11-27T10:53:09.000Z"
+        }
+      ],
+      "score": 0.0587,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    }
+  ]
+}

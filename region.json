@@ -1,0 +1,1068 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T17:37:03.564Z",
+  "feedType": "category",
+  "category": "Region",
+  "categorySlug": "region",
+  "totalItems": 40,
+  "items": [
+    {
+      "id": "clu_1d8c487f962b28af",
+      "title": "Žestoki sukobi policije i demonstranata u Tirani: Povrijeđeni policajac, dvoje novinara i osam građana",
+      "snippet": "U Tirani je danas došlo do žestokih sukoba između policije i hiljada demonstranata koji traže ostavku premijera Edija Rame. Neredi su izbili na dan kada ova zemlja obilježava 114.",
+      "url": "https://www.klix.ba/vijesti/regija/zestoki-sukobi-policije-i-demonstranata-u-tirani-povrijedeni-policajac-dvoje-novinara-i-osam-gradana/261128105",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128105.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:53:00.000Z",
+      "updatedAt": "2026-11-28T16:53:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/potpuni-haos-na-ulicama-tirane-demonstranti-traze-ostavku-rame-policija-upotrijebila-suzavac-i-vodene-topove/261128095",
+          "publishedAt": "2026-11-28T14:03:00.000Z"
+        }
+      ],
+      "score": 1.7694,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0fa2f4713d7024b8",
+      "title": "Snijeg otežao saobraćaj širom BiH, vozači se posebno žale na neočišćenu cestu i kolone automobila na Bradini",
+      "snippet": "Snježne padavine koje su danas zahvatile područje Bosne i Hercegovine stvorile su niz problema na saobraćajnim pravcima, a posebno na području Bradine.",
+      "url": "https://www.klix.ba/vijesti/bih/snijeg-otezao-saobracaj-sirom-bih-vozaci-se-posebno-zale-na-neociscenu-cestu-i-kolone-automobila-na-bradini/261128121",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128121.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:12:00.000Z",
+      "updatedAt": "2026-11-28T16:12:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/snijeg-otezao-saobracaj-sirom-bih-vozaci-se-posebno-zale-na-neociscenu-cestu-i-kolone-automobila-na-bradini/261128121",
+          "publishedAt": "2026-11-28T16:12:00.000Z"
+        }
+      ],
+      "score": 1.2662,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9913a9653974dc64",
+      "title": "Demokratska Crna Gora predlaže da srpski i crnogorski budu ravnopravno zastupljeni u procesu pristupanja EU",
+      "snippet": "Demokratska Crna Gora uputiće u skupštinsku proceduru predloge zakona o ravnopravnom zastupanju crnogorskog i srpskog jezika u procesu pristupanja Evropskoj uniji (EU) i o ravnopravnoj upotrebi ćiriličnog i latiničnog pisma u Crnoj Gori.",
+      "url": "https://www.danas.rs/svet/region/srpski-i-crnogorski/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F07%2F0302foto-EPA-BORIS-PEJOVIC-e1789378484851-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:39:53.000Z",
+      "updatedAt": "2026-11-28T15:39:53.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/region/srpski-i-crnogorski/",
+          "publishedAt": "2026-11-28T15:39:53.000Z"
+        }
+      ],
+      "score": 1.1452,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1b2a62265c53f5ac",
+      "title": "Hrvatska očekuje rešavanje otvorenih pitanja sa Crnom Gorom: Priznanje zločina u Morinju važnije od odštete",
+      "snippet": "Ministar spoljnih i evropskih poslova Hrvatske Gordan Grlić Radman izjavio je danas u Šibeniku da je odluka Crne Gore o isplati odštete bivšim zatvorenicima logora Morinj korak ka rešavanju otvorenih pitanja između dve država, istakavši da je priznanje onoga što se dogodilo…",
+      "url": "https://www.danas.rs/svet/region/logor-u-morinju/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2024%2F01%2Fshutterstock_1948375717-e1705310546201-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:04:26.000Z",
+      "updatedAt": "2026-11-28T12:04:26.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/region/logor-u-morinju/",
+          "publishedAt": "2026-11-28T12:04:26.000Z"
+        }
+      ],
+      "score": 0.4344,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_91bb266e16c78bf3",
+      "title": "Plenković: Dovođenje u pitanje načela Badinterove komisije loš signal, Hrvatska ne blokira Crnu Goru",
+      "snippet": "Plenković je naveo da Zagreb želi da reši osam otvorenih pitanja sa Podgoricom, među kojima je šest povezano sa vrednostima iz pregovaračkog poglavlja 23, a dva sa spoljnom, bezbednosnom i odbrambenom politikom i dobrosusedskim odnosima.",
+      "url": "https://www.rts.rs/vesti/region/6094526/plenkovic-dovodjenje-u-pitanje-nacela-badinterove-komisije-los-signal-hrvatska-ne-blokira-crnu-goru.html",
+      "imageUrl": null,
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T18:01:35.000Z",
+      "updatedAt": "2026-11-27T18:01:35.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/region/6094526/plenkovic-dovodjenje-u-pitanje-nacela-badinterove-komisije-los-signal-hrvatska-ne-blokira-crnu-goru.html",
+          "publishedAt": "2026-11-27T18:01:35.000Z"
+        }
+      ],
+      "score": 0.0772,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_a46d6b69a487b2f5",
+      "title": "Mostar: U utorak nastavak sjednice Skupštine HNK, birat će se delegati za Dom naroda Parlamenta FBiH",
+      "snippet": "Nastavak konstituirajuće sjednice Skupštine Hercegovačko-neretvanskog kantona zakazan je za utorak, 1. decembra s početkom u 11 sati u Mostaru.",
+      "url": "https://www.klix.ba/vijesti/bih/mostar-u-utorak-nastavak-sjednice-skupstine-hnk-birat-ce-se-delegati-za-dom-naroda-parlamenta-fbih/261128091",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128091.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:46:00.000Z",
+      "updatedAt": "2026-11-28T15:46:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/danas-novi-sastanak-o-rukovodstvu-skupstine-kantona-sarajevo-zuhric-ocekuje-dogovor/261126115",
+          "publishedAt": "2026-11-26T11:22:00.000Z"
+        }
+      ],
+      "score": 1.0586,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_864b3b92822bde54",
+      "title": "Kupac polovnog Mercedesa prekasno otkrio ozbiljan kvar: Povjerovao digitalnoj servisnoj historiji",
+      "snippet": "Mercedes se našao na udaru kritika u Nizozemskoj nakon što je utvrđeno da njegova digitalna servisna knjižica ne prikazuje nužno kompletnu historiju vozila.",
+      "url": "https://www.klix.ba/auto/savjeti/kupac-polovnog-mercedesa-prekasno-otkrio-ozbiljan-kvar-povjerovao-digitalnoj-servisnoj-historiji/261128110",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128110.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:25:00.000Z",
+      "updatedAt": "2026-11-28T15:25:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/auto/savjeti/kupac-polovnog-mercedesa-prekasno-otkrio-ozbiljan-kvar-povjerovao-digitalnoj-servisnoj-historiji/261128110",
+          "publishedAt": "2026-11-28T15:25:00.000Z"
+        }
+      ],
+      "score": 0.9291,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_cc5dacfc747db5af",
+      "title": "Turska uvela vize za državljane Crne Gore",
+      "snippet": "Turska je suspendovala bezvizni režim za državljane Crne Gore sa običnim pasošima, nepune četiri sedmice nakon što je Podgorica uvela vize državljanim",
+      "url": "https://nova.rs/turska-uvela-vize-za-drzavljane-crne-gore/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1764200959_shutterstock_159866534-1920x1317.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T10:43:46.000Z",
+      "updatedAt": "2026-11-27T10:43:46.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/turska-uzvratila-podgorici-reciprocnim-mjerama-drzavljanima-crne-gore-od-danas-potrebna-viza/261127042",
+          "publishedAt": "2026-11-27T08:54:00.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/turska-uvela-vize-za-drzavljane-crne-gore/",
+          "publishedAt": "2026-11-27T10:43:46.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/turska-uvela-vize-za-drzavljane-crne-gore",
+          "publishedAt": "2026-11-27T11:33:23.537Z"
+        }
+      ],
+      "score": 0.0583,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c9cd8c61e86aa529",
+      "title": "Iz NiP-a upozoravaju na pokušaj preuzimanja nadležnosti OSA-e: Očekujemo reakciju pravosudnih organa",
+      "snippet": "Iz stranke Narod i Pravda (NiP) reagovali su na najavu kandidata za predsjednika Vlade Republike Srpske Igora Dodika o uvođenju pravilnika o sigurnosnim provjerama putem MUP-a RS, poručivši da buduća Vlada ovog entiteta ponovo pretenduje na državne nadležnosti.",
+      "url": "https://www.klix.ba/vijesti/bih/iz-nip-a-upozoravaju-na-pokusaj-preuzimanja-nadleznosti-osa-e-ocekujemo-reakciju-pravosudnih-organa/261128100",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128100.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:54:00.000Z",
+      "updatedAt": "2026-11-28T14:54:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/iz-nip-a-upozoravaju-na-pokusaj-preuzimanja-nadleznosti-osa-e-ocekujemo-reakciju-pravosudnih-organa/261128100",
+          "publishedAt": "2026-11-28T14:54:00.000Z"
+        }
+      ],
+      "score": 0.7807,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_06b869f80a582bac",
+      "title": "Policija u Tuzli i Gradačcu oduzela tri automobila: Nagomilali saobraćajne kazne pa ostali bez vozila",
+      "snippet": "Policijski službenici u Tuzli i Gradačcu privremeno su oduzeli tri automobila nakon što je utvrđeno da njihovi vlasnici imaju veći iznos neplaćenih novčanih kazni zbog ranije počinjenih saobraćajnih prekršaja.",
+      "url": "https://www.klix.ba/vijesti/bih/policija-u-tuzli-i-gradaccu-oduzela-tri-automobila-nagomilali-saobracajne-kazne-pa-ostali-bez-vozila/261128098",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128098.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:41:00.000Z",
+      "updatedAt": "2026-11-28T14:41:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/policija-u-tuzli-i-gradaccu-oduzela-tri-automobila-nagomilali-saobracajne-kazne-pa-ostali-bez-vozila/261128098",
+          "publishedAt": "2026-11-28T14:41:00.000Z"
+        }
+      ],
+      "score": 0.7299,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f1af589004a7272e",
+      "title": "Ko štiti pacijente u psihijatrijskim ustanovama na Balkanu",
+      "snippet": "Pitanje zaštite pacijenata na psihijatrijskim odeljenjima na Balkanu otvoreno je posle smrti 32-godišnjeg Kristiana Josipa Periša u zagrebačkoj Klinici za psihijatriju „Sveti Ivan“.",
+      "url": "https://www.bbc.com/serbian/articles/c51k9jpvy1n9o/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Ff452%2Flive%2Ffb0cb500-e4ba-11f1-a094-5fdc692f3e33.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T07:23:44.000Z",
+      "updatedAt": "2026-11-27T07:23:44.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/c51k9jpvy1n9o/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T07:23:44.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/bbc-news-serbian/ko-stiti-pacijente-u-psihijatrijskim-ustanovama-na-balkanu",
+          "publishedAt": "2026-11-27T08:34:04.963Z"
+        }
+      ],
+      "score": 0.0505,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_ace6532265e07b64",
+      "title": "Ministarstvo vanjskih poslova BiH se oglasilo o napadima Huta na Rijad: \"Osuđujemo napade paravojnih formacija\"",
+      "snippet": "Ministarstvo vanjskih poslova Bosne i Hercegovine oglasilo se povodom novih napada jemenskih Huta na ciljeve u Rijadu u Saudijskoj Arabiji te su oštro osudili ovaj čin.",
+      "url": "https://www.klix.ba/vijesti/bih/ministarstvo-vanjskih-poslova-bih-se-oglasilo-o-napadima-huta-na-rijad-osudujemo-napade-paravojnih-formacija/261128102",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128102.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:40:00.000Z",
+      "updatedAt": "2026-11-28T14:40:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/ministarstvo-vanjskih-poslova-bih-se-oglasilo-o-napadima-huta-na-rijad-osudujemo-napade-paravojnih-formacija/261128102",
+          "publishedAt": "2026-11-28T14:40:00.000Z"
+        }
+      ],
+      "score": 0.7262,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1f6fb9782f1d908f",
+      "title": "Prije 46 godina proizveden je prvi Yugo: Auto koji je nadživio Jugoslaviju",
+      "snippet": "Na današnji dan 1980. godine u kragujevačkoj fabrici Zastava počela je serijska proizvodnja modela Yugo.",
+      "url": "https://www.klix.ba/auto/prije-46-godina-proizveden-je-prvi-yugo-auto-koji-je-nadzivio-jugoslaviju/261128043",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128043.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:15:00.000Z",
+      "updatedAt": "2026-11-28T13:15:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/auto/prije-46-godina-proizveden-je-prvi-yugo-auto-koji-je-nadzivio-jugoslaviju/261128043",
+          "publishedAt": "2026-11-28T13:15:00.000Z"
+        }
+      ],
+      "score": 0.4979,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_7baf4e6755ce071f",
+      "title": "Bijeli pokrivač prekrio brojne bh. gradove: Snijeg napadao u Tuzli, Brčkom, Gradačcu, Maglaju...",
+      "snippet": "Snijeg je danas napadao u brojnim dijelovima Bosne i Hercegovine, a bijeli prekrivač zabilježen je u više gradova i općina na sjeveru i sjeveroistoku zemlje.",
+      "url": "https://www.klix.ba/vijesti/bih/bijeli-pokrivac-prekrio-brojne-bh-gradove-snijeg-napadao-u-tuzli-brckom-gradaccu-maglaju/261128062",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128062.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:09:00.000Z",
+      "updatedAt": "2026-11-28T13:09:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/bijeli-pokrivac-prekrio-brojne-bh-gradove-snijeg-napadao-u-tuzli-brckom-gradaccu-maglaju/261128062",
+          "publishedAt": "2026-11-28T13:09:00.000Z"
+        }
+      ],
+      "score": 0.4864,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8d392529bcb701f1",
+      "title": "Crnadak: Izraelska obavještajna agencija \"Black Cube\" stiže u Republiku Srpsku",
+      "snippet": "Narodni poslanik u Narodnoj skupštini Republike Srpske Igor Crnadak izjavio je putem svog zvaničnog Facebook profila da privatna izraelska obavještajna agencija \"Black Cube\" priprema djelovanje u javnom prostoru Republike Srpske.",
+      "url": "https://www.klix.ba/vijesti/bih/crnadak-izraelska-obavjestajna-agencija-black-cube-stize-u-republiku-srpsku/261128080",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128080.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:53:00.000Z",
+      "updatedAt": "2026-11-28T12:53:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/crnadak-izraelska-obavjestajna-agencija-black-cube-stize-u-republiku-srpsku/261128080",
+          "publishedAt": "2026-11-28T12:53:00.000Z"
+        }
+      ],
+      "score": 0.4578,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_2d1346dfa2e4305a",
+      "title": "Igor Dodik: MUP RS-a će pripremiti pravilnik o provjeri funkcionera, sekretara i vozača",
+      "snippet": "Mandatar za sastav nove Vlade Republike Srpske Igor Dodik najavio je da će jedna od prvih odluka nove vlade biti zadužiti MUP RS-a da pripremi pravilnik o sigurnosnim provjerama funkcionera i njihovih najbližih saradnika.",
+      "url": "https://www.klix.ba/vijesti/bih/igor-dodik-mup-rs-a-ce-pripremiti-pravilnik-o-provjeri-funkcionera-sekretara-i-vozaca/261128076",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128076.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:15:00.000Z",
+      "updatedAt": "2026-11-28T12:15:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/igor-dodik-mup-rs-a-ce-pripremiti-pravilnik-o-provjeri-funkcionera-sekretara-i-vozaca/261128076",
+          "publishedAt": "2026-11-28T12:15:00.000Z"
+        }
+      ],
+      "score": 0.4,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b3556eecd1c394e3",
+      "title": "Snijeg zabijelio Sarajevo, pokrivač se zadržava na travnjacima i autima",
+      "snippet": "U Sarajevu od jutros pada snijeg, koji je prekrio zelene površine, stabla i parkirane automobile, dok su ulice i trotoari uglavnom mokri.",
+      "url": "https://www.klix.ba/vijesti/bih/snijeg-zabijelio-sarajevo-pokrivac-se-zadrzava-na-travnjacima-i-autima/261128073",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128073.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:11:00.000Z",
+      "updatedAt": "2026-11-28T12:11:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/snijeg-zabijelio-sarajevo-pokrivac-se-zadrzava-na-travnjacima-i-autima/261128073",
+          "publishedAt": "2026-11-28T12:11:00.000Z"
+        }
+      ],
+      "score": 0.3947,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f7b375eb5dde9707",
+      "title": "Ramo Isak odgovorio na prozivke o Naseru Oriću: Neću prihvatiti da se FUP diskreditira fabrikovanim konstrukcijama",
+      "snippet": "Federalni ministar unutrašnjih poslova Ramo Isak odgovorio je bivšem direktoru MUP-a RS Dragomiru Andanu, koji ga je prozvao u vezi s akcijom \"Emisar\", ocijenivši da je \"vrhunac licemjerstva\" da o odavanju informacija govori upravo Andan.",
+      "url": "https://www.klix.ba/vijesti/bih/ramo-isak-odgovorio-na-prozivke-o-naseru-oricu-necu-prihvatiti-da-se-fup-diskreditira-fabrikovanim-konstrukcijama/261128071",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128071.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:03:00.000Z",
+      "updatedAt": "2026-11-28T12:03:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/ramo-isak-odgovorio-na-prozivke-o-naseru-oricu-necu-prihvatiti-da-se-fup-diskreditira-fabrikovanim-konstrukcijama/261128071",
+          "publishedAt": "2026-11-28T12:03:00.000Z"
+        }
+      ],
+      "score": 0.3843,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f7b74e8d9ff06b09",
+      "title": "Ko će biti novi predsjedavajući Vijeća ministara: U igri nekoliko kandidata, Edin Ramić iz SDA najbliži funkciji",
+      "snippet": "Za poziciju predsjedavajućeg Vijeća ministara BiH u igri je nekoliko kandidata, a najviše kandidatura iz stranačkih odbora SDA dosad je dobio potpredsjednik stranke Edin Ramić, saznaje Klix.ba.",
+      "url": "https://www.klix.ba/vijesti/bih/ko-ce-biti-novi-predsjedavajuci-vijeca-ministara-u-igri-nekoliko-kandidata-edin-ramic-iz-sda-najblizi-funkciji/261128067",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128067.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:53:00.000Z",
+      "updatedAt": "2026-11-28T11:53:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/ko-ce-biti-novi-predsjedavajuci-vijeca-ministara-u-igri-nekoliko-kandidata-edin-ramic-iz-sda-najblizi-funkciji/261128067",
+          "publishedAt": "2026-11-28T11:53:00.000Z"
+        }
+      ],
+      "score": 0.3719,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_248bb93760e3eb32",
+      "title": "Igor Dodik najavio izmjene nadležnosti ministarstava u Vladi RS: Slijedi i digitalna transformacija",
+      "snippet": "Mandatar za sastav nove Vlade Republike Srpske Igor Dodik najavio je promjene u organizaciji ministarstava, kojima bi pojedini resori dobili nove nadležnosti, dok bi dio poslova bio prebačen iz jednog ministarstva u drugo.",
+      "url": "https://www.klix.ba/vijesti/bih/igor-dodik-najavio-izmjene-nadleznosti-ministarstava-u-vladi-rs-slijedi-i-digitalna-transformacija/261128066",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128066.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:42:00.000Z",
+      "updatedAt": "2026-11-28T11:42:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/igor-dodik-najavio-izmjene-nadleznosti-ministarstava-u-vladi-rs-slijedi-i-digitalna-transformacija/261128066",
+          "publishedAt": "2026-11-28T11:42:00.000Z"
+        }
+      ],
+      "score": 0.3591,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3b9dedf0c74d00c5",
+      "title": "Automatski mjenjač i sve češće pitanje: Da li je zaista potrebno mijenjati ulje?",
+      "snippet": "Automatski mjenjač danas je ono što je nekad bio manuelni: sve je zastupljeniji i standard je u velikom broju novih vozila. Automatici novije generacije pokazali su se kao pouzdani, ali to ne znači da ne zahtijevaju redovno održavanje.",
+      "url": "https://www.klix.ba/auto/savjeti/automatski-mjenjac-i-sve-cesce-pitanje-da-li-je-zaista-potrebno-mijenjati-ulje/261127186",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127186.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:26:00.000Z",
+      "updatedAt": "2026-11-28T11:26:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/auto/savjeti/automatski-mjenjac-i-sve-cesce-pitanje-da-li-je-zaista-potrebno-mijenjati-ulje/261127186",
+          "publishedAt": "2026-11-28T11:26:00.000Z"
+        }
+      ],
+      "score": 0.3417,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e1509ab1d417233d",
+      "title": "Bivši direktor MUP-a RS: Akcija \"Emisar\" je uspjela jer nije obaviješten Ramo Isak, on bi javio Oriću da će biti uhapšen",
+      "snippet": "Bivši direktor MUP-a Republike Srpske Dragomir Andan smatra da je policijska akcija \"Emisar\" uspješno sprovedena jer o njoj nije bio obaviješten šef Federalne uprave policije Ramo Isak.",
+      "url": "https://www.klix.ba/vijesti/bih/bivsi-direktor-mup-a-rs-akcija-emisar-je-uspjela-jer-nije-obavijesten-ramo-isak-on-bi-javio-oricu-da-ce-biti-uhapsen/261128037",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128037.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:22:00.000Z",
+      "updatedAt": "2026-11-28T10:22:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/bivsi-direktor-mup-a-rs-akcija-emisar-je-uspjela-jer-nije-obavijesten-ramo-isak-on-bi-javio-oricu-da-ce-biti-uhapsen/261128037",
+          "publishedAt": "2026-11-28T10:22:00.000Z"
+        }
+      ],
+      "score": 0.2843,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bdfdfd9616b86060",
+      "title": "Čitaoci u Vremeplovu prvo traže svoj grad: Za četiri dana skoro 120 hiljada pretraga starih novina",
+      "snippet": "Od pokretanja Vremeplova čitaoci su najviše tražili vijesti o mjestu iz kojeg su, a među najčitanijim su Teslin ratni stroj, požar u Visokom i pastir koji se nožem odbranio od vukova.",
+      "url": "https://www.klix.ba/vijesti/bih/citaoci-u-vremeplovu-prvo-traze-svoj-grad-za-cetiri-dana-skoro-120-hiljada-pretraga-starih-novina/261128039",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128039.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:40:00.000Z",
+      "updatedAt": "2026-11-28T09:40:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/citaoci-u-vremeplovu-prvo-traze-svoj-grad-za-cetiri-dana-skoro-120-hiljada-pretraga-starih-novina/261128039",
+          "publishedAt": "2026-11-28T09:40:00.000Z"
+        }
+      ],
+      "score": 0.2549,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_22e62faf229230a4",
+      "title": "Taksista u Španiji prešao više od 400.000 km s dizelskim Passatom, ne želi električni auto",
+      "snippet": "Španski taksista Alvaro Cenis svojim Volkswagen Passatom TDI prešao je više od 400.000 kilometara, ali ne razmišlja o zamjeni za električni automobil. Vjeruje da dizel i dalje nudi najbolji spoj pouzdanosti, male potrošnje i velike autonomije, pogotovo jer često vozi na autoputu.",
+      "url": "https://www.klix.ba/auto/taksista-u-spaniji-presao-vise-od-400000-km-s-dizelskim-passatom-ne-zeli-elektricni-auto/261128038",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128038.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:39:00.000Z",
+      "updatedAt": "2026-11-28T09:39:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/auto/taksista-u-spaniji-presao-vise-od-400000-km-s-dizelskim-passatom-ne-zeli-elektricni-auto/261128038",
+          "publishedAt": "2026-11-28T09:39:00.000Z"
+        }
+      ],
+      "score": 0.2542,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_85658bcc5719c5cc",
+      "title": "Osobe s invaliditetom uvoze automobile do 45.000 KM bez carine i PDV-a",
+      "snippet": "Od 12. novembra u primjeni je odluka kojom je vrijednosni prag za uvoz automobila bez plaćanja carine i PDV-a za osobe s invaliditetom povećan sa 30.000 na 45.000 KM, saopćeno je iz Kluba poslanika SDPBiH u Predstavničkom domu PSBiH.",
+      "url": "https://www.klix.ba/vijesti/bih/osobe-s-invaliditetom-uvoze-automobile-do-45000-km-bez-carine-i-pdv-a/261128042",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128042.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:14:00.000Z",
+      "updatedAt": "2026-11-28T09:14:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/osobe-s-invaliditetom-uvoze-automobile-do-45000-km-bez-carine-i-pdv-a/261128042",
+          "publishedAt": "2026-11-28T09:14:00.000Z"
+        }
+      ],
+      "score": 0.2391,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_be75fd25f2ca430e",
+      "title": "Vozi Yugo: Kviz u kojem znanjem stižeš od Ljubljane do Skoplja",
+      "snippet": "Na današnji dan 1980. godine Zastava je počela proizvoditi Yugo, a 46 godina kasnije jedan online kviz ponovo ga šalje na put.",
+      "url": "https://www.klix.ba/auto/vozi-yugo-kviz-u-kojem-znanjem-stizes-od-ljubljane-do-skoplja/261128041",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128041.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:50:00.000Z",
+      "updatedAt": "2026-11-28T08:50:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/auto/vozi-yugo-kviz-u-kojem-znanjem-stizes-od-ljubljane-do-skoplja/261128041",
+          "publishedAt": "2026-11-28T08:50:00.000Z"
+        }
+      ],
+      "score": 0.2259,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fa37f0c56233d658",
+      "title": "Istraživanje pokazalo: Gotovo četvrtina posjetilaca zagrebačkih noćnih klubova probala kokain",
+      "snippet": "Gotovo svaki četvrti posjetilac zagrebačkih noćnih klubova barem jednom u životu konzumirao je kokain, pokazalo je istraživanje provedeno na gotovo 600 ispitanika.",
+      "url": "https://www.klix.ba/vijesti/regija/istrazivanje-pokazalo-gotovo-cetvrtina-posjetilaca-zagrebackih-nocnih-klubova-probala-kokain/261128025",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128025.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:41:00.000Z",
+      "updatedAt": "2026-11-28T08:41:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/istrazivanje-pokazalo-gotovo-cetvrtina-posjetilaca-zagrebackih-nocnih-klubova-probala-kokain/261128025",
+          "publishedAt": "2026-11-28T08:41:00.000Z"
+        }
+      ],
+      "score": 0.2213,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_12dfec0e73e85d3a",
+      "title": "Tajni susreti i brza državljanstva: Kako je SNS-ova vlast u Srbiji gradila odnose s krugom Ramzana Kadirova",
+      "snippet": "Ljudi iz okruženja čečenskog lidera Ramzana Kadirova od 2021. godine imali su niz veza s vlašću Srpske napredne stranke (SNS), od poklona i susreta do pasoša Srbije za članove porodice i saradnike, piše Nova.rs.",
+      "url": "https://www.klix.ba/vijesti/regija/tajni-susreti-i-brza-drzavljanstva-kako-je-sns-ova-vlast-u-srbiji-gradila-odnose-s-krugom-ramzana-kadirova/261128027",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128027.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:30:00.000Z",
+      "updatedAt": "2026-11-28T08:30:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/tajni-susreti-i-brza-drzavljanstva-kako-je-sns-ova-vlast-u-srbiji-gradila-odnose-s-krugom-ramzana-kadirova/261128027",
+          "publishedAt": "2026-11-28T08:30:00.000Z"
+        }
+      ],
+      "score": 0.2158,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_ea92e139a08bb9c2",
+      "title": "Veliki interes građana za vakcinaciju protiv gripe, U ambulantama blizu 1.200 vakcinisanih",
+      "snippet": "Nakon velikog interesa građana, u ambulantama Zavoda za javno zdravstvo FBiH u Sarajevu i Mostaru potrošene su vakcine protiv gripe namijenjene stanovništvu. Za vakcinaciju se sada treba obratiti domovima zdravlja.",
+      "url": "https://www.klix.ba/vijesti/bih/veliki-interes-gradana-za-vakcinaciju-protiv-gripe-u-ambulantama-blizu-1200-vakcinisanih/261128036",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128036.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:29:00.000Z",
+      "updatedAt": "2026-11-28T08:29:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/veliki-interes-gradana-za-vakcinaciju-protiv-gripe-u-ambulantama-blizu-1200-vakcinisanih/261128036",
+          "publishedAt": "2026-11-28T08:29:00.000Z"
+        }
+      ],
+      "score": 0.2153,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1dddc354c14dc96c",
+      "title": "Čampara: SDP je pristao na dogovor u Sarajevu nakon prijetnji SDA, možda se to prelije na FBiH i državu",
+      "snippet": "Zastupnik Naroda i Pravde u Skupštini Kantona Sarajevo Aljoša Čampara komentarisao je formiranje novog rukovodstva Skupštine u kojem su po dva člana dobile stranke Trojke i nove većine (SDA, DF i SBiH).",
+      "url": "https://www.klix.ba/vijesti/bih/campara-sdp-je-pristao-na-dogovor-u-sarajevu-nakon-prijetnji-sda-mozda-se-to-prelije-na-fbih-i-drzavu/261128029",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128029.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:20:00.000Z",
+      "updatedAt": "2026-11-28T08:20:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/devic-najavio-da-ce-sdp-dobiti-predsjedavajuceg-skupstine-ks-campara-tvrdi-da-nip-nije-dio-dogovora/261126223",
+          "publishedAt": "2026-11-26T15:16:00.000Z"
+        }
+      ],
+      "score": 0.211,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fcd6ff1042cf420c",
+      "title": "Raspisuje se međunarodna potjernica za Šerifom Patkovićem, Sud BiH nije znao da je napustio zemlju prije presude",
+      "snippet": "Sud Bosne i Hercegovine odredio je pritvor Šerifu Patkoviću, koji je prvostepeno osuđen na deset godina zatvora za ratni zločin u Dusini kod Zenice. U toku je i raspisivanje međunarodne potjernice.",
+      "url": "https://www.klix.ba/vijesti/bih/raspisuje-se-medunarodna-potjernica-za-serifom-patkovicem-sud-bih-nije-znao-da-je-napustio-zemlju-prije-presude/261128031",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128031.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:19:00.000Z",
+      "updatedAt": "2026-11-28T08:19:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/raspisuje-se-medunarodna-potjernica-za-serifom-patkovicem-sud-bih-nije-znao-da-je-napustio-zemlju-prije-presude/261128031",
+          "publishedAt": "2026-11-28T08:19:00.000Z"
+        }
+      ],
+      "score": 0.2106,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3aa12d28485595f2",
+      "title": "Danas snijeg i susnježica u Bosni, na jugu bura i do 14 stepeni",
+      "snippet": "U Bosni se danas očekuje pretežno oblačno vrijeme sa slabim snijegom ili susnježicom, koji će ponegdje preći u kišu, dok će u Hercegovini biti sunčano uz umjeren porast oblačnosti tokom dana, prognozira Federalni hidrometeorološki zavod (FHMZ).",
+      "url": "https://www.klix.ba/vijesti/bih/danas-snijeg-i-susnjezica-u-bosni-na-jugu-bura-i-do-14-stepeni/261128018",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128018.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T06:59:00.000Z",
+      "updatedAt": "2026-11-28T06:59:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/danas-snijeg-i-susnjezica-u-bosni-na-jugu-bura-i-do-14-stepeni/261128018",
+          "publishedAt": "2026-11-28T06:59:00.000Z"
+        }
+      ],
+      "score": 0.1781,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bd5d90aea20cccdb",
+      "title": "Crna Gora plaća oko 18 miliona eura odštete hrvatskim logorašima, pomoć i za porodice žrtava logora u Ljubuškom i Mostaru",
+      "snippet": "Vlada Crne Gore usvojila je u petak izvještaj o završenim pregovorima s Hrvatskom o obeštećenju hrvatskih državljana zatočenih u logoru Morinj, što je jedan od uslova koje Zagreb postavlja za završetak crnogorskih pregovora o članstvu u EU.",
+      "url": "https://www.klix.ba/vijesti/regija/crna-gora-placa-oko-18-miliona-eura-odstete-hrvatskim-logorasima-pomoc-i-za-porodice-zrtava-logora-u-ljubuskom-i-mostaru/261128006",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128006.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T06:35:00.000Z",
+      "updatedAt": "2026-11-28T06:35:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/crna-gora-placa-oko-18-miliona-eura-odstete-hrvatskim-logorasima-pomoc-i-za-porodice-zrtava-logora-u-ljubuskom-i-mostaru/261128006",
+          "publishedAt": "2026-11-28T06:35:00.000Z"
+        }
+      ],
+      "score": 0.17,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f1ec75f23ad84f0d",
+      "title": "Advokat Senad Bilić: Zakon koji RTRS štiti od naplate duga BHRT-u bio bi neustavan",
+      "snippet": "Advokat i bivši sudija Općinskog suda u Sarajevu Senad Bilić ocijenio je da bi zakon kojim bi RTRS bio zaštićen od prinudne naplate dugovanja prema BHRT-u, koja premašuju 110 miliona KM, bio neustavan.",
+      "url": "https://www.klix.ba/vijesti/bih/advokat-senad-bilic-zakon-koji-rtrs-stiti-od-naplate-duga-bhrt-u-bio-bi-neustavan/261127285",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127285.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T22:18:00.000Z",
+      "updatedAt": "2026-11-27T22:18:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/advokat-senad-bilic-zakon-koji-rtrs-stiti-od-naplate-duga-bhrt-u-bio-bi-neustavan/261127285",
+          "publishedAt": "2026-11-27T22:18:00.000Z"
+        }
+      ],
+      "score": 0.0813,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_d7bb62c4c4c7462f",
+      "title": "CIK odbio kandidaturu Irene Joldžić (SNSD) za Vijeće naroda RS-a jer se u dva izborna ciklusa različito izjasnila",
+      "snippet": "Centralna izborna komisija BiH odbila je kandidaturu Irene Joldžić (SNSD) za delegata u Vijeću naroda Republike Srpske zbog različitog nacionalnog izjašnjenja u dva izborna ciklusa. Joldžić tvrdi da je odluka pravno neutemeljena, ali se neće žaliti.",
+      "url": "https://www.klix.ba/vijesti/bih/cik-odbio-kandidaturu-irene-joldzic-snsd-za-vijece-naroda-rs-a-jer-se-u-dva-izborna-ciklusa-razlicito-izjasnila/261127300",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127300.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T21:51:00.000Z",
+      "updatedAt": "2026-11-27T21:51:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/cik-ovjerio-24-od-29-lista-za-vijece-naroda-republike-srpske/261127200",
+          "publishedAt": "2026-11-27T14:43:00.000Z"
+        }
+      ],
+      "score": 0.0788,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f2b5e8266e24f81b",
+      "title": "Opet prekinuta sjednica Skupštine Banje Luke, budžet čeka ponedjeljak",
+      "snippet": "Jedanaesta redovna sjednica Skupštine grada Banja Luka ponovo je prekinuta tokom rasprave o izvještaju o radu gradonačelnika Draška Stanivukovića, a odbornici će zasjedanje nastaviti u ponedjeljak, 30. novembra.",
+      "url": "https://www.klix.ba/vijesti/bih/opet-prekinuta-sjednica-skupstine-banje-luke-budzet-ceka-ponedjeljak/261127303",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127303.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T21:46:00.000Z",
+      "updatedAt": "2026-11-27T21:46:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/opet-prekinuta-sjednica-skupstine-banje-luke-budzet-ceka-ponedjeljak/261127303",
+          "publishedAt": "2026-11-27T21:46:00.000Z"
+        }
+      ],
+      "score": 0.0783,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9b148390a89b05d5",
+      "title": "Počelo suđenje Slovencu za brutalno ubistvo bivše djevojke: Nakon zločina s bratom i očuhom zakopao tijelo u šumi",
+      "snippet": "Pred Zemaljskim sudom u Grazu počelo je suđenje 32-godišnjem Slovencu optuženom za ubistvo bivše partnerice, austrijske influencerice Stefanie P. Optuženi tvrdi da se radilo o nesreći, a ako bude proglašen krivim za ubistvo, prijeti mu doživotni zatvor.",
+      "url": "https://www.klix.ba/vijesti/regija/pocelo-sudenje-slovencu-za-brutalno-ubistvo-bivse-djevojke-nakon-zlocina-s-bratom-i-ocuhom-zakopao-tijelo-u-sumi/261127199",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127199.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T20:52:00.000Z",
+      "updatedAt": "2026-11-27T20:52:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/pocelo-sudenje-slovencu-za-brutalno-ubistvo-bivse-djevojke-nakon-zlocina-s-bratom-i-ocuhom-zakopao-tijelo-u-sumi/261127199",
+          "publishedAt": "2026-11-27T20:52:00.000Z"
+        }
+      ],
+      "score": 0.0737,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1926af7181404cd7",
+      "title": "Ko će uz Saičića biti kandidati za predsjednika Srbije: U utrku ulaze Branimir Nestorović i Bogoljub Karić",
+      "snippet": "Pored akademika Radomira Saičića, kandidata Studentske liste, kandidaturu za predsjednika Srbije na izborima 27. decembra najavili su Bogoljub Karić, Branko Pavlović i Branimir Nestorović.",
+      "url": "https://www.klix.ba/vijesti/regija/ko-ce-uz-saicica-biti-kandidati-za-predsjednika-srbije-u-utrku-ulaze-branimir-nestorovic-i-bogoljub-karic/261127290",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127290.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T20:51:00.000Z",
+      "updatedAt": "2026-11-27T20:51:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/vucic-podrugljivo-o-kandidatu-studenata-za-predsjednika-srbije-stariji-je-od-mene-15-godina/261127149",
+          "publishedAt": "2026-11-27T15:17:00.000Z"
+        }
+      ],
+      "score": 0.0736,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9e05be848c59daaa",
+      "title": "Reakcija OHR-a: Izmjene zakona ne smiju omogućiti RTRS-u da izbjegne presude",
+      "snippet": "Svaka zakonska mjera kojom se mijenja status Radio-televizije Republike Srpske (RTRS) mora biti u skladu sa zakonom Bosne i Hercegovine o javnom RTV sistemu, a izmjene ne smiju omogućiti izbjegavanje postojećih obaveza ni izvršenja pravosnažnih presuda, poručili su iz OHR-a.",
+      "url": "https://www.klix.ba/vijesti/bih/reakcija-ohr-a-izmjene-zakona-ne-smiju-omoguciti-rtrs-u-da-izbjegne-presude/261127283",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127283.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T20:06:00.000Z",
+      "updatedAt": "2026-11-27T20:06:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/reakcija-ohr-a-izmjene-zakona-ne-smiju-omoguciti-rtrs-u-da-izbjegne-presude/261127283",
+          "publishedAt": "2026-11-27T20:06:00.000Z"
+        }
+      ],
+      "score": 0.0701,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_37591e7b228bf344",
+      "title": "SDA utvrdila prijedloge za premijere četiri kantona: Tahir Lendo ostaje, Nijaz Hušić se vraća",
+      "snippet": "Predsjedništvo SDA utvrdilo je kandidate za premijere Srednjobosanskog, Unsko-sanskog, Bosansko-podrinjskog i Tuzlanskog kantona. Dvojica su tu funkciju već obavljala, dok bi dvojici to bio prvi premijerski mandat.",
+      "url": "https://www.klix.ba/vijesti/bih/sda-utvrdila-prijedloge-za-premijere-cetiri-kantona-tahir-lendo-ostaje-nijaz-husic-se-vraca/261127279",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127279.jpg&w=640&output=webp&q=80&we",
+      "category": "Region",
+      "categorySlug": "region",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T19:55:00.000Z",
+      "updatedAt": "2026-11-27T19:55:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/bih/sda-utvrdila-prijedloge-za-premijere-cetiri-kantona-tahir-lendo-ostaje-nijaz-husic-se-vraca/261127279",
+          "publishedAt": "2026-11-27T19:55:00.000Z"
+        }
+      ],
+      "score": 0.0693,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T17:37:03.564Z",
+  "feedType": "category",
+  "category": "Vreme",
+  "categorySlug": "vreme",
+  "totalItems": 15,
+  "items": [
+    {
+      "id": "clu_85e430508dcf37a3",
+      "title": "RHMZ upozorio na dva moguća problema zbog snega",
+      "snippet": "Republički hidrometeorološki zavod (RHMZ) ažurirao je jedno od tri upozorenje koja su na snazi od juče, a koje se odnosi na sneg i stvaranje snežnog pokrivača u Srbiji, u kojem se sada navodi i da usled akumulacije vlažnog snega, dodatno mogu da se pogoršaju uslovi u…",
+      "url": "https://www.blic.rs/vremenska-prognoza/rhmz-upozorio-na-dva-moguca-problema-zbog-snega/q6pgm83",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FVrxk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zYmZlNTE3ZTAxYTczYWZhODQ1MzI4ZWRlYTk5N2UwMy5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:50:06.000Z",
+      "updatedAt": "2026-11-28T12:50:06.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vremenska-prognoza/rhmz-upozorio-na-dva-moguca-problema-zbog-snega/q6pgm83",
+          "publishedAt": "2026-11-28T12:50:06.000Z"
+        }
+      ],
+      "score": 0.3963,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e027bab9253ef421",
+      "title": "(Foto, video) KIŠA SE PRETVORILA U SNEG Zabeleli se Kragujevac, Valjevo, Lazarevac, na auto-putu veje li veje",
+      "snippet": "Pravi zimski prizori jutros su dočekali građane širom centralne Srbije – prvi sneg pao je u nižim predelima, a društvene mreže, posebno Instagram, preplavili su snimci pahulja iz Kragujevca, Valjeva i Lazarevca.",
+      "url": "https://www.blic.rs/vremenska-prognoza/prvi-sneg-u-gradovima-u-srbiji-zabeleli-se-beograd-valjevo-kragujevac/khrjph8",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fjs1k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hOWIzM2MxZWFhMGE1Y2FlZDEzOTE0MTg3Yjc0MTg4Ni5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:30:39.000Z",
+      "updatedAt": "2026-11-28T08:30:39.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vremenska-prognoza/prvi-sneg-u-gradovima-u-srbiji-zabeleli-se-beograd-valjevo-kragujevac/khrjph8",
+          "publishedAt": "2026-11-28T08:30:39.000Z"
+        }
+      ],
+      "score": 0.1891,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4215f3b0bf85d759",
+      "title": "Stiže zahlađenje i sneg, na planinama više od 30 centimetara za 24 sata",
+      "snippet": "U Srbiji danas oblačno i hladno, uz pad temperature. Južnije od Save i Dunava očekuje se do 20 centimetara snega, a na planinama i više od 30 centimetara za 24 sata.",
+      "url": "https://www.rts.rs/vesti/vreme/6094631/stize-zahladjenje-i-sneg-na-planinama-vise-od-30-centimetara-za-24-sata.html",
+      "imageUrl": null,
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T04:58:24.000Z",
+      "updatedAt": "2026-11-28T04:58:24.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/vreme/6094631/stize-zahladjenje-i-sneg-na-planinama-vise-od-30-centimetara-za-24-sata.html",
+          "publishedAt": "2026-11-28T04:58:24.000Z"
+        }
+      ],
+      "score": 0.1784,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_693857182a6005c4",
+      "title": "Vremenska prognoza 26. novembar 2026.",
+      "snippet": "Na istoku zemlje kiša će se ponegde lediti na tlu, pa je neophodan oprez. U košavskom podučju biće vetrovito.",
+      "url": "https://www.rts.rs/vesti/vreme/6092491/vremenska-prognoza-26-novembar-2026.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2025%2F11%2F6%2F12%2F18%2F544%2F4732415%2Fthumbs%2F14526659%2FVreme_1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-25T17:49:54.000Z",
+      "updatedAt": "2026-11-27T19:10:50.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/vreme/6092491/vremenska-prognoza-26-novembar-2026.html",
+          "publishedAt": "2026-11-25T17:49:54.000Z"
+        }
+      ],
+      "score": 0.0828,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_6587bddeceb6df25",
+      "title": "Cijena nam je često jedini kriterij: Evo koju oznaku na gumama treba gledati za bolju vožnju po kiši",
+      "snippet": "Suprotno uvriježenom mišljenju, skuplja automobilska guma ne mora nužno pružati bolje performanse na kiši. Za sigurnost na kiši posebno je važno obratiti pažnju na oznaku prijanjanja na mokroj podlozi – idealno A ili B, transparentno označeno na naljepnici.",
+      "url": "https://www.klix.ba/auto/savjeti/cijena-nam-je-cesto-jedini-kriterij-evo-koju-oznaku-na-gumama-treba-gledati-za-bolju-voznju-po-kisi/261127233",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127233.jpg&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T19:16:00.000Z",
+      "updatedAt": "2026-11-27T19:16:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/auto/savjeti/cijena-nam-je-cesto-jedini-kriterij-evo-koju-oznaku-na-gumama-treba-gledati-za-bolju-voznju-po-kisi/261127233",
+          "publishedAt": "2026-11-27T19:16:00.000Z"
+        }
+      ],
+      "score": 0.0666,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_933570a137038013",
+      "title": "(Foto) Pada sneg u Beogradu: Krupne pahulje veju u ovom delu grada",
+      "snippet": "Prvi ovosezonski sneg počeo je da pada u Beogradu.",
+      "url": "https://www.blic.rs/vremenska-prognoza/pada-sneg-u-beogradu-krupne-pahulje-veju-u-sremcici/j1lkqcf",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FXeSk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80NmQ1MTk4ZmQ5MDI5NmZhNWFlODgyOTM0OTA4NTRhZi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:12:13.000Z",
+      "updatedAt": "2026-11-28T08:12:13.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vremenska-prognoza/pada-sneg-u-beogradu-krupne-pahulje-veju-u-sremcici/j1lkqcf",
+          "publishedAt": "2026-11-28T08:12:13.000Z"
+        }
+      ],
+      "score": 0.1815,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8ae1acf73c0fd1a4",
+      "title": "OZBILJNE KOLIČINE SNEGA ĆE DA NAPADAJU Srbija pod upozorenjima, oglasio se i MUP: Udružuju se 3 opasne pojave, haos u najavi",
+      "snippet": "Republički hidrometeorološki zavod (RHMZ) upozorava i najavljuje naglu promenu vremena koja donosi obilne padavine, formiranje ozbiljnog snežnog pokrivača i olujne udare vetra.",
+      "url": "https://www.blic.rs/vremenska-prognoza/rhmz-objavio-novu-prognozu-gde-ce-biti-najveci-sneg-a-gde-opasni-vetar/bjw6x2n",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FaP4k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mYjEwN2NhZDNjNGRlMGE4MmVhYjBkOWFjNjVkYmJhZS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T06:01:00.000Z",
+      "updatedAt": "2026-11-28T06:01:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vremenska-prognoza/rhmz-objavio-novu-prognozu-gde-ce-biti-najveci-sneg-a-gde-opasni-vetar/bjw6x2n",
+          "publishedAt": "2026-11-28T06:01:00.000Z"
+        }
+      ],
+      "score": 0.1396,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_d4ff0cd24c940774",
+      "title": "Kako je jako nevreme Amerikancima pokvarilo Dan nezavisnosti",
+      "snippet": "Skoro milion potrošača u SAD nije imalo struju 26. novembra pošto su oluje zahvatile obe obale SAD, donoseći udare vetra, jake kiše i poplave.",
+      "url": "https://www.bbc.com/serbian/articles/crvg23pj61wgo/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F5163%2Flive%2F6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T08:12:47.000Z",
+      "updatedAt": "2026-11-27T08:12:47.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/crvg23pj61wgo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T08:12:47.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/bbc/kako-je-jako-nevreme-amerikancima-pokvarilo-dan-nezavisnosti/88cqfrp",
+          "publishedAt": "2026-11-27T09:44:34.144Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/bbc-news-serbian/kako-je-jako-nevreme-amerikancima-pokvarilo-dan-zahvalnosti",
+          "publishedAt": "2026-11-27T12:37:31.624Z"
+        }
+      ],
+      "score": 0.057,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0660a95190294887",
+      "title": "Radarski snimak, iz sata u sat: Danas tačno u OVO VREME snežni oblak ulazi u Srbiju, a onda će da VEJE I VEJE! Na snazi 3 upozorenja",
+      "snippet": "Republički hidrometeorološki zavod (RHMZ) izdao je jutros 3 upozorenja zbog obilnih padavina, snega i vejavice koje se očekuju u periodu od 27. novembra, odnosno od danas, pa sve do nedelje 29. novembra.",
+      "url": "https://www.blic.rs/vremenska-prognoza/sneg-u-srbiji-od-petka-do-nedelje-radarski-snimci-otkrivaju-tacnu-satnicu-padavina/5qttsjx",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FA3Mk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zZTYzNDBjOTE2NjBiNjUyNDhhYTI3Y2NkODQ1MzE3Mi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T16:08:57.000Z",
+      "updatedAt": "2026-11-27T16:08:57.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vremenska-prognoza/rhmz-upravo-izdao-3-upozorenja-istovremeno-pasce-30-cm-snega-za-24-sata/g6dc6gs",
+          "publishedAt": "2026-11-27T08:39:13.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/vreme/6093583/rhmz-izdao-tri-upozorenja--stizu-obilne-padavine-snezna-vejavica-i-olujni-vetar.html",
+          "publishedAt": "2026-11-27T09:03:27.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/tri-upozorenja-rhmz-stizu-obilne-padavine-snezna-vejavica-i-olujni-vetar",
+          "publishedAt": "2026-11-27T11:33:23.537Z"
+        }
+      ],
+      "score": 0.0625,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_6fe379279414f46c",
+      "title": "(MAPA) SRBIJU ČEKA SNEŽNI KOLAPS I DEBELI MINUS! Kiša noćas prelazi u vejavicu, sručiće se ogromne količine, padamo na -11 stepeni",
+      "snippet": "Večeras u Srbiji počinje nagla promena vremena koja donosi zimske vremenske prilike, pad temperature i prve ozbiljnije snežne padavine ove sezone.",
+      "url": "https://www.blic.rs/vremenska-prognoza/stize-snezni-haos-i-debeli-minus-padamo-na-11-stepeni/qcwxvhn",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F8YTk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iN2Y5MDZkOTlmNTVjMTU5YWEyOGJiZWMwMzc3NWM4OC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T19:22:55.000Z",
+      "updatedAt": "2026-11-27T19:22:55.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vremenska-prognoza/stize-snezni-haos-i-debeli-minus-padamo-na-11-stepeni/qcwxvhn",
+          "publishedAt": "2026-11-27T19:22:55.000Z"
+        }
+      ],
+      "score": 0.0587,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_03009939806bfffc",
+      "title": "Veliki požar \"progutao\" dom troje djece iz Kiseljaka, ostala im samo odjeća koju su imala na sebi: Sakuplja se pomoć",
+      "snippet": "Osnovna škola \"Kiseljak 1\" Bilalovac pokrenula je humanitarnu akciju za porodicu Pandžić, čija je kuća izgorjela u požaru. Troje djece iz te porodice, učenici ove škole, ostali su bez odjeće, obuće, udžbenika i školskog pribora.",
+      "url": "https://www.klix.ba/vijesti/humanitarne-akcije/veliki-pozar-progutao-dom-troje-djece-iz-kiseljaka-ostala-im-samo-odjeca-koju-su-imala-na-sebi-sakuplja-se-pomoc/261127110",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127110.jpg&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T15:06:00.000Z",
+      "updatedAt": "2026-11-27T15:06:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/humanitarne-akcije/veliki-pozar-progutao-dom-troje-djece-iz-kiseljaka-ostala-im-samo-odjeca-koju-su-imala-na-sebi-sakuplja-se-pomoc/261127110",
+          "publishedAt": "2026-11-27T15:06:00.000Z"
+        }
+      ],
+      "score": 0.0525,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_18cc3372a5e868e9",
+      "title": "Stiže drastično zahlađenje, jaka košava i SNEG, padaće i u Beogradu! Meteorolog Todorović i o 7 DANA SNEŽNE EPIZODE u decembru",
+      "snippet": "Osetan pad temperature, kišovito vreme, pojačan vetar i uslovi za prve snežne padavine obeležiće dane pred nama. Nakon obilnih padavina, sledi dodatno zahlađenje uz vetrovito vreme i mogućnost formiranja manjeg snežnog pokrivača u višim predelima.",
+      "url": "https://www.blic.rs/vremenska-prognoza/drasticno-zahladjenje-u-subotu-i-puno-snega-padace-i-u-beogradu/hbmz32k",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F6B-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lYmVhMGIwODhlMzY3OGU1NDE4ZjRjOTZkMWQ4MGQ1MC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T10:31:37.000Z",
+      "updatedAt": "2026-11-27T10:31:37.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/vreme/6093337/nedeljko-todorovic-meteorolog-vremenska-prognoza-zima.html",
+          "publishedAt": "2026-11-26T18:38:35.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/vremenska-prognoza-meteorolog-nedeljko-todorovic-zahladjenje-sneg",
+          "publishedAt": "2026-11-26T23:32:09.692Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vremenska-prognoza/drasticno-zahladjenje-u-subotu-i-puno-snega-padace-i-u-beogradu/hbmz32k",
+          "publishedAt": "2026-11-27T10:31:37.000Z"
+        }
+      ],
+      "score": 0.0473,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_66aa556013f3c928",
+      "title": "Oblačno i kišovito, uveče obilnije padavine na jugu – na planinama sneg",
+      "snippet": "U Srbiji danas pretežno oblačno sa slabom kišom. Tokom večeri i noći na jugu i jugoistoku očekuju se obilnije padavine, a na planinama jugozapadne, južne i jugoistočne Srbije kiša će preći u sneg.",
+      "url": "https://www.rts.rs/vesti/vreme/6093233/oblacno-i-kisovito-uvece-obilnije-padavine-na-jugu--na-planinama-sneg.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F26%2F15%2F42%2F421%2F6096071%2Fthumbs%2F14537117%2Fvreme_t.jpg&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T04:46:44.000Z",
+      "updatedAt": "2026-11-27T04:46:44.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/vreme/6093233/oblacno-i-kisovito-uvece-obilnije-padavine-na-jugu--na-planinama-sneg.html",
+          "publishedAt": "2026-11-27T04:46:44.000Z"
+        }
+      ],
+      "score": 0.0413,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f2e6bcef17b5fcf1",
+      "title": "Kiša prelazi u sneg, NAPADAĆE I DO 20 CM: Delovi Srbije u različitim stepenima pripravnosti, a temperatura svuda naglo pada!",
+      "snippet": "Novembar se odjavljuje uz oštar vremenski zaokret koji briše svaku iluziju o poznoj jeseni. Sivi oblaci, hladne kišne kapi i severno strujanje već stežu obruč, ali prava meteorološka prekretnica nastupa sa danima vikenda.",
+      "url": "https://www.blic.rs/vremenska-prognoza/sneg-i-zahladjenje-stizu-ovog-vikenda-rhmz-upalio-meteoalarm-za-srbiju/zd49srh",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FKm3k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80YzVhZjZlYWRlMTQ2NGEyMjUzYmRhNjFkOTgyMjU2Yy5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T04:58:00.000Z",
+      "updatedAt": "2026-11-27T04:58:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vremenska-prognoza/sneg-i-zahladjenje-stizu-ovog-vikenda-rhmz-upalio-meteoalarm-za-srbiju/zd49srh",
+          "publishedAt": "2026-11-27T04:58:00.000Z"
+        }
+      ],
+      "score": 0.0291,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_42870bfe5c83c905",
+      "title": "(RADARSKI SNIMAK) SNEG U SUBOTU U CELOJ SRBIJI I TO ĆE BAŠ DA NAPADA! A temperatura da se smrzneš! Prognoza, dan po dan, do decembra",
+      "snippet": "Pred nama su dani dinamičnih i naglih vremenskih promena koje donose osetno zahlađenje, prelazak kišnih padavina u susnežicu i sneg, kao i formiranje snežnog pokrivača.",
+      "url": "https://www.blic.rs/vremenska-prognoza/radarski-snimak-sneg-u-subotu-u-celoj-srbiji/25zt8sf",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FYWZk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kMzk4NzAwOTFlMmJkMzQ3ODBiYmM1OTA1MzIzMzM1Yy5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Vreme",
+      "categorySlug": "vreme",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-26T18:26:44.000Z",
+      "updatedAt": "2026-11-26T18:26:44.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vremenska-prognoza/radarski-snimak-sneg-u-subotu-u-celoj-srbiji/25zt8sf",
+          "publishedAt": "2026-11-26T18:26:44.000Z"
+        }
+      ],
+      "score": 0.0203,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    }
+  ]
+}

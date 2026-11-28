@@ -1,0 +1,2822 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T17:37:03.564Z",
+  "feedType": "global",
+  "category": null,
+  "categorySlug": null,
+  "totalItems": 80,
+  "items": [
+    {
+      "id": "clu_a00a0c9f3540149e",
+      "title": "Radomir Saičić kandidat Studentskog pokreta: Vreme je da funkciji predsednika Republike vratimo dostojanstvo",
+      "snippet": "Studentski pokret, koji je formirao grupu građana \"Studenti ponovo pobeđuju\", saopštio je na konferenciji za novinare da je njihov kandidat na predstojećim predsedničkim izborima akademik Radomir Saičić.",
+      "url": "https://www.rts.rs/vesti/politika/6093762/radomir-saicic-kandidat-studentskog-pokreta-vreme-je-da-funkciji-predsednika-republike-vratimo-dostojanstvo.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F12%2F48%2F253%2F6099254%2Fthumbs%2F14545892%2FSajcic_t1.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T11:27:18.000Z",
+      "updatedAt": "2026-11-28T17:14:16.000Z",
+      "mediaCount": 6,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/toskovic-studentska-lista-imamo-najverovatnijeg-kandidata-za-predsednika-drzave-vlada-do-kraja-godine/",
+          "publishedAt": "2026-11-26T07:46:46.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/toskovic-studenti-kandidat-za-predsednika/",
+          "publishedAt": "2026-11-26T07:53:41.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/otkriveno-kada-ce-studentska-lista-predstaviti-kandidata-za-predsednika/5tknptx",
+          "publishedAt": "2026-11-26T13:25:36.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/radomir-saicic-bit-ce-kandidat-studentske-liste-za-predsjednika-srbije/261126247",
+          "publishedAt": "2026-11-26T17:18:00.000Z"
+        },
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/c3vg2p5nnjqlo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T11:12:16.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6093762/radomir-saicic-kandidat-studentskog-pokreta-vreme-je-da-funkciji-predsednika-republike-vratimo-dostojanstvo.html",
+          "publishedAt": "2026-11-27T11:27:18.000Z"
+        }
+      ],
+      "score": 4.0856,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_7bb8c5e42de59b41",
+      "title": "Poziv dijaspori da se što pre prijavi za glasanje na predsedničkim izborima 27. decembra",
+      "snippet": "Član Republičke izborne komisije Dušan Dinčić pozvao je građane Srbije koji žive u inostranstvu da se što pre prijave za glasanje na predsedničkim izborima 27. decembra, kako bi nadležni organi imali dovoljno vremena da utvrde gde postoji potreba za otvaranjem biračkih mesta i…",
+      "url": "https://www.rts.rs/vesti/predsednicki-izbori-2026/6094558/predsednicki-izbori-dijaspora-rik.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F19%2F42%2F635%2F6101909%2Fthumbs%2F14553887%2FRIK_poziv.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T18:25:54.000Z",
+      "updatedAt": "2026-11-28T15:58:22.000Z",
+      "mediaCount": 6,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/predsednicki-izbori-se-raspisuju-a-ovo-je-vucicev-stav-odlucicemo-13-decembra/nv6th5g",
+          "publishedAt": "2026-11-25T18:03:34.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/demokratska-stranka-vrsac-podnosi-krivicnu-prijavu-protiv-predsednika-skupstine-grada-zbog-neraspisivanja-izbora-za-savete-mesnih-zajednica/",
+          "publishedAt": "2026-11-25T20:55:11.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6092688/aleksandar-cupic-raspisuje-predsednicki-izbori-2026.html",
+          "publishedAt": "2026-11-26T06:40:11.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/cupic-predsednicki-izbori/",
+          "publishedAt": "2026-11-26T07:03:36.000Z"
+        },
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/cwlym4n45zkgo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-26T11:05:56.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/predsjednik-skupstine-srbije-aleksandar-cupic-raspisao-vanredne-predsjednicke-izbore-za-27-decembar/261126112",
+          "publishedAt": "2026-11-26T11:14:00.000Z"
+        }
+      ],
+      "score": 2.1556,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_71f8d620f5794041",
+      "title": "Uhapšen osumnjičeni za bacanje bombe u Čeneju",
+      "snippet": "Više javno tužilaštvo u Novom Sadu saopštilo je danas da je uhapšen V.",
+      "url": "https://www.danas.rs/vesti/drustvo/bomba-cenej/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2023%2F05%2Fshutterstock_1338116366-e1778004914862-300x161.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:39:50.000Z",
+      "updatedAt": "2026-11-28T12:32:51.000Z",
+      "mediaCount": 5,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/bacali-bombe-na-kucu-i-restoran-na-novom-beogradu-i-zvezdari-uhapsena-dvojica-mladica-kod-jednog-pronadjena-marihuana-i-kokain/",
+          "publishedAt": "2026-11-25T21:07:09.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/bacali-bombe-na-porodicnu-kucu-i-restoran-uhapsena-dvojica-mladica-u-beogradu/15yh90v",
+          "publishedAt": "2026-11-25T21:24:22.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/uhapseni-osumnjiceni-da-su-u-beogradu-bacili-rucnu-bombu-na-kucu-i-u-bastu-restorana/",
+          "publishedAt": "2026-11-25T21:43:54.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/crna-hronika/uhapsen-zenicanin-osumnjicen-za-ubistvo-nestalog-muskarca/261127164",
+          "publishedAt": "2026-11-27T13:50:00.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6094806/ubijen-muskarac-u-krusevcu-uhapsen-osumnjiceni.html",
+          "publishedAt": "2026-11-28T12:32:51.000Z"
+        }
+      ],
+      "score": 0.6915,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_d30b00a7570612b2",
+      "title": "'Putin je agresor i ubica, ne može da vam bude prijatelj': Zelenski za BBC",
+      "snippet": "Ukrajinski predsednik izrazio je nezadovoljstvo ponašanjem SAD i rekao da je „čudno“ što je Tramp nazvao Vladimira Putina prijateljem.",
+      "url": "https://www.bbc.com/serbian/articles/c6ge3rzyd75do/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F97de%2Flive%2F9ba0dc60-ea2b-11f1-a094-5fdc692f3e33.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T06:33:54.000Z",
+      "updatedAt": "2026-11-28T06:21:00.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/c6ge3rzyd75do/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T06:33:54.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/zelenski-kritikovao-trampa-zbog-prijateljstva-sa-putinom-on-je-agresor-i-ubica/23l45c5",
+          "publishedAt": "2026-11-27T07:01:12.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/zelenski-tramp-putin-prijatelj/",
+          "publishedAt": "2026-11-27T13:18:09.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/trump-ga-zove-prijateljem-zelenski-odgovara-to-je-kao-da-ste-za-hitlera-rekli-da-je-dobar-prijatelj/261128002",
+          "publishedAt": "2026-11-28T06:21:00.000Z"
+        }
+      ],
+      "score": 0.269,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_6f6df29dc96c3bf1",
+      "title": "Očajnički apeli žena osuđenih na smrt posle iranskih protesta",
+      "snippet": "Broj dosuđenih smrtnih kazni za protestantkinje i disidentkinje nije zabeležen decenijama, navodi jedna organizacija za ljudska prava.",
+      "url": "https://www.bbc.com/serbian/articles/cv702xl9ekpyo/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F9ca2%2Flive%2Fa7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:58:28.000Z",
+      "updatedAt": "2026-11-28T15:58:28.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/cv702xl9ekpyo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-28T15:58:28.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/bbc-news-serbian/ocajnicki-apeli-zena-osudjenih-na-smrt-posle-iranskih-protesta",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/bbc/ocajnicki-apeli-zena-osudjenih-na-smrt-posle-iranskih-protesta/kn02pzr",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        }
+      ],
+      "score": 1.7257,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4b48e6b30ce7215e",
+      "title": "Održan skup podrške Draganu J. Vučićeviću ispred centralnog zatvora",
+      "snippet": "Ispred Okružnog zatvora u Beogradu održan je skup podrške vlasniku i glavnom i odgovornom uredniku TV Informer Draganu J. Vučićeviću, kome je određen pritvor do 30 dana.",
+      "url": "https://www.rts.rs/vesti/drustvo/6093786/dragan-j-vucicevic-podrska-skup-cz.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F4SEk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iMjBkOTdkNjE4MjliZmQwY2YwNjNjODkwMDJiNmYzNS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T11:23:13.000Z",
+      "updatedAt": "2026-11-27T17:40:00.000Z",
+      "mediaCount": 6,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/informer-uhapsen-dragan-vucicevic-skup-podrske-palata-pravda/",
+          "publishedAt": "2026-11-26T08:57:59.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/policijo-prebij-izlomi-rebra-zbog-cega-je-tacno-uhapsen-dragan-j-vucicevic/",
+          "publishedAt": "2026-11-26T11:19:38.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/advokati-dragana-j-vucicevica-izneo-je-odbranu-protiv-njega-podneto-vise-krivicnih/7fwphgd",
+          "publishedAt": "2026-11-26T12:32:00.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6093467/dragan-j-vucicevic-pritvor-30-dana-informer.html",
+          "publishedAt": "2026-11-26T20:40:37.000Z"
+        },
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/cm3wg49p99q6o/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T09:02:52.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/podrska-za-vucicevica-ispred-zatvora-u-beogradu-okupljeni-zaposleni-informera-i-funkcioneri-sns-a-najavljena-zalba/261127118",
+          "publishedAt": "2026-11-27T17:40:00.000Z"
+        }
+      ],
+      "score": 0.1135,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_cf42e21ef9117825",
+      "title": "Dejan Bodiroga podneo ostavku na mesto narodnog poslanika",
+      "snippet": "Bodiroga nije jedini koji je vratio poslaničko mesto, tu su i Dženan Palamar, sa liste „Rasim Ljajić - Ljudski\" i Marko Korać - „Aleksandar Vučić - Ujedinjena Srbija\".",
+      "url": "https://www.bbc.com/serbian/articles/c59vwd9wxx71o/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F17f7%2Flive%2F293eeab0-ea92-11f1-8d0e-57e68ad3d9a9.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T18:46:07.000Z",
+      "updatedAt": "2026-11-27T20:08:00.000Z",
+      "mediaCount": 6,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/sport-ostalo/predsednik-rvackog-saveza-srbije-podneo-neopozivu-ostavku/",
+          "publishedAt": "2026-11-26T12:09:07.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/sport/damir-sabic-ostavka-rvanje-srbija/",
+          "publishedAt": "2026-11-26T12:56:18.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/dejan-bodroga-podneo-ostavku-na-mesto-poslanika/wcs9q74",
+          "publishedAt": "2026-11-27T17:01:52.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/odlaze-nakon-maratonske-sjednice-tri-poslanika-u-skupstini-srbije-podnijela-ostavku-medu-njima-i-dejan-bodiroga/261127252",
+          "publishedAt": "2026-11-27T17:27:00.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094550/dejan-bodiroga-ostavka-poslanik-narod-skupstina.html",
+          "publishedAt": "2026-11-27T18:20:05.000Z"
+        },
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/c59vwd9wxx71o/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T18:46:07.000Z"
+        }
+      ],
+      "score": 0.1318,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_980cc2f81e80dcb7",
+      "title": "Ko je Aleksandar Čupić, novi predsednik Skupštine Srbije",
+      "snippet": "Aleksandar Čupić je uz ovu funkciju dobio još jednu titulu - vršilac dužnosti predsednika države.",
+      "url": "https://www.bbc.com/serbian/articles/cxnv43e955gzo/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F8fd3%2Flive%2Feef8d2d0-e410-11f1-99b6-a35a62fa4264.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-19T17:51:04.000Z",
+      "updatedAt": "2026-11-27T18:17:18.000Z",
+      "mediaCount": 6,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/cxnv43e955gzo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-19T17:51:04.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/cupic-sutra-na-sastanku-lidera-procesa-brdo-brioni-sutra-u-ohridu/",
+          "publishedAt": "2026-11-26T12:45:45.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/cupic-na-neformalnoj-veceri-sa-sefovima-delegacija-drzava-ucesnica-procesa-brdo/vmpds8n",
+          "publishedAt": "2026-11-26T22:58:32.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6093463/samit-procesa-brdo-brioni-na-ohridu-srbiju-predstavlja-aleksandar-cupic.html",
+          "publishedAt": "2026-11-27T04:42:36.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/samit-brdo-brioni-okupio-nova-politicka-lica-regije-za-istim-stolom-bh-lideri-aleksandar-cupic-i-predsjednica-kosova/261127057",
+          "publishedAt": "2026-11-27T09:52:00.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/poruke-aleksandra-cupica-u-ohridu-na-samitu-procesa-brdo-brioni/",
+          "publishedAt": "2026-11-27T15:00:56.000Z"
+        }
+      ],
+      "score": 0.1177,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0cf88c206fb785f5",
+      "title": "Eksplozija u blizini škole u Avganistanu - sedam učenika poginulo, 97 povređeno",
+      "snippet": "Najmanje sedam učenika je poginulo, a 97 osoba je povređeno u eksploziji koja se dogodila u jednoj zgradi nedaleko od osnovne škole u avganistanskoj istočnoj provinciji Kunar, saopštili su lokalni zvaničnici.",
+      "url": "https://www.rts.rs/vesti/svet/6094758/eksplozija-u-blizini-skole-u-avganistanu---sedam-ucenika-poginulo-97-povredjeno.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F12%2F7%2F528%2F6103013%2Fthumbs%2F14556983%2FAvganistan.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:22:53.000Z",
+      "updatedAt": "2026-11-28T13:30:00.000Z",
+      "mediaCount": 5,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/eksplozija-u-skoli-u-avganistanu-nekoliko-ucenika-poginulo-ili-ranjeno/",
+          "publishedAt": "2026-11-28T08:34:40.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/uzas-u-avganistanu-eksplozija-u-osnovnoj-skoli-na-istoku-zemlje-poginulo-ili-ranjeno/src50bm",
+          "publishedAt": "2026-11-28T09:47:07.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/svet/6094758/eksplozija-u-blizini-skole-u-avganistanu---sedam-ucenika-poginulo-97-povredjeno.html",
+          "publishedAt": "2026-11-28T11:22:53.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/u-eksploziji-blizu-skole-u-avganistanu-sedam-stradalih/",
+          "publishedAt": "2026-11-28T12:21:46.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/u-eksploziji-kod-skole-u-afganistanu-poginulo-sedam-ucenika-povrijedeno-do-99-osoba/261128084",
+          "publishedAt": "2026-11-28T13:30:00.000Z"
+        }
+      ],
+      "score": 0.9252,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b3e96dc18779fc53",
+      "title": "VJT Brograd se obratilo evropskim institucijama zbog Izveštaja Vrhovnog tužilaštva",
+      "snippet": "Više javno tužilaštvo u Beogradu saopštilo je da se obratilo institucijama EU, Saveta Evrope, OEBS i UN povodom prvog izveštaja Komisije Vrhovnog javnog tužilaštva o postupanju VJT u sedam krivičnih predmeta.",
+      "url": "https://www.rts.rs/vesti/drustvo/6094193/vjt-brograd-se-obratilo-evropskim-institucijama-zbog-izvestaja-vrhovnog-tuzilastva.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2023%2F3%2F3%2F12%2F2%2F811%2F1310264%2Fthumbs%2F14550140%2FVi%25C5%25A1e_javno_tu%25C5%25BEila%25C5%25A1tvo_1.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T13:54:01.000Z",
+      "updatedAt": "2026-11-28T13:55:10.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/vjt-beograd-se-obratio-eu-savetu-evrope-oebs-u-i-un-zbog-izvestaja-komisije/",
+          "publishedAt": "2026-11-27T13:12:51.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/beogradsko-vjt-pisalo-medjunarodnim-institucijama-zbog-izvestaja-komisije-vrhovnog-javnog-tuzilastva/",
+          "publishedAt": "2026-11-27T13:46:07.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/drustvo/6094193/vjt-brograd-se-obratilo-evropskim-institucijama-zbog-izvestaja-vrhovnog-tuzilastva.html",
+          "publishedAt": "2026-11-27T13:54:01.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/vise-javno-tuzilastvo-u-beogradu-se-oglasilo-povodom-obaveznog-uputstva-vrhovne-javne/6kjt33q",
+          "publishedAt": "2026-11-28T13:55:10.000Z"
+        }
+      ],
+      "score": 0.9557,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_76dc177295d6675b",
+      "title": "Izvestiteljka UN Albaneze u limbu na aerodromu pošto joj je uskraćen ulaz u Kostariku",
+      "snippet": "Frančeska Albaneze, specijalna izvestiteljka Ujedinjenih nacija za ljudska prava na palestinskim teritorijama, ostala je danas zarobljena na aerodromskom terminalu nakon što joj je odbijen ulazak u Kostariku.",
+      "url": "https://www.danas.rs/svet/albaneze-u-limbu-na-aerodromu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F03%2F1-195-300x176.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T21:36:29.000Z",
+      "updatedAt": "2026-11-28T15:58:58.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/albaneze-u-limbu-na-aerodromu/",
+          "publishedAt": "2026-11-27T21:36:29.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/diplomatski-skandal-izvjestiteljici-un-a-zabranili-ulazak-u-kostariku-noc-provela-u-aerodromskoj-cekaonici/261127287",
+          "publishedAt": "2026-11-27T22:19:00.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/franceski-albaneze-zabranjen-ulazak-u-kostariku-provela-dve-noci-na-aerodromu/g8x03y3",
+          "publishedAt": "2026-11-28T15:58:58.000Z"
+        }
+      ],
+      "score": 1.5873,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_392df0d153546aa1",
+      "title": "BIRN: BIA pratila posmatrače OEBS-a na izborima 2023. godine u Srbiji",
+      "snippet": "Članove misije OEBS-a zadužene za posmatranje vanrednih parlamentarnih izbora 2023. godine u Srbiji pratili su pripadnici Bezbednosno-informativne agencije (BIA), objavila je Balkanska istraživačka mreža (BIRN).",
+      "url": "https://www.rts.rs/vesti/politika/6094481/birn-bia-oebs-posmatraci-izbori-2023-odihr-pracenje.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F23%2F17%2F17%2F758%2F6082811%2Fthumbs%2F14553116%2FBIA-t1.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T17:33:16.000Z",
+      "updatedAt": "2026-11-28T10:27:00.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/birn-bia-pratila-clanove-misije-oebs-a-koji-su-posmatrali-izbore/",
+          "publishedAt": "2026-11-27T13:38:52.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094481/birn-bia-oebs-posmatraci-izbori-2023-odihr-pracenje.html",
+          "publishedAt": "2026-11-27T17:33:16.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/birn-bia-pratila-posmatrace-oebs-a-na-izborima-2023-u-srbiji",
+          "publishedAt": "2026-11-27T17:48:01.495Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/bia-tajno-pratila-posmatrace-osce-a-na-izborima-u-srbiji-ulazili-im-u-sobe-i-pratili-svaki-korak/261128034",
+          "publishedAt": "2026-11-28T10:27:00.000Z"
+        }
+      ],
+      "score": 0.4683,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9db39ca900d92f72",
+      "title": "Brnabić: Nema uslova za fer izbore, odluka o učešću na Skupštini SNS-a 13. decembra",
+      "snippet": "Narodna poslanica poslaničke grupe \"Aleksandar Vučić – Srbija pobeđuje\" i potpredsednica Glavnog odbora Srpske napredne stranke Ana Brnabić ocenila je da u Srbiji nema uslova za fer izbore i navela da će na Skupštini SNS-a 13. decembra odlučiti o tome da li će učestvovati na…",
+      "url": "https://www.rts.rs/vesti/politika/6093988/brnabic-nema-uslova-za-fer-izbore-odluka-o-ucescu-na-skupstini-sns-a-13-decembra.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F13%2F11%2F313%2F6099929%2Fthumbs%2F14547791%2Fabrnabic-skupstina.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T12:36:38.000Z",
+      "updatedAt": "2026-11-28T08:46:12.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6093988/brnabic-nema-uslova-za-fer-izbore-odluka-o-ucescu-na-skupstini-sns-a-13-decembra.html",
+          "publishedAt": "2026-11-27T12:36:38.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/ana-brnabic-najavljuje-odluku-sns-o-predsednickim-izborima-13-decembra-rok-za-prijavu-istice-ranije/",
+          "publishedAt": "2026-11-27T12:38:47.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/vucic-svoju-odluku-o-ucescu-na-predsednickim-izborima-saopsticemo-pre-13-decembra/yyg5dm2",
+          "publishedAt": "2026-11-27T18:21:59.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/sns-e-odluku-o-izborima-saoptiti-poetkom-decembra/",
+          "publishedAt": "2026-11-27T19:43:20.000Z"
+        }
+      ],
+      "score": 0.3639,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0e9f5f484c58c042",
+      "title": "Upozorenje Puteva Srbije: Glavni putevi bez snega, ali bez zimske opreme ne krećite na put",
+      "snippet": "Javno preduzeće \"Putevi Srbije\" saopštilo je danas da su autoputevi i svi državni putevi prvog i drugog reda, kao i prilazi graničnim prelazima i plan",
+      "url": "https://nova.rs/vesti/drustvo/putevi-srbije-bez-zimske-opreme-ne-krecite-na-put/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F28%2F1795865923_Sopot_sneg_FoNet_Goran_Radojevic_1.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:14:58.000Z",
+      "updatedAt": "2026-11-28T12:14:58.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/putevi-srbije-izdali-upozorenje-zbog-3-pojave-vazi-i-za-subotu/rwfpnfr",
+          "publishedAt": "2026-11-26T12:58:49.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/putevi-srbije-apel-vremenski-uslovi/",
+          "publishedAt": "2026-11-27T10:58:15.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/putevi-srbije-bez-zimske-opreme-ne-krecite-na-put/",
+          "publishedAt": "2026-11-28T12:14:58.000Z"
+        }
+      ],
+      "score": 0.55,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_66e669872a893881",
+      "title": "Sanja Fric: Ekspo ćemo vratiti u zakonske okvire i proveriti bezbednost objekata",
+      "snippet": "Narodna poslanica liste \"Studentska lista – studenti pobeđuju\" i profesorka Građevinskog fakulteta Sanja Fric izjavila je da je mala verovatnoća da međunarodna izložba Ekspo bude otkazana, jer je reč o preuzetoj međunarodnoj obavezi Srbije.",
+      "url": "https://www.rts.rs/vesti/politika/6094638/sanja-fric-ekspo.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F21%2F15%2F444%2F6102356%2Fthumbs%2F14555018%2FSanja_Fric.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T20:12:41.000Z",
+      "updatedAt": "2026-11-28T08:24:35.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094638/sanja-fric-ekspo.html",
+          "publishedAt": "2026-11-27T20:12:41.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/biznis/ekspo-mora-biti-odrzan-ali-sledi-provera-bezbednosti-objekata/",
+          "publishedAt": "2026-11-27T20:15:32.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/sanja-fric-mala-verovatnoca-da-se-ekspo-otkaze/qp8stxz",
+          "publishedAt": "2026-11-27T20:21:38.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/ekonomija/fric-ekspo-je-medjunarodna-obaveza/",
+          "publishedAt": "2026-11-27T20:22:03.000Z"
+        }
+      ],
+      "score": 0.3465,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_807cbb3197031b81",
+      "title": "Pošta, Poštanska štedionica i uloga MMF-a – šta se dešavalo iza kulisa isplate penzija",
+      "snippet": "Posle međusobnih optužbi zbog zastoja u isplati penzija, rukovodstva Pošte Srbije i Poštanske štedionice naredne nedelje sešće za isti sto.",
+      "url": "https://www.rts.rs/vesti/ekonomija/6094716/posta-postanska-stedionica-i-uloga-mmf-a--sta-se-desavalo-iza-kulisa-isplate-penzija.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F8%2F59%2F890%2F6102695%2Fthumbs%2F14556167%2FPostanska_t.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T07:51:53.000Z",
+      "updatedAt": "2026-11-28T15:48:21.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/biznis/dogovoren-sastanak-rukovodstava-poste-i-potanske-stedionice/",
+          "publishedAt": "2026-11-27T11:10:44.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/ekonomija/6094716/posta-postanska-stedionica-i-uloga-mmf-a--sta-se-desavalo-iza-kulisa-isplate-penzija.html",
+          "publishedAt": "2026-11-28T07:51:53.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/ekonomija/postanska-stedionica-alta-banka/",
+          "publishedAt": "2026-11-28T15:48:21.000Z"
+        }
+      ],
+      "score": 1.6124,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_167aaed3017e2b46",
+      "title": "Od podmlatka SNP do Ministarstva kulture: Ko je Lav Pajkić, razrešeni državni sekretar?",
+      "snippet": "Lav Grigorije Pajkić, koji je bio državni sekretar u Ministarstvu kulture od maja 2025, razrešen je sa tog mesta nakon što je Đuro Macut ovlastio ministre u tehničkoj vladi Sinišu Malog i Nenada Vujića da preuzmu ovlašćenja ministra privrede, odnosno ministra kulture do izbora…",
+      "url": "https://www.danas.rs/vesti/politika/lav-pajkic-drzavni-sekretar/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2022%2F07%2F0106foto-FoNet-Bozidar-Petrovic-300x174.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:57:23.000Z",
+      "updatedAt": "2026-11-28T10:57:23.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/sinisa-mali-preuzima-ovlascenja-ministra-privrede-do-formiranja-nove-vlade/50x8vq6",
+          "publishedAt": "2026-11-26T12:25:34.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/mali-i-vujic-preuzimaju-jos-dva-ministarstva/",
+          "publishedAt": "2026-11-26T12:49:42.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/lav-pajkic-razresen-duznosti-ministarstva/",
+          "publishedAt": "2026-11-27T20:37:44.000Z"
+        }
+      ],
+      "score": 0.4315,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0fb126f588c7b20c",
+      "title": "Studentski pokret apeluje na izvršitelje - neophodan humaniji i pravičniji sistem izvršenja",
+      "snippet": "Studentski pokret apelovao je na javne izvršitelje da se uzdrže od sprovođenja prinudnih iseljenja građana iz njihovih jedinih domova.",
+      "url": "https://www.rts.rs/vesti/politika/6094825/studentski-pokret-apeluje-na-izvrsitelje---neophodan-humaniji-i-pravicniji-sistem-izvrsenja.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F14%2F16%2F107%2F6103736%2Fthumbs%2F14558198%2FScreenshot_1.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:13:43.000Z",
+      "updatedAt": "2026-11-28T15:13:43.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/studentski-pokret-apeluje-na-izvrsitelje-da-se-uzdrze-od-iseljenja-napravicemo-sistem-zasnovan-na-humanosti-i-pravicnosti/",
+          "publishedAt": "2026-11-28T13:36:02.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094825/studentski-pokret-apelovao-na-javne-izvrsitelje-da-ne-iseljavaju-gradjane-iz-njihovih-jedinih-domova.html",
+          "publishedAt": "2026-11-28T14:06:01.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/studentski-pokret-apeluje-na-izvrsitelje-neophodan-humaniji-i-pravicniji-sistem-izvrsenja",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        }
+      ],
+      "score": 1.305,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_ce4676800012af9d",
+      "title": "Zabelela se Srbija – usporen saobraćaj na auto-putu \"Miloš Veliki\", vozačima se savetuje oprez",
+      "snippet": "Snežne padavine zahvatile su planinske, ali i pojedine niže predele južno od Save i Dunava. Sneg je pao u Šapcu, Kraljevu, Kruševcu, Valjevu, Loznici i Zaječaru, a najviše ga ima u Moravičkom okrugu.",
+      "url": "https://www.rts.rs/vesti/drustvo/6094824/zabelela-se-srbija-usporen-saobracaj-na-auto-putu-milos-veliki-vozacima-se-savetuje-oprez.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F14%2F47%2F167%2F6103688%2Fthumbs%2F14558078%2FPut_t.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:45:08.000Z",
+      "updatedAt": "2026-11-28T14:48:19.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/sneg-saobracaj/",
+          "publishedAt": "2026-11-28T07:36:29.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/drustvo/6094824/zabelela-se-srbija-usporen-saobracaj-na-auto-putu-milos-veliki-vozacima-se-savetuje-oprez.html",
+          "publishedAt": "2026-11-28T13:45:08.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/drugi-stepen-pripravnosti-zbog-snega-saobracaj-usporen-na-planinama-i-milosu-velikom/qt7y4yw",
+          "publishedAt": "2026-11-28T14:48:19.000Z"
+        }
+      ],
+      "score": 1.1367,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c8ac6394333a8bc5",
+      "title": "Baltik i Mediteran: Nova poprišta rata u Ukrajini",
+      "snippet": "Ruski brodovi sada se napadaju čak i na Mediteranu. Kijev vrši globalni pritisak na Moskvu – što nosi potencijalne posledice po Evropu i međunarodnu pomorsku trgovinu.",
+      "url": "https://www.danas.rs/svet/baltik-i-mediteran-nova-poprista-rata-u-ukrajini/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F14465025-e1795697460488-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T07:02:48.000Z",
+      "updatedAt": "2026-11-28T10:45:06.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/baltik-i-mediteran-nova-poprista-rata-u-ukrajini/",
+          "publishedAt": "2026-11-27T07:02:48.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/meloni-nakon-napada-u-bengaziju-rat-u-ukrajini-ne-smije-i-ne-moze-se-prosiriti-na-mediteran/261127038",
+          "publishedAt": "2026-11-27T08:28:00.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/meloni-kritikovala-zelenskog-zbog-napada-u-libiji-ukrajinski-lider-se-izvinio/s4l2s4z",
+          "publishedAt": "2026-11-28T10:45:06.000Z"
+        }
+      ],
+      "score": 0.4167,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_a8cb19c872552b03",
+      "title": "Izveštaj Komisije o biračkom spisku – 879.000 birača više nego punoletnih stanovnika, uočeni obrasci organizovanih upisa",
+      "snippet": "Komisija za reviziju, verifikaciju i kontrolu tačnosti i ažuriranja biračkog spiska objavila je izveštaj u kojem ukazuje na razliku od oko 879.000 između broja upisanih birača i procenjenog broja punoletnih stanovnika Srbije bez Kosova i Metohije, obrasce organizovanih upisa…",
+      "url": "https://www.rts.rs/vesti/predsednicki-izbori-2026/6094783/-izvestaj-komisije-o-birackom-spisku--879000-biraca-vise-nego-punoletnih-stanovnika-uoceni-obrasci-organizovanih-upisa.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F9%2F10%2F7%2F8%2F456%2F5914306%2Fthumbs%2F14557235%2Fbiracki_spisak.png&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:01:32.000Z",
+      "updatedAt": "2026-11-28T12:01:32.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/cak-1466-starijih-od-100-godina-hiljade-upisane-pod-drugim-maticnim-brojem-za-dve-petine-biraca-se-ne-zna-u-kom-stanu-tacno-zive-ovako-izgleda-biracki-spisak-u-srbiji/",
+          "publishedAt": "2026-11-27T16:06:25.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/komisija-biracki-spisak/",
+          "publishedAt": "2026-11-28T10:44:49.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/predsednicki-izbori-2026/6094783/-izvestaj-komisije-o-birackom-spisku--879000-biraca-vise-nego-punoletnih-stanovnika-uoceni-obrasci-organizovanih-upisa.html",
+          "publishedAt": "2026-11-28T12:01:32.000Z"
+        }
+      ],
+      "score": 0.5736,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3f630d09fd340839",
+      "title": "Različite političke vizije slika podeljene Španije pred izbore",
+      "snippet": "Izbori se održavaju u duboko polarizovanoj političkoj atmosferi u kojoj i levica i desnica upozoravaju na sposobnost protivnika da podrije demokratiju.",
+      "url": "https://www.bbc.com/serbian/articles/ckq6e8g5p9n6o/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F8cda%2Flive%2F86305ac0-e811-11f1-ab42-55d8d8278025.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:56:07.000Z",
+      "updatedAt": "2026-11-28T08:56:07.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/ckq6e8g5p9n6o/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-28T08:56:07.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/bbc/razlicite-politicke-vizije-slika-podeljene-spanije-pred-izbore/rqjzst5",
+          "publishedAt": "2026-11-28T10:32:32.845Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/bbc-news-serbian/razlicite-politicke-vizije-slika-podeljene-spanije-pred-izbore",
+          "publishedAt": "2026-11-28T12:14:50.264Z"
+        }
+      ],
+      "score": 0.3437,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_78a06d66a21d1710",
+      "title": "Gorivo jeftinije za tri dinara, produžena odluka o smanjenju akciza",
+      "snippet": "U narednih sedam dana gorivo će biti jeftinije za tri dinara po litru. Evrodizel košta 233 dinara, a benzin 201 dinar.",
+      "url": "https://www.rts.rs/vesti/ekonomija/6093864/cene-goriva-benzin-dizel-27-novembar.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F9%2F16%2F9%2F3%2F687%2F5937013%2Fthumbs%2F14546285%2Fgorivo.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T11:46:05.000Z",
+      "updatedAt": "2026-11-28T08:54:05.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/ekonomija/vlada-usvojila-odluke-u-vezi-sa-akcizama-na-gorivo/",
+          "publishedAt": "2026-11-26T11:02:55.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/vlada-produzila-smanjenje-akciza-na-gorivo-do-6-decembra-zabrana-izvoza-nafte-do/mbs38nc",
+          "publishedAt": "2026-11-26T11:13:49.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/ekonomija/6093864/cene-goriva-benzin-dizel-27-novembar.html",
+          "publishedAt": "2026-11-27T11:46:05.000Z"
+        }
+      ],
+      "score": 0.3421,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4749723f765d176e",
+      "title": "Vukadinović: Vučić i SNS u tamnom vilajetu, kajaće se ako izađu i ako ne izađu na izbore",
+      "snippet": "Urednik Nove srpske političke misli Đorđe Vukadinović ocenio je danas da su Srpska napredna stranka (SNS) i Aleksandar Vučić u nezavidnoj poziciji i da još nisu odlučili da li da izađu na predsedničke izbore ili ne.",
+      "url": "https://www.danas.rs/vesti/politika/vukadimovic-vucic-sns-izbori/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2025%2F04%2F0303foto-FoNet-Milica-Vuckovic-e1749045801570-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:21:20.000Z",
+      "updatedAt": "2026-11-28T09:14:46.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/predsednicki-izbori-2026/6094699/vukadinovic-saicic-ubedljivi-favorit-sns-rizikuje-i-ako-izadje-na-izbore-i-ako-od-njih-odustane.html",
+          "publishedAt": "2026-11-28T07:24:17.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/vukadimovic-vucic-sns-izbori/",
+          "publishedAt": "2026-11-28T08:21:20.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/vukadinovic-saicic-favorit-sns-rizikuje-i-ako-izadje-na-predsednicke-izbore-i-ako/y7dqxmt",
+          "publishedAt": "2026-11-28T09:14:46.000Z"
+        }
+      ],
+      "score": 0.3293,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_43ad1714c5d94ee4",
+      "title": "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija",
+      "snippet": "Stariji muškarac poginuo je noćas u saobraćanom udesu kod Novog groblja pola sata posle ponoći, rečeno je u beogradskoj Hitnoj pomoći agenciji Beta.",
+      "url": "https://www.danas.rs/vesti/drustvo/hitna-pomoc-saobracaj-nesreca/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F1001foto-BETAPHOTO-DRAGAN-GOJIC-300x207.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T07:26:58.000Z",
+      "updatedAt": "2026-11-28T07:26:58.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/beograd/tri-saobracajne-nesrece-tokom-noci-u-beogradu-povredjeni-odmah-prevezeni-u-hitnu/fyj2bx3",
+          "publishedAt": "2026-11-26T05:31:42.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/cetiri-osobe-povredjene-u-tri-saobracajne-nezgode-prethodne-noci-u-beogradu/",
+          "publishedAt": "2026-11-26T06:29:02.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/hitna-pomoc-saobracaj-nesreca/",
+          "publishedAt": "2026-11-28T07:26:58.000Z"
+        }
+      ],
+      "score": 0.2592,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_6d8f93201e1505de",
+      "title": "Ukrajinski udari stigli do Libije: Zelenski otkrio kako Kijev koordinira napade na rusku flotu",
+      "snippet": "Ukrajinski predsednik Volodimir Zelenski izjavio je da Kijev koordinira napade na ruske brodove širom sveta sa državama kojih se te operacije direktno",
+      "url": "https://nova.rs/vesti/svet/ukrajinski-udari-stigli-do-libije-zelenski-otkrio-kako-kijev-koordinira-napade-na-rusku-flotu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F19%2F1795110494_Volodimir_Zelenski.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T12:28:58.000Z",
+      "updatedAt": "2026-11-28T04:58:12.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/zelenski-upozorio-rusija-priprema-novi-masovni-napad/fezq8vj",
+          "publishedAt": "2026-11-27T12:20:42.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/ukrajinski-udari-stigli-do-libije-zelenski-otkrio-kako-kijev-koordinira-napade-na-rusku-flotu/",
+          "publishedAt": "2026-11-27T12:28:58.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/ratu-u-ukrajini/6094667/rat-ukrajina-rusija-kijev-zelenski-moskva-letonija-nato.html",
+          "publishedAt": "2026-11-28T04:58:12.000Z"
+        }
+      ],
+      "score": 0.1962,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_117c7acb0b67a987",
+      "title": "Austrijski kancelar spreman da posreduje u sporu Hrvatske i Crne Gore",
+      "snippet": "Austrijski kancelar Kristijan Štoker danas je izrazio spremnost da posreduje u sporu Hrvatske i Crne Gore o pitanju granice.",
+      "url": "https://www.danas.rs/svet/austrijski-kancelar-hrvatska-crna-gora/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F14473815-e1795814723760-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T21:26:27.000Z",
+      "updatedAt": "2026-11-27T23:15:00.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/austrijski-kancelar-hrvatska-crna-gora/",
+          "publishedAt": "2026-11-27T21:26:27.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/austrijski-kancelar-ponudio-posredovanje-u-sporu-hrvatske-i-crne-gore-oko-granice/w7ej4n3",
+          "publishedAt": "2026-11-27T23:15:00.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/austrija-spremna-da-posreduje-u-sporu-hrvatske-i-crne-gore",
+          "publishedAt": "2026-11-28T08:43:42.469Z"
+        }
+      ],
+      "score": 0.1197,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f328dea4b3263475",
+      "title": "Italija zabranila nošenje burki i nikaba u školama, kazne do 1.000 evra",
+      "snippet": "Donji dom italijanskog parlamenta danas je usvoji zakon kojim se u školama zabranjuje pokrivanje lica burkom ili nikabom.",
+      "url": "https://www.danas.rs/svet/italija-zabranila-nosenje-burki-i-nikaba-u-skolama-kazne-do-1-000-evra/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2025%2F07%2F3-23-300x200.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-26T23:08:19.000Z",
+      "updatedAt": "2026-11-27T17:57:00.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/italija-zabranila-nosenje-burki-i-nikaba-u-skolama-kazne-do-1-000-evra/",
+          "publishedAt": "2026-11-26T23:08:19.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/italija-zabranila-burke-u-skolama-djordja-meloni-sprovela-najavljenu-meru/nvs2esz",
+          "publishedAt": "2026-11-26T23:54:00.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/italijanski-parlament-zabranio-burke-i-nikabe-u-skolama-kazne-placaju-roditelji/261127187",
+          "publishedAt": "2026-11-27T17:57:00.000Z"
+        }
+      ],
+      "score": 0.0846,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_57ebe86793a3e8ad",
+      "title": "\"U regionu su nas pohvalili, a kao čoveku koji živi na selu najvažnije mi je da imam što bolje odnose sa komšilukom\": Čupić o susretu sa regionalnim liderima",
+      "snippet": "Predsednik Narodne skupštine i vršilac dužnosti predsednika Republike Aleksandar Čupić izjavio je da je tokom susreta sa regionalnim liderima na samit",
+      "url": "https://nova.rs/vesti/politika/upi-o-susretu-sa-regionalnim-liderima/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F27%2F1795781131_14477081.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T17:24:47.000Z",
+      "updatedAt": "2026-11-27T17:49:46.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/upi-o-susretu-sa-regionalnim-liderima/",
+          "publishedAt": "2026-11-27T17:24:47.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/cupic-drago-nam-je-sto-je-crna-gora-na-vratima-eu/1xevpkc",
+          "publishedAt": "2026-11-27T17:28:07.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094524/aleksandar-cupic-proces-brdo-brioni-odnosi-u-regionu.html",
+          "publishedAt": "2026-11-27T17:49:46.000Z"
+        }
+      ],
+      "score": 0.084,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_65a919da5e215c1d",
+      "title": "Vitezi: Voz Beograd-Budimpešta mogao bi da krene brzo, ali i za nekoliko meseci",
+      "snippet": "Mađarski ministar saobraćaja David Vitezi izjavio je da putnički železnički saobraćaj na relaciji Budimpešta - Beograd mogao bi da bude uspostavljen relativno brzo, ali bi njegovo pokretanje moglo da bude odloženo i za nekoliko meseci, u zavisnosti od rezultata ispitivanja…",
+      "url": "https://www.rts.rs/vesti/ekonomija/6094883/vitezi-voz-beograd-budimpesta-mogao-bi-da-krene-brzo-ali-i-za-nekoliko-meseci.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F18%2F1%2F591%2F6104015%2Fthumbs%2F14558993%2Fvoz_t.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:16:02.000Z",
+      "updatedAt": "2026-11-28T17:16:02.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/evo-kada-bo-voz-od-beograda-do-budimpeste-mogao-da-pocne-sa-radom/hdyl16b",
+          "publishedAt": "2026-11-28T16:28:41.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/ekonomija/6094883/vitezi-voz-beograd-budimpesta-mogao-bi-da-krene-brzo-ali-i-za-nekoliko-meseci.html",
+          "publishedAt": "2026-11-28T17:16:02.000Z"
+        }
+      ],
+      "score": 3.0526,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4a18cb460823e336",
+      "title": "Otac Vladimira Mandića tvrdi da njegov sin nije u bekstvu: U Beogradu je, samo je isključio telefon",
+      "snippet": "Momčilo Mandić, otac bivšeg rukometaša i člana SNS-a Vladimira Mandića za kojim je raspisana poternica, tvrdi da njegov sin nije u bekstvu, već da se",
+      "url": "https://nova.rs/vesti/hronika/otac-vladimira-mandica-tvrdi-da-njegov-sin-nije-u-bekstvu-u-beogradu-je-samo-je-iskljucio-telefon/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1763990467_1686220642-GROBARI-ZA-VAS_79.width-1200.JPG&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:52:38.000Z",
+      "updatedAt": "2026-11-28T16:52:38.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/otac-otkrio-gde-se-nalazi-vladimir-mandic/9mvtngb",
+          "publishedAt": "2026-11-28T15:03:59.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/otac-vladimira-mandica-tvrdi-da-njegov-sin-nije-u-bekstvu-u-beogradu-je-samo-je-iskljucio-telefon/",
+          "publishedAt": "2026-11-28T16:52:38.000Z"
+        }
+      ],
+      "score": 2.2043,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_ab74756f3190ed8d",
+      "title": "Alkaraz i Španija hitaju ka tituli u Dejvis kupu, u finallu sa starim dužnikom",
+      "snippet": "Teniska reprezentacija Španije izborila je plasman u finale Dejvis kupa drugu godinu zaredom, pošto je u polufinalnom okršaju u Bolonji rutinski savla",
+      "url": "https://nova.rs/sport/fudbal/alkaraz-i-spanija-hitaju-ka-tituli-u-dejvis-kupu-u-finallu-sa-starim-duznikom/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F28%2F1795880828_profimedia-1156056095.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:47:14.000Z",
+      "updatedAt": "2026-11-28T15:47:14.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/sport/radnicki-novi-beograd-vaterpolo-kup-srbije-finale/",
+          "publishedAt": "2026-11-27T21:23:32.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/fudbal/alkaraz-i-spanija-hitaju-ka-tituli-u-dejvis-kupu-u-finallu-sa-starim-duznikom/",
+          "publishedAt": "2026-11-28T15:47:14.000Z"
+        }
+      ],
+      "score": 1.3339,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f33deb3da69933f3",
+      "title": "Učenici leskovačke Tehničke škole šišaju za pomoć školskom drugu Aleksandru",
+      "snippet": "Učenici leskovačke Tehničke škole \"Rade Metalac\" organizovali su humanitarnu akciju šišanja za pomoć svom drugu Aleksandru Stefanoviću, koji boluje od retke, genetske bolesti Dišenove mišićne distrofije.",
+      "url": "https://www.rts.rs/vesti/srbija-danas/6094198/ucenici-leskovacke-tehnicke-skole-sisaju-za-pomoc-skolskom-drugu-aleksandru.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F15%2F14%2F645%2F6101171%2Fthumbs%2F14550659%2FSequence_21_00_01_49_09_Still077.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T14:44:05.000Z",
+      "updatedAt": "2026-11-28T15:27:15.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/srbija-danas/6094198/ucenici-leskovacke-tehnicke-skole-sisaju-za-pomoc-skolskom-drugu-aleksandru.html",
+          "publishedAt": "2026-11-27T14:44:05.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/humanitarna-akcija-u-leskovcu-ucenici-sisaju-da-kupe-drugu-aparat/808jlm5",
+          "publishedAt": "2026-11-28T15:27:15.000Z"
+        }
+      ],
+      "score": 1.2948,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_a039c67e9f7de878",
+      "title": "Albanija slavi Dan nezavisnosti uz sukobe demonstranata i policije",
+      "snippet": "Suzavac, molotovljevi kokteli i vodeni topovi - tako su izgledale ulice Tirane, glavnog grada Albanije na Dan nezavisnosti 28. novembra.",
+      "url": "https://www.bbc.com/serbian/articles/ckq6e5mg5gjzo/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F1175%2Flive%2F89a93620-eb38-11f1-9c9c-710a05f9c274.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:09:19.000Z",
+      "updatedAt": "2026-11-28T15:09:19.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/ckq6e5mg5gjzo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-28T15:09:19.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/bbc-news-serbian/albanija-slavi-dan-nezavisnosti-uz-sukobe-demonstranata-i-policije",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        }
+      ],
+      "score": 1.1669,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_cd9556865f9869f1",
+      "title": "Putevi Srbije upozoravaju vozače na sneg, ponegde ga ima od pet do 10 centimetara",
+      "snippet": "Putevi Srbije savetovali su vozačima da budu oprezni zbog snega na brojnim deonicama.",
+      "url": "https://www.danas.rs/vesti/drustvo/putevi-srbije-upozoravaju-vozace-na-sneg-ponegde-ga-ima-od-pet-do-10-centimetara/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F1000047265_b-e1795879073326-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:18:05.000Z",
+      "updatedAt": "2026-11-28T15:18:05.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/hitno-se-oglasili-iz-puteva-srbije-tri-opasnosti-vrebaju-vozace-na-putevima-u-srbiji/3hse42q",
+          "publishedAt": "2026-11-26T05:45:22.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/putevi-srbije-ocekuje-se-poledica-ima-magle/",
+          "publishedAt": "2026-11-27T17:42:42.000Z"
+        }
+      ],
+      "score": 1.1152,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3448871842ef9e42",
+      "title": "Kad i gde možete gledati meč Srbija- Kina na Mundijalitu?",
+      "snippet": "Kadetska reprezentacija Srbije, igrači do 17 godina, plasirala se u šesnaestinu finala Svetskog prvenstva u Kataru.",
+      "url": "https://www.danas.rs/sport/srbija-kina-mundijalito-prenos-online-uzivo-livestream/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2FCUKARICKI-NOVI-PAZAR_07-e1795181701409-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:17:17.000Z",
+      "updatedAt": "2026-11-28T15:17:17.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/fudbal/srusili-prvaka-azije-sad-napadaju-sampiona-juzne-amerike-orlici-napadaju-prvo-mesto-u-grupi-protiv-reprezentacije-koja-rusi-najvece/",
+          "publishedAt": "2026-11-27T06:38:22.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/sport/srbija-kolumbija-mundijalito-katar/",
+          "publishedAt": "2026-11-27T14:54:47.000Z"
+        }
+      ],
+      "score": 1.11,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c349b1ba08d25005",
+      "title": "Šok cene ribe uoči božićnog posta: Pojedine vrste poskupele i za 1.000 dinara",
+      "snippet": "Ribarnice širom Srbije uveliko se pripremaju za božićni post, što se i vidi po bazenima i akvarijumima smeštenim u lokalima. Ima svih vrsta - od najpo",
+      "url": "https://nova.rs/vesti/biznis/pojedine-vrste-ribe-poskupele-i-za-1000-dinara/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1764074066_1672838209-1672837992230.width-1200.jpeg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:16:17.000Z",
+      "updatedAt": "2026-11-28T14:16:17.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/moj-novcanik/cene-ribe-na-pijacama-uoci-bozicnog-posta-detaljan-cenovnik-za-posnu-trpezu/2mv4hgd",
+          "publishedAt": "2026-11-27T13:30:41.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/biznis/pojedine-vrste-ribe-poskupele-i-za-1000-dinara/",
+          "publishedAt": "2026-11-28T14:16:17.000Z"
+        }
+      ],
+      "score": 0.809,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_2dd56206e9ce8da7",
+      "title": "Na izborima za prvog čoveka Tajpeja kandidat koga Kina naziva izdajnikom priznao poraz",
+      "snippet": "Kandidat vladajuće partije Tajvana priznao je danas poraz u trci za gradonačelnika Tajpeja posle prebrojanih 90 odsto glasova sa lokalnih izbora održanih u 22 grada i okruga te ostrvske države.",
+      "url": "https://www.danas.rs/svet/na-izborima-za-prvog-coveka-tajpeja-kandidat-koga-kina-naziva-izdajnikom-priznao-poraz/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2024%2F01%2F71c47117c9b04ad17ec3f439d43bccde-300x206.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:34:51.000Z",
+      "updatedAt": "2026-11-28T14:34:51.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/na-izborima-za-prvog-coveka-tajpeja-kandidat-koga-kina-naziva-izdajnikom-priznao-poraz/",
+          "publishedAt": "2026-11-28T14:34:51.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/na-izborima-za-prvog-coveka-tajpeja-kandidat-priznao-poraz",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        }
+      ],
+      "score": 0.8846,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e3c9058e32c94409",
+      "title": "Novi ruski udari na Kijev, Kličko strahuje da će glavni grad ostati bez struje i vode",
+      "snippet": "U Kijevu su danas odjeknule eksplozije i ekipe trenutno procenjuju štetu na pogođenom objektu, izjavio je gradonačelnik Vitalij Kličko.",
+      "url": "https://www.danas.rs/svet/ruski-udari-na-kijev/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2024%2F12%2FKijev--e1742381568289-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:39:21.000Z",
+      "updatedAt": "2026-11-28T13:39:21.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/ruski-udari-na-kijev/",
+          "publishedAt": "2026-11-28T13:39:21.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/novi-ruski-udar-na-kijev",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        }
+      ],
+      "score": 0.687,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_6bc1b8fc4060fd7f",
+      "title": "ABA liga ima novog najboljeg igrača, Amerikanac iz Bosne blistao u novembru",
+      "snippet": "Košarkaš Bosne Redži Peri proglašen je za najkorisnijeg igrača (MVP) ABA lige u novembru, nakon što je predvodio sarajevski tim do maksimalnog učinka",
+      "url": "https://nova.rs/sport/kosarka/aba-liga-ima-novog-najboljeg-igraca-amerikanac-iz-bosne-blistao-u-novembru/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F28%2F1795871240_profimedia-1143291215.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:12:59.000Z",
+      "updatedAt": "2026-11-28T13:12:59.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/sport/kosarka/reggie-perry-proglasen-za-najkorisnijeg-igraca-novembra-u-aba-ligi/261128081",
+          "publishedAt": "2026-11-28T12:54:00.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/kosarka/aba-liga-ima-novog-najboljeg-igraca-amerikanac-iz-bosne-blistao-u-novembru/",
+          "publishedAt": "2026-11-28T13:12:59.000Z"
+        }
+      ],
+      "score": 0.6174,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1cd3612c8bab4b71",
+      "title": "Sukobi na protestima u Tirani i pozivi na ostavku Edija Rame",
+      "snippet": "U glavnom gradu Albanije Tirani danas su izbili sukobi između policije i demonstranata, u novom u nizu antivladinih protesta.",
+      "url": "https://www.danas.rs/svet/protesti-u-tirani/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F07%2F14168972-e1784821596330-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:21:19.000Z",
+      "updatedAt": "2026-11-28T13:21:19.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/protesti-u-tirani/",
+          "publishedAt": "2026-11-28T13:21:19.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/sukobi-na-protestima-u-tirani",
+          "publishedAt": "2026-11-28T16:53:19.002Z"
+        }
+      ],
+      "score": 0.6381,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c997e6bfbf935c95",
+      "title": "Pješak teško povrijeđen u saobraćajnoj nesreći u Tomislavgradu",
+      "snippet": "Pješak je zadobio teške tjelesne povrede u saobraćajnoj nesreći koja se u petak oko 18:05 sati dogodila u Ulici Mijata Tomića u Tomislavgradu.",
+      "url": "https://www.klix.ba/vijesti/crna-hronika/pjesak-tesko-povrijeden-u-saobracajnoj-nesreci-u-tomislavgradu/261128087",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128087.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:29:00.000Z",
+      "updatedAt": "2026-11-28T13:29:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/nesreca-na-starom-novosadskom-putu-jedan-automobil-unisten-saobracaj-blokiran/y2ervn9",
+          "publishedAt": "2026-11-27T12:47:36.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/crna-hronika/pjesak-tesko-povrijeden-u-saobracajnoj-nesreci-u-tomislavgradu/261128087",
+          "publishedAt": "2026-11-28T13:29:00.000Z"
+        }
+      ],
+      "score": 0.5924,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_847af02a37610699",
+      "title": "Horor u Kruševcu: Muškarac uhapšen zbog sumnje da je metalnom šipkom ubio cimera",
+      "snippet": "Policija u Kruševcu uhapsila je R. M. (70) iz ovog grada zbog sumnje da je počinio teško ubistvo, saopštilo je Ministarstvo unutrašnjih poslova.",
+      "url": "https://nova.rs/vesti/hronika/horor-u-krusevcu-muskarac-uhapsen-zbog-sumnje-da-je-metalnom-sipkom-ubio-cimera/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F1%2F1769617693_1708168541-1708168235315-scaled.width-1200.jpeg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:49:54.000Z",
+      "updatedAt": "2026-11-28T12:49:54.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/horor-kod-leskovca-nakon-svadje-izbo-muskarca/4l2p2qh",
+          "publishedAt": "2026-11-27T14:34:00.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/horor-u-krusevcu-muskarac-uhapsen-zbog-sumnje-da-je-metalnom-sipkom-ubio-cimera/",
+          "publishedAt": "2026-11-28T12:49:54.000Z"
+        }
+      ],
+      "score": 0.5657,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8f0f5d6d7f02f63c",
+      "title": "U Rusiji uhapšen zamenik glavnog komandanta Vazdušno-kosmičkih snaga",
+      "snippet": "U Rusiji je uhapšen zamenik glavnog komandanta rusko Vazdušno-kosmičkih snaga (VKS) Jurij Grehov pod optužbom za korupciju i primanje mita, preneo je",
+      "url": "https://nova.rs/vesti/svet/u-rusiji-uhapsen-zamenik-glavnog-komandanta-vazdusno-kosmickih-snaga/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1764258062_h_56491003-1200x675.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:44:53.000Z",
+      "updatedAt": "2026-11-28T12:44:53.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/u-rusiji-uhapsen-zamenik-glavnog-komandanta-vazdusno-kosmickih-snaga/",
+          "publishedAt": "2026-11-28T12:44:53.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/u-rusiji-uhapsen-zamenik-glavnog-komandanta-vazdusno-kosmickih-snaga",
+          "publishedAt": "2026-11-28T15:15:33.001Z"
+        }
+      ],
+      "score": 0.5554,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c2c4b8e0062afa58",
+      "title": "AOD angažuje revizora za proveru finansijskog stanja Alta banke",
+      "snippet": "Agencija za osiguranje depozita (AOD) koja sprovodi stečaj Alta banke raspisala je poziv za dostavljanje ponude utvrđivanje finansijskog stanja Alta banke.",
+      "url": "https://www.danas.rs/vesti/ekonomija/aod-angazuje-revizora-za-proveru-finansijskog-stanja-alta-banke/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F3-2-e1793615611506-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T09:31:41.000Z",
+      "updatedAt": "2026-11-28T10:49:22.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/ekonomija/aod-angazuje-revizora-za-proveru-finansijskog-stanja-alta-banke/",
+          "publishedAt": "2026-11-27T09:31:41.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/agencija-za-osiguranje-depozita-trazi-revizore-za-proveru-finansija-alta-banke-u/t5hj2cr",
+          "publishedAt": "2026-11-28T10:49:22.000Z"
+        }
+      ],
+      "score": 0.3834,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c939ea9c3a220fca",
+      "title": "U izraelskom napadu u Gazi poginula dva zaposlena u međunarodnoj organizaciji Lekari bez granica",
+      "snippet": "Međunarodna humanitarna organizacija Lekari bez granica (Medecins Sans Frontières - MSF) izrazila je danas ogorčenje nakon pogibije dvoje svojih zaposlenih, koji su u petak uveče stradali u izraelskom napadu ispred jedne klinike u Gazi.",
+      "url": "https://www.danas.rs/svet/u-izraelskom-napadu-u-gazi-poginula-dva-zaposlena-u-medjunarodnoj-organizaciji-lekari-bez-granica/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F01%2Fcbea6b677c2a12920e92d59df72fb0c7-e1768426740371-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:16:23.000Z",
+      "updatedAt": "2026-11-28T10:16:23.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/dve-osobe-poginule-u-gazi-tokom-izraelskog-napada-na-kliniku-lekara-bez-granica/6x3m8zg",
+          "publishedAt": "2026-11-28T10:10:56.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/u-izraelskom-napadu-u-gazi-poginula-dva-zaposlena-u-medjunarodnoj-organizaciji-lekari-bez-granica/",
+          "publishedAt": "2026-11-28T10:16:23.000Z"
+        }
+      ],
+      "score": 0.3501,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e1bd3f6ff5b6a9eb",
+      "title": "Ima li lova u mutnom: Sporni konkurs tehničke vlade za upravljanje vodama Srbije",
+      "snippet": "Četiri dana posle parlamentarnih izbora u Srbiji, Ministarstvo zaštite životne sredine raspisalo je konkurs kojim dodeljuje ribarska područja na upravljanje u narednih 10 godina, ali udruženja ribolovaca imaju brojne zamerke.",
+      "url": "https://www.bbc.com/serbian/articles/cjqlq0zx5g54o/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fbe89%2Flive%2Fd4a669c0-e8b0-11f1-869a-f96fd5660210.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:45:02.000Z",
+      "updatedAt": "2026-11-28T08:45:02.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/cjqlq0zx5g54o/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-28T08:45:02.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/bbc-news-serbian/ima-li-lova-u-mutnom-sporni-konkurs-tehnicke-vlade-za-upravljanje-vodama-srbije",
+          "publishedAt": "2026-11-28T11:26:42.138Z"
+        }
+      ],
+      "score": 0.3071,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bcfebdc43f881310",
+      "title": "Poslao pismo poslanicima i napustio Srbiju sa decom: Privrednik iz Novog Sada u strahu posle bombaškog napada na njegov dom i imovinu",
+      "snippet": "Privrednik Milan Tatarski, otac četvoro maloletne dece, uputio je otvoreno pismo predsedniku Narodne skupštine Republike Srbije i predsednicima skupšt",
+      "url": "https://nova.rs/vesti/hronika/poslao-pismo-poslanicima-i-napustio-srbiju-sa-decom-privrednik-iz-novog-sada-u-strahu-posle-bombaskog-napada-na-njegov-dom-i-imovinu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F1%2F1769617725_1715263035-1690279790-1690279510538-1024x683.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T11:15:37.000Z",
+      "updatedAt": "2026-11-28T09:15:26.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/privrednik-iz-novog-sada-poslao-pismo-poslanicima-i-napustio-srbiju-posle-napada/2bn29xq",
+          "publishedAt": "2026-11-27T10:59:21.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/poslao-pismo-poslanicima-i-napustio-srbiju-sa-decom-privrednik-iz-novog-sada-u-strahu-posle-bombaskog-napada-na-njegov-dom-i-imovinu/",
+          "publishedAt": "2026-11-27T11:15:37.000Z"
+        }
+      ],
+      "score": 0.2999,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_27eaabc2db52213d",
+      "title": "Trudnica i troje pešaka povređeni u tri udesa u Nišu",
+      "snippet": "Trudnica i troje pešaka povređeni su u tri udesa koja su se u protekla 24 časa dogodila na području grada Niša, kazali su u niškoj Hitnoj pomoći.",
+      "url": "https://nova.rs/vesti/hronika/trudnica-i-troje-pesaka-povredjeni-u-tri-udesa-u-nisu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F10%2F24%2F1792855869_90587.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:10:40.000Z",
+      "updatedAt": "2026-11-28T09:10:40.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/trudnica-i-troje-pesaka-povredjeni-u-tri-udesa-u-nisu/",
+          "publishedAt": "2026-11-28T09:10:40.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/trudnica-povrede-nis",
+          "publishedAt": "2026-11-28T12:14:50.264Z"
+        }
+      ],
+      "score": 0.2965,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1db761116de91f9f",
+      "title": "Osam osoba pronađeno mrtvo na brodu sa migrantima kod Kanarskih ostrva",
+      "snippet": "Najmanje osam migranata pronađeno je mrtvo prilikom spasavanja broda sa oko 100 ljudi u blizini Kanarskih ostrva, saopštila je danas španska služba za pomorsko spasavanje, u trenutku kada nagli porast broja dolazaka preopterećuje nadležne službe u tom regionu, prenela je…",
+      "url": "https://www.danas.rs/svet/migranti-mrtvi-kod-kanarskih-ostrva/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2Fe38933c9155c16b36adab251073507dd-e1795817133324-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T22:07:25.000Z",
+      "updatedAt": "2026-11-28T07:24:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/migranti-mrtvi-kod-kanarskih-ostrva/",
+          "publishedAt": "2026-11-27T22:07:25.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/uzas-kod-kanarskih-ostrva-14-migranata-stradalo-sest-osoba-u-teskom-stanju/qrn0egg",
+          "publishedAt": "2026-11-28T07:24:00.000Z"
+        }
+      ],
+      "score": 0.2342,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8718c13563b41275",
+      "title": "Preminuo Bronson Rid",
+      "snippet": "Australijski rvač Džermejn Hejli, javnosti poznatiji pod ring imenom Bronson Rid, preminuo je u 38. godini usled zdravstvenih komplikacija, saopštila",
+      "url": "https://nova.rs/sport/sport-ostalo/umro-bronson-rid/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Foriginal_images%2F1778482850_1770025981_Najnovija_vest_XSexw5.format-avif.width-1.avif&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:34:46.000Z",
+      "updatedAt": "2026-11-28T08:55:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/sport-ostalo/umro-bronson-rid/",
+          "publishedAt": "2026-11-28T08:34:46.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/sport/borilacki-sportovi/nakon-medicinskih-komplikacija-preminuo-bronson-reed-38-slavni-wwe-kecer/261128040",
+          "publishedAt": "2026-11-28T08:55:00.000Z"
+        }
+      ],
+      "score": 0.2857,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bdb6adce98f6007f",
+      "title": "VIDEO Dončić objasnio zbog čega je došlo do sukoba sa navijačem, jedna stvar je kriva za sve",
+      "snippet": "Košarkaš Los Anđeles Lejkersa Luka Dončić objasnio je da je do incidenta sa navijačem po završetku utakmice NBA kupa protiv San Antonio Sparsa (96:99)",
+      "url": "https://nova.rs/sport/kosarka/video-doncic-objasnio-zbog-cega-je-doslo-do-sukoba-sa-navijacem-jedna-stvar-je-kriva-za-sve/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F10%2F26%2F1792999254_profimedia-1146644203.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T06:28:05.000Z",
+      "updatedAt": "2026-11-28T08:39:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/kosarka/luka-doncic-navijac-incident-tuca-snimak/",
+          "publishedAt": "2026-11-28T06:09:46.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/sport/kosarka/doncic-u-ozbiljnom-incidentu-odgurnuo-ga-muz-zastitnik-iz-publike-pogodio-mu-je-suprugu/261128013",
+          "publishedAt": "2026-11-28T06:35:00.000Z"
+        }
+      ],
+      "score": 0.2753,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b2e8a001ee4072d0",
+      "title": "Lokalni izbori na Tajvanu, Kina rasporedila vojne avione",
+      "snippet": "Glasači na Tajvanu danas izlaze na birališta za lokalne izbore, dok je Kina rasporedila vojne avione oko ostrva, prenela je britanska agencija Rojters ().",
+      "url": "https://www.danas.rs/svet/tajvan-izbori/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2022%2F11%2F2356f1a74eb34a208b7e523ebd88da12-0-50a60dd7a64748688dd3a2f023cb3019-scaled-e1669378283180-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T06:32:55.000Z",
+      "updatedAt": "2026-11-28T06:32:55.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/tajvan-bira-lokalnu-vlast-kina-prijeti-i-salje-vojne-avione/w037vz0",
+          "publishedAt": "2026-11-27T23:59:00.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/tajvan-izbori/",
+          "publishedAt": "2026-11-28T06:32:55.000Z"
+        }
+      ],
+      "score": 0.2117,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9d74c5e3595f4994",
+      "title": "Rajakovićev Toronto razbio Bruklin, Portland se bori za trofej: Poznati svi parovi četvrtfinala NBA kupa",
+      "snippet": "Odigrano je jedanaest utakmica poslednjeg dana grupne faze NBA kupa nakon pauze zbog Dana zahvalnosti, čime su kompletirani svi parovi četvrtfinala ov",
+      "url": "https://nova.rs/sport/kosarka/rajakovicev-toronto-razbio-bruklin-portland-se-bori-za-trofej-poznati-svi-parovi-cetvrtfinala-nba-kupa/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F28%2F1795847720_profimedia-1154853397.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T07:20:00.000Z",
+      "updatedAt": "2026-11-28T07:27:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/kosarka/rajakovicev-toronto-razbio-bruklin-portland-se-bori-za-trofej-poznati-svi-parovi-cetvrtfinala-nba-kupa/",
+          "publishedAt": "2026-11-28T07:20:00.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/sport/kosarka/poznati-parovi-cetvrtfinala-nba-kupa-sampioni-lige-ispali-lebron-prosao-dalje/261128023",
+          "publishedAt": "2026-11-28T07:27:00.000Z"
+        }
+      ],
+      "score": 0.2356,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fbf60d59f125d3dc",
+      "title": "Dolovac traži od tužioca Nenadića da postupa po prijavi protiv tužioca Stefanovića",
+      "snippet": "Zagorka Dolovac, vrhovna javna tužiteljka, uputila je obavezno uputstvo tužiocu za organizovani kriminal Mladenu Nenadiću koje ga obavezuje da počne da radi po krivičnoj prijavi protiv Nenada Stefanovića, glavnog javnog tužioca Višeg javnog tužilaštva u Beogradu, potvrđeno je…",
+      "url": "https://www.rts.rs/vesti/hronika/6094680/dolovac-stefanovic-nenadic-prijava-krivicna-postupak-vjt-tuzilastvo.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2024%2F11%2F30%2F16%2F59%2F588%2F3579261%2Fthumbs%2F14555567%2FDolovac.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T22:14:07.000Z",
+      "updatedAt": "2026-11-27T22:14:07.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/hronika/6094680/dolovac-stefanovic-nenadic-prijava-krivicna-postupak-vjt-tuzilastvo.html",
+          "publishedAt": "2026-11-27T22:14:07.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/danas-saznaje-dolovac-trazi-od-tuzioca-nenadica-da-postupa-po-prijavi-protiv-tuzioca-stefanovica",
+          "publishedAt": "2026-11-27T22:34:15.969Z"
+        }
+      ],
+      "score": 0.1113,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_ecc4042d46fd95d7",
+      "title": "SZO upozorava: Pad vakcinacije doveo do zastoja u borbi protiv malih boginja",
+      "snippet": "Svetska zdravstvena organizacija (SZO) izrazila je danas zabrinutost povodom malih boginja, upozoravajući da je napredak ka njihovom iskorenjivanju z",
+      "url": "https://nova.rs/vesti/drustvo/pad-vakcinacije-doveo-do-zastoja-u-borbi-protiv-malih-boginja/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1763733798_shutterstock_1323694607-morbili-1024x683.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T18:21:34.000Z",
+      "updatedAt": "2026-11-27T23:11:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/pad-vakcinacije-doveo-do-zastoja-u-borbi-protiv-malih-boginja/",
+          "publishedAt": "2026-11-27T18:21:34.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/alarmantni-podaci-szo-male-boginje-ponovo-se-sire-crna-gora-medju-najugrozenijima/qffj75k",
+          "publishedAt": "2026-11-27T23:11:00.000Z"
+        }
+      ],
+      "score": 0.1083,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_318269279b2e95b9",
+      "title": "Osamnaest pitanja za Narodnu banku Srbije",
+      "snippet": "Ekskluzivno: Šta otkriva poverljivo rešenje NBS o oduzimanju dozvole za rad Alta banci, 3. deo",
+      "url": "https://radar.nova.rs/ekonomija/osamnaest-pitanja-za-nbs/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fradar.nova.rs%2Fwp-content%2Fuploads%2F2026%2F09%2Fjorgovanka_tabakovic_kbf_02032026_0006-300x200.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "radar",
+      "sourceName": "Radar",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T23:03:00.000Z",
+      "updatedAt": "2026-11-27T23:03:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "radar",
+          "name": "Radar",
+          "url": "https://radar.nova.rs/ekonomija/ko-je-i-zasto-davoru-macuri-cuvao-ledja/",
+          "publishedAt": "2026-11-25T23:03:00.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/ekonomija/davor-macura-alta-banka-nbs-poverljivo-resenje/",
+          "publishedAt": "2026-11-26T06:46:26.000Z"
+        }
+      ],
+      "score": 0.1072,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_01772180ff4c9277",
+      "title": "\"Privid beskrajnog leta\" najbolji film: Dodelom nagrada i domaćom premijerom \"Oče naš\" završen 32. Festival autorskog filma",
+      "snippet": "Najvećom nagradom Festivala autorskog filma, onom za najbolje ostvarenje u Takmičarskom programu ovenčan je argentinski film \"Privid beskrajnog leta\".",
+      "url": "https://nova.rs/kultura/privid-beskrajnog-leta-najbolji-film-32-faf-a/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F27%2F1795815747_Poklon_ekipe_filma_Oce_nas_1.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Kultura",
+      "categorySlug": "kultura",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T22:16:30.000Z",
+      "updatedAt": "2026-11-27T22:16:30.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/kultura/nagrade-32-festival-autorskog-filma/",
+          "publishedAt": "2026-11-27T19:57:24.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/kultura/privid-beskrajnog-leta-najbolji-film-32-faf-a/",
+          "publishedAt": "2026-11-27T22:16:30.000Z"
+        }
+      ],
+      "score": 0.1014,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_7566443ef6356bde",
+      "title": "Hrvatska posle 13 godina izborila plasman na Svetsko prvenstvo",
+      "snippet": "Hrvatska se plasirala na Svetsko prvenstvo 2027. godine u Kataru.",
+      "url": "https://nova.rs/sport/kosarka/hrvatska-se-plasirala-na-svetsko-prvenstvo-2027-godine-u-kataru/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F27%2F1795817560_profimedia-1155920027.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T22:13:19.000Z",
+      "updatedAt": "2026-11-27T22:13:19.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/sport/kosarka/kosarkasi-bih-veceras-na-islandu-igraju-za-produzenje-nade-o-plasmanu-na-svjetsko-prvenstvo/261126029",
+          "publishedAt": "2026-11-26T07:32:00.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/kosarka/hrvatska-se-plasirala-na-svetsko-prvenstvo-2027-godine-u-kataru/",
+          "publishedAt": "2026-11-27T22:13:19.000Z"
+        }
+      ],
+      "score": 0.101,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c4539a9470990289",
+      "title": "Mundobasket: Hrvatska obezbedila učešće nakon 13 godina, Slovenija zakomplikovala situaciju",
+      "snippet": "Košarkaške reprezentacije Francuske, Nemačke, Hrvatske i Poljske obezbedile su plasman na Svetsko prvenstvo 2027. godine, nakon utakmica odigranih u petak u okviru evropskih kvalifikacija.",
+      "url": "https://www.danas.rs/sport/mundobasket-slovenija-hrvatska/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F13334546-e1795816871710-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T22:03:38.000Z",
+      "updatedAt": "2026-11-27T22:03:38.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/kosarka/francuska-dominirala-i-obezbedila-plasman-na-mundobasket/",
+          "publishedAt": "2026-11-27T21:50:27.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/sport/mundobasket-slovenija-hrvatska/",
+          "publishedAt": "2026-11-27T22:03:38.000Z"
+        }
+      ],
+      "score": 0.0999,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_301500531ad52882",
+      "title": "Veliki udarac za Italijane pred meč sa Srbijom",
+      "snippet": "Košarkaška reprezentacija Srbije u nedelju, 29. novembra, dočekuje selekciju Italije u okviru kvalifikacija za Mundobasket, a gosti sa Apenina na ovaj",
+      "url": "https://nova.rs/sport/kosarka/veliki-udarac-za-italijane-pred-mec-sa-srbijom/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F1%2F1769101831_1729711905-Tan2024-10-2321250699_2-1024x683.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T21:27:17.000Z",
+      "updatedAt": "2026-11-27T21:27:17.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/kosarka/srbija-litvanija-uzivo-sastav-svetsko-prvenstvo-kvalifikacije/",
+          "publishedAt": "2026-11-26T07:35:43.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/sport/srbija-italija-uzivo-prenos-livestream-2/",
+          "publishedAt": "2026-11-27T16:30:34.000Z"
+        }
+      ],
+      "score": 0.0958,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b74578fb688577a0",
+      "title": "Plenković: Hrvatska ne blokira Crnu Goru, potrebno je malo političke volje na njihovoj strani",
+      "snippet": "Hrvatska podržava pristupanje Crne Gore Evropskoj uniji i već 14 godina aktivno joj pomaže na tom putu, izjavio je hrvatski premijer Andrej Plenković u Škabrnji, komentarišući odnose dve zemlje i poruke crnogorskog predsednika Jakova Milatovića iz Ohrida.",
+      "url": "https://www.danas.rs/svet/plenkovic-hrvatska-ne-blokira-crnu-goru/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2024%2F05%2F12190167-e1714566708651-300x170.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T21:07:05.000Z",
+      "updatedAt": "2026-11-27T21:07:05.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/plenkovic-postavio-ultimatum-crnoj-gori-bez-dogovora-o-granici-nema-zatvaranja-poglavlja-31/",
+          "publishedAt": "2026-11-26T10:46:36.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/plenkovic-uslov-crna-gora/",
+          "publishedAt": "2026-11-26T11:19:28.000Z"
+        }
+      ],
+      "score": 0.0937,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_38a9bdcbc62af5ee",
+      "title": "FOTO Rijera se oglasio nakon skandala sa novinarima posle utakmice sa Gentom",
+      "snippet": "Nakon burne reakcije na konferenciji za medije posle remija Crvene zvezde protiv Genta u Belgiji (1:1), trener crveno-belih Albert Rijera ponovo se og",
+      "url": "https://nova.rs/sport/fudbal/foto-rijera-se-oglasio-nakon-skandala-sa-novinarima-posle-utakmice-sa-gentom/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F10%2F22%2F1792696637_zvezda-kopenhagen-98345.width-1200.JPG&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T20:56:26.000Z",
+      "updatedAt": "2026-11-27T20:56:26.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/fudbal/rijera-ima-resenje-za-gent-znam-kako-da-postignemo-golove/",
+          "publishedAt": "2026-11-25T18:09:37.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/sport/rijera-gent-zvezda/",
+          "publishedAt": "2026-11-25T19:24:53.000Z"
+        }
+      ],
+      "score": 0.0926,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4c90a2a5f89ebee0",
+      "title": "Dvostruki šampion Evrope, moćna Francuska i neugodna Poljska: Šta čeka Srbiju na Evropskom prvenstvu u \"grupi smrti\"",
+      "snippet": "Mlada fudbalska reprezentacija Srbije (U21) dobila je na žrebu u beogradskom Sava centru najteže moguće rivale na Evropskom prvenstvu koje će od 16. j",
+      "url": "https://nova.rs/sport/fudbal/dvostruki-sampion-evrope-mocna-francuska-i-neugodna-poljska-sta-ceka-srbiju-na-evropskom-prvenstvu-u-grupi-smrti/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1764211023_1633420501-vozdovac-partizan-102913.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T20:32:12.000Z",
+      "updatedAt": "2026-11-27T20:32:12.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/sport-ostalo/dobra-vest-za-srbiju-pred-evropsko-prvenstvo-poslednje-provere-protiv-svajcarske/",
+          "publishedAt": "2026-11-25T20:55:00.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/sport/evropsko-prvenstvo-u-21-zreb-srbija-albanija/",
+          "publishedAt": "2026-11-26T18:08:02.000Z"
+        }
+      ],
+      "score": 0.0902,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_88b92085397fb492",
+      "title": "Deklaracija Zajedničkog konsultativnog odbora EU-Srbija",
+      "snippet": "Zajednički konsultativni odbor EU-Srbija (ZKO) usvojio je deklaraciju u kojoj se izražava nada da će buduća vlada Srbije nastaviti reforme na putu ka EU.",
+      "url": "https://www.rts.rs/vesti/politika/6094494/deklaracija-zajednickog-konsultativnog-odbora-eu-srbija.html",
+      "imageUrl": null,
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T17:53:01.000Z",
+      "updatedAt": "2026-11-27T17:53:01.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094494/deklaracija-zajednickog-konsultativnog-odbora-eu-srbija.html",
+          "publishedAt": "2026-11-27T17:53:01.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/deklaracija-zajednickog-konsultativnog-odbora-eu-srbija",
+          "publishedAt": "2026-11-27T20:39:03.006Z"
+        }
+      ],
+      "score": 0.0843,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3a29f36175972558",
+      "title": "Arhiv javnih skupova: MUP potvrdio da se procena broja ljudi na skupovima ne zasniva na metodologiji",
+      "snippet": "Arhiv javnih skupova saopštio je večeras da je ministarstvo unutrašnjih poslova (MUP), u odgovoru na zahtev za pristup informacijama od javnog značaja, toj organizaciji potvrdio da procenu broja ljudi na javnim skupovima ne zasniva po utvrđenoj metodologiji.",
+      "url": "https://www.danas.rs/vesti/drustvo/arhiv-javnih-skupova-mup-potvrdio-da-se-procena-broja-ljudi-na-skupovima-ne-zasniva-na-metodologiji/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F10%2F3-66-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T19:22:19.000Z",
+      "updatedAt": "2026-11-27T19:22:19.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/mup-odgovorio-arhivu-kako-vrse-procenu-broja-ljudi-na-skupovima/",
+          "publishedAt": "2026-11-27T19:17:30.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/arhiv-javnih-skupova-mup-potvrdio-da-se-procena-broja-ljudi-na-skupovima-ne-zasniva-na-metodologiji/",
+          "publishedAt": "2026-11-27T19:22:19.000Z"
+        }
+      ],
+      "score": 0.0838,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_309659218b7d416d",
+      "title": "Ružić najavio osnivačku skupštinu stranke za 21. decembar",
+      "snippet": "Nekadašnji visoki funkcioner Socijalističke partije Srbije (SPS) Branko Ružić, koji je najavio osnivanje sopstvene partije \"Crvena linija\" za portal N",
+      "url": "https://nova.rs/vesti/politika/ruzic-najavio-osnivacku-skupstinu-stranke-za-21-decembar/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F4%2F3%2F1775220140_skupstina_06022024_0026.width-1200.JPG&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T18:33:10.000Z",
+      "updatedAt": "2026-11-27T18:33:10.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/ruzic-nece-za-predsednika-srbije-o-podrsci-tek-kad-svi-kandidati-budu-poznati/",
+          "publishedAt": "2026-11-27T15:04:58.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/ruzic-najavio-osnivacku-skupstinu-stranke-za-21-decembar/qww5lxx",
+          "publishedAt": "2026-11-27T20:39:03.006Z"
+        }
+      ],
+      "score": 0.0797,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e30170bf6d94ad62",
+      "title": "\"Možemo da razgovaramo, a da se jedan drugom ne unosimo u lice, pred nama su bolja vremena\": Predsednik Hrvatske o susretu sa Aleksandrom Čupićem",
+      "snippet": "Predsednik Hrvatske Zoran Milanović založio se danas za unapređenje odnosa Srbije i Hrvatske, ocenjujući da je njegov susret sa vršiocem dužnosti pred",
+      "url": "https://nova.rs/vesti/politika/predsednik-hrvatske-o-susretu-sa-aleksandrom-upicem/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F27%2F1795781190_14477296.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T17:56:23.000Z",
+      "updatedAt": "2026-11-27T17:56:23.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/milanovic-o-razgovoru-s-cupicem-ovo-vidim-kao-pocetak-boljih-vremena/eh6n647",
+          "publishedAt": "2026-11-27T17:38:34.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/predsednik-hrvatske-o-susretu-sa-aleksandrom-upicem/",
+          "publishedAt": "2026-11-27T17:56:23.000Z"
+        }
+      ],
+      "score": 0.0769,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_be0c00e7a1898eee",
+      "title": "Trump objasnio zašto Putina zove \"prijateljem\": Mogao bih reći da nije, ali želim sklopiti dogovor",
+      "snippet": "Američki predsjednik Donald Trump objasnio je zašto je ruskog predsjednika Vladimira Putina prošle sedmice nazvao svojim prijateljem, iako je u četvrtak na Truth Socialu od njega tražio da zaustavi vojnu agresiju u Evropi.",
+      "url": "https://www.klix.ba/vijesti/svijet/trump-objasnio-zasto-putina-zove-prijateljem-mogao-bih-reci-da-nije-ali-zelim-sklopiti-dogovor/261127154",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127154.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T19:19:00.000Z",
+      "updatedAt": "2026-11-27T19:19:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/tramp-nakon-sastanka-sa-sefom-nato-a-poslao-rusiji-ostru-poruku-zelim-da-se-putin/qedz05d",
+          "publishedAt": "2026-11-26T17:04:07.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/trump-trazio-sam-od-putina-da-povuce-svu-vojnu-agresiju-u-evropi/261127003",
+          "publishedAt": "2026-11-27T05:28:00.000Z"
+        }
+      ],
+      "score": 0.0751,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f318865be2aa5b2f",
+      "title": "Partizanova utakmica koju po svaku cenu mora da pobedi - Radnički u Humskoj želi nadu u opstanak",
+      "snippet": "Fudbaleri Partizana od 18.30 igraju protiv ekipe Radničkog iz Niša u okviru 17. kola Superlige Srbije.",
+      "url": "https://nova.rs/sport/fudbal/partizan-radnicki-nis-uzivo-prenos-live-2026-2027-superliga-17-kolo/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F27%2F1795777799_BUDUSCNOST-PARTIZAN_59.width-1200.JPG&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:36:26.000Z",
+      "updatedAt": "2026-11-28T17:36:26.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/fudbal/partizan-radnicki-nis-uzivo-prenos-live-2026-2027-superliga-17-kolo/",
+          "publishedAt": "2026-11-28T17:36:26.000Z"
+        }
+      ],
+      "score": 3.1572,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_639f444d48551208",
+      "title": "Majka traži pravdu za mrtvog sina: Ako Miodrag Perić nije usmrtio mog Željka, moram da znam ko jeste",
+      "snippet": "Doljevčanka Vesna Ristić, majka devetnaestogodišnjeg Željka Ristića, koji je pre šest godina stradao u saobraćajnoj nesreći u doljevačkom selu Šainova",
+      "url": "https://nova.rs/vesti/hronika/majka-trazi-pravdu-za-mrtvog-sina-ako-miodrag-peric-nije-usmrtio-mog-zeljka-moram-da-znam-ko-jeste/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F28%2F1795855561_zeljko_ristic.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Hronika",
+      "categorySlug": "hronika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:27:51.000Z",
+      "updatedAt": "2026-11-28T17:27:51.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/majka-trazi-pravdu-za-mrtvog-sina-ako-miodrag-peric-nije-usmrtio-mog-zeljka-moram-da-znam-ko-jeste/",
+          "publishedAt": "2026-11-28T17:27:51.000Z"
+        }
+      ],
+      "score": 2.8479,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_227e77f1674171b5",
+      "title": "Bruka Poketina i društva: Novi debakl Mančester junajteda",
+      "snippet": "Maurisio Poketino prvi put je vodio Mančester junajted pred navijačima na Old Trafordu, ali nije se proslavio.",
+      "url": "https://www.danas.rs/sport/bruka-poketina-i-drustva-novi-debakl-mancester-junajteda/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F14130987-e1794575970773-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:26:48.000Z",
+      "updatedAt": "2026-11-28T17:26:48.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/sport/bruka-poketina-i-drustva-novi-debakl-mancester-junajteda/",
+          "publishedAt": "2026-11-28T17:26:48.000Z"
+        }
+      ],
+      "score": 2.8136,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bf632c21ef95f6a2",
+      "title": "Miron Muslić utučen kao nikad dosad, izvinio se navijačima Schalkea: \"Ovo je sramota\"",
+      "snippet": "Nogometaši Schalkea 04 doživjeli su težak brodolom u 11. kolu njemačke Bundeslige, nakon što su na gostovanju kod Paderborna poraženi sa nevjerovatnih 8:1.",
+      "url": "https://www.klix.ba/sport/nogomet/miron-muslic-utucen-kao-nikad-dosad-izvinio-se-navijacima-schalkea-ovo-je-sramota/261128137",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128137.jpg&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:36:00.000Z",
+      "updatedAt": "2026-11-28T17:36:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/sport/nogomet/miron-muslic-utucen-kao-nikad-dosad-izvinio-se-navijacima-schalkea-ovo-je-sramota/261128137",
+          "publishedAt": "2026-11-28T17:36:00.000Z"
+        }
+      ],
+      "score": 2.7914,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1253fcfb692c36df",
+      "title": "Protesti i sukobi na ulicama Evrope - zahtevi demonstranata od većih plata do prava na abortus",
+      "snippet": "Hiljade građana izašle su na ulice evropskih gradova sa različitim zahtevima – od ostavke vlade i povećanja plata do sprečavanja nasilja nad ženama i zaštite njihovih prava.",
+      "url": "https://www.rts.rs/vesti/svet/6094867/protesti-i-sukobi-na-ulicama-evrope---zahtevi-demonstranata-od-vecih-plata-do-prava-na-abortus.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F17%2F13%2F879%2F6103913%2Fthumbs%2F14558747%2FTan2026-10-2213141510_3.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:15:33.000Z",
+      "updatedAt": "2026-11-28T17:15:33.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/svet/6094867/protesti-sirom-evrope--sukobi-u-tirani-u-sofiji-traze-vece-plate-u-parizu-protiv-nasilja-nad-zenama.html",
+          "publishedAt": "2026-11-28T16:51:18.000Z"
+        }
+      ],
+      "score": 2.7609,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1714212dcb1808be",
+      "title": "Ništa od obaranja dokaza: Vrhovni sud Crne Gore odbio žalbe odbrane Radoja Zvicera zbog Sky aplikacije",
+      "snippet": "Vrhovni sud Crne Gore odbio je žalbu odbrane Radoja Zvicera, Milana Vujotića i Igora Božovića te potvrdio da su dokazi pribavljeni putem kriptovane aplikacije Sky pravno valjani i dopušteni.",
+      "url": "https://www.klix.ba/vijesti/svijet/nista-od-obaranja-dokaza-vrhovni-sud-crne-gore-odbio-zalbe-odbrane-radoja-zvicera-zbog-sky-aplikacije/261128127",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128127.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:35:00.000Z",
+      "updatedAt": "2026-11-28T17:35:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/nista-od-obaranja-dokaza-vrhovni-sud-crne-gore-odbio-zalbe-odbrane-radoja-zvicera-zbog-sky-aplikacije/261128127",
+          "publishedAt": "2026-11-28T17:35:00.000Z"
+        }
+      ],
+      "score": 2.7571,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_40f774ba57bbcc1a",
+      "title": "Alimpijević doneo odluku: Ovo su 12 igrača za ključan meč Srbije",
+      "snippet": "Selektor košarkaške reprezentacije Srbije Dušan Alimpijević odredio je konačan spisak od 12 igrača za nedeljni, izuzetno važan duel protiv Italije u k",
+      "url": "https://nova.rs/sport/kosarka/alimpijevic-doneo-odluku-ovo-su-12-igraca-za-kljucan-mec-srbije/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F20%2F1795217118_partizan-besiktas-138967.width-1200.JPG&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:23:17.000Z",
+      "updatedAt": "2026-11-28T17:23:17.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/kosarka/luka-banki-odabrao-12-igraca-za-srbiju-nije-uvrstio-zvezdu-evrolige/",
+          "publishedAt": "2026-11-28T17:15:17.000Z"
+        }
+      ],
+      "score": 2.7033,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_999994ce88ef9b2a",
+      "title": "\"NJEGOVOJ MAJCI JE JAKO TEŠKO\" Ivana Šašić o smrti bivšeg muža: Spomenula OBDUKCIJU i Bojanovu doskorašnju verenicu",
+      "snippet": "Pevačica Ivana Šašić u šoku je zbog smrti nekadašnjeg supruga Bojana Simića, koji je sinoć poginuo u Beogradu. Navela je da dugo nisu imali kontakt, te da se posle tragedije čula sa njegovom majkom.",
+      "url": "https://www.blic.rs/sudbine/ivana-sasic-o-smrti-muza-bojana-simica-spomenula-obdukciju-i-njegovu-verenicu/0bmxny4",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FZosk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yOWFlNTU3ZjIzOWMyZmY3ZTU3OTI0ZTNiM2M4ZWRkNC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:35:00.000Z",
+      "updatedAt": "2026-11-28T17:35:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/sudbine/ivana-sasic-o-smrti-muza-bojana-simica-spomenula-obdukciju-i-njegovu-verenicu/0bmxny4",
+          "publishedAt": "2026-11-28T17:35:00.000Z"
+        }
+      ],
+      "score": 2.4125,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0e8d6a8fd015b08b",
+      "title": "(Foto, Video) Policajac bacio ženu na pod, ona ustala, pa krenula na čitav kordon! Opšti haos u Tirani: Opkoljena kancelarija Edija Rame, lete kamenice i Molotovljevi kokteli",
+      "snippet": "Žestoki sukobi između demonstranata i policije obeležili su današnje antivladine proteste u Tirani, tokom kojih je povređeno više osoba, među njima policajci, demonstranti i novinari.",
+      "url": "https://www.blic.rs/vesti/svet/protest-u-tirani-policajac-bacio-zenu-na-pod-ona-ustala-i-krenula-na-ceo-kordon-video/9w68ejj",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FjG0k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83ZWY5MzNhYzlkMWFjN2NhZmIxZTA2NmM0OTI4NGU1Yy5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:34:50.000Z",
+      "updatedAt": "2026-11-28T17:34:50.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/tirana-gori-totalni-haos-u-albaniji-lete-kamenice-i-molotovljevi-kokteli-policija/l3eph3j",
+          "publishedAt": "2026-11-28T14:30:56.000Z"
+        }
+      ],
+      "score": 2.4076,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_31c2a4f9ad43b3cb",
+      "title": "Šamar iz opozicije za Netanyahuov prijedlog, Lapid nije štedio riječi: \"Prozirna prevara serijskog prevaranta\"",
+      "snippet": "Netanyahuov prijedlog je još jedna prozirna prevara serijskog prevaranta koji je izigrao svakog partnera i prekršio svaki dogovor.",
+      "url": "https://www.klix.ba/vijesti/svijet/samar-iz-opozicije-za-netanyahuov-prijedlog-lapid-nije-stedio-rijeci-prozirna-prevara-serijskog-prevaranta/261128129",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128129.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:20:00.000Z",
+      "updatedAt": "2026-11-28T17:20:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/samar-iz-opozicije-za-netanyahuov-prijedlog-lapid-nije-stedio-rijeci-prozirna-prevara-serijskog-prevaranta/261128129",
+          "publishedAt": "2026-11-28T17:20:00.000Z"
+        }
+      ],
+      "score": 2.3171,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_cef165b8b8c2f4b7",
+      "title": "Alberte, u pravu si, nismo treneri, ali imamo oči",
+      "snippet": "\"Možeš da budeš trener ako ti se ne dopada. Svi ste treneri i možete da pričate\", zagrmeo je Albert Rijera nakon utakmice protiv Genta.",
+      "url": "https://nova.rs/sport/fudbal/fudba/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F10%2F31%2F1793459826_zvezda-kopenhagen-98345.width-1200.JPG&w=640&output=webp&q=80&we",
+      "category": "Sport",
+      "categorySlug": "sport",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:03:53.000Z",
+      "updatedAt": "2026-11-28T17:03:53.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/fudbal/fudba/",
+          "publishedAt": "2026-11-28T17:03:53.000Z"
+        }
+      ],
+      "score": 2.2064,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    }
+  ]
+}

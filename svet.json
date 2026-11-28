@@ -1,0 +1,1218 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T17:37:03.564Z",
+  "feedType": "category",
+  "category": "Svet",
+  "categorySlug": "svet",
+  "totalItems": 40,
+  "items": [
+    {
+      "id": "clu_0cf88c206fb785f5",
+      "title": "Eksplozija u blizini škole u Avganistanu - sedam učenika poginulo, 97 povređeno",
+      "snippet": "Najmanje sedam učenika je poginulo, a 97 osoba je povređeno u eksploziji koja se dogodila u jednoj zgradi nedaleko od osnovne škole u avganistanskoj istočnoj provinciji Kunar, saopštili su lokalni zvaničnici.",
+      "url": "https://www.rts.rs/vesti/svet/6094758/eksplozija-u-blizini-skole-u-avganistanu---sedam-ucenika-poginulo-97-povredjeno.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F12%2F7%2F528%2F6103013%2Fthumbs%2F14556983%2FAvganistan.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:22:53.000Z",
+      "updatedAt": "2026-11-28T13:30:00.000Z",
+      "mediaCount": 5,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/eksplozija-u-skoli-u-avganistanu-nekoliko-ucenika-poginulo-ili-ranjeno/",
+          "publishedAt": "2026-11-28T08:34:40.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/uzas-u-avganistanu-eksplozija-u-osnovnoj-skoli-na-istoku-zemlje-poginulo-ili-ranjeno/src50bm",
+          "publishedAt": "2026-11-28T09:47:07.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/svet/6094758/eksplozija-u-blizini-skole-u-avganistanu---sedam-ucenika-poginulo-97-povredjeno.html",
+          "publishedAt": "2026-11-28T11:22:53.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/u-eksploziji-blizu-skole-u-avganistanu-sedam-stradalih/",
+          "publishedAt": "2026-11-28T12:21:46.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/u-eksploziji-kod-skole-u-afganistanu-poginulo-sedam-ucenika-povrijedeno-do-99-osoba/261128084",
+          "publishedAt": "2026-11-28T13:30:00.000Z"
+        }
+      ],
+      "score": 0.9252,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_d30b00a7570612b2",
+      "title": "'Putin je agresor i ubica, ne može da vam bude prijatelj': Zelenski za BBC",
+      "snippet": "Ukrajinski predsednik izrazio je nezadovoljstvo ponašanjem SAD i rekao da je „čudno“ što je Tramp nazvao Vladimira Putina prijateljem.",
+      "url": "https://www.bbc.com/serbian/articles/c6ge3rzyd75do/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F97de%2Flive%2F9ba0dc60-ea2b-11f1-a094-5fdc692f3e33.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T06:33:54.000Z",
+      "updatedAt": "2026-11-28T06:21:00.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/c6ge3rzyd75do/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T06:33:54.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/zelenski-kritikovao-trampa-zbog-prijateljstva-sa-putinom-on-je-agresor-i-ubica/23l45c5",
+          "publishedAt": "2026-11-27T07:01:12.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/zelenski-tramp-putin-prijatelj/",
+          "publishedAt": "2026-11-27T13:18:09.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/trump-ga-zove-prijateljem-zelenski-odgovara-to-je-kao-da-ste-za-hitlera-rekli-da-je-dobar-prijatelj/261128002",
+          "publishedAt": "2026-11-28T06:21:00.000Z"
+        }
+      ],
+      "score": 0.269,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_6f6df29dc96c3bf1",
+      "title": "Očajnički apeli žena osuđenih na smrt posle iranskih protesta",
+      "snippet": "Broj dosuđenih smrtnih kazni za protestantkinje i disidentkinje nije zabeležen decenijama, navodi jedna organizacija za ljudska prava.",
+      "url": "https://www.bbc.com/serbian/articles/cv702xl9ekpyo/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F9ca2%2Flive%2Fa7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:58:28.000Z",
+      "updatedAt": "2026-11-28T15:58:28.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/cv702xl9ekpyo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-28T15:58:28.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/bbc-news-serbian/ocajnicki-apeli-zena-osudjenih-na-smrt-posle-iranskih-protesta",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/bbc/ocajnicki-apeli-zena-osudjenih-na-smrt-posle-iranskih-protesta/kn02pzr",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        }
+      ],
+      "score": 1.7257,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_76dc177295d6675b",
+      "title": "Izvestiteljka UN Albaneze u limbu na aerodromu pošto joj je uskraćen ulaz u Kostariku",
+      "snippet": "Frančeska Albaneze, specijalna izvestiteljka Ujedinjenih nacija za ljudska prava na palestinskim teritorijama, ostala je danas zarobljena na aerodromskom terminalu nakon što joj je odbijen ulazak u Kostariku.",
+      "url": "https://www.danas.rs/svet/albaneze-u-limbu-na-aerodromu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F03%2F1-195-300x176.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T21:36:29.000Z",
+      "updatedAt": "2026-11-28T15:58:58.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/albaneze-u-limbu-na-aerodromu/",
+          "publishedAt": "2026-11-27T21:36:29.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/diplomatski-skandal-izvjestiteljici-un-a-zabranili-ulazak-u-kostariku-noc-provela-u-aerodromskoj-cekaonici/261127287",
+          "publishedAt": "2026-11-27T22:19:00.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/franceski-albaneze-zabranjen-ulazak-u-kostariku-provela-dve-noci-na-aerodromu/g8x03y3",
+          "publishedAt": "2026-11-28T15:58:58.000Z"
+        }
+      ],
+      "score": 1.5873,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c8ac6394333a8bc5",
+      "title": "Baltik i Mediteran: Nova poprišta rata u Ukrajini",
+      "snippet": "Ruski brodovi sada se napadaju čak i na Mediteranu. Kijev vrši globalni pritisak na Moskvu – što nosi potencijalne posledice po Evropu i međunarodnu pomorsku trgovinu.",
+      "url": "https://www.danas.rs/svet/baltik-i-mediteran-nova-poprista-rata-u-ukrajini/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F14465025-e1795697460488-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T07:02:48.000Z",
+      "updatedAt": "2026-11-28T10:45:06.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/baltik-i-mediteran-nova-poprista-rata-u-ukrajini/",
+          "publishedAt": "2026-11-27T07:02:48.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/meloni-nakon-napada-u-bengaziju-rat-u-ukrajini-ne-smije-i-ne-moze-se-prosiriti-na-mediteran/261127038",
+          "publishedAt": "2026-11-27T08:28:00.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/meloni-kritikovala-zelenskog-zbog-napada-u-libiji-ukrajinski-lider-se-izvinio/s4l2s4z",
+          "publishedAt": "2026-11-28T10:45:06.000Z"
+        }
+      ],
+      "score": 0.4167,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_6d8f93201e1505de",
+      "title": "Ukrajinski udari stigli do Libije: Zelenski otkrio kako Kijev koordinira napade na rusku flotu",
+      "snippet": "Ukrajinski predsednik Volodimir Zelenski izjavio je da Kijev koordinira napade na ruske brodove širom sveta sa državama kojih se te operacije direktno",
+      "url": "https://nova.rs/vesti/svet/ukrajinski-udari-stigli-do-libije-zelenski-otkrio-kako-kijev-koordinira-napade-na-rusku-flotu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F19%2F1795110494_Volodimir_Zelenski.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T12:28:58.000Z",
+      "updatedAt": "2026-11-28T04:58:12.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/zelenski-upozorio-rusija-priprema-novi-masovni-napad/fezq8vj",
+          "publishedAt": "2026-11-27T12:20:42.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/ukrajinski-udari-stigli-do-libije-zelenski-otkrio-kako-kijev-koordinira-napade-na-rusku-flotu/",
+          "publishedAt": "2026-11-27T12:28:58.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/ratu-u-ukrajini/6094667/rat-ukrajina-rusija-kijev-zelenski-moskva-letonija-nato.html",
+          "publishedAt": "2026-11-28T04:58:12.000Z"
+        }
+      ],
+      "score": 0.1962,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_117c7acb0b67a987",
+      "title": "Austrijski kancelar spreman da posreduje u sporu Hrvatske i Crne Gore",
+      "snippet": "Austrijski kancelar Kristijan Štoker danas je izrazio spremnost da posreduje u sporu Hrvatske i Crne Gore o pitanju granice.",
+      "url": "https://www.danas.rs/svet/austrijski-kancelar-hrvatska-crna-gora/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F14473815-e1795814723760-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T21:26:27.000Z",
+      "updatedAt": "2026-11-27T23:15:00.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/austrijski-kancelar-hrvatska-crna-gora/",
+          "publishedAt": "2026-11-27T21:26:27.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/austrijski-kancelar-ponudio-posredovanje-u-sporu-hrvatske-i-crne-gore-oko-granice/w7ej4n3",
+          "publishedAt": "2026-11-27T23:15:00.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/austrija-spremna-da-posreduje-u-sporu-hrvatske-i-crne-gore",
+          "publishedAt": "2026-11-28T08:43:42.469Z"
+        }
+      ],
+      "score": 0.1197,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f328dea4b3263475",
+      "title": "Italija zabranila nošenje burki i nikaba u školama, kazne do 1.000 evra",
+      "snippet": "Donji dom italijanskog parlamenta danas je usvoji zakon kojim se u školama zabranjuje pokrivanje lica burkom ili nikabom.",
+      "url": "https://www.danas.rs/svet/italija-zabranila-nosenje-burki-i-nikaba-u-skolama-kazne-do-1-000-evra/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2025%2F07%2F3-23-300x200.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-26T23:08:19.000Z",
+      "updatedAt": "2026-11-27T17:57:00.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/italija-zabranila-nosenje-burki-i-nikaba-u-skolama-kazne-do-1-000-evra/",
+          "publishedAt": "2026-11-26T23:08:19.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/italija-zabranila-burke-u-skolama-djordja-meloni-sprovela-najavljenu-meru/nvs2esz",
+          "publishedAt": "2026-11-26T23:54:00.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/italijanski-parlament-zabranio-burke-i-nikabe-u-skolama-kazne-placaju-roditelji/261127187",
+          "publishedAt": "2026-11-27T17:57:00.000Z"
+        }
+      ],
+      "score": 0.0846,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8f0f5d6d7f02f63c",
+      "title": "U Rusiji uhapšen zamenik glavnog komandanta Vazdušno-kosmičkih snaga",
+      "snippet": "U Rusiji je uhapšen zamenik glavnog komandanta rusko Vazdušno-kosmičkih snaga (VKS) Jurij Grehov pod optužbom za korupciju i primanje mita, preneo je",
+      "url": "https://nova.rs/vesti/svet/u-rusiji-uhapsen-zamenik-glavnog-komandanta-vazdusno-kosmickih-snaga/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1764258062_h_56491003-1200x675.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:44:53.000Z",
+      "updatedAt": "2026-11-28T12:44:53.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/u-rusiji-uhapsen-zamenik-glavnog-komandanta-vazdusno-kosmickih-snaga/",
+          "publishedAt": "2026-11-28T12:44:53.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/u-rusiji-uhapsen-zamenik-glavnog-komandanta-vazdusno-kosmickih-snaga",
+          "publishedAt": "2026-11-28T15:15:33.001Z"
+        }
+      ],
+      "score": 0.5554,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_2dd56206e9ce8da7",
+      "title": "Na izborima za prvog čoveka Tajpeja kandidat koga Kina naziva izdajnikom priznao poraz",
+      "snippet": "Kandidat vladajuće partije Tajvana priznao je danas poraz u trci za gradonačelnika Tajpeja posle prebrojanih 90 odsto glasova sa lokalnih izbora održanih u 22 grada i okruga te ostrvske države.",
+      "url": "https://www.danas.rs/svet/na-izborima-za-prvog-coveka-tajpeja-kandidat-koga-kina-naziva-izdajnikom-priznao-poraz/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2024%2F01%2F71c47117c9b04ad17ec3f439d43bccde-300x206.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:34:51.000Z",
+      "updatedAt": "2026-11-28T14:34:51.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/na-izborima-za-prvog-coveka-tajpeja-kandidat-koga-kina-naziva-izdajnikom-priznao-poraz/",
+          "publishedAt": "2026-11-28T14:34:51.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/na-izborima-za-prvog-coveka-tajpeja-kandidat-priznao-poraz",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        }
+      ],
+      "score": 0.8846,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e3c9058e32c94409",
+      "title": "Novi ruski udari na Kijev, Kličko strahuje da će glavni grad ostati bez struje i vode",
+      "snippet": "U Kijevu su danas odjeknule eksplozije i ekipe trenutno procenjuju štetu na pogođenom objektu, izjavio je gradonačelnik Vitalij Kličko.",
+      "url": "https://www.danas.rs/svet/ruski-udari-na-kijev/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2024%2F12%2FKijev--e1742381568289-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:39:21.000Z",
+      "updatedAt": "2026-11-28T13:39:21.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/ruski-udari-na-kijev/",
+          "publishedAt": "2026-11-28T13:39:21.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/novi-ruski-udar-na-kijev",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        }
+      ],
+      "score": 0.687,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_be0c00e7a1898eee",
+      "title": "Trump objasnio zašto Putina zove \"prijateljem\": Mogao bih reći da nije, ali želim sklopiti dogovor",
+      "snippet": "Američki predsjednik Donald Trump objasnio je zašto je ruskog predsjednika Vladimira Putina prošle sedmice nazvao svojim prijateljem, iako je u četvrtak na Truth Socialu od njega tražio da zaustavi vojnu agresiju u Evropi.",
+      "url": "https://www.klix.ba/vijesti/svijet/trump-objasnio-zasto-putina-zove-prijateljem-mogao-bih-reci-da-nije-ali-zelim-sklopiti-dogovor/261127154",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127154.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T19:19:00.000Z",
+      "updatedAt": "2026-11-27T19:19:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/tramp-nakon-sastanka-sa-sefom-nato-a-poslao-rusiji-ostru-poruku-zelim-da-se-putin/qedz05d",
+          "publishedAt": "2026-11-26T17:04:07.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/trump-trazio-sam-od-putina-da-povuce-svu-vojnu-agresiju-u-evropi/261127003",
+          "publishedAt": "2026-11-27T05:28:00.000Z"
+        }
+      ],
+      "score": 0.0751,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1cd3612c8bab4b71",
+      "title": "Sukobi na protestima u Tirani i pozivi na ostavku Edija Rame",
+      "snippet": "U glavnom gradu Albanije Tirani danas su izbili sukobi između policije i demonstranata, u novom u nizu antivladinih protesta.",
+      "url": "https://www.danas.rs/svet/protesti-u-tirani/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F07%2F14168972-e1784821596330-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:21:19.000Z",
+      "updatedAt": "2026-11-28T13:21:19.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/protesti-u-tirani/",
+          "publishedAt": "2026-11-28T13:21:19.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/sukobi-na-protestima-u-tirani",
+          "publishedAt": "2026-11-28T16:53:19.002Z"
+        }
+      ],
+      "score": 0.6381,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c939ea9c3a220fca",
+      "title": "U izraelskom napadu u Gazi poginula dva zaposlena u međunarodnoj organizaciji Lekari bez granica",
+      "snippet": "Međunarodna humanitarna organizacija Lekari bez granica (Medecins Sans Frontières - MSF) izrazila je danas ogorčenje nakon pogibije dvoje svojih zaposlenih, koji su u petak uveče stradali u izraelskom napadu ispred jedne klinike u Gazi.",
+      "url": "https://www.danas.rs/svet/u-izraelskom-napadu-u-gazi-poginula-dva-zaposlena-u-medjunarodnoj-organizaciji-lekari-bez-granica/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F01%2Fcbea6b677c2a12920e92d59df72fb0c7-e1768426740371-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:16:23.000Z",
+      "updatedAt": "2026-11-28T10:16:23.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/dve-osobe-poginule-u-gazi-tokom-izraelskog-napada-na-kliniku-lekara-bez-granica/6x3m8zg",
+          "publishedAt": "2026-11-28T10:10:56.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/u-izraelskom-napadu-u-gazi-poginula-dva-zaposlena-u-medjunarodnoj-organizaciji-lekari-bez-granica/",
+          "publishedAt": "2026-11-28T10:16:23.000Z"
+        }
+      ],
+      "score": 0.3501,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1253fcfb692c36df",
+      "title": "Protesti i sukobi na ulicama Evrope - zahtevi demonstranata od većih plata do prava na abortus",
+      "snippet": "Hiljade građana izašle su na ulice evropskih gradova sa različitim zahtevima – od ostavke vlade i povećanja plata do sprečavanja nasilja nad ženama i zaštite njihovih prava.",
+      "url": "https://www.rts.rs/vesti/svet/6094867/protesti-i-sukobi-na-ulicama-evrope---zahtevi-demonstranata-od-vecih-plata-do-prava-na-abortus.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F17%2F13%2F879%2F6103913%2Fthumbs%2F14558747%2FTan2026-10-2213141510_3.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:15:33.000Z",
+      "updatedAt": "2026-11-28T17:15:33.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/svet/6094867/protesti-sirom-evrope--sukobi-u-tirani-u-sofiji-traze-vece-plate-u-parizu-protiv-nasilja-nad-zenama.html",
+          "publishedAt": "2026-11-28T16:51:18.000Z"
+        }
+      ],
+      "score": 2.7609,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1db761116de91f9f",
+      "title": "Osam osoba pronađeno mrtvo na brodu sa migrantima kod Kanarskih ostrva",
+      "snippet": "Najmanje osam migranata pronađeno je mrtvo prilikom spasavanja broda sa oko 100 ljudi u blizini Kanarskih ostrva, saopštila je danas španska služba za pomorsko spasavanje, u trenutku kada nagli porast broja dolazaka preopterećuje nadležne službe u tom regionu, prenela je…",
+      "url": "https://www.danas.rs/svet/migranti-mrtvi-kod-kanarskih-ostrva/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2Fe38933c9155c16b36adab251073507dd-e1795817133324-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T22:07:25.000Z",
+      "updatedAt": "2026-11-28T07:24:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/migranti-mrtvi-kod-kanarskih-ostrva/",
+          "publishedAt": "2026-11-27T22:07:25.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/uzas-kod-kanarskih-ostrva-14-migranata-stradalo-sest-osoba-u-teskom-stanju/qrn0egg",
+          "publishedAt": "2026-11-28T07:24:00.000Z"
+        }
+      ],
+      "score": 0.2342,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b2e8a001ee4072d0",
+      "title": "Lokalni izbori na Tajvanu, Kina rasporedila vojne avione",
+      "snippet": "Glasači na Tajvanu danas izlaze na birališta za lokalne izbore, dok je Kina rasporedila vojne avione oko ostrva, prenela je britanska agencija Rojters ().",
+      "url": "https://www.danas.rs/svet/tajvan-izbori/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2022%2F11%2F2356f1a74eb34a208b7e523ebd88da12-0-50a60dd7a64748688dd3a2f023cb3019-scaled-e1669378283180-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T06:32:55.000Z",
+      "updatedAt": "2026-11-28T06:32:55.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/tajvan-bira-lokalnu-vlast-kina-prijeti-i-salje-vojne-avione/w037vz0",
+          "publishedAt": "2026-11-27T23:59:00.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/tajvan-izbori/",
+          "publishedAt": "2026-11-28T06:32:55.000Z"
+        }
+      ],
+      "score": 0.2117,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1714212dcb1808be",
+      "title": "Ništa od obaranja dokaza: Vrhovni sud Crne Gore odbio žalbe odbrane Radoja Zvicera zbog Sky aplikacije",
+      "snippet": "Vrhovni sud Crne Gore odbio je žalbu odbrane Radoja Zvicera, Milana Vujotića i Igora Božovića te potvrdio da su dokazi pribavljeni putem kriptovane aplikacije Sky pravno valjani i dopušteni.",
+      "url": "https://www.klix.ba/vijesti/svijet/nista-od-obaranja-dokaza-vrhovni-sud-crne-gore-odbio-zalbe-odbrane-radoja-zvicera-zbog-sky-aplikacije/261128127",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128127.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:35:00.000Z",
+      "updatedAt": "2026-11-28T17:35:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/nista-od-obaranja-dokaza-vrhovni-sud-crne-gore-odbio-zalbe-odbrane-radoja-zvicera-zbog-sky-aplikacije/261128127",
+          "publishedAt": "2026-11-28T17:35:00.000Z"
+        }
+      ],
+      "score": 2.7571,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b74578fb688577a0",
+      "title": "Plenković: Hrvatska ne blokira Crnu Goru, potrebno je malo političke volje na njihovoj strani",
+      "snippet": "Hrvatska podržava pristupanje Crne Gore Evropskoj uniji i već 14 godina aktivno joj pomaže na tom putu, izjavio je hrvatski premijer Andrej Plenković u Škabrnji, komentarišući odnose dve zemlje i poruke crnogorskog predsednika Jakova Milatovića iz Ohrida.",
+      "url": "https://www.danas.rs/svet/plenkovic-hrvatska-ne-blokira-crnu-goru/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2024%2F05%2F12190167-e1714566708651-300x170.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T21:07:05.000Z",
+      "updatedAt": "2026-11-27T21:07:05.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/svet/plenkovic-postavio-ultimatum-crnoj-gori-bez-dogovora-o-granici-nema-zatvaranja-poglavlja-31/",
+          "publishedAt": "2026-11-26T10:46:36.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/plenkovic-uslov-crna-gora/",
+          "publishedAt": "2026-11-26T11:19:28.000Z"
+        }
+      ],
+      "score": 0.0937,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0e8d6a8fd015b08b",
+      "title": "(Foto, Video) Policajac bacio ženu na pod, ona ustala, pa krenula na čitav kordon! Opšti haos u Tirani: Opkoljena kancelarija Edija Rame, lete kamenice i Molotovljevi kokteli",
+      "snippet": "Žestoki sukobi između demonstranata i policije obeležili su današnje antivladine proteste u Tirani, tokom kojih je povređeno više osoba, među njima policajci, demonstranti i novinari.",
+      "url": "https://www.blic.rs/vesti/svet/protest-u-tirani-policajac-bacio-zenu-na-pod-ona-ustala-i-krenula-na-ceo-kordon-video/9w68ejj",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FjG0k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83ZWY5MzNhYzlkMWFjN2NhZmIxZTA2NmM0OTI4NGU1Yy5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:34:50.000Z",
+      "updatedAt": "2026-11-28T17:34:50.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/tirana-gori-totalni-haos-u-albaniji-lete-kamenice-i-molotovljevi-kokteli-policija/l3eph3j",
+          "publishedAt": "2026-11-28T14:30:56.000Z"
+        }
+      ],
+      "score": 2.4076,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_31c2a4f9ad43b3cb",
+      "title": "Šamar iz opozicije za Netanyahuov prijedlog, Lapid nije štedio riječi: \"Prozirna prevara serijskog prevaranta\"",
+      "snippet": "Netanyahuov prijedlog je još jedna prozirna prevara serijskog prevaranta koji je izigrao svakog partnera i prekršio svaki dogovor.",
+      "url": "https://www.klix.ba/vijesti/svijet/samar-iz-opozicije-za-netanyahuov-prijedlog-lapid-nije-stedio-rijeci-prozirna-prevara-serijskog-prevaranta/261128129",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128129.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:20:00.000Z",
+      "updatedAt": "2026-11-28T17:20:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/samar-iz-opozicije-za-netanyahuov-prijedlog-lapid-nije-stedio-rijeci-prozirna-prevara-serijskog-prevaranta/261128129",
+          "publishedAt": "2026-11-28T17:20:00.000Z"
+        }
+      ],
+      "score": 2.3171,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_31a4259a07ddd765",
+      "title": "Argentina nije uspela da zaustavi projekat istraživanja nafte kraj Folklandskih ostrva",
+      "snippet": "Argentinski pokušaj da se blokira projekat istraživanja nafte blizu Folklandskih ostrva odbacio je međunarodni tribunal koji podržavaju Ujedinjene nacije.",
+      "url": "https://www.danas.rs/svet/argentina-nije-uspela-da-zaustavi-projekat-istrazivanja-nafte-kraj-folklandskih-ostrva/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F7544a97ccc4405d160008c634699b18c-scaled-e1795885249240-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:01:25.000Z",
+      "updatedAt": "2026-11-28T17:01:25.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/argentina-nije-uspela-da-zaustavi-projekat-istrazivanja-nafte-kraj-folklandskih-ostrva/",
+          "publishedAt": "2026-11-28T17:01:25.000Z"
+        }
+      ],
+      "score": 2.1542,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4ce52b5fa7669843",
+      "title": "Policija upala u sedište stranke Marin le Pen! Cure poverljivi podaci, skandal trese Francusku: Usred akcije zatekli i tužioca",
+      "snippet": "Policija je pretresla kuću i kancelariju Ambroaza de Rijenkura, jednog od ključnih saradnika Marin Le Pen, u okviru istrage o curenju informacija iz Ministarstva unutrašnjih poslova prema stranci Nacionalno okupljanje (RN).",
+      "url": "https://www.blic.rs/vesti/svet/policija-upala-u-sediste-stranke-marin-le-pen/1whxcc1",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FxIDk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xNTRiZmMxMjRkYzM4NGI3ZTRlYWQwOTM2ZWEyZWI5Mi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:19:43.000Z",
+      "updatedAt": "2026-11-28T17:19:43.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/policija-upala-u-sediste-stranke-marin-le-pen/1whxcc1",
+          "publishedAt": "2026-11-28T17:19:43.000Z"
+        }
+      ],
+      "score": 2.0212,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_cf2f79c19ffdc037",
+      "title": "Na grčka ostrva čamcima iz Afrike za dva dana stiglo više od 1.100 migranata, dvoje poginulih",
+      "snippet": "Više od 1.100 migranata, koji su iz Severne Afrike putovali čamcima, stiglo je tokom protekla dva dana na grčka ostrva Krit i Gavdos, a dvoje ljudi je poginulo, saopštile su vlasti i obalska straža.",
+      "url": "https://www.danas.rs/svet/grcka-migranti/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2019%2F04%2Fh_55107874-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:35:52.000Z",
+      "updatedAt": "2026-11-28T16:35:52.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/grcka-migranti/",
+          "publishedAt": "2026-11-28T16:35:52.000Z"
+        }
+      ],
+      "score": 1.715,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1eaa14df8fbd3532",
+      "title": "Huti: Udar saudijske avijacije na Sanu ranio najmanje 15 ljudi, gori elektrana u Mokhi",
+      "snippet": "U zračnom udaru na naselje Abu Shamla u glavnom gradu Jemena Sani u subotu ujutro ranjeno je najmanje 15 ljudi, među kojima i dvije žene, saopćili su Huti, koji za napade optužuju Saudijsku Arabiju.",
+      "url": "https://www.klix.ba/vijesti/svijet/huti-udar-saudijske-avijacije-na-sanu-ranio-najmanje-15-ljudi-gori-elektrana-u-mokhi/261128060",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128060.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:45:00.000Z",
+      "updatedAt": "2026-11-28T16:45:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/huti-udar-saudijske-avijacije-na-sanu-ranio-najmanje-15-ljudi-gori-elektrana-u-mokhi/261128060",
+          "publishedAt": "2026-11-28T16:45:00.000Z"
+        }
+      ],
+      "score": 1.6474,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c408a32389a0d55c",
+      "title": "Zemljotres magnitude 6,2 na Kamčatki, građani iz kreveta bežali iz kuća",
+      "snippet": "Zemljotres magnitude 6,2 rano jutros pogodio je Kamčatku, prenela je danas ruska agencija Tass.",
+      "url": "https://www.danas.rs/svet/zemljotres-kamcatka/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2024%2F02%2F1-257-e1711101776772-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:23:54.000Z",
+      "updatedAt": "2026-11-28T16:23:54.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/zemljotres-kamcatka/",
+          "publishedAt": "2026-11-28T16:23:54.000Z"
+        }
+      ],
+      "score": 1.5581,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_d56c9db247d89b2f",
+      "title": "Novi strah na istočnom krilu NATO: EU zemlja uvodi zonu zabrane leta, traži trajno prisustvo američkih trupa i želi da PRESREĆE RUSKE RAKETE iznad Ukrajine",
+      "snippet": "Česti upadi ruskih dronova i raketa u vazdušni prostor Poljske naveli su Varšavu da objavi planove o uvođenju zone zabrane letova duž istočne granice, pozove na trajno prisustvo američkih trupa u zemlji, te čak urgira na ostale NATO članice da presreću ruske projektile iznad…",
+      "url": "https://www.blic.rs/vesti/svet/strah-na-istocnom-krilu-nato-poljska-uvodi-zonu-zabrane-leta-trazi-trajno-prisustvo/j4f0phh",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F5lfk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hZWNjMzZlNjQ2Nzk0NzI3ZGJhM2UxZGU2MjllZjljZS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:52:01.000Z",
+      "updatedAt": "2026-11-28T16:52:01.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/strah-na-istocnom-krilu-nato-poljska-uvodi-zonu-zabrane-leta-trazi-trajno-prisustvo/j4f0phh",
+          "publishedAt": "2026-11-28T16:52:01.000Z"
+        }
+      ],
+      "score": 1.5344,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_33b3ab6a5f38fcf8",
+      "title": "Netanyahu ne odustaje od vlasti, za Eisenkota ima novi zahtjev: \"Moja je odgovornost da ostavim sve po strani\"",
+      "snippet": "Premijer Benjamin Netanyahu je u saopštenju objavljenom u subotu prvi put potvrdio da je spreman dozvoliti lideru stranke Yashar, Gadiju Eisenkotu, da prvo obavlja funkciju premijera u predloženoj vladi nacionalnog jedinstva, dok će Netanyahu biti zamjenik premijera.",
+      "url": "https://www.klix.ba/vijesti/svijet/netanyahu-ne-odustaje-od-vlasti-za-eisenkota-ima-novi-zahtjev-moja-je-odgovornost-da-ostavim-sve-po-strani/261128126",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128126.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:34:00.000Z",
+      "updatedAt": "2026-11-28T16:34:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/netanyahu-ne-odustaje-od-vlasti-za-eisenkota-ima-novi-zahtjev-moja-je-odgovornost-da-ostavim-sve-po-strani/261128126",
+          "publishedAt": "2026-11-28T16:34:00.000Z"
+        }
+      ],
+      "score": 1.5012,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_15a447d7c5582cd1",
+      "title": "Američke snage odbranile vojni aerodrom u Velikoj Britaniji od napada šest dronova, sumnja se na iransku operaciju",
+      "snippet": "Američka vojska je početkom novembra protudronskom tehnologijom odbila oko šest dronova koji su se rojili iznad britanske zračne baze RAF Lakenheath, piše Financial Times, navodeći da se sumnja da je Iran povezan s incidentom.",
+      "url": "https://www.klix.ba/vijesti/svijet/americke-snage-odbranile-vojni-aerodrom-u-velikoj-britaniji-od-napada-sest-dronova-sumnja-se-na-iransku-operaciju/261128032",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128032.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:49:00.000Z",
+      "updatedAt": "2026-11-28T15:49:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/americke-snage-odbranile-vojni-aerodrom-u-velikoj-britaniji-od-napada-sest-dronova-sumnja-se-na-iransku-operaciju/261128032",
+          "publishedAt": "2026-11-28T15:49:00.000Z"
+        }
+      ],
+      "score": 1.0796,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_708c4168a67b386a",
+      "title": "Prokineska stranka Kuomintang pobedila na lokalnim izborima u Tajpeju, vladajuća partija u tri od šest najvećih gradova na Tajvanu",
+      "snippet": "Kandidat opozicione prokineske tajvanske stranke Kuomintang (KMT) osvojla je većinu na lokalnim izborima u Tajpeju, a aktuelni gradonačelnik Tajpeja Čijang Van-an ponovo je izabran na tu funkciju, dok je vladajuća Demokratska napredna stranka (DPP) osvojila tri grada i pobedila…",
+      "url": "https://www.blic.rs/vesti/svet/lokalni-izbori-na-tajvanu-prokineska-stranka-kuomintang-pobedila-u-tajpeju-dpp-u-3/mnel12q",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fn8vk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hN2VhNTI5ZjA2ZTgyOTAxNzdmZmMwZjM5MDMxZDQ4MC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:48:30.000Z",
+      "updatedAt": "2026-11-28T15:48:30.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/lokalni-izbori-na-tajvanu-prokineska-stranka-kuomintang-pobedila-u-tajpeju-dpp-u-3/mnel12q",
+          "publishedAt": "2026-11-28T15:48:30.000Z"
+        }
+      ],
+      "score": 0.9415,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b9f6487f62ae9c03",
+      "title": "Pedro Sanchez objavio video uoči izbora u Španiji: U potpuno opuštenom i netipičnom izdanju dočekuje ključnu bitku",
+      "snippet": "Premijer Španije i kandidat na općim izborima koji se održavaju u nedjelju u Španiji Pedro Sanchez, objavio je snimak na kojem se može vidjeti kako ključnu političku bitku dočekuje potpuno opušteno.",
+      "url": "https://www.klix.ba/vijesti/svijet/pedro-sanchez-objavio-video-uoci-izbora-u-spaniji-u-potpuno-opustenom-i-netipicnom-izdanju-docekuje-kljucnu-bitku/261128115",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128115.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:45:00.000Z",
+      "updatedAt": "2026-11-28T15:45:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/pedro-sanchez-objavio-video-uoci-izbora-u-spaniji-u-potpuno-opustenom-i-netipicnom-izdanju-docekuje-kljucnu-bitku/261128115",
+          "publishedAt": "2026-11-28T15:45:00.000Z"
+        }
+      ],
+      "score": 1.0518,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_cab04176f755366c",
+      "title": "Mađarska i Ukrajina okreću novi list",
+      "snippet": "Orbanov proruski kurs godinama je ometao odnose Mađarske i Ukrajine. Sada premijer Peter Mađar i predsednik Volodimir Zelenski grade novo poverenje i dogovaraju konkretne korake za bližu saradnju.",
+      "url": "https://www.danas.rs/svet/madjarska-i-ukrajina-okrecu-novi-list/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F14468519-300x200.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:02:31.000Z",
+      "updatedAt": "2026-11-28T15:02:31.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/madjarska-i-ukrajina-okrecu-novi-list/",
+          "publishedAt": "2026-11-28T15:02:31.000Z"
+        }
+      ],
+      "score": 0.9195,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b3efabc9ce575fa7",
+      "title": "Britanski \"Telegraf\": Zelenski planira da Ukrajina potpuno uništi Krimski most",
+      "snippet": "Ukrajinski predsednik Volodimir Zelenski planira još napada na Krimski most, u kojima bi on bio potpuno uništen, izjavili su danas zvaničnici u Kijevu.",
+      "url": "https://www.blic.rs/vesti/svet/britanski-telegraf-zelenski-planira-da-ukrajina-potpuno-unisti-krimski-most/lfwgnch",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Ff3uk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82N2QyMzRiM2I3NDUxMGI3YTk0Yzg1M2Q3NzE0NjEwMC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:28:24.000Z",
+      "updatedAt": "2026-11-28T15:28:24.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/britanski-telegraf-zelenski-planira-da-ukrajina-potpuno-unisti-krimski-most/lfwgnch",
+          "publishedAt": "2026-11-28T15:28:24.000Z"
+        }
+      ],
+      "score": 0.8297,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1e0deafe4774a133",
+      "title": "Zamenik načelnika Generalštaba Oružanih snaga: \"Iran spreman da napadne svaku zemlju bilo gde na svetu koja predstavlja pretnju\"",
+      "snippet": "Zamenik načelnika Generalštaba Oružanih snaga Irana, brigadni general Kijumars Hejdari, izjavio je danas da su oružane snage te zemlje potpuno spremne da odgovore na svaki napad i da će svaka lokacija, bilo gde u svetu, sa koje bude pokrenut napad na Iran, biti smatrana za…",
+      "url": "https://www.blic.rs/vesti/svet/zamenik-nacelnika-generalstaba-oruzanih-snaga-iran-spreman-da-napadne-svaku-zemlju/h9j0lw2",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FSJgk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82ZDUyZGYzYzk5NWMyZjEzNTg5ZTM5YTkzNjQ5Y2U4NS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:04:57.000Z",
+      "updatedAt": "2026-11-28T15:04:57.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/zamenik-nacelnika-generalstaba-oruzanih-snaga-iran-spreman-da-napadne-svaku-zemlju/h9j0lw2",
+          "publishedAt": "2026-11-28T15:04:57.000Z"
+        }
+      ],
+      "score": 0.7248,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_d2717bac383dc8d2",
+      "title": "Talibani navodno zabranili navođenje ženskih imena u dokumentima – službenicima naloženo da žene oslovljavaju sa \"Bibi\"",
+      "snippet": "Talibanske vlasti navodno su zabranile upotrebu ženskih imena u zvaničnim dokumentima u severnoj avganistanskoj provinciji Balk, a zdravstvenim radnicima i drugim javnim službenicima naloženo je da se ženama obraćaju kao \"Bibi\", što znači baka ili starica, preneo je španski…",
+      "url": "https://www.rts.rs/vesti/svet/6094818/talibani-navodno-zabranili-navodjenje-zenskih-imena-u-dokumentima--sluzbenicima-nalozeno-da-zene-oslovljavaju-sa-bibi.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F14%2F10%2F483%2F6103664%2Fthumbs%2F14558024%2FTali__zene_t.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:22:03.000Z",
+      "updatedAt": "2026-11-28T13:24:44.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/svet/6094818/talibani-navodno-zabranili-navodjenje-zenskih-imena-u-dokumentima--sluzbenicima-nalozeno-da-zene-oslovljavaju-sa-bibi.html",
+          "publishedAt": "2026-11-28T13:22:03.000Z"
+        }
+      ],
+      "score": 0.6469,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4910a1e783677bfa",
+      "title": "Švedska više od dva meseca bez vlade – Kristerson traži od parlamenta novi mandat",
+      "snippet": "Od parlamentarnih izbora u Švedskoj prošlo je 76 dana, a i dalje nije poznata parlamentarna većina koja bi formirala novu vladu.",
+      "url": "https://www.rts.rs/vesti/svet/6094799/svedska-vise-od-dva-meseca-bez-vlade--kristerson-trazi-od-parlamenta-novi-mandat-.html",
+      "imageUrl": null,
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:18:15.000Z",
+      "updatedAt": "2026-11-28T13:18:15.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/svet/6094799/svedska-vise-od-dva-meseca-bez-vlade--kristerson-trazi-od-parlamenta-novi-mandat-.html",
+          "publishedAt": "2026-11-28T13:18:15.000Z"
+        }
+      ],
+      "score": 0.6304,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8e301d324368d079",
+      "title": "Šta bi se desilo ako bi Rusija detonirala nuklearno oružje u svemiru: Odgovor leži u testu iz 1962. godine",
+      "snippet": "Rusija se navodno priprema za lansiranje satelita s nuklearnim naoružanjem u svemir kasnije ove godine, što predstavlja scenarij koji bi mogao stvoriti ozbiljnu prijetnju globalnim komunikacijama.",
+      "url": "https://www.klix.ba/vijesti/svijet/sta-bi-se-desilo-ako-bi-rusija-detonirala-nuklearno-oruzje-u-svemiru-odgovor-lezi-u-testu-iz-1962-godine/261128085",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128085.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:53:00.000Z",
+      "updatedAt": "2026-11-28T13:53:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/svijet/sta-bi-se-desilo-ako-bi-rusija-detonirala-nuklearno-oruzje-u-svemiru-odgovor-lezi-u-testu-iz-1962-godine/261128085",
+          "publishedAt": "2026-11-28T13:53:00.000Z"
+        }
+      ],
+      "score": 0.5826,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_473e51b4a13e6171",
+      "title": "\"Moć ljubavi\" u senci oštrih reči – može li Pedro Sančez ponovo da preokrene sudbinu",
+      "snippet": "Posle osam godina na vlasti, španski premijer Pedro Sančez suočava se sa jednim od najtežih izbornih testova u političkoj karijeri.",
+      "url": "https://www.rts.rs/vesti/svet/6094778/moc-ljubavi-u-senci-ostrih-reci--moze-li-pedro-sancez-ponovo-da-preokrene-sudbinu.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F14%2F13%2F800%2F6103562%2Fthumbs%2F14557790%2FSancez-tt.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:02:52.000Z",
+      "updatedAt": "2026-11-28T13:02:52.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/svet/6094778/moc-ljubavi-u-senci-ostrih-reci--moze-li-pedro-sancez-ponovo-da-preokrene-sudbinu.html",
+          "publishedAt": "2026-11-28T13:02:52.000Z"
+        }
+      ],
+      "score": 0.5938,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_970c96cc58313d68",
+      "title": "EPA: Prvi rezultati analiza eksplozije u Ajovi pokazuju zanemarljivu kontaminaciju",
+      "snippet": "Prvi laboratorijski rezultati analiza zemljišta i vode nakon detonacije skoro pet tona olovnog azida u američkoj saveznoj državi Ajova pokazuju da eksplozija nije dovela do povećanja nivoa olova u životnoj sredini, saopštila je danas američka Agencija za zaštitu životne sredine…",
+      "url": "https://www.blic.rs/vesti/svet/epa-prvi-rezultati-analiza-eksplozije-u-ajovi-pokazuju-zanemarljivu-kontaminaciju/ex32cd9",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FSahk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84ZjBlMDhjZTg2NDc5OTNjYWEyNTllYzk2MDZkOWI4Ny5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:03:49.000Z",
+      "updatedAt": "2026-11-28T14:03:49.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/svet/epa-prvi-rezultati-analiza-eksplozije-u-ajovi-pokazuju-zanemarljivu-kontaminaciju/ex32cd9",
+          "publishedAt": "2026-11-28T14:03:49.000Z"
+        }
+      ],
+      "score": 0.5348,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_d33063bd6a1553ba",
+      "title": "Kako Ukrajina upravlja sredstvima EU i kako se bori protiv korupcije?",
+      "snippet": "Ukrajini su potrebna značajna sredstva za sanaciju štete nastale zbog ruskih vazdušnih udara – sredstva koja često stižu iz EU. Novinari i političari otkrivaju slučajeve moguće korupcije – i to donosi promene.",
+      "url": "https://www.danas.rs/svet/kako-ukrajina-upravlja-sredstvima-eu-i-kako-se-bori-protiv-korupcije/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F10%2F14398153-e1793259789180-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Svet",
+      "categorySlug": "svet",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:02:07.000Z",
+      "updatedAt": "2026-11-28T13:02:07.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/svet/kako-ukrajina-upravlja-sredstvima-eu-i-kako-se-bori-protiv-korupcije/",
+          "publishedAt": "2026-11-28T13:02:07.000Z"
+        }
+      ],
+      "score": 0.5329,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    }
+  ]
+}

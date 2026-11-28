@@ -1,0 +1,1116 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T17:37:03.564Z",
+  "feedType": "category",
+  "category": "Biznis i Finansije",
+  "categorySlug": "biznis-i-finansije",
+  "totalItems": 40,
+  "items": [
+    {
+      "id": "clu_66e669872a893881",
+      "title": "Sanja Fric: Ekspo ćemo vratiti u zakonske okvire i proveriti bezbednost objekata",
+      "snippet": "Narodna poslanica liste \"Studentska lista – studenti pobeđuju\" i profesorka Građevinskog fakulteta Sanja Fric izjavila je da je mala verovatnoća da međunarodna izložba Ekspo bude otkazana, jer je reč o preuzetoj međunarodnoj obavezi Srbije.",
+      "url": "https://www.rts.rs/vesti/politika/6094638/sanja-fric-ekspo.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F21%2F15%2F444%2F6102356%2Fthumbs%2F14555018%2FSanja_Fric.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T20:12:41.000Z",
+      "updatedAt": "2026-11-28T08:24:35.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094638/sanja-fric-ekspo.html",
+          "publishedAt": "2026-11-27T20:12:41.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/biznis/ekspo-mora-biti-odrzan-ali-sledi-provera-bezbednosti-objekata/",
+          "publishedAt": "2026-11-27T20:15:32.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/sanja-fric-mala-verovatnoca-da-se-ekspo-otkaze/qp8stxz",
+          "publishedAt": "2026-11-27T20:21:38.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/ekonomija/fric-ekspo-je-medjunarodna-obaveza/",
+          "publishedAt": "2026-11-27T20:22:03.000Z"
+        }
+      ],
+      "score": 0.3465,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_807cbb3197031b81",
+      "title": "Pošta, Poštanska štedionica i uloga MMF-a – šta se dešavalo iza kulisa isplate penzija",
+      "snippet": "Posle međusobnih optužbi zbog zastoja u isplati penzija, rukovodstva Pošte Srbije i Poštanske štedionice naredne nedelje sešće za isti sto.",
+      "url": "https://www.rts.rs/vesti/ekonomija/6094716/posta-postanska-stedionica-i-uloga-mmf-a--sta-se-desavalo-iza-kulisa-isplate-penzija.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F8%2F59%2F890%2F6102695%2Fthumbs%2F14556167%2FPostanska_t.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T07:51:53.000Z",
+      "updatedAt": "2026-11-28T15:48:21.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/biznis/dogovoren-sastanak-rukovodstava-poste-i-potanske-stedionice/",
+          "publishedAt": "2026-11-27T11:10:44.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/ekonomija/6094716/posta-postanska-stedionica-i-uloga-mmf-a--sta-se-desavalo-iza-kulisa-isplate-penzija.html",
+          "publishedAt": "2026-11-28T07:51:53.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/ekonomija/postanska-stedionica-alta-banka/",
+          "publishedAt": "2026-11-28T15:48:21.000Z"
+        }
+      ],
+      "score": 1.6124,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c349b1ba08d25005",
+      "title": "Šok cene ribe uoči božićnog posta: Pojedine vrste poskupele i za 1.000 dinara",
+      "snippet": "Ribarnice širom Srbije uveliko se pripremaju za božićni post, što se i vidi po bazenima i akvarijumima smeštenim u lokalima. Ima svih vrsta - od najpo",
+      "url": "https://nova.rs/vesti/biznis/pojedine-vrste-ribe-poskupele-i-za-1000-dinara/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1764074066_1672838209-1672837992230.width-1200.jpeg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:16:17.000Z",
+      "updatedAt": "2026-11-28T14:16:17.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/moj-novcanik/cene-ribe-na-pijacama-uoci-bozicnog-posta-detaljan-cenovnik-za-posnu-trpezu/2mv4hgd",
+          "publishedAt": "2026-11-27T13:30:41.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/biznis/pojedine-vrste-ribe-poskupele-i-za-1000-dinara/",
+          "publishedAt": "2026-11-28T14:16:17.000Z"
+        }
+      ],
+      "score": 0.809,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c2c4b8e0062afa58",
+      "title": "AOD angažuje revizora za proveru finansijskog stanja Alta banke",
+      "snippet": "Agencija za osiguranje depozita (AOD) koja sprovodi stečaj Alta banke raspisala je poziv za dostavljanje ponude utvrđivanje finansijskog stanja Alta banke.",
+      "url": "https://www.danas.rs/vesti/ekonomija/aod-angazuje-revizora-za-proveru-finansijskog-stanja-alta-banke/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F3-2-e1793615611506-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T09:31:41.000Z",
+      "updatedAt": "2026-11-28T10:49:22.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/ekonomija/aod-angazuje-revizora-za-proveru-finansijskog-stanja-alta-banke/",
+          "publishedAt": "2026-11-27T09:31:41.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/agencija-za-osiguranje-depozita-trazi-revizore-za-proveru-finansija-alta-banke-u/t5hj2cr",
+          "publishedAt": "2026-11-28T10:49:22.000Z"
+        }
+      ],
+      "score": 0.3834,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_318269279b2e95b9",
+      "title": "Osamnaest pitanja za Narodnu banku Srbije",
+      "snippet": "Ekskluzivno: Šta otkriva poverljivo rešenje NBS o oduzimanju dozvole za rad Alta banci, 3. deo",
+      "url": "https://radar.nova.rs/ekonomija/osamnaest-pitanja-za-nbs/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fradar.nova.rs%2Fwp-content%2Fuploads%2F2026%2F09%2Fjorgovanka_tabakovic_kbf_02032026_0006-300x200.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "radar",
+      "sourceName": "Radar",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T23:03:00.000Z",
+      "updatedAt": "2026-11-27T23:03:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "radar",
+          "name": "Radar",
+          "url": "https://radar.nova.rs/ekonomija/ko-je-i-zasto-davoru-macuri-cuvao-ledja/",
+          "publishedAt": "2026-11-25T23:03:00.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/ekonomija/davor-macura-alta-banka-nbs-poverljivo-resenje/",
+          "publishedAt": "2026-11-26T06:46:26.000Z"
+        }
+      ],
+      "score": 0.1072,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_78a06d66a21d1710",
+      "title": "Gorivo jeftinije za tri dinara, produžena odluka o smanjenju akciza",
+      "snippet": "U narednih sedam dana gorivo će biti jeftinije za tri dinara po litru. Evrodizel košta 233 dinara, a benzin 201 dinar.",
+      "url": "https://www.rts.rs/vesti/ekonomija/6093864/cene-goriva-benzin-dizel-27-novembar.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F9%2F16%2F9%2F3%2F687%2F5937013%2Fthumbs%2F14546285%2Fgorivo.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T11:46:05.000Z",
+      "updatedAt": "2026-11-28T08:54:05.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/ekonomija/vlada-usvojila-odluke-u-vezi-sa-akcizama-na-gorivo/",
+          "publishedAt": "2026-11-26T11:02:55.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/vlada-produzila-smanjenje-akciza-na-gorivo-do-6-decembra-zabrana-izvoza-nafte-do/mbs38nc",
+          "publishedAt": "2026-11-26T11:13:49.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/ekonomija/6093864/cene-goriva-benzin-dizel-27-novembar.html",
+          "publishedAt": "2026-11-27T11:46:05.000Z"
+        }
+      ],
+      "score": 0.3421,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_65a919da5e215c1d",
+      "title": "Vitezi: Voz Beograd-Budimpešta mogao bi da krene brzo, ali i za nekoliko meseci",
+      "snippet": "Mađarski ministar saobraćaja David Vitezi izjavio je da putnički železnički saobraćaj na relaciji Budimpešta - Beograd mogao bi da bude uspostavljen relativno brzo, ali bi njegovo pokretanje moglo da bude odloženo i za nekoliko meseci, u zavisnosti od rezultata ispitivanja…",
+      "url": "https://www.rts.rs/vesti/ekonomija/6094883/vitezi-voz-beograd-budimpesta-mogao-bi-da-krene-brzo-ali-i-za-nekoliko-meseci.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F18%2F1%2F591%2F6104015%2Fthumbs%2F14558993%2Fvoz_t.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:16:02.000Z",
+      "updatedAt": "2026-11-28T17:16:02.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/evo-kada-bo-voz-od-beograda-do-budimpeste-mogao-da-pocne-sa-radom/hdyl16b",
+          "publishedAt": "2026-11-28T16:28:41.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/ekonomija/6094883/vitezi-voz-beograd-budimpesta-mogao-bi-da-krene-brzo-ali-i-za-nekoliko-meseci.html",
+          "publishedAt": "2026-11-28T17:16:02.000Z"
+        }
+      ],
+      "score": 3.0526,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f73586c4e4eb2eef",
+      "title": "Vlada Crne Gore usvojila budžet za 2027. godinu s minimalnom platom do 1.400 eura",
+      "snippet": "Vlada Crne Gore utvrdila je Prijedlog budžeta za 2027. godinu, vrijedan više od pet milijardi eura, zajedno s takozvanim \"Euro modelom\" kojim se od 1. januara predviđa drastičan rast minimalnih plata na 1.000, 1.250 i 1.400 eura, zavisno od stepena obrazovanja.",
+      "url": "https://www.klix.ba/biznis/finansije/vlada-crne-gore-usvojila-budzet-za-2027-godinu-s-minimalnom-platom-do-1400-eura/261128111",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128111.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:44:00.000Z",
+      "updatedAt": "2026-11-28T16:44:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/biznis/finansije/vlada-crne-gore-usvojila-budzet-za-2027-godinu-s-minimalnom-platom-do-1400-eura/261128111",
+          "publishedAt": "2026-11-28T16:44:00.000Z"
+        }
+      ],
+      "score": 1.6331,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fee79ef0d4e7f09f",
+      "title": "Aerodrom Tuzla obara rekorde, ali svaki dolazak putnika ima svoju cijenu: Koliko se novca izdvaja iz budžeta kantona",
+      "snippet": "Međunarodni aerodrom u Tuzli ove godine bilježi najuspješniji rezultat od osnivanja, a broj putnika već je premašio rekord ostvaren 2019. godine. Ipak, iza sve većeg broja putnika i širenja mreže aviolinija nalazi se i značajno ulaganje javnog novca.",
+      "url": "https://www.klix.ba/biznis/ekonomija/aerodrom-tuzla-obara-rekorde-ali-svaki-dolazak-putnika-ima-svoju-cijenu-koliko-se-novca-izdvaja-iz-budzeta-kantona/261128094",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128094.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:02:00.000Z",
+      "updatedAt": "2026-11-28T16:02:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/biznis/ekonomija/aerodrom-tuzla-obara-rekorde-ali-svaki-dolazak-putnika-ima-svoju-cijenu-koliko-se-novca-izdvaja-iz-budzeta-kantona/261128094",
+          "publishedAt": "2026-11-28T16:02:00.000Z"
+        }
+      ],
+      "score": 1.1789,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bd7075bfd808dbc9",
+      "title": "Šok za 3,7 miliona ljudi: U zemlji u koju Srbi hrle od 2027. računi za struju biće duplo skuplji: Evo zašto cene skaču i šta sve treba da znate",
+      "snippet": "Povećanje cena električne energije u Nemačkoj u narednim mesecima uticaće na oko 3,7 miliona domaćinstava, prema podacima portala za poređenje cena Verivox.",
+      "url": "https://www.blic.rs/biznis/vesti/u-nemackoj-od-2027-godine-poskupljuje-struja/mc6qh7t",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fktbk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xYjczYjFjZmI5NzBjYjVjMGQ4NTEzZTEzOWE3ZDc5ZS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:28:59.000Z",
+      "updatedAt": "2026-11-28T15:28:59.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/u-nemackoj-od-2027-godine-poskupljuje-struja/mc6qh7t",
+          "publishedAt": "2026-11-28T15:28:59.000Z"
+        }
+      ],
+      "score": 0.8326,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_27871a9a7d4f505b",
+      "title": "Bh. ljekari i privrednici u Kelnu: Kako znanje i kapital dijaspore staviti u funkciju razvoja BiH?",
+      "snippet": "Bolje liječenje pacijenata, edukacija ljekara i nove investicije u Bosni i Hercegovini bile su glavne teme Trećeg kongresa bosanskohercegovačkih ljekara u Kelnu. Skup je okupio više od 300 stručnjaka, a prvi put je održan i biznis forum \"Visio Bosnae\".",
+      "url": "https://www.klix.ba/vijesti/dijaspora/bh-ljekari-i-privrednici-u-kelnu-kako-znanje-i-kapital-dijaspore-staviti-u-funkciju-razvoja-bih/261128109",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128109.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:25:00.000Z",
+      "updatedAt": "2026-11-28T15:25:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/dijaspora/bh-ljekari-i-privrednici-u-kelnu-kako-znanje-i-kapital-dijaspore-staviti-u-funkciju-razvoja-bih/261128109",
+          "publishedAt": "2026-11-28T15:25:00.000Z"
+        }
+      ],
+      "score": 0.9291,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bab166c93ce39d65",
+      "title": "Koliko biste pingvina izbrojali za 2.500 evra? Traže se kandidati za jedan od najčudnijih poslova na svetu: Nije lako kao što zvuči",
+      "snippet": "Britanska fondacija UK Antarctic Heritage Trust (UKAHT) ponovo traži kandidate za jedan od najneobičnijih poslova na planeti - dočekivanje turista u Port Lokroju na Antarktiku, pečatiranje razglednica i prebrojavanje pingvina.",
+      "url": "https://www.blic.rs/biznis/vesti/traze-se-kandidati-za-posao-na-antarktiku-plata-i-do-2500-evra/sy9yzsr",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fy6mk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yM2NlMGZiM2ZhOWI0MGJkN2NhYmZmNjYwMTYwMzQ2NC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:14:00.000Z",
+      "updatedAt": "2026-11-28T15:14:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/traze-se-kandidati-za-posao-na-antarktiku-plata-i-do-2500-evra/sy9yzsr",
+          "publishedAt": "2026-11-28T15:14:00.000Z"
+        }
+      ],
+      "score": 0.7625,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_5aebd471fd48b015",
+      "title": "Bugojno za drugu fazu obnove stadiona Hendek planira 800.000 KM",
+      "snippet": "Općina Bugojno raspisala je tender za drugu fazu adaptacije i rekonstrukcije stadiona Hendek, a vrijednost radova procijenila je na 800.000 KM bez PDV-a.",
+      "url": "https://www.klix.ba/biznis/investicije/bugojno-za-drugu-fazu-obnove-stadiona-hendek-planira-800000-km/261128050",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128050.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:07:00.000Z",
+      "updatedAt": "2026-11-28T14:07:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/biznis/investicije/bugojno-za-drugu-fazu-obnove-stadiona-hendek-planira-800000-km/261128050",
+          "publishedAt": "2026-11-28T14:07:00.000Z"
+        }
+      ],
+      "score": 0.6201,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8cf6ef0e137632c8",
+      "title": "U Švicarskoj počinje isplata 13. penzije, imućni najavljuju donacije: \"Bogat sam, ne treba mi dodatni novac\"",
+      "snippet": "U Švicarskoj u decembru prvi put počinje isplata 13. AHV (starosne i porodične) penzije, od koje će koristi imati stotine hiljada penzionera širom zemlje.",
+      "url": "https://www.klix.ba/biznis/finansije/u-svicarskoj-pocinje-isplata-13-penzije-imucni-najavljuju-donacije-bogat-sam-ne-treba-mi-dodatni-novac/261128086",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128086.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:52:00.000Z",
+      "updatedAt": "2026-11-28T13:52:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/biznis/finansije/u-svicarskoj-pocinje-isplata-13-penzije-imucni-najavljuju-donacije-bogat-sam-ne-treba-mi-dodatni-novac/261128086",
+          "publishedAt": "2026-11-28T13:52:00.000Z"
+        }
+      ],
+      "score": 0.5801,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bbe5293db99bef6d",
+      "title": "Evropa pred katastrofom! Skoro četiri miliona ljudi bi moglo da ostane bez posla: Svakoj drugoj kompaniji preti kolaps, zatražene hitne mere",
+      "snippet": "Evropskoj industriji je sve teže da održi korak sa globalnom konkurencijom, a posledice bi mogle da utiču na milione radnika.",
+      "url": "https://www.blic.rs/biznis/vesti/evropa-pred-industrijskim-kolapsom-ugrozeno-skoro-cetiri-miliona-radnika/z7wgvb0",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FOB2k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mN2MyMDcyYzIxNDM0ODc4ZjE3MTlkM2NiZTE5NjE3ZC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:59:38.000Z",
+      "updatedAt": "2026-11-28T13:59:38.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/evropa-pred-industrijskim-kolapsom-ugrozeno-skoro-cetiri-miliona-radnika/z7wgvb0",
+          "publishedAt": "2026-11-28T13:59:38.000Z"
+        }
+      ],
+      "score": 0.5249,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_aba87bd423638a66",
+      "title": "Luka ima 14 godina i velike planove za porodičnu farmu: Gaje 20 konja, a on želi da udvostruči njihov broj",
+      "snippet": "Dok mnogi njegovi vršnjaci još ne znaju čime žele da se bave u budućnosti, četrnaestogodišnji Luka iz Bobovca, sela nedaleko od Siska u Hrvatskoj, nema nikakvu dilemu.",
+      "url": "https://www.blic.rs/biznis/privreda/luka-sa-14-godina-planira-da-prosiri-porodicno-poljoprivredno-gazdinstvo/8gqwy3m",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FYtNk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82YzU5ZTI4Mjk4ODFjNjVlMGYxNzllYzU2MDc2ZmMwMS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:01:44.000Z",
+      "updatedAt": "2026-11-28T13:01:44.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/privreda/luka-sa-14-godina-planira-da-prosiri-porodicno-poljoprivredno-gazdinstvo/8gqwy3m",
+          "publishedAt": "2026-11-28T13:01:44.000Z"
+        }
+      ],
+      "score": 0.4139,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bd75ae984b6756d0",
+      "title": "Zgrada Edina Džeke na Marijin Dvoru dobija konačni izgled, fasada je gotovo završena",
+      "snippet": "Stambeno-poslovna zgrada koju iza Sarajevo City Centra grade kapiten nogometne reprezentacije BiH Edin Džeko i biznismen Amer Bukvić polahko dobija konačni izgled, a fasada je gotovo završena.",
+      "url": "https://www.klix.ba/biznis/ekonomija/zgrada-edina-dzeke-na-marijin-dvoru-dobija-konacni-izgled-fasada-je-gotovo-zavrsena/261128059",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128059.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:54:00.000Z",
+      "updatedAt": "2026-11-28T11:54:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/biznis/ekonomija/zgrada-edina-dzeke-na-marijin-dvoru-dobija-konacni-izgled-fasada-je-gotovo-zavrsena/261128059",
+          "publishedAt": "2026-11-28T11:54:00.000Z"
+        }
+      ],
+      "score": 0.3731,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_ef3e7422c8048d7e",
+      "title": "Ovaj državni put dobija novo ime: Menja se oznaka jedne od najprometnijih deonica ka jugu Srbije, poznato i šta je za saobraćajnicom kod Surčina",
+      "snippet": "Vlada Srbije u tehničkom mandatu donela je Uredbu o izmenama Uredbe o kategorizaciji državnih puteva kojom se menja oznaka državnog puta na pravcu Kraljevo - Raška - Novi Pazar sa M1 na M17, dok se rok za privremenu kategorizaciju saobraćajnice Novi Beograd (Vojvođanska ulica)…",
+      "url": "https://www.blic.rs/biznis/vesti/put-od-kraljeva-preko-raske-dobija-oznaku-m17-produzen-rok-za-status-saobracajnice-ka/x0syxfv",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F71fk9lCaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85NGExZmMwNTMwZDJmMDI3NDEwMzMxMmRjYjE5MTQyZi53ZWJwkZMFzQJCzQGBgQAB&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:55:48.000Z",
+      "updatedAt": "2026-11-28T12:55:48.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/put-od-kraljeva-preko-raske-dobija-oznaku-m17-produzen-rok-za-status-saobracajnice-ka/x0syxfv",
+          "publishedAt": "2026-11-28T12:55:48.000Z"
+        }
+      ],
+      "score": 0.4047,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_7f377823458c2119",
+      "title": "Za pun rezervoar dizela u Srbiji plaćalo se 3.300 dinara više nego u Severnoj Makedoniji: Evo cena goriva u regionu",
+      "snippet": "Iako su od petka, 27. novembra, cene evrodizela i benzina u Srbiji niže za po tri dinara, domaći vozači i dalje plaćaju gorivo više nego stanovnici većine zemalja regiona, prema poslednjem uporednom pregledu Udruženja naftnih kompanija Srbije (UNKS).",
+      "url": "https://www.blic.rs/biznis/moj-novcanik/cene-goriva-u-regionu-srbija-ima-drugi-najskuplji-dizel-i-treci-najskuplji-benzin/xkd45hb",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FP5Gk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jNmNlYTc4ZDdmNzViMTQwMGQxNTNhODBiZGI5ZWViNS5wbmeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:47:55.000Z",
+      "updatedAt": "2026-11-28T12:47:55.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/moj-novcanik/cene-goriva-u-regionu-srbija-ima-drugi-najskuplji-dizel-i-treci-najskuplji-benzin/xkd45hb",
+          "publishedAt": "2026-11-28T12:47:55.000Z"
+        }
+      ],
+      "score": 0.3931,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_12213cafc376292d",
+      "title": "Bijes na pumpama u Njemačkoj: Od Nove godine stiže veliko poskupljenje goriva",
+      "snippet": "Vozači u Njemačkoj trebali bi se pripremiti za značajan cjenovni šok na benzinskim pumpama početkom nove godine. Uprkos planovima njemačke savezne vlade da uvede ograničenje cijena goriva, očekuje se da će benzin i dizel tokom 2027.",
+      "url": "https://www.klix.ba/biznis/ekonomija/bijes-na-pumpama-u-njemackoj-od-nove-godine-stize-veliko-poskupljenje-goriva/261128061",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128061.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:23:00.000Z",
+      "updatedAt": "2026-11-28T11:23:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/biznis/ekonomija/bijes-na-pumpama-u-njemackoj-od-nove-godine-stize-veliko-poskupljenje-goriva/261128061",
+          "publishedAt": "2026-11-28T11:23:00.000Z"
+        }
+      ],
+      "score": 0.3386,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_7bceb43a6a134b42",
+      "title": "Od januara novi iznosi naknada za auto-puteve u Srbiji: Evo računice za 100, 200 i 300 kilometara (tabele)",
+      "snippet": "Vlada Srbije objavila je usklađene iznose naknada za korišćenje državnih puteva, koji će se primenjivati od 1. januara 2027. godine. Novi iznosi razlikuju se u zavisnosti od kategorije vozila i vrste puta.",
+      "url": "https://www.blic.rs/biznis/vesti/putarine-2027-novi-iznosi-naknada-za-autoputeve-u-srbiji/v6pf8pg",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FqLuk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82MmUzODZlMjk4ZWE1ZTgzMDZlOGNlZTcyNDcxZWYwZS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:55:06.000Z",
+      "updatedAt": "2026-11-28T11:55:06.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/putarine-2027-novi-iznosi-naknada-za-autoputeve-u-srbiji/v6pf8pg",
+          "publishedAt": "2026-11-28T11:55:06.000Z"
+        }
+      ],
+      "score": 0.3277,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_892d00d24f89f6ff",
+      "title": "Trećina opštinskih službenika i dalje koristi privatne mejl adrese u komunikaciji sa klijentima",
+      "snippet": "Trećina službenika i dalje koristi privatne mejl adrese u komunikaciji sa strankama, dok je tek četvrtina gradova i opština digitalizovala vođenje svih službenih evidencija.",
+      "url": "https://bizlife.rs/trecina-opstinskih-sluzbenika-i-dalje-koristi-privatne-mejl-adrese-u-komunikaciji-sa-klijentima/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fbizlife.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F2333.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "bizlife",
+      "sourceName": "BizLife",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:00:00.000Z",
+      "updatedAt": "2026-11-28T11:00:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "bizlife",
+          "name": "BizLife",
+          "url": "https://bizlife.rs/trecina-opstinskih-sluzbenika-i-dalje-koristi-privatne-mejl-adrese-u-komunikaciji-sa-klijentima/",
+          "publishedAt": "2026-11-28T11:00:00.000Z"
+        }
+      ],
+      "score": 0.3162,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_6fecf49905a86f38",
+      "title": "„Prvog AI agenta je uvek najteže postaviti“: Miloš Drača o tome kako AI postaje deo poslovanja",
+      "snippet": "AI agent koji se javlja na srpskom, proverava stanje kredita, aktivira dodatke i samostalno rešava više od 80 odsto zahteva korisnika. To više nije demonstracija mogućnosti veštačke inteligencije, već svakodnevica korisničkog servisa A1 Srbije.",
+      "url": "https://bizlife.rs/prvog-ai-agenta-je-uvek-najteze-postaviti-milos-draca-o-tome-kako-ai-postaje-deo-poslovanja/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fbizlife.rs%2Fwp-content%2Fuploads%2F2026%2F11%2FMilos-Draca-Wonderful.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "bizlife",
+      "sourceName": "BizLife",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:59:36.000Z",
+      "updatedAt": "2026-11-28T10:59:36.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "bizlife",
+          "name": "BizLife",
+          "url": "https://bizlife.rs/prvog-ai-agenta-je-uvek-najteze-postaviti-milos-draca-o-tome-kako-ai-postaje-deo-poslovanja/",
+          "publishedAt": "2026-11-28T10:59:36.000Z"
+        }
+      ],
+      "score": 0.3159,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_695dd1d9f9c3db14",
+      "title": "Menja se pravilnik o mleku u Srbiji: Tiče se aflatoksina",
+      "snippet": "Srbija je ponovo odložila primenu strožih propisa o maksimalnoj dozvoljenoj koncentraciji aflatoksina u mleku.",
+      "url": "https://www.blic.rs/biznis/vesti/menja-se-pravilnik-o-mleku-u-srbiji-tice-se-aflatoksina/jmekc46",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FfmMk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jYjhkYTIwNmExZmNlMTVlYWE5MzFkNTk0YTk3NmE5Zi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:15:25.000Z",
+      "updatedAt": "2026-11-28T11:15:25.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/menja-se-pravilnik-o-mleku-u-srbiji-tice-se-aflatoksina/jmekc46",
+          "publishedAt": "2026-11-28T11:15:25.000Z"
+        }
+      ],
+      "score": 0.2896,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e686824744b4d842",
+      "title": "Sezona slava je počela, a navike potrošača se već menjaju: Pogledajte za čim raste potražnja",
+      "snippet": "Veliki broj porodica u Srbiji priprema slave, a one, tradicionalno, donose pune trpeze, okupljanje porodice i prijatelja, ali i duge spiskove za kupovinu.",
+      "url": "https://bizlife.rs/sezona-slava-je-pocela-a-navike-potrosaca-se-vec-menjaju-pogledajte-za-cim-raste-potraznja/",
+      "imageUrl": null,
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "bizlife",
+      "sourceName": "BizLife",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:38:48.000Z",
+      "updatedAt": "2026-11-28T10:38:48.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "bizlife",
+          "name": "BizLife",
+          "url": "https://bizlife.rs/sezona-slava-je-pocela-a-navike-potrosaca-se-vec-menjaju-pogledajte-za-cim-raste-potraznja/",
+          "publishedAt": "2026-11-28T10:38:48.000Z"
+        }
+      ],
+      "score": 0.2977,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0d939399ca595737",
+      "title": "Veliki skandal nakon povratka Jensena Huanga: Zabranjeni Nvidijini čipovi otkriveni u Kini",
+      "snippet": "Dvije kineske firme instalirale su Nvidijine čipove Blackwell, za čiji je izvoz u Kinu potrebna američka dozvola, u centru podataka u Šangaju povezanom s Alice Huang, pokazuju dokumenti u koje je imao uvid Bloomberg.",
+      "url": "https://www.klix.ba/biznis/ekonomija/veliki-skandal-nakon-povratka-jensena-huanga-zabranjeni-nvidijini-cipovi-otkriveni-u-kini/261128054",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128054.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:22:00.000Z",
+      "updatedAt": "2026-11-28T10:22:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/biznis/ekonomija/veliki-skandal-nakon-povratka-jensena-huanga-zabranjeni-nvidijini-cipovi-otkriveni-u-kini/261128054",
+          "publishedAt": "2026-11-28T10:22:00.000Z"
+        }
+      ],
+      "score": 0.2843,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3669ed5071a10d97",
+      "title": "Smiljka i Miloš pokrenuli nesvakidašnji biznis u Aranđelovcu: Otvorili posni restoran, namirnice nabavljaju od malih proizvođača",
+      "snippet": "U Aranđelovcu, gradu poznatom po tradicionalnoj srpskoj kuhinji i mesnim specijalitetima, bračni par Smiljka Radojičić i Miloš Stevanić odlučio je da pokrene drugačiji ugostiteljski biznis.",
+      "url": "https://www.blic.rs/biznis/privreda/smiljka-i-milos-pokrenuli-nesvakidasnji-biznis-u-arandjelovcu-otvorili-posni-restoran/gbc3sef",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FZ3uk9lMaHR0cDovL29jZG4uZXUvaW1hZ2VzL3B1bHNjbXMvWWpZN01EQV8vMzljNzAxYjI2NGUxMzlhMTJmZWI2OTY1OWM0ZjQ5OTIuanBlZ5GTBc0CQs0BgYEAAQ&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:08:47.000Z",
+      "updatedAt": "2026-11-28T11:08:47.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/privreda/smiljka-i-milos-pokrenuli-nesvakidasnji-biznis-u-arandjelovcu-otvorili-posni-restoran/gbc3sef",
+          "publishedAt": "2026-11-28T11:08:47.000Z"
+        }
+      ],
+      "score": 0.2839,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_cdd5cedbc5da8474",
+      "title": "Nakon 25 godina ukida se smanjenje penzija: HZMO će automatski ponovno izračunati iznose",
+      "snippet": "Hrvatska vlada uputila je u parlamentarnu proceduru predlog zakonskih izmena kojima bi od 1. januara 2027. godine bilo ukinuto progresivno umanjenje penzija za bivša vojna lica, policajce i ovlašćena službena lica.",
+      "url": "https://www.blic.rs/biznis/vesti/nakon-25-godina-ukida-se-smanjenje-penzija-hzmo-ce-automatski-ponovno-izracunati/sq5h81k",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FOY_k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82MDA2OGJkOTliNTI2YzNlOWQ1YmExZDI3YWI4YjhlMi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:04:55.000Z",
+      "updatedAt": "2026-11-28T11:04:55.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/nakon-25-godina-ukida-se-smanjenje-penzija-hzmo-ce-automatski-ponovno-izracunati/sq5h81k",
+          "publishedAt": "2026-11-28T11:04:55.000Z"
+        }
+      ],
+      "score": 0.2807,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f9281e60793d7328",
+      "title": "Povjerioci od Nove Željezare Zenica traže oko 352 miliona KM",
+      "snippet": "Na adresu Nove Željezare Zenica u stečaju stiglo je 225 prijava potraživanja, a prema zbiru Klix.ba povjerioci ukupno traže oko 352 miliona KM. Više od polovine tog iznosa prijavila je jedna firma, Ferrum iz Zvornika.",
+      "url": "https://www.klix.ba/biznis/ekonomija/povjerioci-od-nove-zeljezare-zenica-traze-oko-352-miliona-km/261128046",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128046.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:01:00.000Z",
+      "updatedAt": "2026-11-28T10:01:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/biznis/ekonomija/povjerioci-od-nove-zeljezare-zenica-traze-oko-352-miliona-km/261128046",
+          "publishedAt": "2026-11-28T10:01:00.000Z"
+        }
+      ],
+      "score": 0.2689,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_56c4f49fe6240b6f",
+      "title": "Ove kuće imaju 106 kvadrata, ali običan ormar u njih teško staje: Kako izgleda život u čuvenim žutim kockama u Roterdamu",
+      "snippet": "Na tržištu nekretnina kvadratura stana često je jedan od najvažnijih kriterijuma za kupce. Međutim, primer neobičnih kuća u Roterdamu pokazuje da površina nekretnine nije uvek dovoljna da bi se procenila njena funkcionalnost.",
+      "url": "https://www.blic.rs/biznis/nekretnine/ove-kuce-imaju-106-kvadrata-kako-izgleda-zivot-u-zutim-kockama-u-roterdamu/wzem562",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FHNjk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82MGZiMDVmODliNDE1OGU4NGZlZjVmOTcxMmJhYmYzYi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:02:13.000Z",
+      "updatedAt": "2026-11-28T11:02:13.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/nekretnine/ove-kuce-imaju-106-kvadrata-kako-izgleda-zivot-u-zutim-kockama-u-roterdamu/wzem562",
+          "publishedAt": "2026-11-28T11:02:13.000Z"
+        }
+      ],
+      "score": 0.2785,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1532028cc0e6892c",
+      "title": "Kotor nudi do 4.000 evra mesečno za hvatanje lutajuće stoke, Tivat do 2.000 evra po grlu",
+      "snippet": "Opštine Kotor i Tivat raspisale su javne pozive za izbor fizičkih ili pravnih lica koja će se baviti hvatanjem, transportom i privremenim zbrinjavanjem lutajuće stoke.",
+      "url": "https://www.blic.rs/biznis/vesti/kotor-nudi-do-4000-evra-mesecno-za-hvatanje-lutajuce-stoke-tivat-do-2000-evra-po-grlu/98mhw36",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F-uMk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hNDdmMWFkNmViYjMwMDY4OWQ0NzZlNGRmMzFkNjMwMi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:58:42.000Z",
+      "updatedAt": "2026-11-28T10:58:42.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/kotor-nudi-do-4000-evra-mesecno-za-hvatanje-lutajuce-stoke-tivat-do-2000-evra-po-grlu/98mhw36",
+          "publishedAt": "2026-11-28T10:58:42.000Z"
+        }
+      ],
+      "score": 0.2757,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_a0c874ae34e5d6b9",
+      "title": "Zaključen stečaj RTV Maglaj, povjerioci namireni sa 16,6 posto",
+      "snippet": "Općinski sud u Zenici zaključio je stečajni postupak nad RTV Maglaj. Povjeriocima višeg isplatnog reda podijeljeno je 8.124,21 KM, odnosno 16,6 posto, dok povjerioci općeg isplatnog reda nisu dobili ništa.",
+      "url": "https://www.klix.ba/biznis/ekonomija/zakljucen-stecaj-rtv-maglaj-povjerioci-namireni-sa-166-posto/261128045",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261128045.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:31:00.000Z",
+      "updatedAt": "2026-11-28T09:31:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/biznis/ekonomija/zakljucen-stecaj-rtv-maglaj-povjerioci-namireni-sa-166-posto/261128045",
+          "publishedAt": "2026-11-28T09:31:00.000Z"
+        }
+      ],
+      "score": 0.2492,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_455e8ba38b9febab",
+      "title": "Za ovaj posao u Americi zarada ide i do 100.000 dolara godišnje: Tehnološki giganti nude besplatne obuke, neke traju samo dva dana",
+      "snippet": "Ekspanzija veštačke inteligencije otvorila je hiljade novih poslovnih prilika u tehnološkom sektoru, ali među najtraženijim radnicima nisu samo programeri i inženjeri.",
+      "url": "https://www.blic.rs/biznis/moj-novcanik/za-ovaj-posao-u-americi-zarada-ide-i-do-100000-dolara-godisnje/tcwhfl6",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FRZWk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hYTNmOTI1ODRlZTg2ZDA4YjQ1YTQ5ZjFkN2MzZDU4NS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:51:56.000Z",
+      "updatedAt": "2026-11-28T10:51:56.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/moj-novcanik/za-ovaj-posao-u-americi-zarada-ide-i-do-100000-dolara-godisnje/tcwhfl6",
+          "publishedAt": "2026-11-28T10:51:56.000Z"
+        }
+      ],
+      "score": 0.2704,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f4945b0ea3a1d5d5",
+      "title": "LVMH kao „Succession”: Petoro naslednika bori se za mesto na vrhu luksuznog carstva",
+      "snippet": "Petoro dece, više od 75 luksuznih brendova i bogatstvo koje se meri stotinama milijardi dolara.",
+      "url": "https://bizlife.rs/lvmh-kao-succession-petoro-naslednika-bori-se-za-mesto-na-vrhu-luksuznog-carstva/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fbizlife.rs%2Fwp-content%2Fuploads%2F2026%2F11%2Fneon-wang-mP3qrq2NWHM-unsplash.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "bizlife",
+      "sourceName": "BizLife",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:30:00.000Z",
+      "updatedAt": "2026-11-28T09:30:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "bizlife",
+          "name": "BizLife",
+          "url": "https://bizlife.rs/lvmh-kao-succession-petoro-naslednika-bori-se-za-mesto-na-vrhu-luksuznog-carstva/",
+          "publishedAt": "2026-11-28T09:30:00.000Z"
+        }
+      ],
+      "score": 0.2486,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_15f1c312106a943d",
+      "title": "Izgradnja paviljona za Ekspo 2027 u završnoj fazi, Nemačka već angažovala srpske firme za uređenje enterijera",
+      "snippet": "Gradski menadžer Beograda Miroslav Čučković izjavio je danas da su radovi na izgradnji paviljona u kojima će biti izložbeni prostori za države učesnice specijalizovane izložbe Ekspo 2027 u završnoj fazi, kao i da su pojedine države već angažovale srpske firme za uređenje delova…",
+      "url": "https://www.blic.rs/biznis/vesti/ekspo-2027-beograd-radovi-paviljoni-u-zavrsnoj-fazi-i-predaja-kljuceva-do-kraja/7s1dv9h",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FIunk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMWVmMjUxZDJkMjQ2NGIxMmQyNDg4ZDMwZDI2MTkwZi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:02:15.000Z",
+      "updatedAt": "2026-11-28T10:02:15.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/ekspo-2027-beograd-radovi-paviljoni-u-zavrsnoj-fazi-i-predaja-kljuceva-do-kraja/7s1dv9h",
+          "publishedAt": "2026-11-28T10:02:15.000Z"
+        }
+      ],
+      "score": 0.2361,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_6def931f15c4b6ff",
+      "title": "Planirate svadbu ili krštenje na posebnoj lokaciji? Poskupljuju naknade i do 63.235 dinara, na spisku i fotografisanje (tabela)",
+      "snippet": "Građani koji planiraju da tokom 2027. godine organizuju venčanje ili krštenje na određenim turističkim lokalitetima u Srbiji trebalo bi da računaju i na naknade za korišćenje turističkog prostora.",
+      "url": "https://www.blic.rs/biznis/vesti/svdba-na-turistickom-mestu-u-srbiji-kostace-do-63235-dinara-naplacivace-se-i-ulaz-za/zfembps",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F2zvk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lNDU5YTlmODFiZTU4ZjNmOTg3MDY5MTEyMGM4YWUxYi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:56:43.000Z",
+      "updatedAt": "2026-11-28T09:56:43.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/svdba-na-turistickom-mestu-u-srbiji-kostace-do-63235-dinara-naplacivace-se-i-ulaz-za/zfembps",
+          "publishedAt": "2026-11-28T09:56:43.000Z"
+        }
+      ],
+      "score": 0.2327,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_7bc53ca89c475a8d",
+      "title": "Zašto je Jensen Huang zamenio kožnu jaknu pamučnom? Modna promena koja govori mnogo o liderstvu",
+      "snippet": "Jensen Huang, osnivač i izvršni direktor kompanije Nvidia, godinama je imao prepoznatljivu uniformu: crnu kožnu jaknu, koja je postala njegov zaštitni znak.",
+      "url": "https://bizlife.rs/zasto-je-jensen-huang-zamenio-koznu-jaknu-pamucnom-modna-promena-koja-govori-mnogo-o-liderstvu/",
+      "imageUrl": null,
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "bizlife",
+      "sourceName": "BizLife",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:00:00.000Z",
+      "updatedAt": "2026-11-28T09:00:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "bizlife",
+          "name": "BizLife",
+          "url": "https://bizlife.rs/zasto-je-jensen-huang-zamenio-koznu-jaknu-pamucnom-modna-promena-koja-govori-mnogo-o-liderstvu/",
+          "publishedAt": "2026-11-28T09:00:00.000Z"
+        }
+      ],
+      "score": 0.2312,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9b8aacdfaecd9d57",
+      "title": "Ovo su najbolji gradovi za život u inostranstvu u 2026. godini: Španija dominira Evropom, Nemačka među najlošije ocenjenima",
+      "snippet": "Španija se ponovo našla među najatraktivnijim zemljama za život u inostranstvu, prema istraživanju međunarodne platforme InterNations za 2026. godinu. Ipak, prvo mesto na svetskoj listi pripalo je gradu Ras el Haima u Ujedinjenim Arapskim Emiratima.",
+      "url": "https://www.blic.rs/biznis/after-hour/najbolji-gradovi-za-zivot-i-rad-u-inostranstvu-2026-spanija-ima-tri-grada-u-top-deset/9ws09ct",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fydyk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mOWIyMGNmZGIwYWE2MmYxODFhMGUyMjY5ODQ4NWNlZC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:49:33.000Z",
+      "updatedAt": "2026-11-28T09:49:33.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/after-hour/najbolji-gradovi-za-zivot-i-rad-u-inostranstvu-2026-spanija-ima-tri-grada-u-top-deset/9ws09ct",
+          "publishedAt": "2026-11-28T09:49:33.000Z"
+        }
+      ],
+      "score": 0.2285,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b0326c030f3fd632",
+      "title": "Kako da vam stan bude topliji bez pojačavanja radijatora: Četiri jednostavna trika koja koriste i hoteli",
+      "snippet": "Visoki računi za grejanje tokom zimskih meseci predstavljaju značajan trošak za kućni budžet. Međutim, nekoliko jednostavnih promena u domu može pomoći da se postojeća toplota duže zadrži, bez dodatnog pojačavanja grejanja.",
+      "url": "https://www.blic.rs/biznis/moj-novac/kako-da-vam-stan-bude-topliji-bez-pojacavanja-radijatora-cetiri-trika-koja-koriste/7g9d0w5",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FLgPk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xMzU3NjNhZDkzNzJjMTM5NGY2M2NjZmQ0YjE3Nzk3My5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:41:27.000Z",
+      "updatedAt": "2026-11-28T09:41:27.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/moj-novac/kako-da-vam-stan-bude-topliji-bez-pojacavanja-radijatora-cetiri-trika-koja-koriste/7g9d0w5",
+          "publishedAt": "2026-11-28T09:41:27.000Z"
+        }
+      ],
+      "score": 0.2238,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8b0da7e6902ccea9",
+      "title": "Vraća li se od 1. decembra sve na staro ili će nokdaun za evropske proizvođače vozila još potrajati",
+      "snippet": "Problemi Peugeota 3008 pokazuju koliko evropski proizvođači gube tržišnu bitku, dok bi nove uvozne kvote mogle ograničiti kinesku konkurenciju i omogućiti povratak proizvodnje modela poput Dacije Sandero u Evropu.",
+      "url": "https://www.klix.ba/auto/vraca-li-se-od-1-decembra-sve-na-staro-ili-ce-nokdaun-za-evropske-proizvodace-vozila-jos-potrajati/261127263",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127263.jpg&w=640&output=webp&q=80&we",
+      "category": "Biznis i Finansije",
+      "categorySlug": "biznis-i-finansije",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:36:00.000Z",
+      "updatedAt": "2026-11-28T08:36:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/auto/vraca-li-se-od-1-decembra-sve-na-staro-ili-ce-nokdaun-za-evropske-proizvodace-vozila-jos-potrajati/261127263",
+          "publishedAt": "2026-11-28T08:36:00.000Z"
+        }
+      ],
+      "score": 0.2188,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    }
+  ]
+}

@@ -1,0 +1,1128 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T17:37:03.564Z",
+  "feedType": "category",
+  "category": "Društvo",
+  "categorySlug": "drustvo",
+  "totalItems": 40,
+  "items": [
+    {
+      "id": "clu_b3e96dc18779fc53",
+      "title": "VJT Brograd se obratilo evropskim institucijama zbog Izveštaja Vrhovnog tužilaštva",
+      "snippet": "Više javno tužilaštvo u Beogradu saopštilo je da se obratilo institucijama EU, Saveta Evrope, OEBS i UN povodom prvog izveštaja Komisije Vrhovnog javnog tužilaštva o postupanju VJT u sedam krivičnih predmeta.",
+      "url": "https://www.rts.rs/vesti/drustvo/6094193/vjt-brograd-se-obratilo-evropskim-institucijama-zbog-izvestaja-vrhovnog-tuzilastva.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2023%2F3%2F3%2F12%2F2%2F811%2F1310264%2Fthumbs%2F14550140%2FVi%25C5%25A1e_javno_tu%25C5%25BEila%25C5%25A1tvo_1.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T13:54:01.000Z",
+      "updatedAt": "2026-11-28T13:55:10.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/vjt-beograd-se-obratio-eu-savetu-evrope-oebs-u-i-un-zbog-izvestaja-komisije/",
+          "publishedAt": "2026-11-27T13:12:51.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/beogradsko-vjt-pisalo-medjunarodnim-institucijama-zbog-izvestaja-komisije-vrhovnog-javnog-tuzilastva/",
+          "publishedAt": "2026-11-27T13:46:07.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/drustvo/6094193/vjt-brograd-se-obratilo-evropskim-institucijama-zbog-izvestaja-vrhovnog-tuzilastva.html",
+          "publishedAt": "2026-11-27T13:54:01.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/hronika/vise-javno-tuzilastvo-u-beogradu-se-oglasilo-povodom-obaveznog-uputstva-vrhovne-javne/6kjt33q",
+          "publishedAt": "2026-11-28T13:55:10.000Z"
+        }
+      ],
+      "score": 0.9557,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_ce4676800012af9d",
+      "title": "Zabelela se Srbija – usporen saobraćaj na auto-putu \"Miloš Veliki\", vozačima se savetuje oprez",
+      "snippet": "Snežne padavine zahvatile su planinske, ali i pojedine niže predele južno od Save i Dunava. Sneg je pao u Šapcu, Kraljevu, Kruševcu, Valjevu, Loznici i Zaječaru, a najviše ga ima u Moravičkom okrugu.",
+      "url": "https://www.rts.rs/vesti/drustvo/6094824/zabelela-se-srbija-usporen-saobracaj-na-auto-putu-milos-veliki-vozacima-se-savetuje-oprez.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F14%2F47%2F167%2F6103688%2Fthumbs%2F14558078%2FPut_t.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:45:08.000Z",
+      "updatedAt": "2026-11-28T14:48:19.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/sneg-saobracaj/",
+          "publishedAt": "2026-11-28T07:36:29.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/drustvo/6094824/zabelela-se-srbija-usporen-saobracaj-na-auto-putu-milos-veliki-vozacima-se-savetuje-oprez.html",
+          "publishedAt": "2026-11-28T13:45:08.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/drugi-stepen-pripravnosti-zbog-snega-saobracaj-usporen-na-planinama-i-milosu-velikom/qt7y4yw",
+          "publishedAt": "2026-11-28T14:48:19.000Z"
+        }
+      ],
+      "score": 1.1367,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0e9f5f484c58c042",
+      "title": "Upozorenje Puteva Srbije: Glavni putevi bez snega, ali bez zimske opreme ne krećite na put",
+      "snippet": "Javno preduzeće \"Putevi Srbije\" saopštilo je danas da su autoputevi i svi državni putevi prvog i drugog reda, kao i prilazi graničnim prelazima i plan",
+      "url": "https://nova.rs/vesti/drustvo/putevi-srbije-bez-zimske-opreme-ne-krecite-na-put/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F28%2F1795865923_Sopot_sneg_FoNet_Goran_Radojevic_1.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:14:58.000Z",
+      "updatedAt": "2026-11-28T12:14:58.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/putevi-srbije-izdali-upozorenje-zbog-3-pojave-vazi-i-za-subotu/rwfpnfr",
+          "publishedAt": "2026-11-26T12:58:49.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/putevi-srbije-apel-vremenski-uslovi/",
+          "publishedAt": "2026-11-27T10:58:15.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/putevi-srbije-bez-zimske-opreme-ne-krecite-na-put/",
+          "publishedAt": "2026-11-28T12:14:58.000Z"
+        }
+      ],
+      "score": 0.55,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_43ad1714c5d94ee4",
+      "title": "Hitna pomoć: Muškarac poginuo u saobraćajnoj nesreći u Beogradu, rekordan broj intervencija",
+      "snippet": "Stariji muškarac poginuo je noćas u saobraćanom udesu kod Novog groblja pola sata posle ponoći, rečeno je u beogradskoj Hitnoj pomoći agenciji Beta.",
+      "url": "https://www.danas.rs/vesti/drustvo/hitna-pomoc-saobracaj-nesreca/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F1001foto-BETAPHOTO-DRAGAN-GOJIC-300x207.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T07:26:58.000Z",
+      "updatedAt": "2026-11-28T07:26:58.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/beograd/tri-saobracajne-nesrece-tokom-noci-u-beogradu-povredjeni-odmah-prevezeni-u-hitnu/fyj2bx3",
+          "publishedAt": "2026-11-26T05:31:42.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/hronika/cetiri-osobe-povredjene-u-tri-saobracajne-nezgode-prethodne-noci-u-beogradu/",
+          "publishedAt": "2026-11-26T06:29:02.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/hitna-pomoc-saobracaj-nesreca/",
+          "publishedAt": "2026-11-28T07:26:58.000Z"
+        }
+      ],
+      "score": 0.2592,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_cd9556865f9869f1",
+      "title": "Putevi Srbije upozoravaju vozače na sneg, ponegde ga ima od pet do 10 centimetara",
+      "snippet": "Putevi Srbije savetovali su vozačima da budu oprezni zbog snega na brojnim deonicama.",
+      "url": "https://www.danas.rs/vesti/drustvo/putevi-srbije-upozoravaju-vozace-na-sneg-ponegde-ga-ima-od-pet-do-10-centimetara/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F1000047265_b-e1795879073326-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:18:05.000Z",
+      "updatedAt": "2026-11-28T15:18:05.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/hitno-se-oglasili-iz-puteva-srbije-tri-opasnosti-vrebaju-vozace-na-putevima-u-srbiji/3hse42q",
+          "publishedAt": "2026-11-26T05:45:22.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/putevi-srbije-ocekuje-se-poledica-ima-magle/",
+          "publishedAt": "2026-11-27T17:42:42.000Z"
+        }
+      ],
+      "score": 1.1152,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f33deb3da69933f3",
+      "title": "Učenici leskovačke Tehničke škole šišaju za pomoć školskom drugu Aleksandru",
+      "snippet": "Učenici leskovačke Tehničke škole \"Rade Metalac\" organizovali su humanitarnu akciju šišanja za pomoć svom drugu Aleksandru Stefanoviću, koji boluje od retke, genetske bolesti Dišenove mišićne distrofije.",
+      "url": "https://www.rts.rs/vesti/srbija-danas/6094198/ucenici-leskovacke-tehnicke-skole-sisaju-za-pomoc-skolskom-drugu-aleksandru.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F15%2F14%2F645%2F6101171%2Fthumbs%2F14550659%2FSequence_21_00_01_49_09_Still077.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T14:44:05.000Z",
+      "updatedAt": "2026-11-28T15:27:15.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/srbija-danas/6094198/ucenici-leskovacke-tehnicke-skole-sisaju-za-pomoc-skolskom-drugu-aleksandru.html",
+          "publishedAt": "2026-11-27T14:44:05.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/humanitarna-akcija-u-leskovcu-ucenici-sisaju-da-kupe-drugu-aparat/808jlm5",
+          "publishedAt": "2026-11-28T15:27:15.000Z"
+        }
+      ],
+      "score": 1.2948,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_ecc4042d46fd95d7",
+      "title": "SZO upozorava: Pad vakcinacije doveo do zastoja u borbi protiv malih boginja",
+      "snippet": "Svetska zdravstvena organizacija (SZO) izrazila je danas zabrinutost povodom malih boginja, upozoravajući da je napredak ka njihovom iskorenjivanju z",
+      "url": "https://nova.rs/vesti/drustvo/pad-vakcinacije-doveo-do-zastoja-u-borbi-protiv-malih-boginja/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1763733798_shutterstock_1323694607-morbili-1024x683.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T18:21:34.000Z",
+      "updatedAt": "2026-11-27T23:11:00.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/pad-vakcinacije-doveo-do-zastoja-u-borbi-protiv-malih-boginja/",
+          "publishedAt": "2026-11-27T18:21:34.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/alarmantni-podaci-szo-male-boginje-ponovo-se-sire-crna-gora-medju-najugrozenijima/qffj75k",
+          "publishedAt": "2026-11-27T23:11:00.000Z"
+        }
+      ],
+      "score": 0.1083,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3a29f36175972558",
+      "title": "Arhiv javnih skupova: MUP potvrdio da se procena broja ljudi na skupovima ne zasniva na metodologiji",
+      "snippet": "Arhiv javnih skupova saopštio je večeras da je ministarstvo unutrašnjih poslova (MUP), u odgovoru na zahtev za pristup informacijama od javnog značaja, toj organizaciji potvrdio da procenu broja ljudi na javnim skupovima ne zasniva po utvrđenoj metodologiji.",
+      "url": "https://www.danas.rs/vesti/drustvo/arhiv-javnih-skupova-mup-potvrdio-da-se-procena-broja-ljudi-na-skupovima-ne-zasniva-na-metodologiji/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F10%2F3-66-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T19:22:19.000Z",
+      "updatedAt": "2026-11-27T19:22:19.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/mup-odgovorio-arhivu-kako-vrse-procenu-broja-ljudi-na-skupovima/",
+          "publishedAt": "2026-11-27T19:17:30.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/arhiv-javnih-skupova-mup-potvrdio-da-se-procena-broja-ljudi-na-skupovima-ne-zasniva-na-metodologiji/",
+          "publishedAt": "2026-11-27T19:22:19.000Z"
+        }
+      ],
+      "score": 0.0838,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_999994ce88ef9b2a",
+      "title": "\"NJEGOVOJ MAJCI JE JAKO TEŠKO\" Ivana Šašić o smrti bivšeg muža: Spomenula OBDUKCIJU i Bojanovu doskorašnju verenicu",
+      "snippet": "Pevačica Ivana Šašić u šoku je zbog smrti nekadašnjeg supruga Bojana Simića, koji je sinoć poginuo u Beogradu. Navela je da dugo nisu imali kontakt, te da se posle tragedije čula sa njegovom majkom.",
+      "url": "https://www.blic.rs/sudbine/ivana-sasic-o-smrti-muza-bojana-simica-spomenula-obdukciju-i-njegovu-verenicu/0bmxny4",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FZosk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yOWFlNTU3ZjIzOWMyZmY3ZTU3OTI0ZTNiM2M4ZWRkNC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:35:00.000Z",
+      "updatedAt": "2026-11-28T17:35:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/sudbine/ivana-sasic-o-smrti-muza-bojana-simica-spomenula-obdukciju-i-njegovu-verenicu/0bmxny4",
+          "publishedAt": "2026-11-28T17:35:00.000Z"
+        }
+      ],
+      "score": 2.4125,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0e547f78220a85d6",
+      "title": "Leto ih načne a mraz dokrajči: Otkrivamo zašto akumulatori najčešće otkazuju zimi a ovo je 8 zlatnih saveta kako da ih sačuvate",
+      "snippet": "Prvi jutarnji mrazevi i niske temperature po pravilu donose iste muke vozačima - okretanje ključa ili pritisak na taster za startovanje koji se završava muklom tišinom ili beznadežnim verglanjem.",
+      "url": "https://www.blic.rs/vesti/drustvo/akumulatori-zimi-8-saveta-da-sprecite-kvar-i-izbegnete-praznjenje-baterije/hvwyk9k",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fiiuk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xOWNhOThiM2MwNjRhNTRkYmJlNmVhZWZmNWZjZTIzYS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:23:27.000Z",
+      "updatedAt": "2026-11-28T17:23:27.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/akumulatori-zimi-8-saveta-da-sprecite-kvar-i-izbegnete-praznjenje-baterije/hvwyk9k",
+          "publishedAt": "2026-11-28T17:23:27.000Z"
+        }
+      ],
+      "score": 2.1065,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e96f4bef8f6c4cb0",
+      "title": "Poplavljeno dečje igralište na Banjici, kod okretnice tramvaja (FOTO)",
+      "snippet": "Igralište kod okretnice tramvaja na Banjici je poplavljeno i voda curi iz zemlje već satima.",
+      "url": "https://www.danas.rs/vesti/drustvo/poplavljeno-decje-igraliste-na-banjici-kod-okretnice-tramvaja/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2FIMG_20261128_155257_b-e1795883281920-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:25:56.000Z",
+      "updatedAt": "2026-11-28T16:25:56.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/poplavljeno-decje-igraliste-na-banjici-kod-okretnice-tramvaja/",
+          "publishedAt": "2026-11-28T16:25:56.000Z"
+        }
+      ],
+      "score": 1.583,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_076c27840e36b73a",
+      "title": "RHMZ upozorava na padavine do kraja dana, tokom noći i u nedelju ujutru",
+      "snippet": "Republički hidrometeorloški zavod (RHMZ) upozorio je da se do kraja dana i tokom noći, kao i u nedelju ujutru u predelima južno od Save i Dunava očekuje još deset do 30 mililitara padavina, lokalno i više.",
+      "url": "https://www.danas.rs/vesti/drustvo/rhmz-upozorava-na-padavine-do-kraja-dana-tokom-noci-i-u-nedelju-ujutru/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F1-251-e1795773694582-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:14:49.000Z",
+      "updatedAt": "2026-11-28T16:14:49.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/rhmz-upozorava-na-padavine-do-kraja-dana-tokom-noci-i-u-nedelju-ujutru/",
+          "publishedAt": "2026-11-28T16:14:49.000Z"
+        }
+      ],
+      "score": 1.4543,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3a01b7f6f1d45d14",
+      "title": "(Video) Automobil smrskan, preprečio potpuno zavejan put! Teška nesreća kod Kragujevca: Sneg ne staje, delovi rasuti po kolovozu",
+      "snippet": "Na samom ulazu u Kragujevac danas je došlo je do saobraćajne nesreće.",
+      "url": "https://www.blic.rs/vesti/drustvo/automobil-smrskan-u-nesreci-na-zavejanom-putu-kod-kragujevca-video/g6eqxmz",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F49hk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83ZmYwYWYwOWMzMDcyYWQ0ZDkxZGYyZWQzM2VjMTU3NC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:45:32.000Z",
+      "updatedAt": "2026-11-28T16:45:32.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/automobil-smrskan-u-nesreci-na-zavejanom-putu-kod-kragujevca-video/g6eqxmz",
+          "publishedAt": "2026-11-28T16:45:32.000Z"
+        }
+      ],
+      "score": 1.4482,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e83dde0f00d55ebe",
+      "title": "RFZO duguje milione privatnim klinikama: Hiljade parova čeka terapiju za vantelesnu oplodnju",
+      "snippet": "Hiljade parova koji su u postupku vantelesne oplodnje u jednoj od čak 18 privatnih klinika koje imaju ugovor sa Republičkim fondom za zdravstveno osig",
+      "url": "https://nova.rs/vesti/drustvo/rfzo-duguje-milione-privatnim-klinikama/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F25%2F1795619863_shutterstock_2682868361aa.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:07:17.000Z",
+      "updatedAt": "2026-11-28T16:07:17.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/rfzo-duguje-milione-privatnim-klinikama/",
+          "publishedAt": "2026-11-28T16:07:17.000Z"
+        }
+      ],
+      "score": 1.3767,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_d95654457efd5c16",
+      "title": "Rad Pašalića uskoro pod lupom Skupštine?",
+      "snippet": "Reakreditacija zaštitnika građana Zorana Pašalića odložena je za godinu dana, zbog čega je institucija privremeno zadržala status A u okviru Globalne alijanse nacionalnih institucija za ljudska prava (GANHRI), uprkos brojnim primedbama na njen rad.",
+      "url": "https://www.danas.rs/vesti/drustvo/rad-pasalica-pred-skupstinom/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2025%2F07%2F3-13-e1784545017206-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:04:32.000Z",
+      "updatedAt": "2026-11-28T16:04:32.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/rad-pasalica-pred-skupstinom/",
+          "publishedAt": "2026-11-28T16:04:32.000Z"
+        }
+      ],
+      "score": 1.3501,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4471c1cee8769eeb",
+      "title": "Uhapšen Kruševljanin zbog ubistva vlasnika kuće u kojoj je stanovao",
+      "snippet": "Policija je uhapsila muškarca (70) iz Kruševca zbog sumnje da je ubio vlasnika kuće u kojoj je stanovao.",
+      "url": "https://www.danas.rs/vesti/drustvo/uhapsen-krusevljanin-zbog-ubistva-vlasnika-kuce-u-kojoj-je-stanovao/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2022%2F09%2Fimage_50403585-scaled-e1663256570150-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:48:37.000Z",
+      "updatedAt": "2026-11-28T15:48:37.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/uhapsen-krusevljanin-zbog-ubistva-vlasnika-kuce-u-kojoj-je-stanovao/",
+          "publishedAt": "2026-11-28T15:48:37.000Z"
+        }
+      ],
+      "score": 1.2114,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_d2deeec45be0d55d",
+      "title": "Dva minuta snimka i osam godina čekanja - porodica Stanike Gligorijević traži novu istragu",
+      "snippet": "Uskoro se navršava osam godina od nesreće na naplatnoj rampi Doljevac, u kojoj je život izgubila Stanika Gligorijević, a pet osoba je povređeno.",
+      "url": "https://www.rts.rs/vesti/drustvo/6094510/nesreca-doljevac-naplata-rampa-stanika-gligorijevic.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F15%2F8%2F338%2F6103802%2Fthumbs%2F14558384%2Fsve_00_01_04_22_Still124.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:05:57.000Z",
+      "updatedAt": "2026-11-28T15:05:57.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/drustvo/6094510/nesreca-doljevac-naplata-rampa-stanika-gligorijevic.html",
+          "publishedAt": "2026-11-28T15:05:57.000Z"
+        }
+      ],
+      "score": 1.0411,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_aa41098e9e0ce5ce",
+      "title": "Preminula novinarka i književnica Jelena Mesić Gak",
+      "snippet": "Jelena Mesić Gak, nekadašnja novinarka i urednica Televizije Beograd, autorka dokumentarnih filmova i književnica, preminula je u 74. godini života, prenosi RTS.",
+      "url": "https://www.danas.rs/vesti/drustvo/umrla-novinarka-i-knjizevnica-jelena-mesic-gak/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2022%2F08%2Fin-memoriam-e1719325333481-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:39:59.000Z",
+      "updatedAt": "2026-11-28T15:39:59.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/umrla-novinarka-i-knjizevnica-jelena-mesic-gak/",
+          "publishedAt": "2026-11-28T15:39:59.000Z"
+        }
+      ],
+      "score": 1.1459,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_2182a42ce296f9fc",
+      "title": "Stari trik sa svećom može da vas spasi ako ostanete zaglavljeni u snegu: Vozači u Srbiji ovo masovno rade",
+      "snippet": "Zbog najavljenog pogoršanja vremena, kiše i snežnih padavina širom Srbije, nadležni apeluju na vozače da bez preke potrebe i kompletne zimske opreme ne kreću na put.",
+      "url": "https://www.blic.rs/vesti/drustvo/vozaci-u-srbiji-ovo-masovno-rade-trik-sa-svecom-pomaze-ako-ste-zaglavljeni-u-snegu/hrkhdxz",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FMqZk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yOWE5ZjE4NDVjYzU0ZjI0OTZlOGMxNzEwNTUzN2ZjNC5wbmeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:01:42.000Z",
+      "updatedAt": "2026-11-28T16:01:42.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/vozaci-u-srbiji-ovo-masovno-rade-trik-sa-svecom-pomaze-ako-ste-zaglavljeni-u-snegu/hrkhdxz",
+          "publishedAt": "2026-11-28T16:01:42.000Z"
+        }
+      ],
+      "score": 1.0294,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_5e81bc89931220ba",
+      "title": "(Foto) \"Sat vremena prelazimo deonicu koja se prelazi za 20 minuta\": Auto-put \"Miloš Veliki\" zavejan, velika količina snega kod Požege, formiraju se kolone vozila",
+      "snippet": "Snežne padavine i otežani vremenski uslovi usporili su danas saobraćaj na auto-putu Miloš Veliki, a kako javljaju naši reporteri, kod Požege se deonicom, koja se prelazi za 20 minuta, voze duže od sat vremena.",
+      "url": "https://www.blic.rs/vesti/drustvo/auto-put-milos-veliki-zavejan-formiraju-se-kolone-vozila/hf5nvjr",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FuC_k9lCaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80Zjc5MGVmOTU1MzA3MGEyYjUwMGQ0MmIxNzUxNjE3OS5qcGVnkZMFzQJCzQGBgQAB&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:55:08.000Z",
+      "updatedAt": "2026-11-28T15:55:08.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/auto-put-milos-veliki-zavejan-formiraju-se-kolone-vozila/hf5nvjr",
+          "publishedAt": "2026-11-28T15:55:08.000Z"
+        }
+      ],
+      "score": 0.984,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_40e91831ea7126e5",
+      "title": "SPC: Produžen rok za prijavu za učeničke stipendije Fonda Časni pojas",
+      "snippet": "Srpska pravoslavna crkva (SPC) saopštila je danas da je do 10. decembra produžen rok za prijavu na konkurs Fonda \"Časni pojas\" za godišnje stipendije učenicima osnovnih i srednjih škola iz porodica sa više dece.",
+      "url": "https://www.danas.rs/vesti/drustvo/spc-produzen-rok-za-prijavu-za-ucenicke-stipendije-fonda-casni-pojas/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F06%2F2-14-e1795878791168-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:13:22.000Z",
+      "updatedAt": "2026-11-28T15:13:22.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/spc-produzen-rok-za-prijavu-za-ucenicke-stipendije-fonda-casni-pojas/",
+          "publishedAt": "2026-11-28T15:13:22.000Z"
+        }
+      ],
+      "score": 0.9768,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fb395b553cfc165a",
+      "title": "(foto) Automobil sleteo sa puta kod Topole: Nižu se saobraćajke zbog snega i klizavog kolovoza",
+      "snippet": "Na deonici puta Knić –Topola na magistralnom pravcu u blizini Kragujevca došlo je do izletanja vozila sa kolovoza a u ovom incidentu, kako nezvanično saznajemo, na sreću nije bilo povređenih lica.",
+      "url": "https://www.blic.rs/vesti/drustvo/automobil-sleteo-sa-puta-kod-topole-nizu-se-saobracajke-zbog-snega-i-klizavog-puta/l5hzj61",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F5Osk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mOGUxZGIyN2UwZmE5NDIwMzQ5MTg3MzdiM2Y5ZjlhYS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:38:37.000Z",
+      "updatedAt": "2026-11-28T15:38:37.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/automobil-sleteo-sa-puta-kod-topole-nizu-se-saobracajke-zbog-snega-i-klizavog-puta/l5hzj61",
+          "publishedAt": "2026-11-28T15:38:37.000Z"
+        }
+      ],
+      "score": 0.8836,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_45e171ecba916f71",
+      "title": "Isključenja struje u Nišu u ponedeljak: Čak 14 ulica i deo Donjeg Matejevca ostaju bez električne energije zbog radova, proverite da li ste na spisku!",
+      "snippet": "Elektrodistribucija Niš saopštila je da će u 14 ulica u Nišu i u delu Donjeg Matejevca, u ponedeljak, 30. novembra raditi na redovnom održavanju distributivne elektroenergetske mreže sa ciljem unapređenja kvaliteta snabdevanja električnom energijom korisnika i prevencije kvarova.",
+      "url": "https://www.blic.rs/vesti/drustvo/iskljucenja-struje-u-nisu-u-ponedeljak-30-novembra-spisak-ulica-koje-ostaju-bez-nje/dd5330d",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FiFhk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hMjZkMGM1NzU4ZWFkN2YzMjk2ZWUwNTAyYjNhODk3MS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:36:29.000Z",
+      "updatedAt": "2026-11-28T15:36:29.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/iskljucenja-struje-u-nisu-u-ponedeljak-30-novembra-spisak-ulica-koje-ostaju-bez-nje/dd5330d",
+          "publishedAt": "2026-11-28T15:36:29.000Z"
+        }
+      ],
+      "score": 0.8719,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_60d48422f5fc6f54",
+      "title": "Ministar Bratina: Dragan Vučićević je bio regionalni Džulijan Asanž i ide u istoriju",
+      "snippet": "Ministar informisanja i telekomunikacija u tehničkom mandatu Boris Bratina ocenio je danas da je vlasnik televizije Informer Dragan Vučićević bio regionalni Džulijan Asanž.",
+      "url": "https://www.danas.rs/vesti/drustvo/ministar-bratina-dragan-vucicevic-je-bio-regionalni-dzulijan-asanz-i-ide-u-istoriju/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2025%2F09%2F1-132-e1763742911689-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:43:23.000Z",
+      "updatedAt": "2026-11-28T14:43:23.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/ministar-bratina-dragan-vucicevic-je-bio-regionalni-dzulijan-asanz-i-ide-u-istoriju/",
+          "publishedAt": "2026-11-28T14:43:23.000Z"
+        }
+      ],
+      "score": 0.8311,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_bf5132e55cf2fc6e",
+      "title": "(video) Automobil se prevrnuo na krov kod Prijepolja, teška mehanizacija i policija na licu mesta: Stvaraju se gužve",
+      "snippet": "Na putu Prijepolje - Nova Varoš danas je došlo do saobraćajne nezgode u kojoj se jedno putničko vozilo prevrnulo na krov, što je izazvalo ozbiljne zastoje na ovoj deonici.",
+      "url": "https://www.blic.rs/vesti/drustvo/video-saobracajna-nesreca-kod-prijepolja-teska-mehanizacija-i-policija-na-licu-mesta/n58nz4r",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fd2gk9lCaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMmNhMGJhNWVmZDQxMTUyNDRmMTk5NjFkMmE4MzMyMC5qcGVnkZMFzQJCzQGBgQAB&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:31:04.000Z",
+      "updatedAt": "2026-11-28T15:31:04.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/video-saobracajna-nesreca-kod-prijepolja-teska-mehanizacija-i-policija-na-licu-mesta/n58nz4r",
+          "publishedAt": "2026-11-28T15:31:04.000Z"
+        }
+      ],
+      "score": 0.8432,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_31e715c81f5b8477",
+      "title": "Važno obaveštenje za Subotičane: Počinje nedelja besplatne vakcinacije protiv HPV-a bez zakazivanja, saznajte gde se javljaju deca, a gde studenti i odrasli",
+      "snippet": "Školski dispanzer Doma zdravlja Subotica, uz podršku Zavoda za javno zdravlje Subotica, organizuje akciju \"Otvorena vrata\" posvećenu vakcinaciji protiv humanog papiloma virusa (HPV). Akcija se održava u periodu od 30. novembra do 4. decembra.",
+      "url": "https://www.blic.rs/vesti/drustvo/besplatna-hpv-vakcina-za-decu-i-mlade-u-subotici-vreme-trajanja-akcije/ylfqyyl",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FiGmk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iMDI2ZjAyYmEwNTgzN2JhMGY1YWY5NzNlYWZkZDA0OS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:14:56.000Z",
+      "updatedAt": "2026-11-28T15:14:56.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/besplatna-hpv-vakcina-za-decu-i-mlade-u-subotici-vreme-trajanja-akcije/ylfqyyl",
+          "publishedAt": "2026-11-28T15:14:56.000Z"
+        }
+      ],
+      "score": 0.7666,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fffa656a99b7a60a",
+      "title": "Ratko Femić o dešavanjima na Nova.rs: Nećemo da prihvatimo nametnutog urednika, sedam godina smo gradili ovaj medij",
+      "snippet": "Zamenik glavnog i odgovornog urednika portala Nova.rs Ratko Femić izjavio je u podkastu „U reketu sa teškim centrom“, na platformi Albatros News, da s",
+      "url": "https://nova.rs/vesti/drustvo/ratko-femic-o-desavanjima-na-novars-necemo-da-prihvatimo-nametnutog-urednika-sedam-godina-smo-gradili-ovaj-medij/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F28%2F1795861216_albatros02.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:33:57.000Z",
+      "updatedAt": "2026-11-28T10:33:57.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/ratko-femic-o-desavanjima-na-novars-necemo-da-prihvatimo-nametnutog-urednika-sedam-godina-smo-gradili-ovaj-medij/",
+          "publishedAt": "2026-11-28T10:33:57.000Z"
+        }
+      ],
+      "score": 0.3305,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_f4bbd1056dd1941b",
+      "title": "Vozači koji još nisu stavili zimske gume rizikuju paprene kazne: A, to nije najmanji problem",
+      "snippet": "Vozači u Srbiji koji još uvek nisu zamenili letnje gume zimskim pneumaticima rizikuju paprene kazne, kako za pojedince, tako i za firme.",
+      "url": "https://www.blic.rs/vesti/drustvo/paprene-kazne-za-voznju-bez-zimskih-guma-saobracajna-policija-krece-u-kontrolu/h279046",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FKE_k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNWE0Yzk3MTFiODJhM2QxYzAzOGEyMzQ5ZTgwYzQxNi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:03:23.000Z",
+      "updatedAt": "2026-11-28T15:03:23.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/paprene-kazne-za-voznju-bez-zimskih-guma-saobracajna-policija-krece-u-kontrolu/h279046",
+          "publishedAt": "2026-11-28T15:03:23.000Z"
+        }
+      ],
+      "score": 0.7186,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4df8267f67464130",
+      "title": "Čestica moštiju Svetog Nektarija Eginskog stigla u Beograd: Evo gde i kada vernici mogu da je celivaju",
+      "snippet": "Čestica moštiju Svetog Nektarija Eginskog, velikog svetitelja i čudotvorca, nalazi se u Hramu Svetog velikomučenika Georgija na Staroj Bežaniji, saopštili su iz crkve.",
+      "url": "https://www.blic.rs/vesti/beograd/cestica-mostiju-svetog-nektarija-eginskog-u-beogradu-evo-gde-vernici-mogu-da-je/l24vqjq",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FlX4k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hOWE2MDdmZDU5OTljYmVlYTlkZGJjZDMxNGY3N2E2NS5wbmeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:00:00.000Z",
+      "updatedAt": "2026-11-28T15:00:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/beograd/cestica-mostiju-svetog-nektarija-eginskog-u-beogradu-evo-gde-vernici-mogu-da-je/l24vqjq",
+          "publishedAt": "2026-11-28T15:00:00.000Z"
+        }
+      ],
+      "score": 0.7054,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_2b2a44d81bb8a0ac",
+      "title": "RHMZ reagovao na najavu prognoze u medijima: Dovodite čitaoce u zabludu",
+      "snippet": "Republički hidrometeorološki zavod Srbije reagovao je na prognozu objavljenu na portalu Blica koja, prema njihovim navodima, građane dovodi u zabludu.",
+      "url": "https://www.danas.rs/vesti/drustvo/rhmz-reagovao-na-najavu-prognoze-u-medijima-dovodite-citaoce-u-zabludu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2Frhmz-e1794000200647-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:12:25.000Z",
+      "updatedAt": "2026-11-28T10:12:25.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/rhmz-reagovao-na-najavu-prognoze-u-medijima-dovodite-citaoce-u-zabludu/",
+          "publishedAt": "2026-11-28T10:12:25.000Z"
+        }
+      ],
+      "score": 0.3118,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9a1a6f44c121dac8",
+      "title": "(Video) Zimska idila u Novoj Varoši: Klupe u parkovima kao da su belim platnom prekrivene, na Zlataru snežni pokrivač još deblji",
+      "snippet": "Nova Varoš se jutros probudila pod belim pokrivačem, a visina snega u samom gradu već dostiže sedam do osam centimetara.",
+      "url": "https://www.blic.rs/vesti/drustvo/zabelela-se-nova-varos-napadalo-8-cm-snega-na-zlataru-jos-deblji-pokrivac/6qymvdk",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FqZak9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85NDE1Yjg3M2Q3OTU5OGVkNTg2NDIxY2YxMWM3ZTZlZi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:27:01.000Z",
+      "updatedAt": "2026-11-28T14:27:01.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/zabelela-se-nova-varos-napadalo-8-cm-snega-na-zlataru-jos-deblji-pokrivac/6qymvdk",
+          "publishedAt": "2026-11-28T14:27:01.000Z"
+        }
+      ],
+      "score": 0.5959,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3e0360e04635f021",
+      "title": "(Foto, video) \"Vračar na vodi\": Pukao hidrant na uglu Kajmakčalanske i Starca Vujadina, voda lije satima",
+      "snippet": "Na uglu ulica Starca Vujadina i Kajmakčalanske na Vračaru danas je došlo do većeg kvara na vodovodnoj mreži, odnosno pucanja hidranta, zbog čega ogromna količina vode pod jakim pritiskom već satima plavi kolovoz i trotoare.",
+      "url": "https://www.blic.rs/vesti/beograd/gejzir-na-vracaru-pukao-hidrant-voda-lije-satima/mbgjfhh",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2F7_rk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jOGFlZTA5Mzc0NWViNmM4OTgzYmFkZjQ5Nzg2NjM4ZC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T14:05:06.000Z",
+      "updatedAt": "2026-11-28T14:05:06.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/beograd/gejzir-na-vracaru-pukao-hidrant-voda-lije-satima/mbgjfhh",
+          "publishedAt": "2026-11-28T14:05:06.000Z"
+        }
+      ],
+      "score": 0.5379,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1cdfb7105b4ebd49",
+      "title": "Sindikati RTS-a traže ostavku urednika Informativnog programa",
+      "snippet": "Sindikat medijskih radnika SMER, Sindikat radnika produkcije i tehnike u Radio-televiziji Srbije (RTS) i Sindikat Sloga zatražili su danas od Borivoja Uskokovića da bez odlaganja podnese neopozivu ostavku na mesto vršioca dužnosti glavnog i odgovornog urednika Informativnog…",
+      "url": "https://www.danas.rs/vesti/drustvo/sindikati-rts-a-traze-ostavku-urednika-informativnog-programa/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F06%2F12971238-scaled-e1781862433803-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:03:42.000Z",
+      "updatedAt": "2026-11-28T10:03:42.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/sindikati-rts-a-traze-ostavku-urednika-informativnog-programa/",
+          "publishedAt": "2026-11-28T10:03:42.000Z"
+        }
+      ],
+      "score": 0.3047,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_ef1b0ab6429b3031",
+      "title": "\"Sve ekipe neprestano rade na saniranju kvarova\": Oglasili se iz Elektrodistribucije o prekidima struje zbog snega",
+      "snippet": "Snabdevanje električnom energijom je u većem delu Srbije stabilno uprkos nevremenu, praćenom snegom i vetrom, a povremenih kvarova ima u brdsko-planinskim krajevima i naseljima Kolubarskog, Šumadijskog i Mačvanskog okruga, rečeno je Tanjugu danas u Elektrodistribuciji Srbije.",
+      "url": "https://www.blic.rs/vesti/drustvo/gde-ima-prekida-struje-usled-kvarova-zbog-snega-objavljena-detaljna-lista/kmy872g",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FUOQk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yY2ZjMTc0NTA1M2NjYTg1ZDE5NDhhOTJhNGUyM2JhMS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:46:31.000Z",
+      "updatedAt": "2026-11-28T13:46:31.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/gde-ima-prekida-struje-usled-kvarova-zbog-snega-objavljena-detaljna-lista/kmy872g",
+          "publishedAt": "2026-11-28T13:46:31.000Z"
+        }
+      ],
+      "score": 0.4957,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_912dfd42beafcddf",
+      "title": "Vožnja automobila može da ima skriveni uticaj na srce",
+      "snippet": "Tokom vožnje se ne ulaže fizički napor, ali mozak i srce rade prekovremeno. Istraživanje koje je sproveo računarski naučnik Joanis Pavlidis sa Univerziteta u Hjustonu otkriva da je puls tokom vožnje povišen čak 94 odsto vremena, znatno duže nego kad se sedi kod kuće ili na poslu.",
+      "url": "https://www.blic.rs/zdravlje/istrazivanja/kako-voznja-automobila-utice-na-srce/3xbc5r7",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FQQck9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zOTVjNTk4ZTNlOGM4MDA2MjZjZmMzZTA5ZWIwODVlYi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:31:21.000Z",
+      "updatedAt": "2026-11-28T13:31:21.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/zdravlje/istrazivanja/kako-voznja-automobila-utice-na-srce/3xbc5r7",
+          "publishedAt": "2026-11-28T13:31:21.000Z"
+        }
+      ],
+      "score": 0.4652,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3236201d93a9bc64",
+      "title": "Mentalno razgibavanje: Redovno uzimajte terapiju",
+      "snippet": "Pogledajte novo Mentalno Razgibavanje.",
+      "url": "https://nova.rs/emisije/mentalno-razgibavanje-redovno-uzimajte-terapiju/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F27%2F1795786890_Mentalno_razgibavanje__Redovno_uzimajte_terapiju.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:30:00.000Z",
+      "updatedAt": "2026-11-28T09:30:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/emisije/mentalno-razgibavanje-dosao-djavo-po-svoje/",
+          "publishedAt": "2026-11-26T09:30:00.000Z"
+        }
+      ],
+      "score": 0.2797,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_c0a3908090ece7bc",
+      "title": "Stigao novi kontigent vakcina protiv gripa u Novi Sad: Ovim građanima se posebno preporučuju, evo kako vakcinacija može da se zakaže",
+      "snippet": "Vakcinacija protiv gripa u ambulantama Doma zdravlja Novi Sad i dalje je u toku, a nakon što su stigle nove količine vakcina, građani koji prethodno nisu uspeli da se vakcinišu mogu da se jave svom izabranom lekaru.",
+      "url": "https://www.blic.rs/vesti/drustvo/stigla-nova-kolicina-vakcina-protiv-gripa-u-novi-sad-gradjani-mogu-da-zakazu/zjb06p8",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fd1nk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iN2E3MWJiZjUzNzY3ZjA3YmMwNzJlYjYzYWY1YjEzZC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:56:44.000Z",
+      "updatedAt": "2026-11-28T12:56:44.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/stigla-nova-kolicina-vakcina-protiv-gripa-u-novi-sad-gradjani-mogu-da-zakazu/zjb06p8",
+          "publishedAt": "2026-11-28T12:56:44.000Z"
+        }
+      ],
+      "score": 0.4062,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9e58f5ba4d8079bb",
+      "title": "Nove zimske gume i pogon na sva četiri točka, a vozilo proklizava: U zimskim uslovima na putu pomaže samo jedna stvar",
+      "snippet": "Republički hidrometeorološki zavod (RHMZ) izdao je više upozorenja na obilne padavine, sneg i vejavicu tokom vikenda, dok iz Auto-moto saveza Srbije (AMSS) upozoravaju vozače na izuzetno teške uslove na putevima usled mraza, magle i opasne ledene kiše.",
+      "url": "https://www.blic.rs/vesti/drustvo/kako-pravilno-voziti-po-snegu-kisi-i-ledu/nh1qpkp",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FzUyk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mN2Q4ZDM0Yjc4NzVkMjZkZjcyNDMxOTNmMTRmNWIzMi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:01:59.000Z",
+      "updatedAt": "2026-11-28T12:01:59.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/kako-pravilno-voziti-po-snegu-kisi-i-ledu/nh1qpkp",
+          "publishedAt": "2026-11-28T12:01:59.000Z"
+        }
+      ],
+      "score": 0.3351,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_42167741b9e084e1",
+      "title": "Predstavnici Vojske Srbije se sastali sa predstavnicima KFOR-a u Prištini",
+      "snippet": "Sastanak održan u kampu „Film siti“ u Prištini sa pripadnicima Vojske Srbije, u okviru Zajedničke komisije za sprovođenje, deo je redovnih aktivnosti",
+      "url": "https://nova.rs/vesti/drustvo/predstavnici-vojske-srbije-se-sastali-sa-predstavnicima-kfor-a-u-pristini/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F1%2F1768858031_1762449973-MCO_6805-1024x683.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T09:24:42.000Z",
+      "updatedAt": "2026-11-28T09:24:42.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/predstavnici-vojske-srbije-se-sastali-sa-predstavnicima-kfor-a-u-pristini/",
+          "publishedAt": "2026-11-28T09:24:42.000Z"
+        }
+      ],
+      "score": 0.276,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0f5da12d217df184",
+      "title": "(VIDEO) ČAS JE LEVO, ČAS DESNO Dramatičan snimak kod Valjeva: Proklizavanje na opasnom prevoju i sa zimskim gumama, vozač pokušava da održi kontrolu",
+      "snippet": "Da je zimska oprema u vidu lanaca za sneg obavezna na putevima koji su zavejani, pogotovo u planinskim predelima, dokaz je snimak sa društvenih mreža gde se vidi vozilo koje proklizava po kolovozu bez obzira na to što ima zimske gume.",
+      "url": "https://www.blic.rs/vesti/drustvo/dramatican-snimak-kod-valjeva-auto-klizi-i-sa-zimskim-gumama/cxp6bqf",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FFslk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84ODMyNzQ3ZWUyMjJiODg4ZjcyM2ZiNzgxYWYyY2I2Ny5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Društvo",
+      "categorySlug": "drustvo",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:43:12.000Z",
+      "updatedAt": "2026-11-28T11:43:12.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/drustvo/dramatican-snimak-kod-valjeva-auto-klizi-i-sa-zimskim-gumama/cxp6bqf",
+          "publishedAt": "2026-11-28T11:43:12.000Z"
+        }
+      ],
+      "score": 0.3154,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    }
+  ]
+}

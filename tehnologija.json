@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T17:37:03.564Z",
+  "feedType": "category",
+  "category": "Tehnologija",
+  "categorySlug": "tehnologija",
+  "totalItems": 5,
+  "items": [
+    {
+      "id": "clu_604a1e5ec2fdf6ed",
+      "title": "Ovo su telefoni sa najboljim kamerama u 2026. godini: Zvanična DxOMark lista donosi velika iznenađenja u samom vrhu!",
+      "snippet": "Trka za najbolju kameru na pametnom telefonu u 2026. godini nikada nije bila neizvesnija.",
+      "url": "https://www.blic.rs/it/ovo-su-telefoni-sa-najboljim-kamerama-u-2026-godini-zvanicna-dxomark-lista/hk2fh3j",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FDefk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hYzcwNmU3YzNlYmU4YmFmYmRjZmUyNzM5OGI0OTk0OC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Tehnologija",
+      "categorySlug": "tehnologija",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:58:18.000Z",
+      "updatedAt": "2026-11-28T12:58:18.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/it/ovo-su-telefoni-sa-najboljim-kamerama-u-2026-godini-zvanicna-dxomark-lista/hk2fh3j",
+          "publishedAt": "2026-11-28T12:58:18.000Z"
+        }
+      ],
+      "score": 0.4086,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_744a702aef5e069e",
+      "title": "Apple bi mogao predstaviti limitirano izdanje iPhonea 20 Pro s keramikom",
+      "snippet": "Apple bi mogao ponuditi limitirano izdanje iPhonea 20 Pro s dijelovima od keramike, tvrdi kineski izvor Fixed Focus Digital, koji je ranije objavljivao informacije o budućim Appleovim uređajima.",
+      "url": "https://www.klix.ba/scitech/tehnologija/apple-bi-mogao-predstaviti-limitirano-izdanje-iphonea-20-pro-s-keramikom/261127213",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127213.jpg&w=640&output=webp&q=80&we",
+      "category": "Tehnologija",
+      "categorySlug": "tehnologija",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T15:05:00.000Z",
+      "updatedAt": "2026-11-27T15:05:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/scitech/tehnologija/apple-bi-mogao-predstaviti-limitirano-izdanje-iphonea-20-pro-s-keramikom/261127213",
+          "publishedAt": "2026-11-27T15:05:00.000Z"
+        }
+      ],
+      "score": 0.0525,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8d392995f354ae8d",
+      "title": "Robotska šaka izrađena 3D printerom koristi jednostavne dijelove kako bi oponašala ljudske pokrete",
+      "snippet": "Istraživači s Tehnološkog instituta New Jersey (NJIT) razvili su PHD-Hand, robotsku ruku s pet prstiju koja se može napraviti na jeftinom 3D printeru i od servomotora kakvi se koriste u modelarstvu.",
+      "url": "https://www.klix.ba/scitech/tehnologija/robotska-saka-izradena-3d-printerom-koristi-jednostavne-dijelove-kako-bi-oponasala-ljudske-pokrete/261127097",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127097.jpg&w=640&output=webp&q=80&we",
+      "category": "Tehnologija",
+      "categorySlug": "tehnologija",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T10:29:00.000Z",
+      "updatedAt": "2026-11-27T10:29:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/scitech/tehnologija/robotska-saka-izradena-3d-printerom-koristi-jednostavne-dijelove-kako-bi-oponasala-ljudske-pokrete/261127097",
+          "publishedAt": "2026-11-27T10:29:00.000Z"
+        }
+      ],
+      "score": 0.0419,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_62816d203266bc00",
+      "title": "Duolingo ispunjava očekivanja korisnika. Sprema se značajna promena",
+      "snippet": "Aplikacija Duolingo uskoro će dobiti funkciju koja će omogućiti preskakanje dodatnih ekrana koji se prikazuju nakon završetka lekcije. Reč je o različitim vrstama nagrada ili maski (skinova) za avatare, što zahteva zatvaranje nekoliko obaveštenja zaredom.",
+      "url": "https://www.blic.rs/it/duolingo-ispunjava-ocekivanja-korisnika-sprema-se-znacajna-promena/ecqxk8e",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FnGYk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xZjkzOGNjMTk4YjMzNTMxYTFmMjkyNjkzNjEwYjNjOC5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Tehnologija",
+      "categorySlug": "tehnologija",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T09:47:03.000Z",
+      "updatedAt": "2026-11-27T09:47:03.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/it/duolingo-ispunjava-ocekivanja-korisnika-sprema-se-znacajna-promena/ecqxk8e",
+          "publishedAt": "2026-11-27T09:47:03.000Z"
+        }
+      ],
+      "score": 0.0356,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4ed8cf34ffcd764f",
+      "title": "Kineski Zoomlion predstavio autonomni robotski bager s umjetnom inteligencijom",
+      "snippet": "Kineski proizvođač građevinskih mašina Zoomlion predstavio je na sajmu bauma CHINA 2026 u Šangaju bager koji uz pomoć umjetne inteligencije sam prepoznaje okolinu i obavlja građevinske zadatke, poput utovara, gradnje zidova i postavljanja cijevi.",
+      "url": "https://www.klix.ba/scitech/tehnologija/kineski-zoomlion-predstavio-autonomni-robotski-bager-s-umjetnom-inteligencijom/261127040",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fstatic.klix.ba%2Fmedia%2Fimages%2Fvijesti%2Fimg32_261127040.jpg&w=640&output=webp&q=80&we",
+      "category": "Tehnologija",
+      "categorySlug": "tehnologija",
+      "sourceId": "klix",
+      "sourceName": "Klix.ba",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T07:45:00.000Z",
+      "updatedAt": "2026-11-27T07:45:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/scitech/tehnologija/kineski-zoomlion-predstavio-autonomni-robotski-bager-s-umjetnom-inteligencijom/261127040",
+          "publishedAt": "2026-11-27T07:45:00.000Z"
+        }
+      ],
+      "score": 0.0372,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    }
+  ]
+}

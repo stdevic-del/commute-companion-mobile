@@ -1,0 +1,1314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T17:37:03.564Z",
+  "feedType": "category",
+  "category": "Politika",
+  "categorySlug": "politika",
+  "totalItems": 40,
+  "items": [
+    {
+      "id": "clu_a00a0c9f3540149e",
+      "title": "Radomir Saičić kandidat Studentskog pokreta: Vreme je da funkciji predsednika Republike vratimo dostojanstvo",
+      "snippet": "Studentski pokret, koji je formirao grupu građana \"Studenti ponovo pobeđuju\", saopštio je na konferenciji za novinare da je njihov kandidat na predstojećim predsedničkim izborima akademik Radomir Saičić.",
+      "url": "https://www.rts.rs/vesti/politika/6093762/radomir-saicic-kandidat-studentskog-pokreta-vreme-je-da-funkciji-predsednika-republike-vratimo-dostojanstvo.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F12%2F48%2F253%2F6099254%2Fthumbs%2F14545892%2FSajcic_t1.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T11:27:18.000Z",
+      "updatedAt": "2026-11-28T17:14:16.000Z",
+      "mediaCount": 6,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/toskovic-studentska-lista-imamo-najverovatnijeg-kandidata-za-predsednika-drzave-vlada-do-kraja-godine/",
+          "publishedAt": "2026-11-26T07:46:46.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/toskovic-studenti-kandidat-za-predsednika/",
+          "publishedAt": "2026-11-26T07:53:41.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/otkriveno-kada-ce-studentska-lista-predstaviti-kandidata-za-predsednika/5tknptx",
+          "publishedAt": "2026-11-26T13:25:36.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/radomir-saicic-bit-ce-kandidat-studentske-liste-za-predsjednika-srbije/261126247",
+          "publishedAt": "2026-11-26T17:18:00.000Z"
+        },
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/c3vg2p5nnjqlo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T11:12:16.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6093762/radomir-saicic-kandidat-studentskog-pokreta-vreme-je-da-funkciji-predsednika-republike-vratimo-dostojanstvo.html",
+          "publishedAt": "2026-11-27T11:27:18.000Z"
+        }
+      ],
+      "score": 4.0856,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_7bb8c5e42de59b41",
+      "title": "Poziv dijaspori da se što pre prijavi za glasanje na predsedničkim izborima 27. decembra",
+      "snippet": "Član Republičke izborne komisije Dušan Dinčić pozvao je građane Srbije koji žive u inostranstvu da se što pre prijave za glasanje na predsedničkim izborima 27. decembra, kako bi nadležni organi imali dovoljno vremena da utvrde gde postoji potreba za otvaranjem biračkih mesta i…",
+      "url": "https://www.rts.rs/vesti/predsednicki-izbori-2026/6094558/predsednicki-izbori-dijaspora-rik.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F19%2F42%2F635%2F6101909%2Fthumbs%2F14553887%2FRIK_poziv.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T18:25:54.000Z",
+      "updatedAt": "2026-11-28T15:58:22.000Z",
+      "mediaCount": 6,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/predsednicki-izbori-se-raspisuju-a-ovo-je-vucicev-stav-odlucicemo-13-decembra/nv6th5g",
+          "publishedAt": "2026-11-25T18:03:34.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/demokratska-stranka-vrsac-podnosi-krivicnu-prijavu-protiv-predsednika-skupstine-grada-zbog-neraspisivanja-izbora-za-savete-mesnih-zajednica/",
+          "publishedAt": "2026-11-25T20:55:11.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6092688/aleksandar-cupic-raspisuje-predsednicki-izbori-2026.html",
+          "publishedAt": "2026-11-26T06:40:11.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/cupic-predsednicki-izbori/",
+          "publishedAt": "2026-11-26T07:03:36.000Z"
+        },
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/cwlym4n45zkgo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-26T11:05:56.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/predsjednik-skupstine-srbije-aleksandar-cupic-raspisao-vanredne-predsjednicke-izbore-za-27-decembar/261126112",
+          "publishedAt": "2026-11-26T11:14:00.000Z"
+        }
+      ],
+      "score": 2.1556,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_cf42e21ef9117825",
+      "title": "Dejan Bodiroga podneo ostavku na mesto narodnog poslanika",
+      "snippet": "Bodiroga nije jedini koji je vratio poslaničko mesto, tu su i Dženan Palamar, sa liste „Rasim Ljajić - Ljudski\" i Marko Korać - „Aleksandar Vučić - Ujedinjena Srbija\".",
+      "url": "https://www.bbc.com/serbian/articles/c59vwd9wxx71o/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F17f7%2Flive%2F293eeab0-ea92-11f1-8d0e-57e68ad3d9a9.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T18:46:07.000Z",
+      "updatedAt": "2026-11-27T20:08:00.000Z",
+      "mediaCount": 6,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/sport/sport-ostalo/predsednik-rvackog-saveza-srbije-podneo-neopozivu-ostavku/",
+          "publishedAt": "2026-11-26T12:09:07.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/sport/damir-sabic-ostavka-rvanje-srbija/",
+          "publishedAt": "2026-11-26T12:56:18.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/dejan-bodroga-podneo-ostavku-na-mesto-poslanika/wcs9q74",
+          "publishedAt": "2026-11-27T17:01:52.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/odlaze-nakon-maratonske-sjednice-tri-poslanika-u-skupstini-srbije-podnijela-ostavku-medu-njima-i-dejan-bodiroga/261127252",
+          "publishedAt": "2026-11-27T17:27:00.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094550/dejan-bodiroga-ostavka-poslanik-narod-skupstina.html",
+          "publishedAt": "2026-11-27T18:20:05.000Z"
+        },
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/c59vwd9wxx71o/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-27T18:46:07.000Z"
+        }
+      ],
+      "score": 0.1318,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_980cc2f81e80dcb7",
+      "title": "Ko je Aleksandar Čupić, novi predsednik Skupštine Srbije",
+      "snippet": "Aleksandar Čupić je uz ovu funkciju dobio još jednu titulu - vršilac dužnosti predsednika države.",
+      "url": "https://www.bbc.com/serbian/articles/cxnv43e955gzo/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F8fd3%2Flive%2Feef8d2d0-e410-11f1-99b6-a35a62fa4264.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-19T17:51:04.000Z",
+      "updatedAt": "2026-11-27T18:17:18.000Z",
+      "mediaCount": 6,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/cxnv43e955gzo/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-19T17:51:04.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/cupic-sutra-na-sastanku-lidera-procesa-brdo-brioni-sutra-u-ohridu/",
+          "publishedAt": "2026-11-26T12:45:45.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/cupic-na-neformalnoj-veceri-sa-sefovima-delegacija-drzava-ucesnica-procesa-brdo/vmpds8n",
+          "publishedAt": "2026-11-26T22:58:32.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6093463/samit-procesa-brdo-brioni-na-ohridu-srbiju-predstavlja-aleksandar-cupic.html",
+          "publishedAt": "2026-11-27T04:42:36.000Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/samit-brdo-brioni-okupio-nova-politicka-lica-regije-za-istim-stolom-bh-lideri-aleksandar-cupic-i-predsjednica-kosova/261127057",
+          "publishedAt": "2026-11-27T09:52:00.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/poruke-aleksandra-cupica-u-ohridu-na-samitu-procesa-brdo-brioni/",
+          "publishedAt": "2026-11-27T15:00:56.000Z"
+        }
+      ],
+      "score": 0.1177,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_167aaed3017e2b46",
+      "title": "Od podmlatka SNP do Ministarstva kulture: Ko je Lav Pajkić, razrešeni državni sekretar?",
+      "snippet": "Lav Grigorije Pajkić, koji je bio državni sekretar u Ministarstvu kulture od maja 2025, razrešen je sa tog mesta nakon što je Đuro Macut ovlastio ministre u tehničkoj vladi Sinišu Malog i Nenada Vujića da preuzmu ovlašćenja ministra privrede, odnosno ministra kulture do izbora…",
+      "url": "https://www.danas.rs/vesti/politika/lav-pajkic-drzavni-sekretar/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2022%2F07%2F0106foto-FoNet-Bozidar-Petrovic-300x174.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:57:23.000Z",
+      "updatedAt": "2026-11-28T10:57:23.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/biznis/vesti/sinisa-mali-preuzima-ovlascenja-ministra-privrede-do-formiranja-nove-vlade/50x8vq6",
+          "publishedAt": "2026-11-26T12:25:34.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/mali-i-vujic-preuzimaju-jos-dva-ministarstva/",
+          "publishedAt": "2026-11-26T12:49:42.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/lav-pajkic-razresen-duznosti-ministarstva/",
+          "publishedAt": "2026-11-27T20:37:44.000Z"
+        }
+      ],
+      "score": 0.4315,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_392df0d153546aa1",
+      "title": "BIRN: BIA pratila posmatrače OEBS-a na izborima 2023. godine u Srbiji",
+      "snippet": "Članove misije OEBS-a zadužene za posmatranje vanrednih parlamentarnih izbora 2023. godine u Srbiji pratili su pripadnici Bezbednosno-informativne agencije (BIA), objavila je Balkanska istraživačka mreža (BIRN).",
+      "url": "https://www.rts.rs/vesti/politika/6094481/birn-bia-oebs-posmatraci-izbori-2023-odihr-pracenje.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F23%2F17%2F17%2F758%2F6082811%2Fthumbs%2F14553116%2FBIA-t1.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T17:33:16.000Z",
+      "updatedAt": "2026-11-28T10:27:00.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/birn-bia-pratila-clanove-misije-oebs-a-koji-su-posmatrali-izbore/",
+          "publishedAt": "2026-11-27T13:38:52.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094481/birn-bia-oebs-posmatraci-izbori-2023-odihr-pracenje.html",
+          "publishedAt": "2026-11-27T17:33:16.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/birn-bia-pratila-posmatrace-oebs-a-na-izborima-2023-u-srbiji",
+          "publishedAt": "2026-11-27T17:48:01.495Z"
+        },
+        {
+          "id": "klix",
+          "name": "Klix.ba",
+          "url": "https://www.klix.ba/vijesti/regija/bia-tajno-pratila-posmatrace-osce-a-na-izborima-u-srbiji-ulazili-im-u-sobe-i-pratili-svaki-korak/261128034",
+          "publishedAt": "2026-11-28T10:27:00.000Z"
+        }
+      ],
+      "score": 0.4683,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9db39ca900d92f72",
+      "title": "Brnabić: Nema uslova za fer izbore, odluka o učešću na Skupštini SNS-a 13. decembra",
+      "snippet": "Narodna poslanica poslaničke grupe \"Aleksandar Vučić – Srbija pobeđuje\" i potpredsednica Glavnog odbora Srpske napredne stranke Ana Brnabić ocenila je da u Srbiji nema uslova za fer izbore i navela da će na Skupštini SNS-a 13. decembra odlučiti o tome da li će učestvovati na…",
+      "url": "https://www.rts.rs/vesti/politika/6093988/brnabic-nema-uslova-za-fer-izbore-odluka-o-ucescu-na-skupstini-sns-a-13-decembra.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F13%2F11%2F313%2F6099929%2Fthumbs%2F14547791%2Fabrnabic-skupstina.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T12:36:38.000Z",
+      "updatedAt": "2026-11-28T08:46:12.000Z",
+      "mediaCount": 4,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6093988/brnabic-nema-uslova-za-fer-izbore-odluka-o-ucescu-na-skupstini-sns-a-13-decembra.html",
+          "publishedAt": "2026-11-27T12:36:38.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/ana-brnabic-najavljuje-odluku-sns-o-predsednickim-izborima-13-decembra-rok-za-prijavu-istice-ranije/",
+          "publishedAt": "2026-11-27T12:38:47.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/vucic-svoju-odluku-o-ucescu-na-predsednickim-izborima-saopsticemo-pre-13-decembra/yyg5dm2",
+          "publishedAt": "2026-11-27T18:21:59.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/sns-e-odluku-o-izborima-saoptiti-poetkom-decembra/",
+          "publishedAt": "2026-11-27T19:43:20.000Z"
+        }
+      ],
+      "score": 0.3639,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_3f630d09fd340839",
+      "title": "Različite političke vizije slika podeljene Španije pred izbore",
+      "snippet": "Izbori se održavaju u duboko polarizovanoj političkoj atmosferi u kojoj i levica i desnica upozoravaju na sposobnost protivnika da podrije demokratiju.",
+      "url": "https://www.bbc.com/serbian/articles/ckq6e8g5p9n6o/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2F8cda%2Flive%2F86305ac0-e811-11f1-ab42-55d8d8278025.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:56:07.000Z",
+      "updatedAt": "2026-11-28T08:56:07.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/ckq6e8g5p9n6o/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-28T08:56:07.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/bbc/razlicite-politicke-vizije-slika-podeljene-spanije-pred-izbore/rqjzst5",
+          "publishedAt": "2026-11-28T10:32:32.845Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/bbc-news-serbian/razlicite-politicke-vizije-slika-podeljene-spanije-pred-izbore",
+          "publishedAt": "2026-11-28T12:14:50.264Z"
+        }
+      ],
+      "score": 0.3437,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0fb126f588c7b20c",
+      "title": "Studentski pokret apeluje na izvršitelje - neophodan humaniji i pravičniji sistem izvršenja",
+      "snippet": "Studentski pokret apelovao je na javne izvršitelje da se uzdrže od sprovođenja prinudnih iseljenja građana iz njihovih jedinih domova.",
+      "url": "https://www.rts.rs/vesti/politika/6094825/studentski-pokret-apeluje-na-izvrsitelje---neophodan-humaniji-i-pravicniji-sistem-izvrsenja.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F28%2F14%2F16%2F107%2F6103736%2Fthumbs%2F14558198%2FScreenshot_1.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T15:13:43.000Z",
+      "updatedAt": "2026-11-28T15:13:43.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/drustvo/studentski-pokret-apeluje-na-izvrsitelje-da-se-uzdrze-od-iseljenja-napravicemo-sistem-zasnovan-na-humanosti-i-pravicnosti/",
+          "publishedAt": "2026-11-28T13:36:02.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094825/studentski-pokret-apelovao-na-javne-izvrsitelje-da-ne-iseljavaju-gradjane-iz-njihovih-jedinih-domova.html",
+          "publishedAt": "2026-11-28T14:06:01.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/studentski-pokret-apeluje-na-izvrsitelje-neophodan-humaniji-i-pravicniji-sistem-izvrsenja",
+          "publishedAt": "2026-11-28T17:37:03.564Z"
+        }
+      ],
+      "score": 1.305,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_a8cb19c872552b03",
+      "title": "Izveštaj Komisije o biračkom spisku – 879.000 birača više nego punoletnih stanovnika, uočeni obrasci organizovanih upisa",
+      "snippet": "Komisija za reviziju, verifikaciju i kontrolu tačnosti i ažuriranja biračkog spiska objavila je izveštaj u kojem ukazuje na razliku od oko 879.000 između broja upisanih birača i procenjenog broja punoletnih stanovnika Srbije bez Kosova i Metohije, obrasce organizovanih upisa…",
+      "url": "https://www.rts.rs/vesti/predsednicki-izbori-2026/6094783/-izvestaj-komisije-o-birackom-spisku--879000-biraca-vise-nego-punoletnih-stanovnika-uoceni-obrasci-organizovanih-upisa.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F9%2F10%2F7%2F8%2F456%2F5914306%2Fthumbs%2F14557235%2Fbiracki_spisak.png&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:01:32.000Z",
+      "updatedAt": "2026-11-28T12:01:32.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/cak-1466-starijih-od-100-godina-hiljade-upisane-pod-drugim-maticnim-brojem-za-dve-petine-biraca-se-ne-zna-u-kom-stanu-tacno-zive-ovako-izgleda-biracki-spisak-u-srbiji/",
+          "publishedAt": "2026-11-27T16:06:25.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/komisija-biracki-spisak/",
+          "publishedAt": "2026-11-28T10:44:49.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/predsednicki-izbori-2026/6094783/-izvestaj-komisije-o-birackom-spisku--879000-biraca-vise-nego-punoletnih-stanovnika-uoceni-obrasci-organizovanih-upisa.html",
+          "publishedAt": "2026-11-28T12:01:32.000Z"
+        }
+      ],
+      "score": 0.5736,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_4749723f765d176e",
+      "title": "Vukadinović: Vučić i SNS u tamnom vilajetu, kajaće se ako izađu i ako ne izađu na izbore",
+      "snippet": "Urednik Nove srpske političke misli Đorđe Vukadinović ocenio je danas da su Srpska napredna stranka (SNS) i Aleksandar Vučić u nezavidnoj poziciji i da još nisu odlučili da li da izađu na predsedničke izbore ili ne.",
+      "url": "https://www.danas.rs/vesti/politika/vukadimovic-vucic-sns-izbori/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2025%2F04%2F0303foto-FoNet-Milica-Vuckovic-e1749045801570-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:21:20.000Z",
+      "updatedAt": "2026-11-28T09:14:46.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/predsednicki-izbori-2026/6094699/vukadinovic-saicic-ubedljivi-favorit-sns-rizikuje-i-ako-izadje-na-izbore-i-ako-od-njih-odustane.html",
+          "publishedAt": "2026-11-28T07:24:17.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/vukadimovic-vucic-sns-izbori/",
+          "publishedAt": "2026-11-28T08:21:20.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/vukadinovic-saicic-favorit-sns-rizikuje-i-ako-izadje-na-predsednicke-izbore-i-ako/y7dqxmt",
+          "publishedAt": "2026-11-28T09:14:46.000Z"
+        }
+      ],
+      "score": 0.3293,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_57ebe86793a3e8ad",
+      "title": "\"U regionu su nas pohvalili, a kao čoveku koji živi na selu najvažnije mi je da imam što bolje odnose sa komšilukom\": Čupić o susretu sa regionalnim liderima",
+      "snippet": "Predsednik Narodne skupštine i vršilac dužnosti predsednika Republike Aleksandar Čupić izjavio je da je tokom susreta sa regionalnim liderima na samit",
+      "url": "https://nova.rs/vesti/politika/upi-o-susretu-sa-regionalnim-liderima/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F27%2F1795781131_14477081.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T17:24:47.000Z",
+      "updatedAt": "2026-11-27T17:49:46.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/upi-o-susretu-sa-regionalnim-liderima/",
+          "publishedAt": "2026-11-27T17:24:47.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/cupic-drago-nam-je-sto-je-crna-gora-na-vratima-eu/1xevpkc",
+          "publishedAt": "2026-11-27T17:28:07.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094524/aleksandar-cupic-proces-brdo-brioni-odnosi-u-regionu.html",
+          "publishedAt": "2026-11-27T17:49:46.000Z"
+        }
+      ],
+      "score": 0.084,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e1bd3f6ff5b6a9eb",
+      "title": "Ima li lova u mutnom: Sporni konkurs tehničke vlade za upravljanje vodama Srbije",
+      "snippet": "Četiri dana posle parlamentarnih izbora u Srbiji, Ministarstvo zaštite životne sredine raspisalo je konkurs kojim dodeljuje ribarska područja na upravljanje u narednih 10 godina, ali udruženja ribolovaca imaju brojne zamerke.",
+      "url": "https://www.bbc.com/serbian/articles/cjqlq0zx5g54o/lat?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F240%2Fcpsprodpb%2Fbe89%2Flive%2Fd4a669c0-e8b0-11f1-869a-f96fd5660210.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "bbc-srpski",
+      "sourceName": "BBC na srpskom",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T08:45:02.000Z",
+      "updatedAt": "2026-11-28T08:45:02.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "bbc-srpski",
+          "name": "BBC na srpskom",
+          "url": "https://www.bbc.com/serbian/articles/cjqlq0zx5g54o/lat?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-11-28T08:45:02.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/bbc-news-serbian/ima-li-lova-u-mutnom-sporni-konkurs-tehnicke-vlade-za-upravljanje-vodama-srbije",
+          "publishedAt": "2026-11-28T11:26:42.138Z"
+        }
+      ],
+      "score": 0.3071,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_88b92085397fb492",
+      "title": "Deklaracija Zajedničkog konsultativnog odbora EU-Srbija",
+      "snippet": "Zajednički konsultativni odbor EU-Srbija (ZKO) usvojio je deklaraciju u kojoj se izražava nada da će buduća vlada Srbije nastaviti reforme na putu ka EU.",
+      "url": "https://www.rts.rs/vesti/politika/6094494/deklaracija-zajednickog-konsultativnog-odbora-eu-srbija.html",
+      "imageUrl": null,
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T17:53:01.000Z",
+      "updatedAt": "2026-11-27T17:53:01.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094494/deklaracija-zajednickog-konsultativnog-odbora-eu-srbija.html",
+          "publishedAt": "2026-11-27T17:53:01.000Z"
+        },
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/deklaracija-zajednickog-konsultativnog-odbora-eu-srbija",
+          "publishedAt": "2026-11-27T20:39:03.006Z"
+        }
+      ],
+      "score": 0.0843,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_309659218b7d416d",
+      "title": "Ružić najavio osnivačku skupštinu stranke za 21. decembar",
+      "snippet": "Nekadašnji visoki funkcioner Socijalističke partije Srbije (SPS) Branko Ružić, koji je najavio osnivanje sopstvene partije \"Crvena linija\" za portal N",
+      "url": "https://nova.rs/vesti/politika/ruzic-najavio-osnivacku-skupstinu-stranke-za-21-decembar/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F4%2F3%2F1775220140_skupstina_06022024_0026.width-1200.JPG&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T18:33:10.000Z",
+      "updatedAt": "2026-11-27T18:33:10.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/ruzic-nece-za-predsednika-srbije-o-podrsci-tek-kad-svi-kandidati-budu-poznati/",
+          "publishedAt": "2026-11-27T15:04:58.000Z"
+        },
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/ruzic-najavio-osnivacku-skupstinu-stranke-za-21-decembar/qww5lxx",
+          "publishedAt": "2026-11-27T20:39:03.006Z"
+        }
+      ],
+      "score": 0.0797,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_e30170bf6d94ad62",
+      "title": "\"Možemo da razgovaramo, a da se jedan drugom ne unosimo u lice, pred nama su bolja vremena\": Predsednik Hrvatske o susretu sa Aleksandrom Čupićem",
+      "snippet": "Predsednik Hrvatske Zoran Milanović založio se danas za unapređenje odnosa Srbije i Hrvatske, ocenjujući da je njegov susret sa vršiocem dužnosti pred",
+      "url": "https://nova.rs/vesti/politika/predsednik-hrvatske-o-susretu-sa-aleksandrom-upicem/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2026%2F11%2F27%2F1795781190_14477296.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T17:56:23.000Z",
+      "updatedAt": "2026-11-27T17:56:23.000Z",
+      "mediaCount": 2,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/milanovic-o-razgovoru-s-cupicem-ovo-vidim-kao-pocetak-boljih-vremena/eh6n647",
+          "publishedAt": "2026-11-27T17:38:34.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/predsednik-hrvatske-o-susretu-sa-aleksandrom-upicem/",
+          "publishedAt": "2026-11-27T17:56:23.000Z"
+        }
+      ],
+      "score": 0.0769,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_ab5cac38e8311704",
+      "title": "Kurti u gluvo doba noći usvojio zakon, sprema teren za udar na srpske svetinje! Evo šta se desilo u Prištini, alarm upaljen u Beogradu",
+      "snippet": "Da li će prištinski inspektori uskoro moći nenajavljeno da ulaze u srpske crkve i manastire i zaustavljaju radove na svetinjama?",
+      "url": "https://www.blic.rs/vesti/politika/kurti-u-gluvo-doba-noci-usvojio-zakon-sprema-teren-za-udar-na-srpske-svetinje/gpv112l",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2Fs7Dk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wNDk1MjUxMWMxYjA1ZmIzNzcxZmJlMjVkZmJjMGZlNy5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:21:55.000Z",
+      "updatedAt": "2026-11-28T17:21:55.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/kurti-u-gluvo-doba-noci-usvojio-zakon-sprema-teren-za-udar-na-srpske-svetinje/gpv112l",
+          "publishedAt": "2026-11-28T17:21:55.000Z"
+        }
+      ],
+      "score": 2.0708,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8ee4aa87fb6110b7",
+      "title": "\"Uzdržite se od prinudnih iseljenja!\" Studentska lista najavila izmene zakona o izvršenju i obezbeđenju",
+      "snippet": "Studentska lista najavila je izmene Zakona o izvršenju i obezbeđenju kojima će proširiti, kako su naveli, zaštitu prava na dom, sudsku kontrolu i sprečiti zloupotrebe.",
+      "url": "https://www.blic.rs/vesti/politika/studentska-lista-najavila-izmene-zakona-o-izvrsenju-i-obezbedjenju/yrp2w09",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FZsQk9lCaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83ZGFiMTliZjZhZjNiMTNlMTU0OTQ4ODMxMmM3MTY3Mi5qcGVnkZMFzQJCzQGBgQAB&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T17:09:01.000Z",
+      "updatedAt": "2026-11-28T17:09:01.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/studentska-lista-najavila-izmene-zakona-o-izvrsenju-i-obezbedjenju/yrp2w09",
+          "publishedAt": "2026-11-28T17:09:01.000Z"
+        }
+      ],
+      "score": 1.8061,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9b66bdc69fdefb83",
+      "title": "Kako me je nadzirala BIA",
+      "snippet": "Kad sam pročitala dokumentaciju o nadzoru koji je BIA sprovodila nada mnom, prvo sam pomislila na ljude koji su zbog mene bili izloženi svemu tome. Na porodicu, bliske prijatelje, ali i na poznanike s kojima sam se možda samo jednom našla na kafi.",
+      "url": "https://www.danas.rs/dijalog/licni-stavovi/kako-me-je-nadzirala-bia/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2023%2F07%2F0501foto-BETAPHOTO-BRANISLAV-BOZIC-e1689495214852-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:40:47.000Z",
+      "updatedAt": "2026-11-28T16:40:47.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/kako-me-je-nadzirala-bia/",
+          "publishedAt": "2026-11-28T16:40:47.000Z"
+        }
+      ],
+      "score": 1.7872,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0e948ce862d6c50a",
+      "title": "(Video) Skandal u Preševu! Gradonačelnica istakla zastavu Albanije na zgradu opštine: Sve vreme se smejala i mahala prisutnima",
+      "snippet": "Adrita Sinani, gradonačelnica Preševa, uzburkala je javnost nakon što je danas istakla zastavu Albanije na zgradu Opštine Preševo povodom 28. novembra - Dana zastave.",
+      "url": "https://www.blic.rs/vesti/politika/gradonacelnica-preseva-istakla-zastavu-albanije-na-zgradu-opstine/2yfxxce",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FHMTk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jNWZhZDcyZWM5MmVmMDNkOTc4YjE3MjU4MGY2MDFiZS5wbmeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T16:15:20.000Z",
+      "updatedAt": "2026-11-28T16:15:20.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/gradonacelnica-preseva-istakla-zastavu-albanije-na-zgradu-opstine/2yfxxce",
+          "publishedAt": "2026-11-28T16:15:20.000Z"
+        }
+      ],
+      "score": 1.1355,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_d0f1f0ac9c800d86",
+      "title": "Prikupljanje potpisa za Saičićevu kandidaturu sutra u četiri grada na jugu Srbije",
+      "snippet": "Grupa građana \"Studenti ponovo pobeđuju\" najavila je da će sutra, 29. novembra, u četiri grada na jugu Srbije prikupljati overene potpise podrške za kandidaturu akademika Radomira Saičića, kandidata Studentske liste, na predsedničkim izborima 27. decembra.",
+      "url": "https://www.danas.rs/vesti/politika/saicic-potpisi/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F09%2FBeta-htdq7c7vg8-scaled-e1789298712498-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:48:13.000Z",
+      "updatedAt": "2026-11-28T13:48:13.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/prikupljanje-potpisa-za-predsednicku-kandidaturu-bogoljuba-karica-u-nisu/",
+          "publishedAt": "2026-11-28T10:54:42.000Z"
+        }
+      ],
+      "score": 0.642,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_63cbda9a75a15260",
+      "title": "INTERVJU Benžamen Adad: Studenti su Evropi dali lekciju iz demokratije",
+      "snippet": "Mnogi ljudi su bili veoma impresionirani i inspirisani mirnim i masovnim studentskim pokretom tokom poslednje dve godine i naravno veoma velikom izbornom pobedom.",
+      "url": "https://www.danas.rs/vesti/politika/intervju-benzamen-adad-studenti-su-evropi-dali-lekciju-iz-demokratije/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F1-267-e1795814162901-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:21:57.000Z",
+      "updatedAt": "2026-11-28T13:21:57.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/intervju-benzamen-adad-studenti-su-evropi-dali-lekciju-iz-demokratije/",
+          "publishedAt": "2026-11-28T13:21:57.000Z"
+        }
+      ],
+      "score": 0.5757,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_a3cbd0f8bccfda54",
+      "title": "Predsednica Skupštine grada Dina Vučinić dala otkaz i zaposlila se kao narodna poslanica: Sada prihoduje mesečno skoro 400.000 dinara",
+      "snippet": "Predsednica Skupštine grada Novog Sada Dina Vučinić je istog dana kada je sela u klupe Narodne skupštine u Beogradu dala otkaz na radno mesto u novosa",
+      "url": "https://nova.rs/vesti/politika/predsednica-skupstine-grada-dina-vucinic-dala-otkaz/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fnova.rs%2Fmedia%2Fimages%2F2025%2F11%2F1762941808_1723042292-Beta-x5wavargjg.width-1200.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "nova",
+      "sourceName": "Nova.rs",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:17:40.000Z",
+      "updatedAt": "2026-11-28T13:17:40.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/predsednica-skupstine-grada-dina-vucinic-dala-otkaz/",
+          "publishedAt": "2026-11-28T13:17:40.000Z"
+        }
+      ],
+      "score": 0.566,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_04fd8801bd6758bf",
+      "title": "Lupetanja o revolucionarnom teroru",
+      "snippet": "Pre nego što pređem na temu ovog teksta, imam potrebu da vam kažem dve stvari. Prvo, sve što sam ja istrpeo od Vučićeve vlasti, minorno je u odnosu na žrtve velikog broja ljudi koji su godinama trpeli teror.",
+      "url": "https://www.danas.rs/kolumna/bratislav-braca-markovic/lupetanja-o-revolucionarnom-teroru/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2025%2F02%2FKolumna-za-sajt-Bratislav-Markovic-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T13:00:51.000Z",
+      "updatedAt": "2026-11-28T13:00:51.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/kolumna/bratislav-braca-markovic/lupetanja-o-revolucionarnom-teroru/",
+          "publishedAt": "2026-11-28T13:00:51.000Z"
+        }
+      ],
+      "score": 0.5304,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_32f6e83a709ef6a5",
+      "title": "Dobra stara vremena",
+      "snippet": "***",
+      "url": "https://www.danas.rs/kolumna/vladimir-jokic/dobra-stara-vremena-3/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2022%2F07%2Fjokic-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:00:33.000Z",
+      "updatedAt": "2026-11-28T12:00:33.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/kolumna/vladimir-jokic/dobra-stara-vremena-3/",
+          "publishedAt": "2026-11-28T12:00:33.000Z"
+        }
+      ],
+      "score": 0.4288,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_6aed078dce62d919",
+      "title": "\"Vi znate gde je snaga ovog društva...\" Kurti pred liderima EU otkrio šta očekuje od Studentske liste: Pomenuo \"moralnu obnovu Srbije\"",
+      "snippet": "Dok su neformalni susreti potpredsednika Narodne skupštine Srbije Adema Mavrića sa učesnicima Samita lidera u Tirani protekli u srdačnoj atmosferi, političke poruke koje je sa tog skupa uputio Aljbin Kurti otkrivaju kakva očekivanja u Prištini postoje od buduće vlasti u Beogradu.",
+      "url": "https://www.blic.rs/vesti/politika/aljbin-kurti-na-samitu-lidera-u-tirani-otkrio-sta-ocekuje-od-studentske-liste/3hbs0s8",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FFQik9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84ZjAwOWI4MWQwODgxYmI3NjNmNzk5NGVlNmZmNjEyNi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:49:37.000Z",
+      "updatedAt": "2026-11-28T12:49:37.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/aljbin-kurti-na-samitu-lidera-u-tirani-otkrio-sta-ocekuje-od-studentske-liste/3hbs0s8",
+          "publishedAt": "2026-11-28T12:49:37.000Z"
+        }
+      ],
+      "score": 0.3956,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_8a3fd32c18fe5949",
+      "title": "Vučević o snimcima iz Tirane: Ponašanje predstavnika Studentske liste oslikava buduću politiku",
+      "snippet": "Predsednik Sprske napredne stranke (SNS) Miloš Vučević reagovao je povodom snimaka sa skupova predstavnika Evropske unije i Zapadnog Balkana u Tirani, ocenjujući da ponašanje predstavnika Studentske liste na tim kadrovima oslikava njihovu buduću politiku, koja će, kako kaže…",
+      "url": "https://www.blic.rs/vesti/politika/vucevic-o-snimcima-iz-tirane-ponasanje-predstavnika-studentske-liste-oslikava-buducu/p1v6lt1",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FPeTk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85YjRiNzNiNzZiOTYwZDg4M2JlODgyMmFlYzU1M2RlNi5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:44:55.000Z",
+      "updatedAt": "2026-11-28T12:44:55.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/vucevic-o-snimcima-iz-tirane-ponasanje-predstavnika-studentske-liste-oslikava-buducu/p1v6lt1",
+          "publishedAt": "2026-11-28T12:44:55.000Z"
+        }
+      ],
+      "score": 0.3888,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b609d735ddb3b0e0",
+      "title": "Opozicija pred nestankom: Gube odbore, nemaju novca, a lideri bi mogli da napuste politiku",
+      "snippet": "Opozicione stranke koje su donedavno imale poslaničke klubove u Skupštini Srbije, nalaze se pred ozbiljnim političkim izazovom – nakon izbornog poraza, gubitka parlamentarnog statusa i sve manjeg prisustva u javnosti, njihov povratak na političku scenu postaje sve neizvesniji.",
+      "url": "https://www.danas.rs/vesti/politika/opozicija-pred-nestankom/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2025%2F06%2F0502foto-FoNet-Zoran-Mrdja-e1750065839994-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:05:59.000Z",
+      "updatedAt": "2026-11-28T11:05:59.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/opozicija-pred-nestankom/",
+          "publishedAt": "2026-11-28T11:05:59.000Z"
+        }
+      ],
+      "score": 0.362,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_0adb5fc216f7bba9",
+      "title": "Jovanov o rezoluciji o Vukovaru: \"Jasno je da se prema srpskim žrtvama ne postupa ravnopravno\"",
+      "snippet": "Evropski parlament u četvrtak je izglasao rezoluciju o 35. godišnjici pada i razaranja Vukovara u kojoj se odaje počast poginulima u tom gradu, osuđuje veličanje ratnih zločinaca i poziva Srbija da otvori arhive kako bi se pronašli nestali iz rata.",
+      "url": "https://www.blic.rs/vesti/politika/jovanov-o-rezoluciji-o-vukovaru-prema-srpskim-zrtvama-se-ne-postupa-ravnopravno/4bfzg9h",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FNvIk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hMjEwYTA1N2JlMmYyZjQxM2NlOGRmMDkwYTA1NmMyYS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T12:15:10.000Z",
+      "updatedAt": "2026-11-28T12:15:10.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/jovanov-o-rezoluciji-o-vukovaru-prema-srpskim-zrtvama-se-ne-postupa-ravnopravno/4bfzg9h",
+          "publishedAt": "2026-11-28T12:15:10.000Z"
+        }
+      ],
+      "score": 0.3502,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_26e1d637b987579f",
+      "title": "Četvoro odbornika Ujedinjeni za Bajinu Baštu podnelo ostavke nakon glasanja za predlog SNS-a",
+      "snippet": "Koalicija \"Ujedinjeni za Bajinu Baštu\" i neformalna grupa studenata iz te opštine saopštili su danas da je četvoro njihovih odbornika podnelo ostavku i vratilo mandate u Skupštini opštine, nakon što su glasali za predlog Srpske napredne stranke (SNS) o imenovanju v.d.",
+      "url": "https://www.danas.rs/vesti/politika/ujedinjeni-za-bajinu-bastu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F03%2F1-371-300x200.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:36:33.000Z",
+      "updatedAt": "2026-11-28T10:36:33.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/ujedinjeni-za-bajinu-bastu/",
+          "publishedAt": "2026-11-28T10:36:33.000Z"
+        }
+      ],
+      "score": 0.3329,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_b18d257cd9761984",
+      "title": "Vukovar, jedna priča iz Strazbura",
+      "snippet": "Postoje trenuci u istoriji kada dobra namera, upakovana u birokratski celofan, napravi veću štetu od otvorene svađe. Rezolucija Evropskog parlamenta povodom trideset pet godina od stradanja Vukovara upravo je takav trenutak.",
+      "url": "https://www.danas.rs/dijalog/licni-stavovi/vukovar-jedna-prica-iz-strazbura/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2FXIV01foto-EPA-MIKE-PERSSON-e1795727887192-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T10:24:37.000Z",
+      "updatedAt": "2026-11-28T10:24:37.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/vukovar-jedna-prica-iz-strazbura/",
+          "publishedAt": "2026-11-28T10:24:37.000Z"
+        }
+      ],
+      "score": 0.3221,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_597d76c229932081",
+      "title": "Glavni urednik RTS-a dobio tri dana roka da podnese ostavku: \"Crtate mete na čelo ljudima iz sopstvene kuće\"",
+      "snippet": "Tri sindikata Radio-televizije Srbije zatražila su hitnu i neopozivu ostavku vršioca dužnosti urednika javnog medijskog servisa Borivoja Uskokovića, ocenivši da je svojim dosadašnjim postupcima i javnim nastupima izgubio profesionalni, stručni i moralni kredibilitet neophodan…",
+      "url": "https://www.blic.rs/vesti/politika/glavni-urednik-rts-a-borivoje-uskokovic-dobio-tri-dana-da-podnese-ostavku/wjq105c",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FeAJk9lCaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hMjQ3Zjk0Zjk2MTM0Y2UxMzkzMGEwYzcyOTdhNDlmMy5qcGVnkZMFzQJCzQGBgQAB&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:01:12.000Z",
+      "updatedAt": "2026-11-28T11:01:12.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/glavni-urednik-rts-a-borivoje-uskokovic-dobio-tri-dana-da-podnese-ostavku/wjq105c",
+          "publishedAt": "2026-11-28T11:01:12.000Z"
+        }
+      ],
+      "score": 0.2777,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_1b09c6143cb267f3",
+      "title": "Čedomir Antić piše za \"Blic\": Srbija i Velike sile",
+      "snippet": "U političkoj javnosti savremenog sveta značaju velikih sila pridaju sasvim oprečne ocene. Sećam se kako je pre četvrt veka jedan britanski profesor, posvećen istoriji imperijalne politike njegove zemlje na Dalekom istoku ustvrdio kako su kolonije pre svega koštale Britaniju.",
+      "url": "https://www.blic.rs/vesti/politika/cedomir-antic-pise-za-blic-srbija-i-velike-sile/zxgekb8",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FaJsk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mZTg1Nzk5ZDI0YjFiNzgzZDNlMTljODIyMDc4NjljOS5qcGeRkwXNAkLNAYGBAAE&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "blic",
+      "sourceName": "Blic",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T11:00:31.000Z",
+      "updatedAt": "2026-11-28T11:00:31.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "blic",
+          "name": "Blic",
+          "url": "https://www.blic.rs/vesti/politika/cedomir-antic-pise-za-blic-srbija-i-velike-sile/zxgekb8",
+          "publishedAt": "2026-11-28T11:00:31.000Z"
+        }
+      ],
+      "score": 0.2771,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_a5fd8a238fd1e962",
+      "title": "Odlazak starog „danasovca“ i „borbaša“",
+      "snippet": "Spisak imena na levom stupcu Danasovog impresuma je prepolovljen.",
+      "url": "https://www.danas.rs/dijalog/licni-stavovi/odlazak-starog-danasovca-i-borbasa/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F1-254-e1795685442312-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T07:05:07.000Z",
+      "updatedAt": "2026-11-28T07:05:07.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/odlazak-starog-danasovca-i-borbasa/",
+          "publishedAt": "2026-11-28T07:05:07.000Z"
+        }
+      ],
+      "score": 0.2029,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_2a2f4293108999eb",
+      "title": "Ko je ko u Srbiji?",
+      "snippet": "Onomad nije bilo 6. oktobra. Sad, po svemu, neće biti ni 26. oktobra.",
+      "url": "https://www.danas.rs/kolumna/milan-st-protic/ko-je-ko-u-srbiji-2/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2024%2F03%2Fviber_image_2024-03-30_11-06-14-391-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-28T06:30:02.000Z",
+      "updatedAt": "2026-11-28T06:30:02.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/ko-je-ko-u-srbiji-2/",
+          "publishedAt": "2026-11-28T06:30:02.000Z"
+        }
+      ],
+      "score": 0.1894,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_253731665bb9c5c6",
+      "title": "Izgradnja društva otpornog na autoritarne izazove",
+      "snippet": "Demokratija se ne uspostavlja samo lustracijom",
+      "url": "https://radar.nova.rs/politika/lustracija-demokratija-izbori-participacija/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fradar.nova.rs%2Fwp-content%2Fuploads%2F2026%2F10%2FPobeda-zove-skup-studenti-Slavija-221026-foto-Filip-Kraincanic-Nova-rs-9-300x200.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "radar",
+      "sourceName": "Radar",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T23:03:00.000Z",
+      "updatedAt": "2026-11-27T23:03:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "radar",
+          "name": "Radar",
+          "url": "https://radar.nova.rs/politika/lustracija-demokratija-izbori-participacija/",
+          "publishedAt": "2026-11-27T23:03:00.000Z"
+        }
+      ],
+      "score": 0.0965,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_9a23c0b7f0e9a6bc",
+      "title": "Kako Tihi okean menja boju – od algi i El Ninja do mikroplastike",
+      "snippet": "Od dubokog kobaltnoplavog prostranstva do mutnozelenih i crvenkastih nijansi, boja Tihog okeana nije uvek ista. Na njene promene utiču mikroskopski organizmi, klimatski fenomeni, ali i zagađenje mikroplastikom, koja ljudskim delovanjem dospeva u vodu.",
+      "url": "https://www.danas.rs/vesti/klimatske-promene/kako-tihi-okean-menja-boju-od-algi-i-el-ninja-do-mikroplastike/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.danas.rs%2Fwp-content%2Fuploads%2F2024%2F04%2Fprofimedia-0392093438-e1712739376901-300x169.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "danas",
+      "sourceName": "Danas",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T23:27:20.000Z",
+      "updatedAt": "2026-11-27T23:27:20.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/klimatske-promene/kako-tihi-okean-menja-boju-od-algi-i-el-ninja-do-mikroplastike/",
+          "publishedAt": "2026-11-27T23:27:20.000Z"
+        }
+      ],
+      "score": 0.0994,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_96ff5b8cd015fc0f",
+      "title": "Redak trijumf autohtone demokratske otpornosti",
+      "snippet": "Volfgang Merkel, profesor političkih nauka",
+      "url": "https://radar.nova.rs/politika/intervju-volfgang-merkel-studenti-vucic-eu/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fradar.nova.rs%2Fwp-content%2Fuploads%2F2026%2F11%2Fwm-2018_10_30_WZB_2949-300x200.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "radar",
+      "sourceName": "Radar",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T23:03:00.000Z",
+      "updatedAt": "2026-11-27T23:03:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "radar",
+          "name": "Radar",
+          "url": "https://radar.nova.rs/politika/intervju-volfgang-merkel-studenti-vucic-eu/",
+          "publishedAt": "2026-11-27T23:03:00.000Z"
+        }
+      ],
+      "score": 0.0965,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_fb1f793e6ab5fc79",
+      "title": "Sančesova poslednja bitka",
+      "snippet": "Španija izlazi na prevremene parlamentarne izbore",
+      "url": "https://radar.nova.rs/global/spanija-izbori-sances-psoe-pp-voks/",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fradar.nova.rs%2Fwp-content%2Fuploads%2F2026%2F11%2F14460976-300x200.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "radar",
+      "sourceName": "Radar",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T23:03:00.000Z",
+      "updatedAt": "2026-11-27T23:03:00.000Z",
+      "mediaCount": 1,
+      "sources": [
+        {
+          "id": "radar",
+          "name": "Radar",
+          "url": "https://radar.nova.rs/global/spanija-izbori-sances-psoe-pp-voks/",
+          "publishedAt": "2026-11-27T23:03:00.000Z"
+        }
+      ],
+      "score": 0.0965,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    },
+    {
+      "id": "clu_379111d69f77f116",
+      "title": "RIK dodelio mandate članovima nacionalnih saveta albanske, bunjevačke i mađarske manjine",
+      "snippet": "Republička izborna komisija donela je rešenja o dodeli mandata članovima nacionalnih saveta albanske, bunjevačke i mađarske nacionalne manjine, nakon ponovljenog glasanja na pet biračkih mesta 22. novembra.",
+      "url": "https://www.rts.rs/vesti/politika/6094446/rik-mandati-saveti-nacionalnih-manjina.html",
+      "imageUrl": "https://wsrv.nl/?url=https%3A%2F%2Fwww.rts.rs%2Fupload%2F%2Fmedia%2F2026%2F10%2F27%2F17%2F35%2F392%2F6101711%2Fthumbs%2F14553011%2FRIK.jpg&w=640&output=webp&q=80&we",
+      "category": "Politika",
+      "categorySlug": "politika",
+      "sourceId": "rts",
+      "sourceName": "RTS",
+      "paywall": "none",
+      "publishedAt": "2026-11-27T17:32:33.000Z",
+      "updatedAt": "2026-11-27T17:32:33.000Z",
+      "mediaCount": 3,
+      "sources": [
+        {
+          "id": "danas",
+          "name": "Danas",
+          "url": "https://www.danas.rs/vesti/politika/rik-utvrdjeni-rezultati-izbora-za-nacionalne-savete-albanske-madjarske-i-bunjevacke-manjine/",
+          "publishedAt": "2026-11-26T17:18:54.000Z"
+        },
+        {
+          "id": "rts",
+          "name": "RTS",
+          "url": "https://www.rts.rs/vesti/politika/6094446/rik-mandati-saveti-nacionalnih-manjina.html",
+          "publishedAt": "2026-11-27T17:32:33.000Z"
+        },
+        {
+          "id": "nova",
+          "name": "Nova.rs",
+          "url": "https://nova.rs/vesti/politika/rik-dodelio-mandate-clanovima-nacionalnih-saveta",
+          "publishedAt": "2026-11-27T18:39:15.062Z"
+        }
+      ],
+      "score": 0.0901,
+      "aiBriefing": null,
+      "aiBriefingSources": []
+    }
+  ]
+}
